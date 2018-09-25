@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqCollectionsLib", "LinqCollectionsLib\LinqCollectionsLib.csproj", "{D1A3482D-287F-4FDB-8FC4-486CDF8D0AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqCollectionsApp", "LinqCollectionsApp\LinqCollectionsApp.csproj", "{F9DF6649-E13A-4DCD-8811-D348E4925D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSqlLib", "LinqToSqlLib\LinqToSqlLib.csproj", "{E60AB61E-2CD3-4EDC-AFAF-A3498078F50D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSqlApp", "LinqToSqlApp\LinqToSqlApp.csproj", "{729A8F7E-A0AE-4391-BF26-31E076AE4476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A3482D-287F-4FDB-8FC4-486CDF8D0AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A3482D-287F-4FDB-8FC4-486CDF8D0AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A3482D-287F-4FDB-8FC4-486CDF8D0AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A3482D-287F-4FDB-8FC4-486CDF8D0AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DF6649-E13A-4DCD-8811-D348E4925D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DF6649-E13A-4DCD-8811-D348E4925D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DF6649-E13A-4DCD-8811-D348E4925D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DF6649-E13A-4DCD-8811-D348E4925D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60AB61E-2CD3-4EDC-AFAF-A3498078F50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60AB61E-2CD3-4EDC-AFAF-A3498078F50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60AB61E-2CD3-4EDC-AFAF-A3498078F50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60AB61E-2CD3-4EDC-AFAF-A3498078F50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729A8F7E-A0AE-4391-BF26-31E076AE4476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729A8F7E-A0AE-4391-BF26-31E076AE4476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729A8F7E-A0AE-4391-BF26-31E076AE4476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729A8F7E-A0AE-4391-BF26-31E076AE4476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
