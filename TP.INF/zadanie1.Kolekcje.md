@@ -1,3 +1,5 @@
+## Zadanie 1 - Kolekcje, testy jednostkowe, Dependency Injection
+
 ## Cel
 
 * wykorzystanie kolekcji platformy .NET w przyk≥adowym zastosowaniu:
@@ -5,7 +7,7 @@
   * rejestracja zdarzeÒ, np. lista faktur,
   * opis stanu, np. stan biblioteki, stan magazynu.
 * definiowanie API dla biblioteki (publiczne deklaracje)
-* uøycie Dependency Injection, gdzie decyzja o wyborze zachowania jest odroczona do czasu realizacji programu
+* uøycie DI (testowanie, rÛøne formaty danych, itp.), decyzja o wyborze zachowania jest odroczona do czasu realizacji programu
 
 ## CzÍúÊ 1 
 
@@ -29,7 +31,7 @@ Pola klasy gromadzπcej obiekty z danymi zadeklaruj w postaci kolekcji:
 
 * Dane z informacjami o elementach wykazu naleøy przechowywaÊ w obiekcie <code>List<Wykaz></code>.
 * Pozycje s≥ownikowe naleøy przechowywaÊ w obiekcie <code>Dictionary<_Klucz_, Katalog></code>.
-* Zdarzenia ≥πczπce opisy stanu z elementami wykazu naleøy przechowywaÊ o obiekcie klasy <code>ObservableCollection<Zdarzenie></code>.
+* Zdarzenia ≥πczπce pozycje s≥ownikowe z elementami wykazu naleøy przechowywaÊ o obiekcie klasy <code>ObservableCollection<Zdarzenie></code>.
 * Opisy stanu moøna przechowywaÊ w obiektach dowolnej z powyøszych kolekcji, np. <code>List<OpiStanu></code> lub <code>ObservableCollection<OpiStanu></code>.
 
 **d) Dodaj klasÍ zarzπdzajπcπ obiektami danych**
@@ -38,39 +40,35 @@ Jeúli nie masz lepszego pomys≥u, proponowana jest nazwa <code>DataRepository</co
 
 ## CzÍúÊ 2
 
-Naleøy przygotowaÊ API do wype≥niania kolekcji przyk≥adowymi danymi. Moøna to zrealizowaÊ wprowadzajπc klasÍ abstrakcyjnπ (*abstract class*) lub interfejs (*interface*).
+Naleøy przygotowaÊ API do wype≥niania kolekcji przyk≥adowymi danymi. Moøna to zrealizowaÊ wprowadzajπc klasÍ abstrakcyjnπ lub interfejs.
 RÛøne implementacje tego abstrakcyjnego typu bÍdπ pÛüniej wykorzystane w dalszych czÍúciach zadania (poniøej).
 
 Uøycie konkretnej implementacji ma byÊ realizowane na zasadzie wzorca _Wstrzykiwania Zaleønoúci (Dependency Injection, DI)_,
 gdzie odpowiedzialnoúÊ za kontrolÍ wybranych czynnoúci przenoszona jest na zewnπtrz obiektu a wyboru dokonuje siÍ w trakcie realizacji programu.
 
-- - -
-Celem zastosowania wspomnianego wzorca jest aby klasa przechowujπca dane nie decydowa≥a o typie uøywanego obiektu (np. jednej, wybranej klasy <code>Wypelnianie{...}</code>) i nie tworzy≥a go samodzielnie w konstruktorze, tylko øeby decydowa≥ o tym kod tworzπcy i konfigurujπcy obiekty aplikacji.
-Taki sposÛb zarzπdzania zaleønoúciami miÍdzy obiektami pozwala na pozbycie siÍ úcis≥ych zaleønoúci pomiÍdzy czÍúciami systemu. Pozwala to takøe ≥atwiej (lub w ogÛle) testowaÊ czÍúci niezaleønie, w oderwaniu od ca≥oúci systemu.
+> Celem zastosowania wspomnianego wzorca jest aby klasa przechowujπca dane nie decydowa≥a o typie uøywanego obiektu (np. jednej, wybranej klasy <code>Wypelnianie{...}</code>) i nie tworzy≥a go samodzielnie w konstruktorze, tylko øeby decydowa≥ o tym kod tworzπcy i konfigurujπcy obiekty aplikacji.
+> Taki sposÛb zarzπdzania zaleønoúciami miÍdzy obiektami pozwala na pozbycie siÍ úcis≥ych zaleønoúci pomiÍdzy czÍúciami systemu. Pozwala to takøe ≥atwiej (lub w ogÛle) testowaÊ czÍúci niezaleønie, w oderwaniu od ca≥oúci systemu.
+> 
+> Wikipedia (EN + przyk≥ady): [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection), Wikipedia (PL): [Wstrzykiwanie zaleønoúci](https://pl.wikipedia.org/wiki/Wstrzykiwanie_zale%C5%BCno%C5%9Bci)  
+> Przyk≥ad: [uzupe≥niÊ przyk≥ad na GitHub](http://github.com/mpostol)  
+> èrÛd≥o: [Inversion of Control Containers and the Dependency Injection pattern, Martin Fowler](http://www.martinfowler.com/articles/injection.html)  
+> èrÛd≥o: [Dependency Injection in .NET, Mark Seemann](https://www.manning.com/books/dependency-injection-in-dot-net)
+> 
+> Rozwiπzania _DI_ oparte sπ o przekazywanie z zewnπtrz do wybranego obiektu innych obiektÛw, ktÛrych uøywa on do realizacji swoich zadaÒ.  
+> Typowe sposoby realizacji _DI_ to:
+> 
+> * Constructor Injection - obiekt przekazywany jest jako wymagany parametr konstruktora klasy,
+> * Method Injection - obiekt przekazywany jest jako parametr wywo≥ania metody,
+> * Setter Injection / Property Injection - obiekt wpisywany jest do pola lub w≥aúciwoúci klasy,
+> * Dependency Injection Container - technologie wykorzystujπce powyøsze sposoby realizacji, gdzie specyfikacjÍ zaleønoúci okreúla siÍ poprzez atrybuty lub konfiguracjÍ - a realizacjÍ zaleønoúci wykonujπ biblioteki przy uruchamianiu aplikacji.  
+>   Przyk≥ady: Castle Windsor, StructureMap, Ninject, Spring.NET, Autofac, Unity, Managed Extensibility Framework (MEF), Prism Library.
+> 
+> Alternatywne do _DI_ wzorce - patrz np. [Factories, Service Locators, and Dependency Injection](https://msdn.microsoft.com/en-us/library/dn178469(v=pandp.30).aspx):
+> 
+> * Factory Method, Abstract Factory, Simple Factory - zamiast uøywaÊ s≥owa kluczowego <code>new</code>, tworzenie obiektu deleguje siÍ do fabryki obiektÛw,
+> * Service Locator - klasy us≥ug sπ rejestrowane przy starcie, a nastÍpnie wyszukiwane podajπc potrzebny typ obiektu (jest uwaøany czasem jako _antywzorzec_).
 
-Do przejrzenia:
-
-* Wikipedia (EN + przyk≥ady): [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection), Wikipedia (PL): [Wstrzykiwanie zaleønoúci](https://pl.wikipedia.org/wiki/Wstrzykiwanie_zale%C5%BCno%C5%9Bci)  
-* Przyk≥ad: [TP / DependencyInjection](https://github.com/mpostol/TP/tree/master/DependencyInjection)  
-* èrÛd≥o: [Inversion of Control Containers and the Dependency Injection pattern, Martin Fowler](http://www.martinfowler.com/articles/injection.html)  
-* èrÛd≥o: [Dependency Injection in .NET, Mark Seemann](https://www.manning.com/books/dependency-injection-in-dot-net)
-
-Rozwiπzania _DI_ oparte sπ o przekazywanie z zewnπtrz do wybranego obiektu innych obiektÛw, ktÛrych uøywa on do realizacji swoich zadaÒ.  
-Typowe sposoby realizacji _DI_ to:
-
-* Constructor Injection - obiekt przekazywany jest jako wymagany parametr konstruktora klasy,
-* Method Injection - obiekt przekazywany jest jako parametr wywo≥ania metody,
-* Setter Injection / Property Injection - obiekt wpisywany jest do pola lub w≥aúciwoúci klasy,
-* Dependency Injection Container - technologie wykorzystujπce powyøsze sposoby realizacji, gdzie specyfikacjÍ zaleønoúci okreúla siÍ poprzez atrybuty lub konfiguracjÍ - a realizacjÍ zaleønoúci wykonujπ biblioteki przy uruchamianiu aplikacji.  
-  Przyk≥ady: Castle Windsor, StructureMap, Ninject, Spring.NET, Autofac, Unity, Managed Extensibility Framework (MEF), Prism Library.
-
-Alternatywne do _DI_ wzorce - patrz np. [Factories, Service Locators, and Dependency Injection](https://msdn.microsoft.com/en-us/library/dn178469(v=pandp.30).aspx):
-
-* Factory Method, Abstract Factory, Simple Factory - zamiast uøywaÊ s≥owa kluczowego <code>new</code>, tworzenie obiektu deleguje siÍ do fabryki obiektÛw,
-* Service Locator - klasy us≥ug sπ rejestrowane przy starcie, a nastÍpnie wyszukiwane podajπc potrzebny typ obiektu (jest uwaøany czasem jako _antywzorzec_).
-- - -
-
-#### Wstrzykiwanie zaleønoúci
+### KrÛtko mÛwiπc
 
 W celu prostej realizacji _DI_ moøna dodaÊ w kodzie klasy przechowujπcej dane konstruktor z parametrem okreúlajπcym typ øπdanego interfejsu (lub klasy abstrakcyjnej) i zapamiÍtywaÊ wskazany obiekt w polu prywatnym do dalszego uøytku.
 
@@ -80,8 +78,8 @@ Alternatywnie moøna utworzyÊ w klasie w≥aúciwoúÊ _(property)_ øπdanego interfejs
 
 * W klasie <code>DataRepository</code> dodaj konstruktor z odpowiednim parametrem lub dodaj w≥aúciwoúÊ (property, z sekcjπ <code>set</code>, ewentualnie <code>private get</code>).
 * Przygotuj klasÍ np. <code>WypelnianieStalymi</code>, ktÛra bÍdzie umieszczaÊ w kaødej kolekcji sta≥π, niewielkπ iloúÊ obiektÛw o ustalonych wartoúciach.
-* Dodaj kod konfigurujπcy komponenty aplikacji przed uruchomieniem, ktÛry bÍdzie przekazywaÊ do klasy <code>DataRepository</code> obiekt klasy <code>WypelnianieStalymi</code>.
-* Klasa <code>DataRepository</code> powinna wykorzystaÊ przekazany obiekt - w swoim konstruktorze lub w sekcji <code>set</code> w≥aúciwoúci - aby wype≥niÊ kolekcje zawarte w <code>DataContext</code> przyk≥adowymi danymi.
+* Dodaj kod konfigurujπcy komponenty aplikacji przed uruchomieniem, ktÛry bÍdzie przekazywaÊ do klasy przechowujπcej dane obiekt nowo powsta≥ej klasy.
+* Klasa przechowujπca dane wykorzystaÊ przekazany obiekt - w swoim konstruktorze lub w sekcji <code>set</code> w≥aúciwoúci - aby wype≥niÊ kolekcje zawarte w <code>DataContext</code> przyk≥adowymi danymi.
 
 ## CzÍúÊ 3
 
@@ -103,7 +101,7 @@ _**Do kaødej metody powinny byÊ napisane testy jednostkowe sprawdzajπce poprawno
 
 Jeúli nie masz lepszego pomys≥u, proponowana jest nazwa <code>DataService</code>.
 
-Zapewnij na zasadzie _DI_ przekazanie do klasy logiki aplikacji obiektu klasy zarzπdzajπcej danymi <code>DataRepository</code>.  
+Zapewnij na zasadzie _DI_ przekazanie do klasy logiki aplikacji obiektu klasy przechowujπcej dane.  
 Upewnij siÍ, øe przekazany obiekt bÍdzie zapamiÍtany w polu prywatnym klasy (aby uøywaÊ tego obiektu pÛüniej tylko z poziomu klasy logiki aplikacji).
 
 **g) Wprowadü mechanizmy przetwarzania przechowywanych danych:**
@@ -124,7 +122,7 @@ Upewnij siÍ, øe przekazany obiekt bÍdzie zapamiÍtany w polu prywatnym klasy (aby
 
 **i) UtwÛrz innπ implementacjÍ wype≥niania kolekcji danymi i wykorzystaj jπ do testÛw wydajnoúci**
 
-* Kolejna implementacja wype≥niania kolekcji danymi powinna umieszczaÊ w kolekcjach obiekty w inny sposÛb niø poprzednia - opisana w punkcie **d)**.  
+* Kolejna implementacja wype≥niania kolekcji danymi powinna umieszczaÊ w kolekcjach obiekty w inny sposÛb niø poprzednia.  
   Jednak nadal powinno to byÊ polimorficznie zgodne z ustalonym poprzednio API, czyli podmiana implementacji powinna wymagaÊ minimalnych zmian w aplikacji.
 * Przyk≥adowo moøe to byÊ zrealizowane poprzez:
   * odczyt danych z przygotowanego pliku tekstowego,
@@ -132,7 +130,7 @@ Upewnij siÍ, øe przekazany obiekt bÍdzie zapamiÍtany w polu prywatnym klasy (aby
   * odczyt do pamiÍci i zamiana na obiekty informacji z bazy danych SQL,
   * tworzenie obiektÛw o losowych wartoúciach.
 * Sprawdü poprawnoúÊ rozwiπzania - tworzπc testy jednostkowe.
-* Sprawdü wydajnoúÊ rozwiπzania - np. tworzπc testy jednostkowe pod kπtem wydajnoúci i wype≥niajπc przy tym kolekcje duøπ iloúciπ losowych danych (dziesiπtki i setki tysiÍcy obiektÛw).  
+* Sprawdü wydajnoúÊ rozwiπzania - np. tworzπc testy jednostkowe pod kπtem wydajnoúci i wype≥niajπc przy tym kolekcje duøπ iloúciπ danych (dziesiπtki i setki tysiÍcy obiektÛw).  
   PorÛwnaj dzia≥anie w kilku punktach odniesienia, np. przy logarytmicznie rosnπcej iloúci obiektÛw.
 
 ## Diagramy UML

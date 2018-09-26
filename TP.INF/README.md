@@ -1,10 +1,6 @@
-# Curses
+# TP IFE
 
-## TP FTIMS
-
-### Kod: 
-
-## TP IFE
+## Introduction
 
 ### Kod: 07 67 5030 17
 
@@ -16,6 +12,12 @@
 2. Allow students to become familiar with known software design patterns and their practical implementations in .NET Framework. 
 3. Allow students to acquire practical software development skills for .NET Framework while using the Visual Studio development environment.
 
-## Technologie Programowania Adaptacyjnego (TPA)
+## WIKAMP Content
 
-### Kod: 07 72 6730 17
+### Management
+
+### Lecture
+
+### Lab
+
+### Internal
