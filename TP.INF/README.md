@@ -12,12 +12,14 @@
 2. Allow students to become familiar with known software design patterns and their practical implementations in .NET Framework. 
 3. Allow students to acquire practical software development skills for .NET Framework while using the Visual Studio development environment.
 
-## WIKAMP Content
+## [WIKAMP Content](https://ife.edu.p.lodz.pl/course/view.php?id=224)
 
 ### Management
 
+### Course Content
+
 ### Lecture
 
-### Lab
+### Laboratory
 
 ### Internal
