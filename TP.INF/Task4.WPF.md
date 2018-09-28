@@ -1,4 +1,4 @@
-# Zadanie 4 - WPF
+# Task 4 - WPF
 
 # Cel
 

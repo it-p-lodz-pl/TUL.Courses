@@ -1,6 +1,6 @@
-# Zadanie 3 - Serializacja i strumienie
+# Task 2 Streams
 
-# Cel
+# Goal
 
 Celem zadania jest poznanie technologii pozwalających na zapamiętywanie i odczytywanie danych roboczych w plikach z wykorzystaniem różnych formatów (gramatyki), jak: 
 

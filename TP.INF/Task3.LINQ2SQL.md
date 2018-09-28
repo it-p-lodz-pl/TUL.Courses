@@ -1,3 +1,4 @@
+# Task 3 LINQ to SQL
 # Cel
 
 Celem zadania jest praktyczne poznanie mechanizmów pozwalających operować na danych zewnętrznych z wykorzystaniem zintegrowanych konstrukcji języka programowania, a w tym:
