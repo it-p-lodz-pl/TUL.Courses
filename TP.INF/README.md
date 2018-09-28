@@ -16,9 +16,9 @@
 
 ### Management
 
-### Course Content
+### About the Course
 
-### Lecture
+### Seminar
 
 ### Laboratory
 
