@@ -11,5 +11,6 @@ Task 4/Project part 3  | 14
 # Notes:
 
 * Scores for one task 5..10
-* The task completion must be reported up to 24:00 the day before.
+* The task completion must be reported up to 24:00 the day before. 
+> * **NOTE: Late report decreases the max score by 2 a week.**
 
