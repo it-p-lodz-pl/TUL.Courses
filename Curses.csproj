@@ -228,6 +228,7 @@
     <None Include="TPA\KartaPrzedmiotu.200.pl.md" />
     <None Include="TPA\KartaPrzedmiotu.en.md" />
     <None Include="TPA\KartaPrzedmiotu.pl.md" />
+    <None Include="TPA\ProjectDescription.md" />
     <None Include="TPA\RegulaminZaliczaniaLaboratorium.md" />
     <None Include="TPA\RegulaminZaliczaniaPrzedmiotu.md" />
     <None Include="TPA\ResearchNotes.md" />

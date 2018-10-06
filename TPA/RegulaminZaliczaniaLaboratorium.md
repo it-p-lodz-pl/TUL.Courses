@@ -28,8 +28,3 @@
 1. Dla oddawanego kodu etapu należy utworzyć `tag`.
 1. W uzasadnionych przypadkach student ma prawo wystąpić do prowadzącego o przywrócenie terminu. Prowadzący ma prawo przywrócić termin po zapoznaniu się z przedstawionymi przez studenta dokumentami i uznaniu przyczyny powstania opóźnień za uzasadnioną.
 1. W przypadku, gdy treść kodu zostanie zakwestionowana przez Prowadzącego jako plagiat, wszelkie spory dotyczące praw autorskich w pierwszej kolejności są rozstrzygane na podstawie analizy historii wpisów w repozytorium.
-
-
- 
-
-
