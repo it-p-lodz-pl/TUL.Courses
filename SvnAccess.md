@@ -10,7 +10,7 @@ Password: subversion
 [Zarządzanie](https://serce.ics.p.lodz.pl/svnadm/index.py)
 
 Lista kont do masowego importu w formacie:
+
 `login:skrót-hasła:id-grupy:imię i nazwisko:e-mail`
 
-> Uwaga: Nazwa loginu nie powinna zawierać kropek!
-(Ograniczenie techniczne panelu kontrolnego)
+> Uwaga: Nazwa loginu nie powinna zawierać kropek! (Ograniczenie techniczne panelu kontrolnego)

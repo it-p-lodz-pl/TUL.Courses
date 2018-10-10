@@ -243,6 +243,7 @@
     <None Include="TP\LinqCollections\LinqToSqlLib\Properties\Settings.settings" />
     <None Include="TP\Projekt.md" />
     <None Include="TP\RegulaminZaliczaniaPrzedmiotu.md" />
+    <None Include="TP\Schedule.md" />
     <None Include="TP\SzablonProjet.md" />
     <None Include="TP\SzablonZadania.md" />
     <None Include="TP\zadanie1.Kolekcje.md" />
