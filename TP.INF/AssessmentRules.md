@@ -1,3 +1,20 @@
+# Assessment – grading scale
+
+1. Final grade – max 100
+  - Seminar: 60
+     - Test: 40
+     - Activity: 20
+  - Laboratory: 40 (4x10) 
+
+>Notes:
+>
+>1. minimum 50% for each
+>2. Lab: two optional paths:
+>    - Common task 1 + tasks 2, 3, 4
+>    - Common task 1 + project (3 cycles)
+> - Assessment: 10 p. for each.
+
+
 # Regulamin zaliczania przedmiotu
 
 1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
