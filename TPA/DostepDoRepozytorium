@@ -1,0 +1,31 @@
+# Wstęp
+
+Na przedmiocie wymagane jest korzystanie z repozytorium do współdzielenia kodu źródłowego projektów. Aby uzyskać konto w repozytorium Subversion (na serwerze serce.ics.p.lodz.pl), należy przesłać sformatowany jak poniżej teks zawierający parametry dla skryptu tworzącego konto. Teks należy wpisać w pole odpowiedzi dla tego modułu.
+
+# Rejestracja kont
+
+Konta zakładane są przez prowadzących, wraz z podziałem na grupy laboratoryjne (odpowiadające zajęciom w konkretnych godzinach) oraz grupy studenckie (odpowiadające zespołom pracującym na zajęciach).
+
+Każdy z osoba podaje dane w postaci:
+
+> `login:skrót-hasła:id-grupy:imię i nazwisko:e-mail`
+
+* `login`: to proponowana nazwa użytkownika, np. numer indeksu studenta. Login może składać się jedynie z małych liter alfabetu ASCII: `abcdefghijklmnopqrstuvwxyz`, cyfr:`0123456789`, oraz znaku podkreślenia: `_`.
+
+> **Uwaga!**: `login` nie może zawierać kropek - ograniczenie techniczne panelu kontrolnego.
+
+* `skrót-hasła` to zaszyfrowane hasło, umożliwiające dostęp do repozytorium.
+* `id-grupy`: identyfikator dwuosobowego (lub więcej) zespołu studentów pracujących razem na laboratorium. Identyfikator ten będzie wykorzystany jako nazwa katalogu zawierającego zadania tego zespołu.
+
+
+Do wygenerowania skrótu hasła można posłużyć się udostępnionym na stronach usługi [generatorem skrótów haseł](http://serce.ics.p.lodz.pl/site/genpass).
+
+# URL do repozytorium
+
+- https://serce.ics.p.lodz.pl/svn/labs/tpa/2018z_mp_cz_08
+- https://serce.ics.p.lodz.pl/svn/labs/tpa/2018z_mp_cz_12
+- https://serce.ics.p.lodz.pl/svn/labs/tpa/2018z_mp_pt_08
+- https://serce.ics.p.lodz.pl/svn/labs/tpa/2018z_mp_pt_10
+- https://serce.ics.p.lodz.pl/svn/labs/tpa/2018z_mp_pt_12
+- https://serce.ics.p.lodz.pl/svn/labs/tpa/2018z_ww_pn_10
+- https://serce.ics.p.lodz.pl/svn/labs/tpa/2018z_ww_sr_10
