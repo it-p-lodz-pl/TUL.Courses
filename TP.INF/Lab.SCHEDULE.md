@@ -10,6 +10,6 @@ Task 4  | 10 (13-12-2018)
 
 * Scores for one task 10..20
 * The task completion must be reported up to 24:00 the day before.
-*  
-> * **NOTE: Late report decreases the max score by 2 a week.**
+  
+> **NOTE: Late report decreases the max score by 2 a week.**
 
