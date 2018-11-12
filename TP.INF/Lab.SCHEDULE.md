@@ -2,15 +2,14 @@
 
 Task | Deadline (week)|
 --|--|
-_______________________|_____________________________________|
-Task 1                 | 5 
-Task 2/Project part 1  | 8
-Task 3/Project part 2  | 11
-Task 4/Project part 3  | 14 
+________|_________________|
+Task 1  | 05 (08-11-2018)
+Task 4  | 10 (13-12-2018) 
 
 # Notes:
 
-* Scores for one task 5..10
-* The task completion must be reported up to 24:00 the day before. 
+* Scores for one task 10..20
+* The task completion must be reported up to 24:00 the day before.
+*  
 > * **NOTE: Late report decreases the max score by 2 a week.**
 

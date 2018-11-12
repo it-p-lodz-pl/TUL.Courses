@@ -4,15 +4,16 @@
   - Seminar: 60
      - Test: 40
      - Activity: 20
-  - Laboratory: 40 (4x10) 
+  - Laboratory: 40 (2x20) 
 
 >Notes:
 >
 >1. minimum 50% for each
->2. Lab: two optional paths:
->    - Common task 1 + tasks 2, 3, 4
->    - Common task 1 + project (3 cycles)
-> - Assessment: 10 p. for each.
+>2. Lab: 
+>    - task 1
+>    - task 4
+>    - task 4 may be expanded on request
+> - Assessment: 20 p. for each.
 
 
 # Regulamin zaliczania przedmiotu
