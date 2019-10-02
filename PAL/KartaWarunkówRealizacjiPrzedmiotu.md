@@ -12,7 +12,7 @@ są opisane w module
 - [Regulamin zaliczenia przedmiotu](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=65315)
   
 
-## Warunki i trybu przystępowania i uzyskiwania zaliczenia zajęć
+## Warunki i tryb uzyskiwania zaliczenia zajęć
 
 `Warunki i trybu przystępowania i uzyskiwania zaliczenia zajęć` a w tym
 
