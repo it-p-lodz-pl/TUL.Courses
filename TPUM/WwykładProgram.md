@@ -1,3 +1,5 @@
+# Programowanie Urządzeń Mobilnych
+
 ## Wykład 1: Wprowadzenie
 
 1. O kursie, informacja a dane, algorytm a program, typ - co to znaczy
@@ -13,14 +15,21 @@
   - Reaktywna Publisher-subscriber
 1. Programowanie
   - interaktywne
-  - reaktywne 
+  - reaktywne
+1. Simulator
+1. HMI 
+1. Kontener 
 
-## Wykład 2: Semantyka danych
+## Wykład 2: Semantyka danych - interoperacyjność
 
 1. Type concept
 5. Anonymous type
 6. Partial types and methods
 7. Generics
+8. XML, JSON, YAML
+  - [XML=>YAML](https://codebeautify.org/xml-to-yaml#)
+  - [JSON => YAML,XML, CSV](https://jsonformatter.org/)  
+9. OPC UA Information Model
 
 ## Wykład 3: dane strumieniowe
 
