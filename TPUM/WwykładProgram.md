@@ -16,7 +16,7 @@
 1. Programowanie
   - interaktywne
   - reaktywne
-1. Simulator
+1. Symulator
 1. HMI 
 1. Kontener 
 

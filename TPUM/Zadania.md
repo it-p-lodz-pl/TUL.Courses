@@ -1,13 +1,15 @@
 # Zadania
 
-## Zadanie 1
+## Etap 1
 
 - Opracować model
   - system antywłamaniowy
   - samochód
 
-## Zadanie 2
+## Etap 2
 
-## Zadanie 3
+## Etap 3
+
+## Etap 4
 
 - Symulacja na NetLab

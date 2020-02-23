@@ -11,13 +11,13 @@
        - zaliczenie wg osobnego regulaminu
       
 1. Do zaliczenia przedmiotu niezbędne jest zaliczenie wszystkich składowych, tzn. 
-  - uzyskanie minimum 50% maksymalnej liczby punktów ze składników `Wykład` i `Laboratorium`
+  - uzyskanie minimum 30 punktów łącznie ze składników `Wykład` i `Laboratorium`
   - zaliczenie wszystkich składowych `Laboratorium`
 1. Liczbę uzyskanych punktów z kolokwium można próbować poprawiać w kolejnych podejściach, ale 
   - liczba podejść do kolokwium jest ograniczona i wynosi 3
   - łączna liczba punktów jest równa średniej arytmetycznej uzyskanej ze wszystkich podejść
-1. W przypadku uzyskania wystarczającej liczby punktów do spełnienia kryterium 50% potrzebnego do zaliczenia składnika `Wykład` w którymkolwiek podejściu, ten składnik jest uważany za zaliczony, choć średnia liczba punktów może być mniejsza od min zaliczającego.
-1. Końcowa ocena bazuje na sumie zdobytych punktów.
+1. W przypadku uzyskania wystarczającej liczby punktów do spełnienia kryterium 30 punktów potrzebnego do zaliczenia składnika `Wykład` w którymkolwiek podejściu, ten składnik jest uważany za zaliczony, choć średnia liczba punktów może być mniejsza od min zaliczającego.
+1. Końcowa ocena bazuje na sumie zdobytych punktów dla wszystkich składników
 1. Ocenianymi elementami aktywności na zajęciach seminaryjnych jest poprawna wypowiedź w ramach prowadzonej dyskusji.
 1. W przypadku zaliczenia wszystkich składników minimalna ocena za przedmiot wynosi 3.0.
 

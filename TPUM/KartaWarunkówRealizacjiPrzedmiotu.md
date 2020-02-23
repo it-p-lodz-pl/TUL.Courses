@@ -26,8 +26,7 @@ są opisane w module
 ## Pozostałe warunki uzyskania zaliczenia przedmiotu
 
 1. Pozostałe warunki są ustalane wg. potrzeb na wniosek studenta przez Kierownika przedmiotu. 
-
-2. Wszelkie zmiany karty i regulaminów są podawane z wyprzedzeniem na [Forum](https://ftims.edu.p.lodz.pl/mod/forum/view.php?id=27479).
+1. Wszelkie zmiany karty i regulaminów są podawane z wyprzedzeniem na [Forum](https://ftims.edu.p.lodz.pl/mod/forum/view.php?id=27479).
 
 ## Terminy konsultacji
 
