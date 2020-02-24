@@ -27,3 +27,6 @@
   - [ ] zadanie i
   - [ ] zadanie N
   - [ ] własny projekt (jeśli dotyczy)
+- [ ] Materiały pomocnicze
+  - [ ] Literatura
+  - [ ] Narzędzia
