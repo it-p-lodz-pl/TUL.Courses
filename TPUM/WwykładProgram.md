@@ -1,5 +1,10 @@
 # Programowanie Urządzeń Mobilnych
 
+- modelowanie - data centric architecture
+- Komunikacja
+- bezpieczeństwo
+- wizualizacja
+
 ## Wykład 1: Wprowadzenie
 
 1. O kursie, informacja a dane, algorytm a program, typ - co to znaczy
@@ -37,6 +42,7 @@
 1. Attributes
 1. Reflection
 1. Serialization
+2. Bezpieczeństwo danych
 
 ## Wykład 4: Podstawy programowania funkcyjnego
 
