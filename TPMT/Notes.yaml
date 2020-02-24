@@ -1,0 +1,12 @@
+
+- TPMT:
+  - Zadania:
+    - CLI, Backend, UT, TDD, GitHub
+    - mock, DI
+    - CI/CD Test Integration on DevOps
+    - Zastąpienie CLI przez HTTP (ASP NET), GUI test, Testy funkcyjne
+  - Wykład:
+    - "Applikacja Warstwowa"
+    - CI-CD on DevOps:
+      - Title: "Azure DevOps/Azure Pipelines  Ecosystems & integration  ASP.NET"
+      - URL: "https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops"
