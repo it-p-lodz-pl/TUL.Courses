@@ -7,7 +7,7 @@
 - Web sockets
   - [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
   - [inplementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain) 
-- Programowanie Reaktywne - TPA
+- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
 - Model Obiektowy Strukturalny
   - system antywłamaniowy
   - samochód
@@ -21,17 +21,26 @@
 - IT
 - Mock
 
-## Modelowanie z wykorzystanie OPC UA Information Model
+## Zadanie 2: Modelowanie z wykorzystanie OPC UA Information Model
+
+### Treść
 
 - Opracować model z zadania poprzedniego z wykorzystaniem OPC UA IM
 - Symulator przestrzeni adresowej na podstawie generowanego kodu
 - Zarejestrować model w Blockchain
-  - generowanie kluczy niesymetrycznych, certyfikatu,  
+  - generowanie kluczy niesymetrycznych, certyfikatu
+
+### Testowanie
+
+- UT
+- IT
+- Mock
+- [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool/uamodeldesignexport)
 
 ## Zadanie 3: Aplikacja reaktywna
 
-- pub/sub
+- pub/sub over UDP multicast
 
-## Etap 4
+## Zadanie 4: Symulacja w w internecie
 
-- Symulacja na NetLab
+- Symulacja na NetLab z wykorzystaniem Android
