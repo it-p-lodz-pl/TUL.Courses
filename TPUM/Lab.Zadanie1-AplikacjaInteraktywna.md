@@ -1,56 +1,79 @@
-# Temat
+# Aplikacja Interaktywna
 
 ## Cel
 
-Podać jakie technologie poznajemy (czego się uczymy) i jakie problemy możemy dzięki nim rozwiązywać.
+Celem zadania jest praktyczne poznanie:
+
+- architektury klient serwer
+- technologii Web-sockets
+- reaktywnego i interaktywnego współdziałania aplikacji w ramach utworzonej sesji
+- koncepcji Data Transfer Object
+- wstrzykiwania zależności (ang. Dependency Injection)
+- testowania jednostkowego i integracyjnego
+- wykorzystanie techniki MOCK
 
 ## Opis zadania
 
-Opisać zakres zadania - co student ma zrobić, by osiągnąć minimum zaliczeniowe. Generalnie są dwa podejścia:
+Opracować program z wykorzystaniem technologi .NET, który będzie realizował rolę klienta i serwera. Z wykorzystaniem tych ról należy zapewnić wymianę wybranych danych strukturalnych pomiędzy instancją klienta i serwera. Należy zrealizować następujące  scenariusze wymiany danych:
 
-1. Co ma osiągnąć, a w tym:
-   - Wymagania  
-   - lista funkcji - role i przypadki użycia pozwalające na spełnienie postawionych wymagań. Zaleca się dodanie matrycy pokrycia, tzn. tabelki, która zestawi wymagania i realizujące je funkcje.
-2. Lista prac do wykonania, tzn. krok po kroku co trzeba zrobić - krzyżówka.
+- zapytanie/odpowiedź - klient wysyła żądanie, a sewer odpowiada danymi w zależności od otrzymanego zapytania
+- samorzutne wysyłanie/filtrowanie - serwer  wysyła dane samorzutnie, natomiast klient filtruje je zgodnie z potrzebami
+- publikowanie/subskrypcja - klient zamawia dane (subskrybuje), a serwer wysyła (publikuje) samorzutnie do niego wybrane dane w ramach subskrypcji
+
+Klient/serwer komunikuje się ze sobą z wykorzystaniem technologii Web-sockets.
+
+Przesyłąne dane muszą być opisane z wykorzystaniem wspólnego modelu obiektowego i reprezentować wybrany model biznesowy, np.
+
+- system antywłamaniowy,
+- samochód
+- ogrzewanie mieszkania
+- blister z lekami
+- grę komputerową
+
+Dane przesyłać z wykorzystaniem serializacji zgodnie ze skłądnią JSON, YAML, XML. Wybór składni musi być dostępny w interfejsie użytkownika aplikacji serwera. Klient musi rozpoznawać skłądnię reaktywnie na podstawie otrzymywanych danych.
+
+Poprawność programu należy sprawdzić z wykorzystaniem testów jednostkowych i testów integracyjnych.
 
 ### Wytyczne do realizacji
 
-Dodatkowe informacje ułatwiające wykonanie zadania zgodnie z oczekiwaniem prowadzącego. Proponuję wszelkie dodatkowe informacje, jak:
+Dodatkowe informacje ułatwiające wykonanie zadania:
 
-- ważne jest aby .....
-- proszę zwrócić uwagę na ...
-- niezbędna jest umiejętność wytłumaczenia ...
-- proszę zwrócić uwagę na ...
-- zaoszczędzisz czas jeśli zrobisz to ....
-
-Lista ta powinna zawierać tematy przewidziane do dyskusji w trakcie zaliczania etapu projektu. Jest  to rodzaj ramowego kontraktu, który jednak nie jest limitujący dla nauczyciela prowadzącego.
-
-umieszczać tu, a nie w treści zadania. To pozwoli nam szybciej oceniać, czy "helpery' nie są zbyt daleko idące i ewentualnie dopisać coś bez zmiany treści zadania.
-
-### Uwagi i komentarze
-
-Dodać tu ewentualne uwagi i komentarze jeśli są potrzebne.
+- ważne jest, aby rola aplikacji była określona przez łatwo dostępny przy uruchomieniu parametr
+- proszę zwrócić uwagę na konieczność zastosowania technologi programowania reaktywnego dla wybranych scenariuszy
+- niezbędna jest umiejętność wytłumaczenia czym różni się współdziałanie reaktywne od interaktywnego, synchroniczne od asynchronicznego
+- zaoszczędzisz czas, jeśli do wykonania zadania zostaną wykorzystane podane poniżej dostępne przykłady
+- proszę zwrócić uwagę, aby dane był strukturalne niezależnie od wybranego realizowanego modelu biznesowego
+- do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności
+- ważne jest, aby współdzielone dane były chronione sekcją krytyczną
+- pomocne w implementacji testów jednostkowych w miejsce testów integracyjnych jest wstrzykiwanie zależności i koncepcja MOCK
 
 ## Zaliczenie
 
-### Realizacja zakresu zadania
-
-Tu należy opisać, jak prowadzący ma stwierdzić, że zadanie zostało wykonane zgodnie z opisem. Generalnie opis tu zawarty powinien wyznaczać warunki konieczne do dopuszczenia Studentów do dalszego zaliczania zadania. Przykładowe wymagania to:
+Warunkami koniecznymi dopuszczenia do dalszego zaliczania zadania są:
 
 1. Brak błędów kompilatora po wyciągnięciu nowej kopii kodu z repozytorium
-2. Pozytywne wyniki wymaganych testów jednostkowych
-3. Wyświetlenie określonych wyników z wykorzystaniem wybranego interfejsu użytkownika
-4. Utworzenie wskazanych plików
-
-> Tu powstaje problem z zadaniami wymagającymi dostępu do bazy danych, których zwykle nie ma na komputerach prowadzącego. W takim przypadku poduszczmy do zaliczenia, po sprawdzeniu na komputerze studenta, czy zakres został zrealizowany.
-
-### Osiągnięcie celu - przykładowe zagadnienia
+1. Pozytywne wyniki testów jednostkowych
+1. Pozytywne wyniki testów integracyjnych
+1. Zastosowanie wstrzykiwania zależności do realizacji testów
+1. Wyświetlenie określonych wyników z wykorzystaniem wybranego interfejsu użytkownika
+1. Utworzenie wskazanych plików
 
 W trakcie zaliczenia mogą być poruszane zagadnienie związane z:
 
-- umiejętnością wytłumaczenia ...
-- wskazaniem w programie miejsc odpowiedzialnych za.........
+- umiejętnością wskazania miejsc występowania i wytłumaczenia różnicy pomiędzy programowaniem reaktywny, a programowaniem interaktywnym
+- umiejętnością wskazania miejsc występowania i wytłumaczenia różnicy pomiędzy programowaniem asynchronicznym, a programowaniem synchronicznym
+- umiejętnością wskazania miejsc występowania sekcji krytycznej i jej implementacji
+- wykazania, że aplikacja jest warstwowa i wskazani granic warstw
+- wskazaniem w programie miejsc odpowiedzialnych za produkowanie danych procesowych, komunikację pomiędzy instancjami programu, itp.
+- omówienie w kontekście programu wykorzystania obiektu DTO (ang. Data Transfer Object)
 
 ## Lista źródeł
 
-Lista linków do materiałów korespondujących z zakresem zadania. Proponuję linki to treści w języku angielskim, ponieważ często odpowiedniki polskie to nieudolne tłumaczenia binga'a lub czegoś podobnego.
+- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [How to test software, part I: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/?gclid=Cj0KCQiAkePyBRCEARIsAMy5ScunlfHQKu8LF1w4pG9d4P10ChGBpIv8YNgJklqj0rOYGb3p7-kNe8saAjZYEALw_wcB)
+- [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
+- [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
+- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
+- [Repo for managing Moq 4.x](https://github.com/moq/moq4)
+- [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
+- [Przykładowa implementacja repliki procesu - symulator boilerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)

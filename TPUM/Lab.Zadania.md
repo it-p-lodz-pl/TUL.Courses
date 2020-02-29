@@ -1,27 +1,5 @@
 # Zadania
 
-## Zadanie 1: Aplikacja Interaktywna
-
-### Treść
-
-- Web sockets
-  - [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
-  - [Web sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
-- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
-- Model Obiektowy Strukturalny
-  - system antywłamaniowy
-  - samochód
-  - ogrzewanie mieszkania
-  - Blister z lekami
-  - gra komputerowa
-- Dane JSON, YAML, XML
-
-### Testowanie
-
-- UT
-- IT
-- Mock
-
 ## Zadanie 2: Modelowanie z wykorzystanie OPC UA Information Model
 
 ### Treść 2
