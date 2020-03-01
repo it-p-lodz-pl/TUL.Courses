@@ -1,5 +1,5 @@
 # Lista Kontrolna Przygotowania Przedmiotu
- 
+
 - [ ] Organizacja zajęć
   - [ ] Forum
   - [ ] Lista obecności
@@ -14,9 +14,7 @@
   - [ ] Regulamin Zaliczania Przedmiotu
 - [ ] Wykład
   - [ ] regulamin Zaliczenia Wykładu
-  - [ ] program
-  - [ ] harmonogram
-  - [ ] literatura
+  - [ ] program/harmonogram
   - [ ] prezentacja
   - [ ] kolokwium/egzamin
 - [ ] Laboratorium

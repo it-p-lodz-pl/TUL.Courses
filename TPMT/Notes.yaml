@@ -1,18 +1,43 @@
---- 
-- 
-  Lab: 
-    - OPCInformationModel
-    - Simulator
-    - HMI
-    - kontener
-  TPMT: ~
-  Wykład: 
-    CI-CDonDevOps: 
-      URL: "https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops"
-      title: "Azure DevOps/Azure Pipelines  Ecosystems & integration  ASP.NET"
-    temat: "Applikacja Warstwowa"
-  Zadania: 
-    - "CLI, Backend, UT, TDD, GitHub"
-    - "mock, DI"
-    - "CI/CD Test Integration on DevOps"
-    - "Zastąpienie CLI przez HTTP (ASP NET), GUI test, Testy funkcyjne"
+---
+Laboratorium:
+  Lab_1: "TDD DI"
+  Lab_2: Mock
+  Lab_3: "Zad 1 termin 1"
+  Lab_5: Zaległości
+  Lab_4: "Zad 1 termin 2"
+SeeAlso:
+  CI-CDonDevOps:
+    URL: "https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops"
+    title: "Azure DevOps/Azure Pipelines Ecosystems & integration  ASP.NET"
+  TP:
+    Tytuł: TP
+    URL: "https://github.com/mpostol/TP"
+Wykład:
+  Wykład-1:
+    - "Aplikacja Warstwowa"
+    - Refleksja
+    - Mock
+    - "Wstrzykiwanie zależności"
+  Wykład-2:
+    - "Wprowadzenie do procesów wytwarzania oprogramowania sterowanego testami"
+  Wykład-3:
+    Typy_testów:
+      - "Testy jednostkowe i mocki"
+      - "Zbiory testów i zbiory testowe"
+      - "Testy integracyjne i akceptacyjne"
+      - "Testy obciążeniowe"
+  Wykład-4:
+    - "Narzędzia do testowania"
+    - "Systemy ciągłej integracji"
+    - Raportowanie
+  Wykład-5:
+    - Kolokwium
+Zadanie1:
+  - CLI
+  - Backend
+  - UT
+  - TDD
+  - GitHub
+  - "mock, DI"
+  - "CI/CD Test Integration on DevOps"
+  - "Zastąpienie CLI przez HTTP (ASP NET), GUI test, Testy funkcyjne"
