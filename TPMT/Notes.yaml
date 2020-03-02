@@ -13,24 +13,24 @@ SeeAlso:
     Tytuł: TP
     URL: "https://github.com/mpostol/TP"
 Wykład:
-  Wykład-1:
+  Wykład-Z1:
     - "Aplikacja Warstwowa"
     - Refleksja
     - Mock
     - "Wstrzykiwanie zależności"
-  Wykład-2:
+  Wykład-Z2:
     - "Wprowadzenie do procesów wytwarzania oprogramowania sterowanego testami"
-  Wykład-3:
+  Wykład-Z3:
     Typy_testów:
       - "Testy jednostkowe i mocki"
       - "Zbiory testów i zbiory testowe"
       - "Testy integracyjne i akceptacyjne"
       - "Testy obciążeniowe"
-  Wykład-4:
+  Wykład-Z4:
     - "Narzędzia do testowania"
     - "Systemy ciągłej integracji"
     - Raportowanie
-  Wykład-5:
+  Wykład-Z5:
     - Kolokwium
 Zadanie1:
   - CLI
