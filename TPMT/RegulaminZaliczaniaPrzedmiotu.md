@@ -5,8 +5,8 @@
 1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
 2. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
    - `Wykład` ( <= 60 punktów):
-     - Pisemne kolokwium na koniec semestru – maksymalnie 50 punktów.
-     - Aktywność wykład – maksymalnie 10 punktów.
+     - Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów.
+     - Aktywność wykład – maksymalnie 20 punktów.
    - `Laboratorium` ( <= 40 punktów ):
      - zaliczenie wg osobnego regulaminu
 
