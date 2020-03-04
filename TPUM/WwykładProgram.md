@@ -1,33 +1,66 @@
-# Programowanie Urządzeń Mobilnych
+# Harmonogram
 
-- modelowanie - data centric architecture
-- Komunikacja
-- bezpieczeństwo
-- wizualizacja
+1. Wprowadzenie
+1. Architektura
+1. Semantyka danych - interoperacyjność
+1. Protokoły komunikacyjne
+1. Przetwarzanie w chmurze
+1. Bezpieczeństwo komunikacji
+1. Kolokwium
 
-## Wykład 1: Wprowadzenie
+## Tematyka
 
-1. O kursie,
+### Wprowadzenie
+
+1. O kursie
+1. Wymagania wstępne
    - informacja a dane,
    - algorytm a program,
    - typ - co to znaczy
+   - programowanie obiektowe
    - współużywalność danych
-1. Mobilne dane, urządzenia, aplikacje, systemy
-1. Oprogramowanie współbieżne, równoległe, rozproszone
-1. IoT, M2M, Cyber Phisical Systems, Industry 4.0
-1. Niezawodność: wyjątek, testy jednostkowe, symulacja otoczenia
+   - oprogramowanie sekwencyjne, współbieżne, równoległe, rozproszone
+   - program warstwowy
+   - Użyteczne narzędzia: C#, Visual Studio, GitHub
 1. Wyjaśnienie tematu
-1. Użyteczne narzędzia: C#, Visual Studio, GitHub
-1. Wymagania wstępne
-1. Komunikacja
-   - Interaktywna - klient-serwer
-   - Reaktywna Publisher-subscriber
+1. Mobilne dane, urządzenia, aplikacje, systemy
+1. IoT, M2M, Cyber Physical Systems, Industry 4.0
 1. Programowanie
    - interaktywne
    - reaktywne
-1. Symulator
-1. HMI
-1. Kontener
+1. Komunikacja
+   - Interaktywna - klient-serwer
+   - Reaktywna Publisher-subscriber
+
+### Architektura
+
+- Aplikacja rozproszona - Model domenowy
+- Cyber Physical Systems - Model domenowy
+- Pozyskiwanie danych procesowych
+  - Protokoły klasy field bus
+  - Symulator
+- Przetwarzanie danych procesowych
+- Komunikacja in-band
+- Data Transfer Object
+
+### Semantyka danych - interoperacyjność
+
+### Protokoły komunikacyjne
+
+- Internet, HTTP, TCP, UDP, IP
+- Web services
+- Web-socket
+
+### Przetwarzanie w chmurze
+
+### Bezpieczeństwo komunikacji
+
+- end to end security
+- application identity
+- application instance identity
+- data identity
+- user identity
+- non repudiation
 
 ## Wykład 2: Semantyka danych - interoperacyjność
 
@@ -53,10 +86,8 @@
 1. Anonymous function and lambda expression
 1. Extension method
 
-## Wykład 5:
+## Wykład 5
 
-## Wykład 6:
+## Wykład 6
 
-## Wykład 7 Dane graficzne
-
-1. Delegates and events
+## Wykład 7 Kolokwium

@@ -33,3 +33,6 @@
 - [Address Space Model Designer (ASMD)](https://github.com/mpostol/ASMD#-address-space-model-designer-asmd)
 - [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool)
 - [Walk-through ReferenceApplication](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/ReferenceApplication#walk-through-referenceapplication)
+- [XML => YAML](https://codebeautify.org/xml-to-yaml#)
+- [JSON => YAML,XML, CSV](https://jsonformatter.org/)
+- [json editor online/](https://jsoneditoronline.org/)
