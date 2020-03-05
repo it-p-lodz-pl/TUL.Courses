@@ -7,7 +7,7 @@
    - `Wykład` ( <= 60 punktów):
      - Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów.
      - Testów przygotowujących do wykładu – maksymalnie 10 punktów.
-     - Zgłaszanych propozycji kodu przykładowego w repozytorium [mpostol/TP][TP] - maksymalnie 10 punktów
+     - Zgłaszanych propozycji kodu przykładowego w repozytorium [mpostol/TP][TP] i aktywność na wybranych zajęciach laboratorium – maksymalnie 10 punktów.
    - `Laboratorium` ( <= 40 punktów ):
      - zaliczenie wg osobnego regulaminu
 
@@ -19,9 +19,8 @@
 1. Liczbę uzyskanych punktów z kolokwium można próbować poprawiać w kolejnych podejściach, ale
    - liczba podejść do kolokwium jest ograniczona i wynosi 3
    - łączna liczba punktów jest równa średniej arytmetycznej uzyskanej ze wszystkich podejść
-1. W przypadku uzyskania wystarczającej liczby punktów do spełnienia kryterium 30 punktów potrzebnego do zaliczenia składnika `Wykład` w którymkolwiek podejściu, ten składnik jest uważany za zaliczony, choć średnia liczba punktów może być mniejsza od min zaliczającego.
 1. Końcowa ocena bazuje na sumie zdobytych punktów dla wszystkich składników
-1. Ocenianymi elementami aktywności na zajęciach wykłądowych jest poprawna wypowiedź w ramach prowadzonej dyskusji.
+1. Ocenianymi elementami aktywności na zajęciach laboratoryjnych jest poprawna wypowiedź w ramach prowadzonej dyskusji.
 1. W przypadku spełnienia minimów zaliczeniowych wszystkich składników minimalna ocena za przedmiot wynosi 3.0.
 
 [TP]: https://github.com/mpostol/TP
