@@ -14,10 +14,10 @@ SeeAlso:
     URL: "https://github.com/mpostol/TP"
 Wykład:
   Wykład-Z1:
-    - "Aplikacja Warstwowa"
+    - Aplikacja Warstwowa
     - Refleksja
     - Mock
-    - "Wstrzykiwanie zależności"
+    - Wstrzykiwanie zależności
   Wykład-Z2:
     - "Wprowadzenie do procesów wytwarzania oprogramowania sterowanego testami"
   Wykład-Z3:

@@ -47,7 +47,7 @@
 1. Aby wykonanie zadania w zgłoszonym terminie było uznane należy:
    - Zgłosić zadanie do oceny nie później niż w dniu poprzedzającym zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
    - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez wszystkich jego współautorów.
-   - Brak zgłoszenia do oceny w terminie powoduje utratę 10 punktu za każde kolejne zajęcia laboratoryjne zgodnie z harmonogramem.
+   - Brak zgłoszenia do oceny w terminie powoduje **utratę 10** punktu za każde kolejne zajęcia laboratoryjne zgodnie z harmonogramem.
 
 ## Dodatkowo
 
