@@ -1,17 +1,9 @@
 ---
-Laboratorium:
-  Lab_1: "TDD DI"
-  Lab_2: Mock
-  Lab_3: "Zad 1 termin 1"
-  Lab_5: Zaległości
-  Lab_4: "Zad 1 termin 2"
+
 SeeAlso:
   CI-CDonDevOps:
     URL: "https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops"
     title: "Azure DevOps/Azure Pipelines Ecosystems & integration  ASP.NET"
-  TP:
-    Tytuł: TP
-    URL: "https://github.com/mpostol/TP"
 Wykład:
   Wykład-Z1:
     - Aplikacja Warstwowa
@@ -32,12 +24,3 @@ Wykład:
     - Raportowanie
   Wykład-Z5:
     - Kolokwium
-Zadanie1:
-  - CLI
-  - Backend
-  - UT
-  - TDD
-  - GitHub
-  - "mock, DI"
-  - "CI/CD Test Integration on DevOps"
-  - "Zastąpienie CLI przez HTTP (ASP NET), GUI test, Testy funkcyjne"
