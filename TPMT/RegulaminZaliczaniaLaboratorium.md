@@ -45,7 +45,7 @@
 1. Wszystkie zadania muszą być zaliczane w okresie trwania zajęć.
 1. W przypadku braku zaliczenia w drugim terminie, niezaliczone zadania mogą być zaliczone w terminie poprawkowym. Studentowi nie przysługuje prawo ubiegania się o zaliczenie zadania w kolejnym terminie, czyli **brak zaliczenia w terminie poprawkowym uniemożliwia zaliczenie laboratorium**.
 1. Aby wykonanie zadania w zgłoszonym terminie było uznane należy:
-   - Zgłosić zadanie do oceny nie później niż w dniu poprzedzającym zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
+   - Zgłosić zadanie do oceny nie później niż w czwartek poprzedzający zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
    - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez wszystkich jego współautorów.
    - Brak zgłoszenia do oceny w terminie powoduje **utratę 10** punktu za każde kolejne zajęcia laboratoryjne zgodnie z harmonogramem.
 
