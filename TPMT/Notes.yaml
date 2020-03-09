@@ -1,0 +1,26 @@
+---
+
+SeeAlso:
+  CI-CDonDevOps:
+    URL: "https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops"
+    title: "Azure DevOps/Azure Pipelines Ecosystems & integration  ASP.NET"
+Wykład:
+  Wykład-Z1:
+    - Aplikacja Warstwowa
+    - Refleksja
+    - Mock
+    - Wstrzykiwanie zależności
+  Wykład-Z2:
+    - "Wprowadzenie do procesów wytwarzania oprogramowania sterowanego testami"
+  Wykład-Z3:
+    Typy_testów:
+      - "Testy jednostkowe i mocki"
+      - "Zbiory testów i zbiory testowe"
+      - "Testy integracyjne i akceptacyjne"
+      - "Testy obciążeniowe"
+  Wykład-Z4:
+    - "Narzędzia do testowania"
+    - "Systemy ciągłej integracji"
+    - Raportowanie
+  Wykład-Z5:
+    - Kolokwium
