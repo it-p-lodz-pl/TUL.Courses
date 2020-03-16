@@ -15,7 +15,17 @@ Zadanie | Termin oddania (zajęcia)|
 - Każdy członek zespołu musi zgłosić i zaliczyć zadanie niezależnie.
 - **w tygodniu 7 w środę (22.04) zajęcia są odwołane**.
 
-# Szczegółowy plan zajęć
+## Szczegółowy plan zajęć laboratoryjnych
+
+Tydzień  | Temat zajęć
+:--:     |:--:
+1, 2     | Wstęp - warunki zaliczenia, zakres cel
+3, 4     | Omówienie zadania - jak je zrobić
+5, 6     | Konsultacje indywidualne i zbiorowe
+8, 9     | Konsultacje  indywidualne i zbiorowe
+10, 11   | Projekt termin 1
+12, 13   | Projekt termin 2
+14, 15   | Projekt termin 3
 
 Gr 1.
 Ma zajęcia w tygodnie nieparzyste:

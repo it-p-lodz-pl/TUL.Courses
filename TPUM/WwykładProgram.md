@@ -13,6 +13,9 @@
 ### Wprowadzenie
 
 1. O kursie
+1. Wyjaśnienie tematu
+   - Mobilne dane, urządzenia, aplikacje, systemy
+   - IoT, M2M, Cyber Physical Systems, Industry 4.0
 1. Wymagania wstępne
    - informacja a dane,
    - algorytm a program,
@@ -22,9 +25,6 @@
    - oprogramowanie sekwencyjne, współbieżne, równoległe, rozproszone
    - program warstwowy
    - Użyteczne narzędzia: C#, Visual Studio, GitHub
-1. Wyjaśnienie tematu
-1. Mobilne dane, urządzenia, aplikacje, systemy
-1. IoT, M2M, Cyber Physical Systems, Industry 4.0
 1. Programowanie
    - interaktywne
    - reaktywne
@@ -80,14 +80,3 @@
 1. Reflection
 1. Serialization
 1. Bezpieczeństwo danych
-
-## Wykład 4: Podstawy programowania funkcyjnego
-
-1. Anonymous function and lambda expression
-1. Extension method
-
-## Wykład 5
-
-## Wykład 6
-
-## Wykład 7 Kolokwium

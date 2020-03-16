@@ -23,4 +23,24 @@
 1. Ocenianymi elementami aktywności na zajęciach laboratoryjnych jest poprawna wypowiedź w ramach prowadzonej dyskusji.
 1. W przypadku spełnienia minimów zaliczeniowych wszystkich składników minimalna ocena za przedmiot wynosi 3.0.
 
+## Organizacja 2
+
+1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
+1. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
+   - `Wykład` ( <= 60 punktów):
+     - Pisemny test na WIKAMP na koniec semestru – maksymalnie 40 punktów.
+     - Dwa sprawdziany zdalne (elearning) sprawdzające bieżącą wiedzę - maksymalnie 2x10 punktów.
+   - `Laboratorium` ( <= 40 punktów ) - zaliczenie wg osobnego regulaminu
+
+## Ocena 2
+
+1. Do zaliczenia przedmiotu niezbędne jest zaliczenie wszystkich składowych, tzn.
+   - uzyskanie minimum 30 punktów łącznie ze składników `Wykład`
+   - uzyskanie minimum 20 punktów ze składników składowych `Laboratorium`
+1. Liczbę uzyskanych punktów z testu i sprawdzianów można próbować poprawiać w kolejnych podejściach, ale
+   - liczba podejść jest ograniczona i wynosi 3
+   - łączna liczba punktów jest równa średniej arytmetycznej uzyskanej ze wszystkich podejść
+1. Udział w testach, sprawdzianach i śledzenie postępu na platformie WIKAMP jest obowiązkowe
+1. Końcowa ocena bazuje na sumie zdobytych punktów dla wszystkich składników
+
 [TP]: https://github.com/mpostol/TP
