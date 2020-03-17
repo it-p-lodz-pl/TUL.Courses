@@ -1,4 +1,4 @@
-Witam na kursie:
+# Witam na kursie
 
 Technologie Programowania - Metody Testowania (TPMT)
 
