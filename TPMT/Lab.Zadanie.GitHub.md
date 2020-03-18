@@ -8,6 +8,8 @@
     - [ExDataManagement](#exdatamanagement)
     - [AdaptiveProgramming](#adaptiveprogramming)
 
+[Video jest dostępne](https://youtu.be/SIyavpb4RnY).
+
 ## Licencja
 
 Materiały są przeznaczone do urzynku wewnętrznego wyłącznie na potrzeby kursu.
