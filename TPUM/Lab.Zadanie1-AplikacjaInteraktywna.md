@@ -1,13 +1,16 @@
-# Aplikacja Interaktywna
+# Aplikacja Mobilna
+
+**UWAGA:** opis zostanie uzupełniony w miarę potrzeb.
 
 ## Cel
 
 Celem zadania jest praktyczne poznanie:
 
-- architektury klient serwer
 - technologii Web-sockets
-- reaktywnego i interaktywnego współdziałania aplikacji w ramach utworzonej sesji
-- koncepcji Data Transfer Object
+- reaktywnego i interaktywnego współdziałania aplikacji, a w tym
+  - architektury client/server
+  - architektury publisher/subscriber
+- wykorzystanie standardów do reprezentowania modeli współdziałania aplikacji wytworzonych przez różnych producentów
 - wstrzykiwania zależności (ang. Dependency Injection)
 - testowania jednostkowego i integracyjnego
 - wykorzystanie techniki MOCK
@@ -33,6 +36,10 @@ Przesyłąne dane muszą być opisane z wykorzystaniem wspólnego modelu obiekto
 Dane przesyłać z wykorzystaniem serializacji zgodnie ze skłądnią JSON, YAML, XML. Wybór składni musi być dostępny w interfejsie użytkownika aplikacji serwera. Klient musi rozpoznawać skłądnię reaktywnie na podstawie otrzymywanych danych.
 
 Poprawność programu należy sprawdzić z wykorzystaniem testów jednostkowych i testów integracyjnych.
+
+Opracować model danych z wykorzystaniem standardu OPC Unified Architecture i harmonizować używany model objektowy z modelem wygenerowanym automatycznie przez wybrane narzędzie.
+
+Opracować program z wykorzystaniem technologi .NET, który będzie realizował rolę publisher'a i subscriber'a. Z wykorzystaniem tych ról należy zapewnić wymianę wybranych danych strukturalnych pomiędzy instancją publisher'a i subscriber'a.
 
 ### Wytyczne do realizacji
 

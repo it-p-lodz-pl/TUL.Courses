@@ -1,31 +1,25 @@
 # Harmonogram
 
-Zadanie | Termin oddania (zajęcia)|
-:--:|:--:|
-1   | 5  |
-2   | 8  |
-3   | 11 |
-4   | 14 |
+| Tydzień | Temat zajęć                            |
+| :-----: | :------------------------------------- |
+|  1, 2   | Wstęp - warunki zaliczenia, zakres cel |
+|  3, 4   | Omówienie zadania - jak je zrobić      |
+|  5, 6   | Konsultacje indywidualne i zbiorowe    |
+|  8, 9   | Konsultacje  indywidualne i zbiorowe   |
+| 10, 11  | Projekt termin 1                       |
+| 12, 13  | Projekt termin 2                       |
+| 14, 15  | Projekt termin 3                       |
 
 ## Uwagi
 
-- Ocena za zadania 5..10 punktów(10, 7.5, 5).
+- Ocena za projekt 20..40 punktów(40, 30, 20).
 - Studenci muszą zgłosić wykonanie zadania do 24:00 w dniu poprzedzającym zajęcia.
 - Zgłoszenia należy dokonać indywidualnie za pośrednictwem modułu zadania.
 - Każdy członek zespołu musi zgłosić i zaliczyć zadanie niezależnie.
 - **w tygodniu 7 w środę (22.04) zajęcia są odwołane**.
+- To jest plan A. Proszę uwzględnić w swoich planach duże prawdopodobieństwo wydłużenia okresu pracy i w związku z tym taką organizację pracy, która pozwoliłaby na prowadzenie procesu dydaktycznego poza murami Uczelni, nawet przez kilka miesięcy.
 
 ## Szczegółowy plan zajęć laboratoryjnych
-
-Tydzień  | Temat zajęć
-:--:     |:--:
-1, 2     | Wstęp - warunki zaliczenia, zakres cel
-3, 4     | Omówienie zadania - jak je zrobić
-5, 6     | Konsultacje indywidualne i zbiorowe
-8, 9     | Konsultacje  indywidualne i zbiorowe
-10, 11   | Projekt termin 1
-12, 13   | Projekt termin 2
-14, 15   | Projekt termin 3
 
 Gr 1.
 Ma zajęcia w tygodnie nieparzyste:
