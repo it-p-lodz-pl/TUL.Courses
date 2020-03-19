@@ -2,9 +2,9 @@
 
 Proszę przekazać pocztą pantoflową klucze do samodzielnego zapisu puki to jeszcze możliwe.
 
-Plan | Klucz
--|:-:
-Środa nieparzysta    | **`TP1`**
-Czwartek nieparzysty | **`TP2`**
-Środa parzysta       | **`TP3`**
-Czwartek parzysty    | **`TP4`**
+| Plan                 |   Klucz   |
+| -------------------- | :-------: |
+| Środa nieparzysta    | **`TP1`** |
+| Czwartek nieparzysty | **`TP2`** |
+| Środa parzysta       | **`TP3`** |
+| Czwartek parzysty    | **`TP4`** |
