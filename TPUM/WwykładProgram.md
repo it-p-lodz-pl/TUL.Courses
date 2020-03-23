@@ -15,7 +15,7 @@
 1. O kursie
 1. Wyjaśnienie tematu
    - Mobilne dane, urządzenia, aplikacje, systemy
-   - IoT, M2M, Cyber Physical Systems, Industry 4.0
+   - \[Industrial\] Internet of Things (IoT), Machine to Machine communication (M2M), Cyber Physical Systems, Industry 4.0
 1. Wymagania wstępne
    - informacja a dane,
    - algorytm a program,
