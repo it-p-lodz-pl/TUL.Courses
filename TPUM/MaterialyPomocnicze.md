@@ -26,10 +26,11 @@
 - [How to test software, part I: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/?gclid=Cj0KCQiAkePyBRCEARIsAMy5ScunlfHQKu8LF1w4pG9d4P10ChGBpIv8YNgJklqj0rOYGb3p7-kNe8saAjZYEALw_wcB)
 - [Repo for managing Moq 4.x](https://github.com/moq/moq4)
 - [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
+- ["Azure DevOps/Azure Pipelines Ecosystems & integration  ASP.NET"](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops)
 
 ## Narzędzia
 
-- ["Azure DevOps/Azure Pipelines Ecosystems & integration  ASP.NET"](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops)
+- [Gist - jak zainicjować repozytorium GitHub - lista kontrolna](https://gist.github.com/mpostol/496fe3038dd88790b446fb24276da1b9)
 - [Address Space Model Designer (ASMD)](https://github.com/mpostol/ASMD#-address-space-model-designer-asmd)
 - [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool)
 - [Walk-through ReferenceApplication](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/ReferenceApplication#walk-through-referenceapplication)
