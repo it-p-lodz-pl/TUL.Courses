@@ -9,15 +9,13 @@ Zaproszenie na spotkanie zdalne w ramach kursu **Technologie programowania urzą
 | Temat        |                    **Temat spotkania**                    |
 | Początek     |                       \<DateTime\>                        |
 | Czas trwania |                         2 godziny                         |
-| Hasło        |                         \<hasło\>                         |
+| Hasło        |                         `hasło`                         |
 | Link         | [Wejdź jako uczestnik]`(https://edu.p.lodz.pl/webinaryX)` |
 
 ## Agenda
 
-| Lp. | Temat   |
-| --- | ------- |
-| 1.  | Temat 1 |
-| 2.  | Temat 2 |
+1. Temat 1
+1. Temat 2
 
 ## Instrukcja dla uczestnika
 

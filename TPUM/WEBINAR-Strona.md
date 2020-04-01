@@ -12,7 +12,6 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
 ## Agenda
 
-| Lp. | Temat   |
-| --- | ------- |
-| 1.  | Temat 1 |
-| 2.  | Temat 2 |
+1. Temat 1
+1. temat 2
+   - temat
