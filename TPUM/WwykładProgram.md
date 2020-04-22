@@ -1,12 +1,14 @@
-# Harmonogram
+# Harmonogram wykład
 
-1. Wprowadzenie
-1. Architektura
-1. Semantyka danych - interoperacyjność
-1. Protokoły komunikacyjne
-1. Przetwarzanie w chmurze
-1. Bezpieczeństwo komunikacji
-1. Kolokwium
+| Data  | Tydzień | Tematyka                             |
+| :---- | :-----: | :----------------------------------- |
+| 26.03 |    4    | Wprowadzenie                         |
+| 16.04 |    6    | Architektura                         |
+| 30.04 |    8    | Protokoły komunikacyjne              |
+| 14.05 |   10    | Semantyka danych - interoperacyjność |
+| 28.05 |   12    | Przetwarzanie w chmurze              |
+| 18.06 |   14    | Bezpieczeństwo komunikacji           |
+| 22.06 | Zdalnie | Kolokwium                            |
 
 ## Tematyka
 
@@ -48,8 +50,9 @@
 ### Protokoły komunikacyjne
 
 - Internet, HTTP, TCP, UDP, IP
-- Web services
+- Web Services (WS*)
 - Web-socket
+- REST
 
 ### Przetwarzanie w chmurze
 
