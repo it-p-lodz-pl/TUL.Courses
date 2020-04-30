@@ -1,14 +1,14 @@
 # Harmonogram wykład
 
-| Data  | Tydzień | Tematyka                             |
-| :---- | :-----: | :----------------------------------- |
-| 26.03 |    4    | Wprowadzenie                         |
-| 16.04 |    6    | Architektura                         |
-| 30.04 |    8    | Protokoły komunikacyjne              |
-| 14.05 |   10    | Semantyka danych - interoperacyjność |
-| 28.05 |   12    | Przetwarzanie w chmurze              |
-| 18.06 |   14    | Bezpieczeństwo komunikacji           |
-| 22.06 | Zdalnie | Kolokwium                            |
+| Data  | Tydzień | Tematyka                                     |
+| :---- | :-----: | :------------------------------------------- |
+| 26.03 |    4    | Wprowadzenie                                 |
+| 16.04 |    6    | Architektura                                 |
+| 30.04 |    8    | Protokoły komunikacyjne                      |
+| 14.05 |   10    | Semantyka danych - interoperacyjność         |
+| 28.05 |   12    | Przetwarzanie w chmurze                      |
+| 18.06 |   14    | Bezpieczeństwo komunikacji, Danych i zasobów |
+| 22.06 | Zdalnie | Kolokwium                                    |
 
 ## Tematyka
 
