@@ -12,9 +12,9 @@
 | 8 | [Projekt etap 1](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857) - zaliczenie termin 1 |
 | 9 | [Projekt etap 1](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857) - zaliczenie termin 2 |
 | 10 | [Projekt etap 1](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857) - zaliczenie termin 3 |
-| 10 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 1|
-| 11 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 2|
-| 12 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 3|
+| 11 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 1|
+| 12 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 2|
+| 13 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 3|
 | 13 | [Projekt: Aplikacja Mobilna](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180) - zaliczenie termin 1 |
 | 14 | [Projekt: Aplikacja Mobilna](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180) - zaliczenie termin 2 |
 | 15 | [Projekt: Aplikacja Mobilna](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180) - zaliczenie termin 3 |
