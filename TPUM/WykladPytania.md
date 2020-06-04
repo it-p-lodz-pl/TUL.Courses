@@ -22,14 +22,30 @@
     - [Komunikacja klient/serwer](#komunikacja-klientserwer)
     - [Komunikacja publisher/subscriber](#komunikacja-publishersubscriber)
   - [Wykład \#3 Protokoły](#wykład-3-protokoły)
-    - [WebSocket](#websocket)
+    - [WebSocket bezpołączeniowy](#websocket-bezpołączeniowy)
     - [WebSocket a komunikacja reaktywna](#websocket-a-komunikacja-reaktywna)
     - [REST](#rest)
     - [REST - komunikacja reaktywna](#rest---komunikacja-reaktywna)
     - [HTTP](#http)
     - [HTTP Sesja](#http-sesja)
   - [Wykład \#4 Semantyka danych - interoperacyjność](#wykład-4-semantyka-danych---interoperacyjność)
+    - [Pytanie o zrozumienie treści zadania](#pytanie-o-zrozumienie-treści-zadania)
+    - [Co to jest aplikacja rozproszona #1](#co-to-jest-aplikacja-rozproszona-1)
+    - [Co to jest aplikacja rozproszona #2](#co-to-jest-aplikacja-rozproszona-2)
+    - [Komunikacja M2M](#komunikacja-m2m)
+    - [Serializacja/deserializacja](#serializacjadeserializacja)
+    - [Wykorzystanie obiektów do komunikacji](#wykorzystanie-obiektów-do-komunikacji)
+    - [REST to protokół](#rest-to-protokół)
+    - [REST czym jest](#rest-czym-jest)
+    - [Object Oriented Internet](#object-oriented-internet)
+    - [Web Service (WS*)](#web-service-ws)
+    - [Aplikacja interaktywna/reaktywna](#aplikacja-interaktywnareaktywna)
+    - [Metadane](#metadane)
   - [Wykład \#5 Przetwarzanie w chmurze](#wykład-5-przetwarzanie-w-chmurze)
+  - [Kontekst semantyczny (tak/nie)](#kontekst-semantyczny-taknie)
+  - [Uzgodnienie kontekstu semantycznego (code first)](#uzgodnienie-kontekstu-semantycznego-code-first)
+  - [Uzgodnienie kontekstu semantycznego (DSL)](#uzgodnienie-kontekstu-semantycznego-dsl)
+  - [Przetwarzanie w chmurze](#przetwarzanie-w-chmurze)
   - [Wykład \#6 Bezpieczeństwo komunikacji](#wykład-6-bezpieczeństwo-komunikacji)
   - [Błędy w teście Sprawdzian #1](#błędy-w-teście-sprawdzian-1)
 
@@ -211,9 +227,9 @@ Zaznacz wszystkie poprawne i wyczerpujące stwierdzenia opisujące komunikację 
 
 ## Wykład \#3 Protokoły
 
-### WebSocket
+### WebSocket bezpołączeniowy
 
-WebSocket to protokół komunikacyjny bezpołączeniowy.
+Czy WebSocket to protokół komunikacyjny, który nie tworzy sesji?
 
 ### WebSocket a komunikacja reaktywna
 
@@ -221,7 +237,7 @@ Protokół WebSocket umożliwia reaktywną komunikację inicjowaną przez serwer
 
 ### REST
 
-REST to protokół komunikacyjny bezpołączeniowy
+REST to protokół komunikacyjny bezpołączeniowy.
 
 ### REST - komunikacja reaktywna
 
@@ -237,7 +253,107 @@ Protokół HTTP jest bezpołączeniowy i w związku z tym jego zastosowanie unie
 
 ## Wykład \#4 Semantyka danych - interoperacyjność
 
+### Pytanie o zrozumienie treści zadania
+
+W treści zadania projektowego `projekt aplikacja mobilna` jest wymaganie:
+
+```TXT
+Opracować model danych z wykorzystaniem standardu OPC Unified Architecture i harmonizować używany model obiektowy z modelem wygenerowanym automatycznie przez wybrane narzędzie
+```
+
+Wybierz co oznaczają poszczególne frazy:
+
+- Używany model obiektowy
+  - zbiór typów reprezentujących używane dane
+  - zbiór obiektów utworzonych przez instancję programu
+  - kontekst przetwarzania danych
+- Opracować model danych
+  - zdefiniować ekwiwalentne typy
+  - zdefiniować ekwiwalentny kontekst
+- harmonizować używany model obiektowy z modelem wygenerowanym automatycznie
+  - porównać wygenerowane definicje w C# z własnym kodem i umieć wyjaśnić różnice
+
+### Co to jest aplikacja rozproszona #1
+
+Aplikacja rozproszona to zbiór procesów wspólnie realizujących wybrane zadania, aby zrealizować wspólny cel.
+
+### Co to jest aplikacja rozproszona #2
+
+Aplikacja rozproszona to zbiór procesów komunikujących się wyłącznie poprzez sieć komputerową, które wspólnie realizują wybrane zadania, aby osiągnąć wspólny cel.
+
+### Komunikacja M2M
+
+Dla komunikacji typu maszyna - maszyna (ang. Machine to Machine communication (M2M)) cechą wyróżniającą jest
+
+- brak interakcji z człowiekiem
+- odpowiedni interfejs graficzny użytkownika
+
+### Serializacja/deserializacja
+
+Serializacja/deserializacja jest przydatna do budowy aplikacji rozproszonych, ale da się ją wyeliminować.
+
+### Wykorzystanie obiektów do komunikacji
+
+Aplikacja rozproszona wymaga wymiany danych pomiędzy poszczególnymi procesami ją tworzącymi.
+
+### REST to protokół
+
+REST jest protokołem komunikacyjnym.
+
+### REST czym jest
+
+REST - wybierz prawidłową odpowiedź
+
+- To protokół komunikacyjny
+- To technologia programowania
+- To koncepcja wykorzystania protokołu HTTP do pozyskiwania danych z serwera
+- To technologia bazująca na wykorzystaniu koncepcji sesji tworzonej przez klient/serwer
+- To koncepcja komunikacji pozwalająca zdefiniować kontekst semantyczny dla aplikacji rozproszonych
+
+### Object Oriented Internet
+
+Object Oriented Internet to
+
+- to protokół komunikacyjny
+- to paradygmat tworzenia aplikacji rozproszonych
+
+### Web Service (WS*)
+
+Web Service (WS*) to technologia komunikacyjna znormalizowana przez konsorcjum W3C w które (dopasuj)
+
+- XML - jest używany do zapisu danych
+- WSDL - jest używany do definiowania usług zdalnych
+- SOAP - jest protokołem komunikacyjnym pozwalającym na zdalne operowanie na obiektach
+- UDDI - jest katalogiem pozwalającym na znajdowanie definicji usług
+
+### Aplikacja interaktywna/reaktywna
+
+- rozproszona aplikacja interaktywna - bazuje na współdziałaniu client/server i tworzonej przez nich sesji niezbędnej do późniejszej wymiany danych
+- rozproszona aplikacja reaktywna - bazuje na współdziałaniu publisher/subscriber i wymianie danych bez potrzeby tworzenia jakichkolwiek związków pomiędzy tymi rolami
+- bazuje na współdziałaniu systemów operacyjnych
+- bazuje na współdziałaniu procesów z wykorzystaniem protokołu WebSocket
+
+### Metadane
+
+Pisząc program w C# do opisu danych używamy metadanych, którymi są typy/komentarze/dokumentacja
+
 ## Wykład \#5 Przetwarzanie w chmurze
+
+## Kontekst semantyczny (tak/nie)
+
+ Kontekst semantyczny to uzgodnienie pomiędzy komunikującymi się procesami alfabetu, składni i semantyki przesyłanych pomiędzy nimi danych.
+
+## Uzgodnienie kontekstu semantycznego (code first)
+
+Jedną z metod uzgodnienia kontekstu semantycznego jest współużytkowanie tych samych definicji typów pod warunkiem, że programy tworzące aplikację rozproszoną są napisane w tym samym języku.
+
+## Uzgodnienie kontekstu semantycznego (DSL)
+
+W przypadku, gdy programy tworzące aplikację rozproszoną są napisane w różnych językach programowania, kontekst semantyczny można utworzyć stosując Domain Specyfic Language do definicji typów wymienianych danych.
+
+## Przetwarzanie w chmurze
+
+Przetwarzanie w chmurze to subskrypcja usług informatycznych.
 
 ## Wykład \#6 Bezpieczeństwo komunikacji
 
@@ -248,7 +364,7 @@ Wpłynęły do mnie cztery reklamacje dotyczące treści pytań w teście. Pomim
 | Tytuł                               | Pytanie                                             | Treść                         | Uwagi                                                       |
 | ----------------------------------- | --------------------------------------------------- | ----------------------------- | ----------------------------------------------------------- |
 | Service Oriented Architecture (SOA) | Zaznacz wszystkie poprawne i wyczerpujące definicje |                               | Nie widzicie tematu, test powinien być wielokrotnego wyboru |
-| Informatyka                         | Brak                                                | Informatyka to dziedzina .... | Test powinien być innego rodzaju; uzupełnić a nie parować |
+| Informatyka                         | Brak                                                | Informatyka to dziedzina .... | Test powinien być innego rodzaju; uzupełnić a nie parować   |
 
 W związku z powyższym wszyscy niezadowoleni z wyniku testu mogą wystąpić do mnie o jego unieważnienie. Proszę o maila z prośbą o weryfikację wyniku. Oczywiście dotyczy to osób, dla których odpowiedzi na te pytania wpływały na wynik końcowy. Każdą prośbę będę analizował niezależnie.
 

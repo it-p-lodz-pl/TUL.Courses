@@ -1,5 +1,23 @@
 # Zmiany Warunków Realizacji Przedmiotu spowodowane COVID-19
 
+## Strona - powiadomienie
+
+> Zmiany Warunków Realizacji Przedmiotu spowodowane COVID-19
+
+Wychodząc naprzeciw postulatom pozwalającym na złagodzenie skutków spowodowanych szczególnymi rozwiązaniami związanymi z zapobieganiem, przeciwdziałaniem i zwalczaniem wirusa SARS-CoV-2 w Politechnice Łódzkiej proponuję zmianę warunków zaliczenia przedmiotu:
+
+1. We wrześniu zostaną zorganizowane dwa dodatkowe terminy, które pozwolą na zaliczenie
+   - Pisemny test na WIKAMP na koniec semestru
+   - Dwa sprawdziany zdalne (elearning) sprawdzające bieżącą wiedzę
+   - Laboratorium
+1. Student wybiera dowolne 3 z 5 terminów, w których przystępuje do zaliczenia zgodnie z dotychczasowymi zasadami
+1. Wybór terminu uważa się za skuteczny i obowiązujący po
+    - zgłoszeniu zadania do oceny na WIKAMP zgodnie z obowiązującymi zasadami - zgłoszenie oznacza wybór najbliższego terminu zgodnie z harmonogramem
+    - otwarciu testu na WIKAMP
+1. Terminy zaliczeń we Wrześniu zostaną podane w terminie późniejszym w wyprzedzeniem minimum 2 tygodnie.
+
+## Propozycja
+
 Wychodząc naprzeciw postulatom pozwalającym na złagodzenie skutków spowodowanych szczególnymi rozwiązaniami związanymi z zapobieganiem, przeciwdziałaniem i zwalczaniem wirusa SARS-CoV-2 w Politechnice Łódzkiej proponuję zmianę warunków zaliczenia przedmiotu:
 
 1. We wrześniu zostaną zorganizowane dwa dodatkowe terminy, które pozwolą na zaliczenie
