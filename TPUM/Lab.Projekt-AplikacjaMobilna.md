@@ -66,6 +66,27 @@ W trakcie zaliczenia mogą być poruszane zagadnienie związane z:
 - wykazania, że aplikacja jest warstwowa i wskazanie granic i relacji warstw
 - wskazaniem w programie miejsc odpowiedzialnych za produkowanie danych procesowych, komunikację pomiędzy instancjami programu, itp.
 
+## Lista kontrolna
+
+Aby zobiektywizować ocenianie zadania projektowego, mam zamiar wykorzystać następującą listę kontrolną do sprawdzania poprawności jego realizacji. Proszę sobie utworzyć Issue i skopiować do niego poniższy tekst i spróbować samemu odhaczyć zrealizowane wymagania, by sprawdzić kompletność wykonania. Lista jest przygotowana na podstawie treści zadania i nie może zawierać nowych wymagań.Wszelkie uwagi mile widziane.
+
+```TXT
+- [ ] program jest w .NET
+- [ ] program się kompiluje
+- [ ] testy jednostkowe na zielono
+- [ ] można utworzyć jednocześnie dwie instancje programu (dwa procesy)
+- [ ] instancje serwera i klienta współdziałają (test integracyjny)
+- [ ] Oba programy maja wymagane warstwy Prezentacja, Logika, Dane
+- [ ] Programy komunikują się z wykorzystaniem WebSocket
+- [ ] Oba programy korzystają ze wspólnego modelu obiektowego
+- [ ] Wykorzystano współdziałanie interaktywne
+- [ ] Wykorzystano współdziałanie reaktywne (samorzutne/subskrypcja) z wykorzystaniem mechanizmu subskrypcji zrealizowanej poprzez implementację IObservable
+- [ ] Wykorzystano serializacji z wykorzystaniem jednej ze składni składni `JSON`, `YAML`, `XML`
+- [ ] wydzielono sekcję krytyczną i zabezpieczono w niej spójność danych
+- [ ] Opracowano model wymiany danych z wykorzystaniem OPC UA
+- [ ] Harmonizacja modeli - wygenerowano ekwiwalentny model i porównano go z napisanym ręcznie
+```
+
 ## Lista źródeł
 
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
@@ -77,3 +98,5 @@ W trakcie zaliczenia mogą być poruszane zagadnienie związane z:
 - [Repo for managing Moq 4.x](https://github.com/moq/moq4)
 - [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
 - [Przykładowa implementacja repliki procesu - symulator bojlerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
+- [Address Space Model Designer](https://github.com/mpostol/ASMD/releases)
+- [Address Space Model Designer OnLine Help](https://commsvr-com.github.io/Documentation/ModelDesigner/html/a2d55988-b59a-4a87-95b9-933f6bbdf5bd.htm)
