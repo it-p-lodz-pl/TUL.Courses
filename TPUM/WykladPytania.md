@@ -45,9 +45,19 @@
   - [Kontekst semantyczny (tak/nie)](#kontekst-semantyczny-taknie)
   - [Uzgodnienie kontekstu semantycznego (code first)](#uzgodnienie-kontekstu-semantycznego-code-first)
   - [Uzgodnienie kontekstu semantycznego (DSL)](#uzgodnienie-kontekstu-semantycznego-dsl)
-  - [Przetwarzanie w chmurze](#przetwarzanie-w-chmurze)
+    - [Przetwarzanie w chmurze (tak/nie)](#przetwarzanie-w-chmurze-taknie)
   - [Wykład \#6 Bezpieczeństwo komunikacji](#wykład-6-bezpieczeństwo-komunikacji)
-  - [Błędy w teście Sprawdzian #1](#błędy-w-teście-sprawdzian-1)
+    - [Niewyrzekanie się](#niewyrzekanie-się)
+    - [Szyfrowanie danych](#szyfrowanie-danych)
+    - [Integralność danych](#integralność-danych)
+    - [Składowe bezpieczeństwa](#składowe-bezpieczeństwa)
+    - [Składanie bezpieczeństwa p2p](#składanie-bezpieczeństwa-p2p)
+    - [Szyfrowanie symetryczne](#szyfrowanie-symetryczne)
+    - [Podpis cyfrowy - klucz publiczny](#podpis-cyfrowy---klucz-publiczny)
+    - [Podpis cyfrowy - definicja](#podpis-cyfrowy---definicja)
+    - [Funkcja skrótu - kolizja](#funkcja-skrótu---kolizja)
+    - [Funkcja skrótu - wartość](#funkcja-skrótu---wartość)
+    - [Klucz sesji - procedura](#klucz-sesji---procedura)
 
 ## Wykład \#1 Wprowadzenie
 
@@ -351,21 +361,61 @@ Jedną z metod uzgodnienia kontekstu semantycznego jest współużytkowanie tych
 
 W przypadku, gdy programy tworzące aplikację rozproszoną są napisane w różnych językach programowania, kontekst semantyczny można utworzyć stosując Domain Specyfic Language do definicji typów wymienianych danych.
 
-## Przetwarzanie w chmurze
+### Przetwarzanie w chmurze (tak/nie)
 
 Przetwarzanie w chmurze to subskrypcja usług informatycznych.
 
 ## Wykład \#6 Bezpieczeństwo komunikacji
 
-## Błędy w teście Sprawdzian #1
+### Niewyrzekanie się
 
-Wpłynęły do mnie cztery reklamacje dotyczące treści pytań w teście. Pomimo należytej staranności przy układnisiu pytań, muszę stwierdzić, że reklamacje są uzasadnione. Dotyczy to pytań:
+- ochrona danych przed modyfikacją
+- ochrona danych przed niepowołanym dostępem
+- zagwarantowanie niekwestionowanego autorstwa
 
-| Tytuł                               | Pytanie                                             | Treść                         | Uwagi                                                       |
-| ----------------------------------- | --------------------------------------------------- | ----------------------------- | ----------------------------------------------------------- |
-| Service Oriented Architecture (SOA) | Zaznacz wszystkie poprawne i wyczerpujące definicje |                               | Nie widzicie tematu, test powinien być wielokrotnego wyboru |
-| Informatyka                         | Brak                                                | Informatyka to dziedzina .... | Test powinien być innego rodzaju; uzupełnić a nie parować   |
+### Szyfrowanie danych
 
-W związku z powyższym wszyscy niezadowoleni z wyniku testu mogą wystąpić do mnie o jego unieważnienie. Proszę o maila z prośbą o weryfikację wyniku. Oczywiście dotyczy to osób, dla których odpowiedzi na te pytania wpływały na wynik końcowy. Każdą prośbę będę analizował niezależnie.
+Szyfrowanie danych polega na zastąpieniu strumienia bitów strumieniem ekwiwalentnym, w którym przestają obowiązywać pierwotne reguły składniowe. To powoduje, że, w konsekwencji do takiego strumienia nie można zastosować reguł semantycznym, a więc przypisania reprezentowanej informacji.
 
-Bardzo przepraszam za kłopot i niedogodności. Termin reklamacji upływa 31-05-2020.
+### Integralność danych
+
+Zapewnienie integralności danych chroni reprezentowaną prze nie informację przed dostępem osób postronnych.
+
+### Składowe bezpieczeństwa
+
+Poprawa bezpieczeństwa polega na:
+
+- zastosowaniu odpowiedniej procedury, która narzucają odpowiedni sposób prowadzenia działań
+- zastosowaniu odpowiedniej technologii, która określa odpowiednie środki techniczne
+
+### Składanie bezpieczeństwa p2p
+
+Jeśli dane są retransmitowane przez wile węzłów sieci komputerowej, to bezpieczne połączenie pomiędzy poszczególnymi węzłami (zwane bezpieczeństwem p2p) jest wystarczające do zagwarantowania bezpieczeństwa pomiędzy ich źródłem a ostatecznym odbiorcą (zwane bezpieczeństwem end-to-end).
+
+### Szyfrowanie symetryczne
+
+W kryptografii symetrycznej do szyfrowania i deszyfrowania używa się identycznych kluczy, które muszą być w posiadaniu nadawcy i odbiorcy danych.
+
+### Podpis cyfrowy - klucz publiczny
+
+W kryptografii asymetrycznej wejście w posiadanie klucza, służącego do sprawdzania podpisu cyfrowego, przez osoby postronne należy uważać za naruszenie kontekstu bezpieczeństwa.
+
+### Podpis cyfrowy - definicja
+
+Podpis cyfrowy wybranego ciągu bitów to zaszyfrowana kluczem prywatnym wartość skrótu dla tego ciągu.
+
+### Funkcja skrótu - kolizja
+
+Funkcja skrótu generuje wartość, która powinna być różna dla różnych strumieni bitów. W przypadku, gdy generowana jest taka sam wartość mówimy o kolizji.
+
+### Funkcja skrótu - wartość
+
+Wartość wybranej funkcji skrótu jest ciągiem bitów o ścisłe określonej długości.
+
+### Klucz sesji - procedura 
+
+Aby wykorzystać kryptografię asymetryczną do bezpiecznego uzgodnienia klucza sesji, partnerzy powinni:
+
+- Zaszyfrować klucz symetryczny wybranym kluczem publicznym
+- Przesłać szyfrogram do ostatecznego miejsca przeznaczenia
+- Deszyfrować klucz symetryczny odpowiednim kluczem prywatnym
