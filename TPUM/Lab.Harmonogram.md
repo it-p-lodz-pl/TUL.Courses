@@ -28,6 +28,21 @@
 
 [Projekt]: https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180
 
+## Wrzesień 2020 - dodtakowe terminy zaliczenia
+
+### Laboratorium
+
+Zgodnie z obietnicą, w trakcie wrześniowej części letniej sesji egzaminacyjnej są dwa dodatkowe (ekstraordynaryjne) terminy poprawkowe. Nadal obowiązuje zasada 3 z 5, choć teraz walczymy tylko o minimum zaliczeniowe. Wszystkich, którym nie udało się zaliczyć w planowym terminie, proszę o rejetrscję gotowości zaliczenia „Projekt aplikacja mobilna” zgodnie z regulaminem na WIKAMP i zarezerwowanie terminu konsultacji za pośrednictwem `Asystenta planowania` Teams w następujących dodatkowych terminach.
+
+- 07-09-2020 godz 16:00-18:00
+- 14-09-2020 godz 16:00-18:00
+
+Jeśli limit zgłoszeń (4 grupy) zostanie przekroczony, trzeba się liczyć z propozycja innego terminu w innych dniach tygodnia i godzinach 16-18.
+
+### Wykład
+
+W trakcie dodatkowych terminów zaliczenia laboratorium będzie również otwarty test kolokwium.
+
 Zgodnie z ustaleniami uaktualniłem tabelkę z harmonogramem zaliczeń zajęć projektowych. Fakultatywny etap `Projekt etap 2` opublikuję wkrótce. Mam w planie omówić go w czwartek 07-05-20 godz. 18 na zajęciach projektowych. Wszelkie uwagi, propozycje pytania proszę do mnie zgłaszać na email. Odpowiem na wspomnianych wcześniej zajęciach.
 
 ## Szczegółowy plan zajęć laboratoryjnych

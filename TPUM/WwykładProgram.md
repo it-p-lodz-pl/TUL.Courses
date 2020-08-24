@@ -19,7 +19,7 @@
 
 UWAGI:
 
-- We wszystkich terminach odpowiedni moduł bezie dostępny zdalnie.
+- We wszystkich terminach odpowiedni moduł bęzie dostępny zdalnie.
 - Sprawdzian 1 obejmuje wykłady 4, 6, 8 (tydzień)
 - Sprawdzian 2 obejmuje wykłady 10, 12, 14 (tydzień)
 
