@@ -1,4 +1,4 @@
-# Komunikacja #
+# Komunikacja
 
 1. Oficjalnie do komunikacji używamy `WIKAMP` lub `ZIMBRA`
 2. Kroki milowe w tworzeniu oprogramowania zgłaszanie w module [..]. Do zgłoszenia trzeba dołączyć raport jako tekst zwrotny i załączyć plik logu potwierdzający realizację wybranej funkcjonalności  
