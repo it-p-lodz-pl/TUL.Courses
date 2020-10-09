@@ -1,0 +1,2 @@
+# Projektowanie aplikacji logistycznych (PAL)
+
