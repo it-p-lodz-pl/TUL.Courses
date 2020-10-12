@@ -66,17 +66,17 @@ You have been enrolled as you are on the students' list I have got. Unenroll fro
 
 The task completion must be reported up to 24:00 the day before the date enumerated in the following table.
 
-| Task   | Deadline [week (date)] |
-| ------ | ---------------------- |
-| Task 1 | 05 (10.11.2020)        |
-| Task 4 | 10 (15.12.2020)        |
+|  Task  | Deadline [week (date)] |
+| :----: | :--------------------: |
+| Task 1 |    05 (10.11.2020)     |
+| Task 2 |    10 (15.12.2020)     |
 
 > **Notes:**
 
 - Scores for one task 10..20
 - The task completion must be reported up to 24:00 the day before. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task.
   
-> **NOTE: Late report decreases the max score by 2 a week.**
+> **NOTE: Late report decreases the max score by 2.5 a week.**
 
 ### Laboratory group selection
 
