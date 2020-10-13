@@ -88,4 +88,21 @@ Table: List of available groups
 | 2020.10 | Laboratory class starting at **Tuesday at 10:15**. |
 | 2020.12 | Laboratory class starting at **Tuesday at 12:15**. |
 
-### Internal
+## References
+
+### Online
+
+- [csharp (C#) Teaching of Programming (TP)](https://github.com/mpostol/TP#csharp-c-teaching-of-programming-tp-)
+- [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
+- [What is .NET? [1 of 8]](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
+- [C# documentation](https://docs.microsoft.com/dotnet/csharp/)
+- [Welcome to .NET](https://docs.microsoft.com/dotnet/welcome)
+
+## Books examples
+
+- [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
+- Ch. Nagel, Professional C# 6 and .NET Core 1.0, 2016.
+- M. Michaelis, E. Lippert, Essential C# 6.0, 2015.
+- J. Hilyard, S. Teilhet, C# 6.0 Cookbook, 2015.
+
+## Internal

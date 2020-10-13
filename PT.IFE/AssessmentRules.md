@@ -1,26 +1,26 @@
 # Assessment – grading scale
 
 1. Final grade – max 100
-  - Seminar: 60
+   - Seminar: 60
      - Test: 40
      - Activity: 20
-  - Laboratory: 40 (2x20) 
+   - Laboratory: 40 (2x20)
 
->Notes:
->
->1. minimum 50% for each
->2. Lab: 
->    - task 1
->    - task 4
->    - task 4 may be expanded on request
-> - Assessment: 20 p. for each.
+## Notes
 
+You have 3 attempts for each.
+You must get a minimum of 50% for each, i.e.
+
+1. Seminar (grade: 30..60)
+1. Laboratory 20..40 (**for deadline violation penalty is 2.5 points a week.**)
+    - task 1  (grade: 10..20)
+    - task 2  (grade: 10..20)
 
 # Regulamin zaliczania przedmiotu
 
 1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
  
-1. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
+2. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
 
   1.	Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów.
   1.	Aktywności na seminarium – maksymalnie 20 punktów.
