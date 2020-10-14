@@ -1,7 +1,7 @@
 ---
 name: CoursePrepareSetup
 about: Course prepare and setup.
-title: '\<name\>Course prepare and setup'
+title: '\<name\> course prepare and setup'
 labels: 'Feature request'
 assignees: 'mpostol'
 ---
@@ -14,6 +14,7 @@ assignees: 'mpostol'
   - [ ] Prepare and send invitation message
     - [ ] Add group selection module link
     - [ ] Add lab team link; harmonize with the `Teams\Add team link to invitation message` entry
+  - [ ] Attendees list for the lab
   - [ ] Calendar odd/even weeks - schedule master plan
   - [ ] Task 1
   - [ ] Task 2
