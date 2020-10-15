@@ -17,7 +17,7 @@ assignees: 'mpostol'
   - [ ] Session attending list for lab
   - [ ] Calendar odd/even weeks - master plan of the schedule
   - [ ] Seminar assessment page to publish activity report
-  - { ] Lab tasks
+  - [ ] Lab tasks
     - [ ] Task 1 description
     - [ ] Task 1 check list
     - [ ] Task 2 description

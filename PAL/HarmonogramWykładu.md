@@ -7,12 +7,11 @@
 - proces tworzenia programów komputerowych
 - architektura systemów informatycznych
 
-## Wykład 2-3 - projektowanie algorytmów dla programów komputerowych 
+## Wykład 2-3 - projektowanie algorytmów dla programów komputerowych
 
 > jak opisać, co programista ma zrobić
 
 - projektowanie algorytmów programów komputerowych dla wybranych procedur logistycznych (dostawa/odbiór) z wykorzystaniem BPMN
-
 
 ## Wykłady 4-5 Zarządzanie projektami informatycznymi
 
@@ -20,7 +19,6 @@
 
 - zarządzanie kaskadowe (waterfall)
 - zarządzanie zwinne (agile)
- 
 
 ## Wykład 6-7 - Dane - Programowanie w praktyce
 
