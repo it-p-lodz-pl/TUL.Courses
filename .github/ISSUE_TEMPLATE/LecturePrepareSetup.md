@@ -1,7 +1,7 @@
 ---
 name: LecturePrepareSetup
 about: Lecture prepare and setup
-title: '\<data-course name\>-L: prepare and setup lecture W\#\<number\>'
+title: '<data-CourseName>-L: prepare and setup lecture W#<number>'
 labels: 'Feature request'
 assignees: 'mpostol'
 ---
