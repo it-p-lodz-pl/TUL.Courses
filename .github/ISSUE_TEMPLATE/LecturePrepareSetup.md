@@ -14,7 +14,10 @@ assignees: 'mpostol'
 - [ ] Presentation - master plan
 - [ ] Questions
 - [ ] Review Repository
-- [ ] WIKAMP - add link to recorded video on WIKAMP
+- [ ] WIKAMP - video publication
   - [ ] Prepare thumbnail page
-  - [ ] Upload vide
-  - [ ] Review the meeting report
+  - [ ] Upload video
+  - [ ] post the information on the forum
+- [ ] WIKAMP Q/A results publications
+  - [ ] Review the meeting report and publish results
+  - [ ] Publish answers result
