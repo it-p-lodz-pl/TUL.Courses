@@ -1,7 +1,7 @@
 ---
 name: ProjectPrepareSetup
 about: Project laboratory prepare and setup
-title: '\<course name\>-P: prepare and setup project for W\#\<number\>'
+title: '\<data-course name\>-P: prepare and setup project for W\#\<number\>'
 labels: 'Feature request'
 assignees: 'mpostol'
 ---
