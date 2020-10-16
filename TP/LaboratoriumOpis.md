@@ -1,6 +1,26 @@
 # Laboratorium
 
-## Harmonogram
+## Ramowy harmonogram
+
+* 1 Wprowadzenie do laboratorium
+* 2 Środowisko
+  * Visual Studio
+  * GitHub
+  * Praca w parach + TDD + podstawy wstrzykiwania zależności
+* 3 Zadania
+  * Omówienie
+  * Pytania
+  * Projekt
+* 4 Sprawdzenie zgodności środowisk
+* GitHub
+* VS kompilacja
+* VS Testy Jednostkowe
+* 5-7 Zadanie 1
+* 8-10 Zadanie 2 lub Projekt 1
+* 11-13 Zadanie 3 lub Projekt 2
+* 14-15 Zadanie 4 lub Projekt 3
+
+## Terminy i warunki oddania zadań
 
 | Zadanie        | Termin oddania (zajęcia/zjazd) |
 | -------------- | :----------------------------: |
@@ -11,6 +31,7 @@
 
 ## Uwagi
 
+* Zajęcia są realizowane za pośrednictwem [Teams zespół 21-Technologie Programowania Rozproszonego](https://teams.microsoft.com/l/team/19%3a756b8bc45643438b926e464ee1610547%40thread.tacv2/conversations?groupId=9a230ac5-833f-4492-bf31-9f92acad09a1&amp;tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 * Ocena za zadania 5..10 punktów
 * Studenci studiów stacjonarnych wykonanie zadania muszą zgłosić do 24:00 w dniu poprzedzającym zajęcia.
 * Studenci studiów niestacjonarnych wykonanie zadania muszą zgłosić do 24:00 w czwartek poprzedzający zajęcia (zjazd)
