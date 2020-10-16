@@ -6,6 +6,7 @@ Składnia tytułu `Tytuł, Data, Tydzień`
 
 ## Wykład 1: Wprowadzenie, 14.10, #02
 
+[Aktywność odpowiedzi](https://ftims.edu.p.lodz.pl/mod/resource/view.php?id=81190)
 [Open video](https://youtu.be/ADhiNW-shI0)
 
 ## Forum message
