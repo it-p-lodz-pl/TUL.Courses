@@ -15,7 +15,10 @@ assignees: 'mpostol'
     - [ ] Add group selection module link
     - [ ] Add lab team link; harmonize with the `Teams\Add team link to invitation message` entry
   - [ ] Session attending list for lab
-  - [ ] Calendar odd/even weeks - master plan of the schedule
+  - [ ] Schedule master plan
+    - [ ] Calendar odd/even weeks
+    - [ ] Lab schedule
+    - [ ] Lecture schedule
   - [ ] Seminar assessment page to publish activity report
   - [ ] Lab tasks
     - [ ] Task 1 description
