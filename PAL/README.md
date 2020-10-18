@@ -18,7 +18,7 @@ Klucz do samodzielnego zapisu **PAL**. Po zapisaniu się proszę dokonać wyboru
 
 ### Samodzielny zapis
 
-Uczestników kursu Programowanie Aplikacji Logistycznych proszę o samodzielne zapisywanie się na kurs. Kurs dostępny jest na WIKAMP: https://ftims.edu.p.lodz.pl/course/view.php?id=720 Klucz dostępu: PAL.
+Uczestników kursu Programowanie Aplikacji Logistycznych proszę o samodzielne zapisywanie się na kurs. Kurs dostępny jest na WIKAMP: [https://ftims.edu.p.lodz.pl/course/view.php?id=720](https://ftims.edu.p.lodz.pl/course/view.php?id=720) Klucz dostępu: PAL.
 
 Po zapisaniu się proszę niezwłocznie dokonać wyboru grupy laboratoryjnej w module Wybór grupy.
 
@@ -33,10 +33,10 @@ Zajęcia prowadzą:
 
 ### Opis modułu
 
-W roku akademickim 2020 zajęcia są realizowane z wykorzystaniem technik nauczania na odległość. 
+W roku akademickim 2020 zajęcia są realizowane z wykorzystaniem technik nauczania na odległość.
 
 Zajęcia laboratoryjne są realizowane z wykorzystaniem aplikacji MS Teams. Prosimy o kontakt z prowadzącym grupę laboratoryjną o dostarczenie szczegółów pozwalających na udział w zajęciach.
-Wykład jest realizowany z wykorzystaniem platformy [WEBINAR](https://edu.p.lodz.pl/blocks/mrbs/web/day.php?day=15&month=10&year=2020). 
+Wykład jest realizowany z wykorzystaniem platformy [WEBINAR](https://edu.p.lodz.pl/blocks/mrbs/web/day.php?day=15&month=10&year=2020).
 
 Zajęcia prowadzą:
 
@@ -64,16 +64,16 @@ Zajęcia prowadzą:
 
 ### Harmonogram zajęć
 
-| Tydzień  |  Wykład  |  Data  |                                       Rezerwacja                                       |
-| :------: | :------: | :----: | :------------------------------------------------------------------------------------: |
-| ________ | ________ | ______ |                              ____________________________                              |
-|    2     |    1     | 20.10  | [webPokój 25](https://edu.p.lodz.pl/blocks/mrbs/web/day.php?day=15&month=10&year=2020) |
-|    4     |    2     | 03.11  | [webPokój 25](https://edu.p.lodz.pl/blocks/mrbs/web/day.php?day=15&month=10&year=2020) |
-|    6     |    3     | 17.11  |                                                                                        |
-|    8     |    4     | 01.12  |                                                                                        |
-|    10    |    5     | 15.12  |                                                                                        |
-|    12    |    6     | 12.01  |                                                                                        |
-|    14    |    7     | 26.01  |                                                                                        |
+|  Tydzień  |   Wykład    |    Data     |                                       Rezerwacja                                       |
+| :-------: | :---------: | :---------: | :------------------------------------------------------------------------------------: |
+| _________ | ___________ | ___________ |
+|     2     |      1      |    20.10    | [webPokój 25](https://edu.p.lodz.pl/blocks/mrbs/web/day.php?day=15&month=10&year=2020) |
+|     4     |      2      |    03.11    | [webPokój 25](https://edu.p.lodz.pl/blocks/mrbs/web/day.php?day=15&month=10&year=2020) |
+|     6     |      3      |    17.11    |                                                                                        |
+|     8     |      4      |    01.12    |                                                                                        |
+|    10     |      5      |    15.12    |                                                                                        |
+|    12     |      6      |    12.01    |                                                                                        |
+|    14     |      7      |    26.01    |                                                                                        |
 
 UWAGA: Tabela będzie uzupełniana sukcesywnie przed kolejnymi zajęciami
 
@@ -134,4 +134,3 @@ Jest tam zdefiniowany termin. Osoby, które planują w tych zajęciach brać udz
 - PAL Laboratorium
 - Lista obecności na WIKAMP. Hasło do samodzielnego rejestrowania obecności zostanie podane na zajęciach.
 - Agenda
-
