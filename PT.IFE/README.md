@@ -64,6 +64,21 @@ You have been enrolled as you are on the students' list I have got. Unenroll fro
 
 ### Schedule
 
+- Week \#01
+  - About the curse
+  - Prerequisites
+- Week \#02 (help needed - there will be a reward !!)
+  - Introduction to development environment
+  - Programming in pairs, Test Driven Development, Dependency Injection
+- Week \#03 - Q/A: Task 1 and Task 2 detailed description
+- Week \#04 - Environment compatibility
+- Week \#05..09 - Task 1
+- Week \#10..15 - Task 2
+
+Laboratory classes are conducted on the Teams platform. Join the team [21-Programming Technology](https://teams.microsoft.com/l/team/19%3a37d33599bd774b1dbd926850bc224665%40thread.tacv2/conversations?groupId=3c895cdd-60dd-474e-af38-74ca916dd49f&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+
+### Tasks deadline
+
 The task completion must be reported up to 24:00 the day before the date enumerated in the following table.
 
 |  Task  | Deadline [week (date)] |
@@ -71,12 +86,12 @@ The task completion must be reported up to 24:00 the day before the date enumera
 | Task 1 |    05 (10.11.2020)     |
 | Task 2 |    10 (15.12.2020)     |
 
-> **Notes:**
+#### **Notes:**
 
 - Scores for one task 10..20
 - The task completion must be reported up to 24:00 the day before. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task.
   
-> **NOTE: Late report decreases the max score by 2.5 a week.**
+#### **NOTE: Late report decreases the max score by 2.5 a week.**
 
 ### Laboratory group selection
 
