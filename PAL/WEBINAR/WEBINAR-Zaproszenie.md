@@ -7,7 +7,7 @@ Zaproszenie na wykład realizowany zdalnie w ramach kursu **Programowanie Aplika
 | Nazwa                     |                                              Opis                                               |
 | :------------------------ | :---------------------------------------------------------------------------------------------: |
 | Temat                     |                                   **Wykład: Temat spotkania**                                   |
-| Początek                  |                                14:15 - wtorek 14 października 2020                                |
+| Początek                  |                                14:15 - wtorek \<data>\                                |
 | Czas trwania              |                                           1.5 godziny                                           |
 | Hasło                     |                                             `TPMP`                                              |
 | PIN do aplikacji mobilnej |                                            ---------                                            |
@@ -20,7 +20,7 @@ Zaproszenie na wykład realizowany zdalnie w ramach kursu **Programowanie Aplika
 
 ## Instrukcja dla uczestnika
 
-1. Aby wejść do pokoju webinariowego należy kliknąć przycisk: "Wejdź jako uczestnik" znajdujący w tabelce powyżej. Następnie należy wpisać swój email politechniczny oraz podać hasło podane w tabeli.
+1. Aby wejść do pokoju webinariowego należy kliknąć link: "Wejdź jako uczestnik" znajdujący w tabelce powyżej. Następnie należy wpisać swój email politechniczny oraz podać hasło podane w tabeli.
 1. Prosimy nie wpisywać hasła do poczty, jest ono w tym przypadku zupełnie niepotrzebne. Obowiązujące hasło zostało podane w tabeli.
 1. By czynnie uczestniczyć w sesji zdalnej zalecana jest przeglądarka Chrome, Firefox lub Safari. Będzie potrzebna pełna obsługa dźwięku i kamery.
 1. W pokoju jest aktualnie uruchomiona poczekalnia która pozwala zweryfikować czy Państwa komputer spełnia wymogi platformy webinariów.
