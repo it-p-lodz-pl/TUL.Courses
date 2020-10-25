@@ -1,18 +1,18 @@
-# Zarejestrowane zajęcia
+# Zarejestrowane materiały z wykładu
 
-Nagrania wideo z wybranych zajęć.
+## Sekcja
 
-Składnia tytułu `Tytuł, Data, Tydzień`
+### Sekcja zwiera
 
-## Wykład 1: Wprowadzenie, 14.10, #02
+- zarejestrowane wykłady
+- aktywność - pliki z poprawnymi odpowiedziami na pytania
 
-[Open video](https://youtu.be/ADhiNW-shI0)
+### Aktywność
 
-## Forum message
+- Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu `Wykład aktywność` nie później niż do następnego wykładu.
+- Odpowiedzi udzielone na pierwszym wykładzie nie są zaliczane do aktywności.
 
-Zgodnie z obietnicą opublikowałem nagranie z ostatniego wykładu [Recordings](https://ftims.edu.p.lodz.pl/course/view.php?id=720#section-4)
-
-## To be used
+## \<Data\> Wykład - tytuł \#numer Tydzień: \#
 
 Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
@@ -20,9 +20,7 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 | :----------- | :------------------------------: |
 | Temat        |       **Temat spotkania**        |
 | Początek     |           \<DateTime\>           |
-| Czas trwania |            2 godziny             |
 | Link         | [odtwórz film na YouTube]`link`  |
-| prezentacja  | [Otwórz prezentację]\(\<link\>\) |
 
 ## Agenda
 
