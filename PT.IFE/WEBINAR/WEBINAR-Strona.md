@@ -12,6 +12,10 @@ Title syntax `Title, Date, Week`
 
 [Open video](https://youtu.be/JW8TInqJv50)
 
+## Laboratory:  GitHub, VisualStudio, 20.10, #02
+
+[Open video](https://youtu.be/DSzQWy8WnAE)
+
 ## Forum message
 
 Let me inform you that I have just published available [Recordings](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3).
