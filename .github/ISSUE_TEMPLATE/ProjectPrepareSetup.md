@@ -10,6 +10,9 @@ assignees: 'mpostol'
   - [ ] Presentation
   - [ ] README agenda
 - [ ] Teams create calendar entry
+  - [ ] Title
+  - [ ] Date time
+  - [ ] Agenda
 - [ ] Review the `Outlook` calendar
 - [ ] WIKAMP prepare and send invitation message
 - [ ] Review Repository
