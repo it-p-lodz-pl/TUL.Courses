@@ -11,7 +11,7 @@
 1. Type concept
 1. Anonymous type
 1. Partial types and methods
-1. Generics 
+1. Generics
 
 ## Lesson 3: Data streams
 

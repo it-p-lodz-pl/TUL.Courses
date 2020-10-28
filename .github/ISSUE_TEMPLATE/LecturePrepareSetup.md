@@ -14,10 +14,11 @@ assignees: 'mpostol'
 - [ ] Presentation - master plan
 - [ ] Questions
 - [ ] Review Repository
-- [ ] WIKAMP - video publication
-  - [ ] Prepare thumbnail page
-  - [ ] Upload video
-  - [ ] post the information on the forum
-- [ ] WIKAMP Q/A results publications
-  - [ ] Review the meeting report and publish results
-  - [ ] Publish answers result
+- [ ] Postprocessing
+  - [ ] WIKAMP - video publication
+    - [ ] Prepare thumbnail page
+    - [ ] Upload video
+    - [ ] post the information on the forum
+  - [ ] WIKAMP Q/A results publications
+    - [ ] Review the meeting report and publish results
+    - [ ] Publish answers result
