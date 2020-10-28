@@ -1,20 +1,20 @@
 # TP IFE
 
-## Introduction
+## Course Administration
 
-### Kod: 07 67 5030 17
+### Preface
 
-### Course title: Programming Technologies
+#### Kod: 07 67 5030 17
 
-### Course objective
+#### Course title: Programming Technologies
+
+#### Course objective
 
 1. Allow students to become familiar with the syntax of C# programming language and the structure of .NET Framework together with the basics of applications development process using a dedicated programming environment.
 2. Allow students to become familiar with known software design patterns and their practical implementations in .NET Framework.
 3. Allow students to acquire practical software development skills for .NET Framework while using the Visual Studio development environment.
 
-### [WIKAMP Content](https://ife.edu.p.lodz.pl/course/view.php?id=224)
-
-## Administration
+#### [WIKAMP Content](https://ife.edu.p.lodz.pl/course/view.php?id=224)
 
 ### Edit Settings
 
@@ -48,6 +48,8 @@ The course discusses solutions for practical scenarios regarding various aspects
 
 Welcome to the Programming Technologies course! We are excited to have you as part of our membership. After enrolling, you must select a laboratory group.
 
+### Forum
+
 #### Enrolment message on forum
 
 Welcome to the Programming Technologies course! We are excited to have you as part of our membership. After enrolling, you must select a group using the [module Laboratory group selection](https://ife.edu.p.lodz.pl/mod/choicegroup/view.php?id=11193).
@@ -56,53 +58,53 @@ The laboratory classes will be conducted using the Microsoft Teams platform. You
 
 You have been enrolled as you are on the students' list I have got. Unenroll from PT, and contact me immediately if you have been enrolled in this group by mistake.
 
-## General
+## Section `General`
 
-## Lecture
+## Section `Lecture`
 
-## Lecture Schedule
+### Table of topics
 
-### Lesson 1: Introduction
+#### Lesson 1: Introduction
 
 1. About the course, information versus data, algorithm versus program, type - what does it mean
 1. Useful assets: C# language, Visual Studio, GitHub
 1. Program robustness: exception, unit tests, environment simulation
 
-### Lesson 2: Data semantics
+#### Lesson 2: Data semantics
 
 1. Type concept
 1. Anonymous type
 1. Partial types and methods
 1. Generics
 
-### Lesson 3: Data streams
+#### Lesson 3: Data streams
 
 1. File and Stream Concepts
 1. Attributes
 1. Reflection
 1. Serialization
 
-### Lesson 4: Functional programming basics
+#### Lesson 4: Functional programming basics
 
 1. Anonymous function and lambda expression
 1. Extension method
 
-### Lesson 5: Structural Data
+#### Lesson 5: Structural Data
 
 1. LINQ query and methods syntax
 1. LINQ to object
 
-### Lesson 6: Structural Data
+#### Lesson 6: Structural Data
 
 1. LINQ to SQL
 
-### Lesson 7 Graphical data
+#### Lesson 7 Graphical data
 
 1. Delegates and events
 1. [xaml](https://docs.microsoft.com/dotnet/framework/xaml-services/)
 1. MVVM (Model, View, ViewModel) pattern
 
-## Laboratory
+## Section `Laboratory`
 
 ### Laboratory Schedule
 
@@ -145,7 +147,7 @@ Table: List of available groups
 | 2020.10 | Laboratory class starting at **Tuesday at 10:15**. |
 | 2020.12 | Laboratory class starting at **Tuesday at 12:15**. |
 
-## Lab - Alternative Path
+### Lab - Alternative Path
 
 Referring to my promise regarding the possibility of implementing a more ambitious project, instead of task 2, I have a question:
 
@@ -155,7 +157,38 @@ I will ask for information as soon as possible because the task needs to be prep
 
 Contact me by email or on the Teams platform.
 
-## References
+## Section `Recordings`
+
+### Recording page
+
+```txt
+This section contains:
+
+- Video recordings of the selected classes.
+- activity - files with the corrected Q/A dialog on chat
+```
+
+> File name: `<Date> [LectureRecording|LaboratoryRecording] #<numer> <title>|LectureActivity`
+
+### WIKAMP Forum
+
+### I have just published the last lecture recording and activity 
+
+Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains a lecture recording and also file with the corrected Q/A dialog on chat. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievement must be reported before the next lecture.
+
+#### NOTE
+
+1. The list contains just acceptable answers. Most of them are not suitable to pass the final test. The list reflects your activity but not the correctness of your answers.
+1. During your workout assessment, you will have to prove that something is true without any doubts using only terms defined by the programming language (usually any programming language).
+1. Sometimes I may be wrong, so if you believe that your answer was correct but it has been removed from the list don't hesitate and schedule a meeting with me to get more and review your answers.
+
+#### How to improve your correctness
+
+1. Use only terms defined by the language (usually any programming language), e.g. set of classes versus set of functionality. 
+2. Use an unambiguous ("measurable" ) description that allows the creation of a condition to distinguish if something is true or not, e.g. how to distinguish if two items are tightly or loosely coupled.
+3. Take care to distinguish the software life cycle, i.e. talk about classes in the context of software development, talk about objects (instances of the classes) in the context of program execution.
+
+## Section `References`
 
 ### Online
 
@@ -165,7 +198,7 @@ Contact me by email or on the Teams platform.
 - [C# documentation](https://docs.microsoft.com/dotnet/csharp/)
 - [Welcome to .NET](https://docs.microsoft.com/dotnet/welcome)
 
-## Books examples
+### Books examples
 
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
 - Ch. Nagel, Professional C# 6 and .NET Core 1.0, 2016.

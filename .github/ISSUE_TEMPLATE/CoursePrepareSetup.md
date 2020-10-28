@@ -5,6 +5,7 @@ title: '<CourseName> course prepare and setup'
 labels: 'Feature request'
 assignees: 'mpostol'
 ---
+
 - [ ] Outlook calendar
 - [ ] WIKAMP
   - [ ] Course summary
@@ -19,7 +20,6 @@ assignees: 'mpostol'
     - [ ] Calendar odd/even weeks
     - [ ] Lab schedule
     - [ ] Lecture schedule
-  - [ ] Seminar assessment page to publish activity report
   - [ ] Lab tasks
     - [ ] Task 1 description
     - [ ] Task 1 check list
@@ -36,6 +36,7 @@ assignees: 'mpostol'
   - [ ] WIKAMP schedule page
   - [ ] WIKAMP forum invitation template
   - [ ] WIKAMP Recordings template
+  - [ ] Activity report
 - [ ] Teams
   - [ ] Create lab team
   - [ ] Add team link to invitation message
