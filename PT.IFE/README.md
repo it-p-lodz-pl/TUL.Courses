@@ -157,6 +157,24 @@ I will ask for information as soon as possible because the task needs to be prep
 
 Contact me by email or on the Teams platform.
 
+### GitHub README.md template file
+
+Your repository must have the `README.md` file prepared according to this template. Place the README.md file in the main directory of the repository. A GUID is required for identification. This GUID can be generated using `VS \ Tools \ Create GUID`. Don't use example GUIDs embedded in the template.
+
+### Lab \04 Reservation
+
+#### Message
+
+I would like to invite you to a remote Laboratory class \<data\> as part of the course **Programming Technologies**. Laboratory classes are conducted on the Teams platform.
+
+Please book a time-slot for # 4 laboratory using the appropriate module `Environment Compliance Check` to check the progress of your work and compatibility of design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS \ Tools \ Create GUID`.
+
+#### Reservation module
+
+- \<data\> Lab \04 Reservation
+
+Please book a time-slot for # 4 laboratory using this module to check the progress of your work and compatibility of design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS \ Tools \ Create GUID`.
+
 ## Section `Recordings`
 
 ### Recording page
