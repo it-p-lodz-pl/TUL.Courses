@@ -26,7 +26,6 @@ Zgodnie z obietnicą opublikowałem nagranie z ostatniego wykładu [Recordings](
 |  11   | Seminar Lesson 6: Structural data               | 16.12 |            |
 |  13   | Seminar Lesson 7: Graphical data                | 27.01 |            |
 
-
 Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
 | Nazwa        |                           Opis                            |
