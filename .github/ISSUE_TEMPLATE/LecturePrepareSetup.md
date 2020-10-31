@@ -10,7 +10,9 @@ assignees: 'mpostol'
 - [ ] Webinar
   - [ ] [Make Room Booking](https://edu.p.lodz.pl/blocks/mrbs/web/day.php?area_id=6&day=14&month=10&year=2020&lang=en)
   - [ ] Add URL to the schedule
-- [ ] WIKAMP prepare and send invitation message
+- [ ] WIKAMP invitation
+  - [ ] prepare message
+  - [ ] send message
 - [ ] Presentation - master plan
 - [ ] Questions
 - [ ] Review Repository
