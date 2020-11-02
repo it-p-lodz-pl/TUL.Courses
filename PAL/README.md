@@ -134,3 +134,24 @@ Jest tam zdefiniowany termin. Osoby, które planują w tych zajęciach brać udz
 - PAL Laboratorium
 - Lista obecności na WIKAMP. Hasło do samodzielnego rejestrowania obecności zostanie podane na zajęciach.
 - Agenda
+
+## Materiały pomocnicze
+
+- [Edytor BPMN online (VP Online)](https://online.visual-paradigm.com/diagrams)
+- [Web-based tooling for BPMN, DMN and CMMN.](https://bpmn.io/)
+- [BPMN 2.0 Symbol Reference](https://camunda.com/bpmn/reference)
+- [Business Process Model and Notation; Rel 2.0 (BPMN; ong.org)](https://www.omg.org/spec/BPMN/2.0/PDF/)
+- [Edytor danych JSON](https://jsoneditoronline.org/)
+- [The JavaScript Object Notation (JSON) Data Interchange Format; RFC8259](https://datatracker.ietf.org/doc/rfc8259/)
+  - JavaScript Object Notation (JSON) is a lightweight, text-based,   language-independent data interchange format.  It was derived from the ECMAScript Programming Language Standard.  JSON defines a small set of formatting rules for the portable representation of structured data.
+- [Język C# w praktyce. Kurs video. Przetwarzanie danych zew](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
+  - Dane - Programowanie w praktyce - literatura uzupełniająca
+    - Dane proste
+    - Dane złożone
+    - Dane Strukturalne
+    - Dane Obiektowe
+    - Dane Graficzne
+    - Dane strumieniowe (XML, JSON)
+    - Bazy danych
+  - **UWAGA**: pozycja przeznaczona raczej dla programistów praktyków.
+  
