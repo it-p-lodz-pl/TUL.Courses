@@ -26,11 +26,11 @@ The following information should be represented:
 
 ### `Logic` layer
 
-This layer should provide all functionality relevant to the selected business process.  
+This layer should provide all functionality relevant to the selected business process.
 
 ### Unit Tests
 
-Use the Unit Test to prove the correctness of the proposed solution During the preparation phase the test must initialize the data being processed. Dependency Injection is very helpful to implement this functionality.
+Use the Unit Test to prove the correctness of the proposed solution. During the preparation phase the test must initialize the data being processed. Dependency Injection is very helpful to implement this functionality.
 
 ## Notes
 

@@ -50,6 +50,24 @@ Welcome to the Programming Technologies course! We are excited to have you as pa
 
 ### Forum
 
+I have been asked by the University Authority to harmonize the schedule with the current situation, and especially the late enrolment of some course members. I agree with that so I decided to postpone the deadline for Task 1 from lesson 5 (10-11-2020) to lesson 6 (17-11-2020). 
+
+During the next laboratory, we will repeat the same agenda as for lesson 4, and as a result, you will have the opportunity to reserve a place in the line to validate your code against my environment and assessment rules. Again, it is your opportunity but not a requirement. Add to the code everything you believe is useful for you. In other words, everything is allowed but only a few things are required.  
+
+**My advice is - keep things as simple as possible to avoid a surprise.**
+
+Contact me directly in any case questions or proposals you may have.
+
+### Task 1 Check list publication
+
+As I did promise today I have just published the file `Task 1 Check list.md` to help you apply self-assessment. Copy the content of this file to a new GitHub issue to get a list of tasks prefixed by checkboxes. You can use them to control the scope and progress of your work. Add an issue like that before the final code assessment. 
+BTW; let stress again. To accomplish Task 1 is not required
+
+- to use external data sources, as files, databases, etc.
+- to use any additional framework (if someone can do something in the framework we can do it in code for sure).
+
+Anyway, using any external stuff is not required but possible. There is only one rule: if you are using something additional you must be prepared to explain how it works. Let me stress all requirements and all topics on the checklist are invariable.
+
 #### Enrolment message on forum
 
 Welcome to the Programming Technologies course! We are excited to have you as part of our membership. After enrolling, you must select a group using the [module Laboratory group selection](https://ife.edu.p.lodz.pl/mod/choicegroup/view.php?id=11193).
@@ -115,27 +133,26 @@ You have been enrolled as you are on the students' list I have got. Unenroll fro
   - Introduction to development environment
   - Programming in pairs, Test Driven Development, Dependency Injection
 - Week \#03 - Q/A: Task 1 and Task 2 detailed description
-- Week \#04 - Environment compatibility
-- Week \#05..09 - Task 1
+- Week \#04..05 - Environment compatibility
+- Week \#06..09 - Task 1
 - Week \#10..15 - Task 2
 
 Laboratory classes are conducted on the Teams platform. Join the team [21-Programming Technology](https://teams.microsoft.com/l/team/19%3a37d33599bd774b1dbd926850bc224665%40thread.tacv2/conversations?groupId=3c895cdd-60dd-474e-af38-74ca916dd49f&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 
-### Tasks deadline
+#### Tasks deadline
 
 The task completion must be reported up to 24:00 the day before the date enumerated in the following table.
 
 |  Task  | Deadline [week (date)] |
 | :----: | :--------------------: |
-| Task 1 |    05 (10.11.2020)     |
+| Task 1 |    06 (17.11.2020)     |
 | Task 2 |    10 (15.12.2020)     |
 
-#### **Notes:**
+##### **Notes:**
 
 - Scores for one task 10..20
 - The task completion must be reported up to 24:00 the day before. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task.
-  
-#### **NOTE: Late report decreases the max score by 2.5 a week.**
+- **Late report decreases the max score by 2.5 a week.**
 
 ### Laboratory group selection
 
@@ -146,6 +163,15 @@ Table: List of available groups
 | :-----: | -------------------------------------------------- |
 | 2020.10 | Laboratory class starting at **Tuesday at 10:15**. |
 | 2020.12 | Laboratory class starting at **Tuesday at 12:15**. |
+
+### Task 1
+
+#### UMLDiagram
+
+#### CheckList
+
+- Title:  Task 1 Check list
+- Copy the content of the file to a new GitHub issue to get a list of tasks prefixed by checkboxes you can use to control the scope and progress of your work.
 
 ### Lab - Alternative Path
 
