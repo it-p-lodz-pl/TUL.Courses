@@ -35,13 +35,13 @@ Use the Unit Test to prove the correctness of the proposed solution During the p
 ## Notes
 
 1. There should be provided at least two data generation method.
-2. `Logic` and `Data` must be implemented in the library. 
+2. `Logic` and `Data` must be implemented in the library.
 3. There is no need to implement the presentation layer, but if implemented must be in a separate executable project.  
 
 ## See also
 
 - [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
-- [TP on GitHub](http://github.com/mpostol)   
+- [TP on GitHub](http://github.com/mpostol)
 - [Martin Fowler, Inversion of Control Containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html)  
-- [ Mark Seemann, Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-in-dot-net)
-- [Factories, Service Locators, and Dependency Injection](https://msdn.microsoft.com/en-us/library/dn178469.aspx):
+- [Mark Seemann, Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-in-dot-net)
+- [Factories, Service Locators, and Dependency Injection](https://msdn.microsoft.com/library/dn178469.aspx)
