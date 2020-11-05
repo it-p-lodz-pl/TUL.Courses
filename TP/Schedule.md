@@ -45,7 +45,7 @@
 |14| 7-(Z VIII) | Refleksja |
 |15| 7-(Z VIII) | Serializacja |
 
-# ﻿Wytyczne dotyczące przygotowania referatu.
+# Wytyczne dotyczące przygotowania referatu.
 
 ## Zalecenia
 
