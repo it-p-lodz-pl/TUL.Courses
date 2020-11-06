@@ -33,9 +33,3 @@ ___
 ## Laboratory:  GitHub, VisualStudio, 20.10, #02
 
 [Open video](https://youtu.be/DSzQWy8WnAE)
-
-## To be used
-
-
-
-___

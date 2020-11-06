@@ -1,43 +1,56 @@
-# Zarejestrowane zajęcia
+# Sekcja - Zarejestrowane zajęcia
+
+## Sekcja zawiera
+
+- zarejestrowane wykłady
+- aktywność - pliki z poprawnymi odpowiedziami na pytania
+
+## Zarejestrowane zajęcia
+
+### Tytuł
+
+Technologie Programowania Wykład x: tytuł
+
+### Treść
 
 Nagrania wideo z wybranych zajęć.
 
-Składnia tytułu `Tytuł, Data, Tydzień`
+Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
-## Wykład 1: Wprowadzenie, 14.10, #02
+| Nazwa |              Opis               |
+| :---- | :-----------------------------: |
+| Temat |       **Temat spotkania**       |
+| Data  |          \<DateTime\>           |
+| Link  | [odtwórz film na YouTube]`link` |
 
-[Aktywność odpowiedzi](https://ftims.edu.p.lodz.pl/mod/resource/view.php?id=81190)
-[Open video](https://youtu.be/ADhiNW-shI0)
+## Aktywność
+
+- Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=35649) nie później niż do następnego wykładu.
+- **Odpowiedzi udzielone na pierwszym wykładzie nie są zaliczane do aktywności.**
+
+### Pliki z poprawnymi odpowiedziami na pytania
+
+DD.MM.YYYY-Wykład 0X temat.xlsx
+
+## Youtube
+
+- Title: Technologie Programowania Wykład Część X temat
+- [Video link](Youtube.com);
+
+### Description
+
+Informacja, informatyka, przetwarzanie informacji, dane, kod, alfabet, alfabet binarny, składnia, semantyka, dane proste, dane złożone, dane strukturalne, dane graficzne, dane strumieniowe, program, język programowania, język wysokiego poziomu, język binarny, logistyka.
+
+### Thumbnail
+
+Select or upload a picture that shows what's in your video. A good thumbnail stands out and draws viewers' attention
 
 ## Forum message
 
-Zgodnie z obietnicą opublikowałem nagranie z ostatniego wykładu [Recordings](https://ftims.edu.p.lodz.pl/course/view.php?id=720#section-4)
+### Wykład X - Zarejestrowane zajęcia i aktywność zostały opublikowane
 
-## To be used
+Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego wykładu w [Sekcja - Zarejestrowane zajęcia](https://ftims.edu.p.lodz.pl/course/view.php?id=720#section-4)
 
-| Week  | Title                                           | Date  | Video Link |
-| :---: | :---------------------------------------------- | :---: | :--------: |
-|   1   | Laboratory: Introduction                        | 13.10 |            |
-|   1   | Seminar Lesson 1: Introduction                  | 13.10 |            |
-|   3   | Seminar Lesson 2: Data semantics                | 27.10 |            |
-|   5   | Seminar Lesson 3: Data streams                  | 04.11 |            |
-|   7   | Seminar Lesson 4: Functional programming basics | 18.11 |            |
-|   9   | Seminar Lesson 5: Structural data               | 02.12 |            |
-|  11   | Seminar Lesson 6: Structural data               | 16.12 |            |
-|  13   | Seminar Lesson 7: Graphical data                | 27.01 |            |
+Jeśli ktoś uważa, że jego odpowiedz była poprawna, a jej nie ma w tym pliku, proponuję obejrzeć video jeszcze raz i zapraszam na konsultacje.
 
-Poniżej szczegóły zarejestrowanej lekcji zdalnej.
-
-| Nazwa        |                           Opis                            |
-| :----------- | :-------------------------------------------------------: |
-| Temat        |                    **Temat spotkania**                    |
-| Początek     |                       \<DateTime\>                        |
-| Czas trwania |                         2 godziny                         |
-| Link         | [odtwórz film na YouTube]`link` |
-| prezentacja  |              [Otwórz prezentację]\(\<link\>\)               |
-
-## Agenda
-
-1. Temat 1
-1. temat 2
-   - temat
+Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=35649) nie później niż do następnego wykładu.
