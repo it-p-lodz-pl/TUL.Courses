@@ -17,10 +17,19 @@ assignees: 'mpostol'
 - [ ] Questions
 - [ ] Review Repository
 - [ ] Postprocessing
-  - [ ] WIKAMP - video publication
-    - [ ] Prepare thumbnail page
+  - [ ] Youtube
+    - [ ] Prepare thumbnail page using the following file name syntax `yymmdd-<Subject>[ Lecture | Project]NNThumbnail`
     - [ ] Upload video
+    - [ ] Prepare information about the video using appropraite tempalte
+    - [ ] fillup the required information
+    - [ ] Copy link to the vide for future use
+  - [ ] WIKAMP - video publication
+    - [ ] prepare the html page exposing the publication
+    - [ ] publich the page
     - [ ] post the information on the forum
   - [ ] WIKAMP Q/A results publications
     - [ ] Review the meeting report and publish results
     - [ ] Publish answers result
+  - [ ] WIKAMP Forum
+    - [ ] prepare teh message
+    - [ ] publish teh message
