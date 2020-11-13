@@ -13,7 +13,7 @@ BTW; chciałem tu podkreślić, że do wykonania Zadania 1 nie jest wymagane:
 - korzystania z zewnętrznych źródeł danych, takich jak pliki, bazy danych itp.
 - korzystanie z dowolnego dodatkowego frameworka (jeśli ktoś może coś zrobić w frameworku to na pewno zrobimy to w kodzie).
 
-W każdym razie używanie jakichkolwiek zewnętrznych „użytków” nie jest wymagane, ale dozwolone. Jest tylko jedna zasada: jeśli używasz czegoś dodatkowego, musisz być przygotowany na wyjaśnienie, jak to działa. Podkreślę wszystkie wymagania i wszystkie tematy na liście kontrolnej są nadal aktualne. Przykładowo, jeśli używasz kontenera IOC, musisz wiedzieć co to w kategoriach języka znaczy injection. 
+W każdym razie używanie jakichkolwiek zewnętrznych „użytków” nie jest wymagane, ale dozwolone. Jest tylko jedna zasada: jeśli używasz czegoś dodatkowego, musisz być przygotowany na wyjaśnienie, jak to działa. Podkreślę wszystkie wymagania i wszystkie tematy na liście kontrolnej są nadal aktualne. Przykładowo, jeśli używasz kontenera IOC, musisz wiedzieć co to w kategoriach języka znaczy injection.
 
 Moja rada jest taka: nie komplikujmy prostych rzeczy, żeby nie było niespodzianek!!!
 

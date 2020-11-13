@@ -1,4 +1,4 @@
-# Sekcja - Zarejestrowane zajęcia
+# Sekcja - `Zarejestrowane zajęcia`
 
 ## Sekcja zawiera
 
@@ -7,9 +7,12 @@
 
 ## Zarejestrowane zajęcia
 
+## Page template
+
+```txt
 ### Tytuł
 
-Technologie Programowania Wykład x: tytuł
+Technologie Programowania Wykład x: temat
 
 ### Treść
 
@@ -22,28 +25,18 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 | Temat |       **Temat spotkania**       |
 | Data  |          \<DateTime\>           |
 | Link  | [odtwórz film na YouTube]`link` |
+```
 
-## Aktywność
+## Page `Aktywność`
+
+Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Pubkty te doliczne sa do oceny końcowej.
 
 - Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=35649) nie później niż do następnego wykładu.
 - **Odpowiedzi udzielone na pierwszym wykładzie nie są zaliczane do aktywności.**
 
-### Pliki z poprawnymi odpowiedziami na pytania
+### Folder "Aktywność - pliki z poprawnymi odpowiedziami na pytania"
 
 DD.MM.YYYY-Wykład 0X temat.xlsx
-
-## Youtube
-
-- Title: Technologie Programowania Wykład Część X temat
-- [Video link](Youtube.com);
-
-### Description
-
-Informacja, informatyka, przetwarzanie informacji, dane, kod, alfabet, alfabet binarny, składnia, semantyka, dane proste, dane złożone, dane strukturalne, dane graficzne, dane strumieniowe, program, język programowania, język wysokiego poziomu, język binarny, logistyka.
-
-### Thumbnail
-
-Select or upload a picture that shows what's in your video. A good thumbnail stands out and draws viewers' attention
 
 ## Forum message
 
