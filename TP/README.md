@@ -50,7 +50,17 @@ Przypominam terminy obligatoryjne dla Zadanie 1
 
 ### Lab - Alternative Path
 
-## Sekcja Zarejestrowane zajęcia
+## Sekcja - `Zarejestrowane zajęcia`
+
+## Sekcja zawiera
+
+- zarejestrowane wykłady
+- aktywność - pliki z poprawnymi odpowiedziami na pytania
+
+Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Pubkty te doliczne sa do oceny końcowej.
+
+- Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=35649) nie później niż do następnego wykładu.
+- **Odpowiedzi udzielone na pierwszym wykładzie nie są zaliczane do aktywności.**
 
 ## Sekcja Literatura
 
