@@ -72,7 +72,7 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
 ### Aktywność - pliki z poprawnymi odpowiedziami na pytania
 
-- `Wykład 0X <temat>.xlsx`
+- `YY-MM-DD-Wykład 0X <temat>.xlsx`
 
 ## Forum
 
