@@ -2,7 +2,7 @@
 
 ## Tytuł rezerwacji
 
-- PAL Wykład
+- Programowanie Aplikacji Logistycznych (PAL) Wykład
 
 ## Pełny opis
 
