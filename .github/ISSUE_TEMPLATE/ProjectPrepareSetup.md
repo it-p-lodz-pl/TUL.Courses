@@ -8,11 +8,12 @@ assignees: 'mpostol'
 
 - [ ] Goal, scope and content master plan
   - [ ] Presentation
-  - [ ] README agenda
+  - [ ] Agenda
 - [ ] Teams create calendar entry
   - [ ] Title
   - [ ] Date time
   - [ ] Agenda
 - [ ] Review the `Outlook` calendar
-- [ ] WIKAMP prepare and send invitation message
-- [ ] Review Repository
+- [ ] WIKAMP:
+  - [ ] prepare and send invitation message
+  - [ ] Add or update Reserwation module
