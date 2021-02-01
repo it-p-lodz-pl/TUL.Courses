@@ -2,10 +2,11 @@
 
 Let me inform you about the optional classes dates:
 
-| Title             | Date | Time | Registration module |
-| ----------------- | ---- | ---- | ------------------- |
-| Lecture test      |      |      |                     |
-| Project assesment |      |      |                     |
+| Title             | Date            | Time       | Registration module                   |
+| ----------------- | --------------- | ---------- | ------------------------------------- |
+| _________________ | _______________ | __________ | _____________________________________ |
+| Lecture test      |                 |            |                                       |
+| Project assesment |                 |            |                                       |
 
 The schedule is a proposal and may be modified if needed. I will appreciate your informing me about any date conflicts you may encounter or any outstanding work that should be graded. All classes are conducted on [TEAMS][TEAMS].
 

@@ -2,10 +2,11 @@
 
 Informuję o terminach zajęć fakultatywnych
 
-| Zajęcia        | Data | Czas | Moduł rejestracji |
-| -------------- | ---- | ---- | ----------------- |
-| Test wykładowy |      |      |                   |
-| Projekt braki  |      |      |                   |
+| Zajęcia           | Data            | Czas       | Moduł rejestracji                     |
+| ----------------- | --------------- | ---------- | ------------------------------------- |
+| _________________ | _______________ | __________ | _____________________________________ |
+| Test wykładowy    |                 |            |                                       |
+| Projekt braki     |                 |            |                                       |
 
 Harmonogram jest propozycją i może zostać zmodyfikowany w razie potrzeby. Będę wdzięczny za poinformowanie mnie o wszelkich konfliktach dat, które mogą wystąpić, lub o wszelkich zaległych pracach, które powinny zostać jeszcze ocenione. Wszystkie zajęcia odbywają się na [TEAMS][TEAMS].
 
