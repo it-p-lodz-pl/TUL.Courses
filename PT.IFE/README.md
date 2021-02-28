@@ -50,7 +50,7 @@ Welcome to the Programming Technologies course! We are excited to have you as pa
 
 ### Forum
 
-I have been asked by the University Authority to harmonize the schedule with the current situation, and especially the late enrolment of some course members. I agree with that so I decided to postpone the deadline for Task 1 from lesson 5 (10-11-2020) to lesson 6 (17-11-2020). 
+I have been asked by the University Authority to harmonize the schedule with the current situation, and especially the late enrolment of some course members. I agree with that so I decided to postpone the deadline for Task 1 from lesson 5 (10-11-2020) to lesson 6 (17-11-2020).
 
 During the next laboratory, we will repeat the same agenda as for lesson 4, and as a result, you will have the opportunity to reserve a place in the line to validate your code against my environment and assessment rules. Again, it is your opportunity but not a requirement. Add to the code everything you believe is useful for you. In other words, everything is allowed but only a few things are required.  
 
@@ -78,7 +78,29 @@ You have been enrolled as you are on the students' list I have got. Unenroll fro
 
 ## Section `General`
 
+### Description
+
+All classes are conducted remotely. Please join the current team on Teams:
+
+- [21-Programming Technologies (PT) 2021 Summer](https://teams.microsoft.com/l/team/19%3a03bcf14941ef4c3aa956653bea3ce36b%40thread.tacv2/conversations?groupId=29e0c6e8-23fe-4380-a8b4-499e3af79359&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+
 ## Section `Lecture`
+
+## Lectures Timetable
+
+|   Week   | Title                                                    |      Date      |       Location       | Password |
+| :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
+| ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
+|    1     | Seminar Lesson 1: Introduction                           |                |                      |          |
+|    3     | Seminar Lesson 2: Data semantics                         |                |                      |          |
+|    5     | Seminar Lesson 3: Data streams                           |                |                      |          |
+|    7     | Seminar Lesson 4: Functional programming basics          |                |                      |          |
+|    9     | Seminar Lesson 5: Structural data                        |                |                      |          |
+|    11    | Seminar Lesson 6: Structural data                        |                |                      |          |
+|    13    | Seminar Lesson 7: Graphical data                         |                |                      |          |
+|    15    | Test                                                     |                |                      |          |
+
+### Information on the organization of the examination period will be provided on the course forum
 
 ### Table of topics
 
@@ -130,14 +152,16 @@ You have been enrolled as you are on the students' list I have got. Unenroll fro
   - About the curse
   - Prerequisites
 - Week \#02 (help needed - there will be a reward !!)
-  - Introduction to development environment
+  - Introduction to the development environment
   - Programming in pairs, Test Driven Development, Dependency Injection
 - Week \#03 - Q/A: Task 1 and Task 2 detailed description
 - Week \#04..05 - Environment compatibility
 - Week \#06..09 - Task 1
 - Week \#10..15 - Task 2
 
-Laboratory classes are conducted on the Teams platform. Join the team [21-Programming Technology](https://teams.microsoft.com/l/team/19%3a37d33599bd774b1dbd926850bc224665%40thread.tacv2/conversations?groupId=3c895cdd-60dd-474e-af38-74ca916dd49f&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+Laboratory classes are conducted on the Teams platform. Please join the current team on Teams:
+
+- [21-Programming Technologies (PT) 2021 Summer](https://teams.microsoft.com/l/team/19%3a03bcf14941ef4c3aa956653bea3ce36b%40thread.tacv2/conversations?groupId=29e0c6e8-23fe-4380-a8b4-499e3af79359&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 
 #### Tasks deadline
 
@@ -145,8 +169,8 @@ The task completion must be reported up to 24:00 the day before the date enumera
 
 |  Task  | Deadline [week (date)] |
 | :----: | :--------------------: |
-| Task 1 |    06 (17.11.2020)     |
-| Task 2 |    10 (15.12.2020)     |
+| Task 1 |    06 (12.04.2020)     |
+| Task 2 |    10 (10.05.2020)     |
 
 ##### **Notes:**
 
@@ -159,10 +183,10 @@ The task completion must be reported up to 24:00 the day before the date enumera
 All participants must be a member of one laboratory group. Use this module to select the group you prefer. The number of members is limited.
 
 Table: List of available groups
-|  Name   | Description                                        |
-| :-----: | -------------------------------------------------- |
-| 2020.10 | Laboratory class starting at **Tuesday at 10:15**. |
-| 2020.12 | Laboratory class starting at **Tuesday at 12:15**. |
+|  Name   | Description                                       |
+| :-----: | ------------------------------------------------- |
+| 2021.10 | Laboratory class starting at **Monday at 10:15**. |
+| 2021.16 | Laboratory class starting at **Monday at 16:30**. |
 
 ### Task 1
 
@@ -193,7 +217,7 @@ Your repository must have the `README.md` file prepared according to this templa
 
 I would like to invite you to a remote Laboratory class as part of the course **Programming Technologies**. Laboratory classes are conducted on the Teams platform.
 
-Please book a time-slot for the classes using the appropriate module ` Lab 04 Reservation`. Our goal is to check the progress of your work and the compatibility of the design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS\Tools\Create GUID`.
+Please book a time-slot for the classes using the appropriate module `Lab 04 Reservation`. Our goal is to check the progress of your work and the compatibility of the design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS\Tools\Create GUID`.
 
 Let me stress, your repository must have the `README.md` file prepared according to the template `GitHub README.md template file` published on WIKAMP. Place the README.md file in the main directory of the repository. A GUID is required for identification. This GUID can be generated using `VS \ Tools \ Create GUID`. Don't use example GUIDs embedded in the template.
 
@@ -218,7 +242,7 @@ This section contains:
 
 ### WIKAMP Forum
 
-### I have just published the last lecture recording and activity 
+### I have just published the last lecture recording and activity
 
 Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains a lecture recording and also file with the corrected Q/A dialog on chat. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievement must be reported before the next lecture.
 
@@ -239,6 +263,7 @@ Let me inform you that I have just published the last lecture outcomes. They are
 ### Online
 
 - [csharp (C#) Teaching of Programming (TP)](https://github.com/mpostol/TP#csharp-c-teaching-of-programming-tp-)
+- [Programming Technologies 2020; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)
 - [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
 - [What is .NET? [1 of 8]](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
 - [C# documentation](https://docs.microsoft.com/dotnet/csharp/)

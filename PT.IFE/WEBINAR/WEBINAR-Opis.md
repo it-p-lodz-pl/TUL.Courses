@@ -8,6 +8,6 @@
 
 - dr inż. Mariusz Postół
 - Wykład/Projekt
-- IFE Informatyka 5 sem.
+- IFE Informatyka 4 sem.
 - studia pierwszego stopnia
 - Programming Technologies
