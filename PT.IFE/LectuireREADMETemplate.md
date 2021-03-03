@@ -1,17 +1,17 @@
 # Lectuire README Template
 
-## `<DateTime> Lecture class invitation`
+## `14:45 <DateTime> Lecture class invitation`
 
 I would like to invite you to a remote lecture class as part of the course **Programming Technologies**. Details below.
 
-| Information                |                            Detailed description                             |
-| :------------------------- | :-------------------------------------------------------------------------: |
-| Title of the classes       |                             **Temat spotkania**                             |
-| Start at                   |                                \<DateTime\>                                 |
-| Duration                   |                                    1.5 h                                    |
-| Password                   |                                  `xxxxxx`                                   |
-| PIN for mobile application |                                 `xxxxxxxx`                                  |
-| Url to WebRoom             | [Enter as participant](https://web3-celpl.clickmeeting.com/webinary3-21504) |
+| Information                |     Detailed description      |
+| :------------------------- | :---------------------------: |
+| Title of the classes       |      **Temat spotkania**      |
+| Start at                   |      14:45 \<DateTime\>       |
+| Duration                   |             1.5 h             |
+| Password                   |           `xxxxxx`            |
+| PIN for mobile application |          `xxxxxxxx`           |
+| Enter as participant       | [webPokój 32](https://a.b.pl) |
 
 ### Agenda
 
