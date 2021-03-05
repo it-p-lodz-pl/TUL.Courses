@@ -36,19 +36,19 @@ Contact me by email or on the Teams platform.
 
 ## I have just published the last lecture recording and activity
 
-Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains a lecture recording and also file with the corrected Q/A dialog on chat. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievement must be reported before the next lecture.
+Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings 2021 Summer](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains lecture recordings and also files with the corrected Q/A dialog on chat. This time I have left more answers associated with one question, but your activity for this lecture shall not be considered to report activity points. Take it easy. The next ones will be more serious.
 
 ### NOTE
 
 1. The list contains just acceptable answers. Most of them are not suitable to pass the final test. The list reflects your activity but not the correctness of your answers.
 1. During your workout assessment, you will have to prove that something is true without any doubts using only terms defined by the programming language (usually any programming language).
-1. Sometimes I may be wrong, so if you believe that your answer was correct but it has been removed from the list don't hesitate and schedule a meeting with me to get more and review your answers.
+1. Sometimes I may be wrong, so if you believe that your answer was correct but has been removed from the list don't hesitate and schedule a meeting with me to get more and review your answers.
 
 ### How to improve your correctness
 
-1. Use only terms defined by the language (usually any programming language), e.g. set of classes versus set of functionality. 
+1. Use only terms defined by the language (usually any programming language), e.g. set of methods/statements versus set of functionality, program execution versus computation, etc.
 2. Use an unambiguous ("measurable" ) description that allows the creation of a condition to distinguish if something is true or not, e.g. how to distinguish if two items are tightly or loosely coupled.
-3. Take care to distinguish the software life cycle, i.e. talk about classes in the context of software development, talk about objects (instances of the classes) in the context of program execution.
+3. Take care to distinguish the software life cycles, i.e. talk about classes in the context of software development, talk about objects (instances of the classes) in the context of program execution.
 
 ## Lab Time Slot Reservation
 

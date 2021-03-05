@@ -15,7 +15,7 @@ assignees: 'mpostol'
   - [ ] Prepare and send invitation message
     - [ ] Add group selection module link
     - [ ] Add lab team link; harmonize with the `Teams\Add team link to invitation message` entry
-  - [ ] Session attending list for lab
+  - [ ] Semester list of attendees for lab
   - [ ] Schedule master plan
     - [ ] Calendar odd/even weeks
     - [ ] Lab schedule

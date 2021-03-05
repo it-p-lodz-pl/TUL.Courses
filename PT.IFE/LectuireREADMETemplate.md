@@ -68,4 +68,4 @@ C#, .NET, VisualStrudio, education, mvvm, dependency injection, adaptive-program
 
 ### I have just published the last lecture recording and activity
 
-Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains a lecture recording and also a file with the corrected Q/A dialog on chat. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievement must be reported before the next lecture.
+Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings 2021 Summer](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains a lecture recording and also a file with the corrected Q/A dialog on chat. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievement must be reported before the next lecture.
