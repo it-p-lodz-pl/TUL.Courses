@@ -42,9 +42,9 @@ O ile dobrze zrozumiałem intencje, jedna z otrzymanych propozycji postuluje oma
 Wiem, że boicie się aplikacji rozproszonych, gdzie wykorzystuje się sieć do zapewnienia ich współdziałania, choć dziś praktycznie każda zespołowa gra zawiera takie elementy. Pewnie obawa wynika z faktu, że temat nie jest omawiany na innych przedmiotach, a przedmioty sieciowe były dawno i dotyczyły głównie infrastruktury. Z dyskusji na pierwszych zajęciach wynikało, że trudno sobie przypomnieć takie „egzotyczne” tematy jak: protokół IP, adres IP, okno TCP i czym TCP różni się od UDP. Nie jest prawdą, że one nie są związane z tematem. Są tylko pośrednio. Dla nas najważniejszą kwestią jest to, że urządzenia mobilne przemieszczają się względem infrastruktury komunikacyjnej, a nie względem przykładowo Słońca. Naszym celem jest popatrzeć na te zagadnienia z innej perspektywy. Ale bez obaw, osobno (webinar, post, książka, itp.) pokażę gdzie są gotowce, które można wykorzystać bez wchodzenia w szczegóły implementacyjne. Więc nie jest prawdą, że ten punkt projektu trzeba zrealizować całkowicie samodzielnie. Samodzielnie jedynie trzeba temat zrozumieć. Więc ogarnięcie tematu mieści się pomiędzy copy/paste - a świadome wykorzystanie.
 Jeśli jednak kogoś to nie przekonuje, to za minimalny wymóg potwierdzający osiągnięcie efektów kształcenia, a zatem minimum zaliczeniowym będzie przedstawienie aplikacji, które się ze sobą komunikują w dowolny sposób, np. piętnasta wersja sklepu pod warunkiem, że użyte w programie dane będą strukturalne (definicję przypomniałem na ostatnim wykładzie). Czyli lada (front-end) i magazyn (back-end) komunikują się z wykorzystaniem sieci. Oczywiście nadal obowiązuje konieczność omówienia proponowanych rozwiązań w kontekście mobilności.
 
-## Testowanie jednostkowego i integracyjne
+## Testowanie jednostkowe i integracyjne
 
-To teraz temat na topie, ale faktycznie z tematem kursu ma jedynie związek pośredni. Biorąc jednak to pod uwagę, mogę przyjąć, że nie jest niezbędny w minimum zaliczeniowym, więc w trzecim terminie można pokazać i omówić rozwiązanie bez tego wymogu. Proszę jednak łatwo nie odpuszczać. Ja pokażę jak to zrobić i nie wymaga to dużej ilości pracy. To rozwiązanie jest wykorzystywane w wielu moich repozytoriach, a w tym w TP, więc proszę zajrzeć. Do tematu wrócimy wkrótce.
+To teraz temat na topie, ale faktycznie z tematem kursu ma jedynie związek pośredni. Biorąc jednak to pod uwagę, mogę przyjąć, że nie jest niezbędny w minimum zaliczeniowym, więc w trzecim terminie można pokazać i omówić rozwiązanie bez tego wymogu. Proszę jednak łatwo nie odpuszczać. Ja pokażę jak to zrobić i nie wymaga to dużej ilości pracy. To rozwiązanie jest wykorzystywane w wielu moich repozytoriach, a w tym w TP, więc proszę tam zajrzeć. Do tematu wrócimy wkrótce.
 
 ## Wykorzystanie techniki MOCK
 
@@ -69,4 +69,3 @@ Jeśli jest coś niejasne proszę zaplanować konsultacje na Teams. Niektórzy j
 W najbliższym czasie (pewnie jutro) dostosuję treści WIKAMP do tych ustaleń i poinformuję o tym.
 
 Zdrowia życzę i zachęcam do pracy pomimo trudności. Obyście zawsze wszystko mogli zorganizować sobie poprzez Internet. Z wodą i jedzeniem jest trudniej niż edukacją – taka jest fizyka zjawiska!
-

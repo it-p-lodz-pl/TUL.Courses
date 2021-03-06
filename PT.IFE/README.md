@@ -58,7 +58,6 @@ During the next laboratory, we will repeat the same agenda as for lesson 4, and 
 
 Contact me directly in any case questions or proposals you may have.
 
-
 ## Section `General`
 
 ### Description

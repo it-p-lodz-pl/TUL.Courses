@@ -24,6 +24,14 @@ It is next class belonging to the Programming Technologies series.
 
 Dalsze instrukcje związane z organizacja pracy będę przekazywał sukcesywnie za pośrednictwem modułu Forum.
 
+## Powitanie
+
+Witam na kursie:
+Programowanie urządzeń mobilnych
+Proszę się zapoznać z warunkami zaliczenia przedmiotu.
+dr inż Mariusz Postół
+mariusz.postol@p.lodz.pl
+
 ### TEAMS zespół
 
 Klucz to MSTeams: geodax2

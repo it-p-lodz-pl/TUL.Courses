@@ -8,14 +8,9 @@
 | 16.04 |    6    | Architektura                                 | ND                             |
 | 30.04 |    8    | Protokoły komunikacyjne                      | ND                             |
 | 14.05 |   10    | Semantyka danych - interoperacyjność         | ND                             |
-| 27.05 |   12    | ND                                           | Sprawdzian 1 (1)               |
 | 28.05 |   12    | Przetwarzanie w chmurze                      | Sprawdzian 1 (1)               |
-| 03-06 |   13    | ND                                           | Sprawdzian 1 (2), 2 (1)        |
-| 04-06 |   13    | ND                                           | Sprawdzian 1 (2), 2 (1)        |
 | 10.06 |   14    | Bezpieczeństwo komunikacji, Danych i zasobów | Sprawdzian 1 (3), 2 (2)        |
-| 18.06 |   14    | ND                                           | Sprawdzian 1 (3), 2 (2)        |
-| 17.06 |   15    | ND                                           | Sprawdzian 2 (3)               |
-| 22.06 |   15    | Kolokwium (1), Sprawdzian 2 (3)              | Kolokwium(1), Sprawdzian 2 (3) |
+| 22.06 |   15    | Kolokwium                                    | Kolokwium(1), Sprawdzian 2 (3) |
 
 UWAGI:
 
@@ -84,7 +79,7 @@ UWAGI:
 - XML jest jeżykiem tekstowym, schema uszczegóławiania skłądni.
 - WSDL do czego służy ?
 - SOAP
-- co to jest synchronizacja danych - powody 
+- co to jest synchronizacja danych - powody
   - zastępowanie
 - tranzakcie etapy
 - M2M communication co to jest
