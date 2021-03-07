@@ -78,12 +78,19 @@ I would like to invite you to a remote lecture class as part of the course **Pro
 | :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
 | ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
 |    1     | Seminar Lesson 1: Introduction                           |                |                      |          |
+|    2     | Seminar Lesson 2: Data semantics                         |                |                      |          |
 |    3     | Seminar Lesson 2: Data semantics                         |                |                      |          |
+|    4     | Seminar Lesson 3: Data streams                           |                |                      |          |
 |    5     | Seminar Lesson 3: Data streams                           |                |                      |          |
+|    6     | Seminar Lesson 4: Functional programming basics          |                |                      |          |
 |    7     | Seminar Lesson 4: Functional programming basics          |                |                      |          |
+|    8     | Seminar Lesson 5: Structural data                        |                |                      |          |
 |    9     | Seminar Lesson 5: Structural data                        |                |                      |          |
+|    10    | Seminar Lesson 6: Structural data                        |                |                      |          |
 |    11    | Seminar Lesson 6: Structural data                        |                |                      |          |
 |    13    | Seminar Lesson 7: Graphical data                         |                |                      |          |
+|    13    | Seminar Lesson 7: Graphical data                         |                |                      |          |
+|    15    | Preparation for the test - repeating the material        |                |                      |          |
 |    15    | Test                                                     |                |                      |          |
 
 ### Information on the organization of the examination period will be provided on the course forum

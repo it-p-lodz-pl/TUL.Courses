@@ -1,4 +1,4 @@
-# Lectuire README Template
+# Lecture README Template
 
 ## `14:45 <DateTime> Lecture class invitation`
 
