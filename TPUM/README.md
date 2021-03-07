@@ -34,9 +34,8 @@ mariusz.postol@p.lodz.pl
 
 ### TEAMS zespół
 
-Klucz to MSTeams: geodax2
-
 Zespół na Teams: [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+Klucz to MSTeams: geodax2
 
 ## List do Dzikanatu
 

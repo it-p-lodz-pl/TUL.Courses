@@ -1,5 +1,54 @@
 # Forum Templates
 
+## Kick-off meeting **11:45 - pon. 08.03.2021*
+
+Witam na kursie Programowanie Urządzeń Mobilnych. Zajęcia w dniu **pon. 08.03.2021** zostaną zrealizowane za pośrednictwem Zespółu na Teams: [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L][TEAM].
+
+Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `geodax2`
+
+Szczegóły poniżej.
+
+|                Nazwa |                                Opis                                 |
+| -------------------: | :-----------------------------------------------------------------: |
+|                Temat | **Technologie programowania urządzeń mobilnych - kick off meeting** |
+|             Początek |                      `11:45 - pon. 08.03.2021`                      |
+|         Czas trwania |                              2 godziny                              |
+| Link dla uczestników |                   [Wejdź jako uczestnik][Meeting]                   |
+
+[Meeting]:https://teams.microsoft.com/l/meetup-join/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/1615126417210?context=%7b%22Tid%22%3a%2267ea5955-9b5c-4693-a8f9-960f2a3b49bb%22%2c%22Oid%22%3a%22ca8d45ae-21cb-4030-bbab-1d3a5fb8cc81%22%7d
+[TEAM]:https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb
+
+### Cel
+
+- czego się nauczymy ?
+- jak to zaliczyć ?
+- jak zorganizować pracę ?
+
+### Agenda
+
+- Programowanie urządzeń mobilnych - wstęp
+- Zawartość WIKAMP
+- Warunki zaliczenia przedmiotu
+- Projekt
+
+### Współdziałanie
+
+- Harmonogram
+- Narzędzia
+- Organizacja pracy i zaliczanie
+  
+Uprzejmie proszę o przekazanie wszystkim zainteresowanym informacji o możliwości samodzielnego zapisania się na kurs na WIKAMP
+
+- dr inż. Mariusz Postół
+- Wykład/Projekt
+- Informatyka stosowana
+- Studia stacjonarne 2 stopień, pierwszy semestr
+- Programowanie urządzeń mobilnych
+- ECTS: 07 69 1230 19
+
+URL: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/search.php?q=TPUM&areaids=core_course-course)
+Klucz: **TPUM**
+
 ## Aktualizacja listy uczestników kursu
 
 Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestników kursu na WIKAMP z listą uczestników kursu, którą dostałem z Dziekanatu. Ponieważ te listy trochę się różnią, więc mam zamiar dokonać ręcznie odpowiednich korekt na WIKAMP. Nie jestem pewien, czy osoby ręcznie wypisane dostaną informację z automatu po wypisaniu, więc aby zapobiec przypadkowemu wypisaniu po zakończeniu wyślę kolejną informację jeszcze dziś, tj. 23-02-20. Proszę sprawdzić i ewentualnie zaktualizować swój zapis do przedmiotu, jeśli wypisanie zostało dokonane pochopnie. Jeśli ktoś dziś nie dostanie kolejnego mail, że skończyłem synchronizować listy, proszę o dokonanie samodzielnego zapisu po raz kolejny lub informację via email do mnie. Poniższy link powinien umożliwić ponowny zapis.
