@@ -40,7 +40,7 @@ Zespół na Teams: [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 202
 
 ## List do Dzikanatu
 
-Uprzejmie prosze o przekazanie studentom informacji o mozliwości samodzilnego zapisania się na kurs
+Uprzejmie proszę o przekazanie studentom informacji o możliwości samodzielnego zapisania się na kurs
 
 - dr inż. Mariusz Postół
 - Wykład/Projekt

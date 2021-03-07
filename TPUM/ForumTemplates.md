@@ -9,6 +9,18 @@ Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestni
 Pozdrawiam,
 W kontakcie
 
+## Podsumowanie punktów za aktywność
+
+Przypominam o konieczności podsumowania punktów otrzymanych za aktywność. Proszę podsumować punkty i ich sumę wpisać w pole tekstowe w formacie
+
+```TXT
+
+SUMA = n
+
+```
+
+Po wpisaniu wszystkich punktów proszę zgłosić zadanie do sprawdzenia.
+
 ## Rozliczenia czas zacząć - terminy obligatoryjne
 
 Zbliżamy się do zakończenia przygody intelektualnej nazwanej: `Programowanie urządzeń mobilnych`. Wszystkie zajęcia mamy za sobą i pora zweryfikować stan posiadania w dzienniku ocen (WIKAMP), który właśnie uporządkowałem. Na wszelkie reklamacje czekam do piątku 18-09-2020 godz 24:00. Po tym terminie reklamacje będą rozpatrywane wyłącznie na pisemny wniosek zawierający rozsądne uzasadnienie wskazujące na przyczynę obiektywną.

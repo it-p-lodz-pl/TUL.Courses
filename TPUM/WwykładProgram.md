@@ -140,7 +140,7 @@ UWAGI:
 - czy protokół bezpołączeniowy może służyć do utworzenia sesji.
 - czy korzystając pubsub można utworzyć komunikację interaktywną.
 - asymetryczna komunikacja na urządzeniach brzegowych
-- przestrzeń adresowa 
+- przestrzeń adresowa
   - szukanie danych
   - metadane
   - model informacyjny
