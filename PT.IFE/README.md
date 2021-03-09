@@ -219,6 +219,7 @@ This section contains:
 
 - [csharp (C#) Teaching of Programming (TP)](https://github.com/mpostol/TP#csharp-c-teaching-of-programming-tp-)
 - [Programming Technologies 2020; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)
+- [mpostol gists](https://gist.github.com/mpostol)
 - [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
 - [What is .NET? [1 of 8]](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
 - [C# documentation](https://docs.microsoft.com/dotnet/csharp/)

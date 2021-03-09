@@ -1,22 +1,18 @@
 # Regulamin zaliczania przedmiotu
 
-## Organizacja
+1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
+2. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
 
-1. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
-   - `Wykład` ( <= 60 punktów):
-     - Pisemny test na WIKAMP na koniec semestru – maksymalnie 40 punktów.
-     - Dwa sprawdziany zdalne (elearning) sprawdzające bieżącą wiedzę - maksymalnie 2x10 punktów.
-   - `Laboratorium` ( <= 40 punktów ) - zaliczenie wg osobnego regulaminu
+   - **Wykład** ( <= 60 punktów):
+     - Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów
+     - Aktywności na wykładzie – maksymalnie 20 punktów
 
-## Ocena
-
-1. Do zaliczenia przedmiotu niezbędne jest zaliczenie wszystkich składowych, tzn.
-   - uzyskanie minimum 30 punktów łącznie ze składników `Wykład`
-   - uzyskanie minimum 20 punktów ze składników składowych `Laboratorium`
-1. Liczbę uzyskanych punktów z testu i sprawdzianów można próbować poprawiać w kolejnych podejściach, ale
-   - liczba podejść jest ograniczona i wynosi 3
-   - łączna liczba punktów jest równa średniej arytmetycznej uzyskanej ze wszystkich podejść
-1. Udział w testach, sprawdzianach i śledzenie postępu na platformie WIKAMP jest obowiązkowe
-1. Końcowa ocena bazuje na sumie zdobytych punktów dla wszystkich składników
-
-[TP]: https://github.com/mpostol/TP
+   - **Laboratorium** ( <= 30 punktów):
+      - zaliczenie wg osobnego regulaminu
+  
+3. Do zaliczenia przedmiotu niezbędne jest zaliczenie wszystkich składowych, tzn. uzyskanie minimum 50% maksymalnej liczby punktów z `Wykłąd` i `Laboratorium`.
+4. W przypadku zaliczania kolokwium w kilku terminach, łączna liczba punktów jest równa średnie arytmetycznej uzyskanej na wszystkich terminach.
+5. W przypadku zaliczenia kolokwium (czyli uzyskania min 30 punktów łącznie z aktywnością) w którymkolwiek terminie, przyjmuje się, że składnik `Wykłąd` jest zaliczony.
+6. Student może poprawiać ocenę w kolejnych terminach na zasadach opisanych powyżej.
+7. Końcowa ocena bazuje na sumie zdobytych punktów.
+8. Ocenianymi elementami aktywności na seminarium jest poprawna wypowiedź w ramach prowadzonej dyskusji.

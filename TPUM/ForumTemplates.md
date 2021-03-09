@@ -49,6 +49,30 @@ Uprzejmie proszę o przekazanie wszystkim zainteresowanym informacji o możliwo�
 URL: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/search.php?q=TPUM&areaids=core_course-course)
 Klucz: **TPUM**
 
+## Zadanie Tworzenie repozytorium
+
+Przypominam, że wszyscy muszą ukończyć zadanie jak w tytule. Szczegóły oddania i zaliczenia zadania na stronie WIKAMP.  Przed przesłaniem do oceny należy:
+
+- skopiować zawartość pliku `GitHubREADMETempllate.md` do pliku `README.md` repozytorium
+- uzupełnić plik wpisując swoje personalne dane identyfikacyjne i wygenerowane identyfikatory GUID
+- skopiować do tekstu `Komentarz zwrotny` zadania [Tworzenie repozytorium]( https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262) web URL (zielony klawisz na stronie repo) i swój wygenerowany GUID.
+- W repozytorium należy umieścić przykładowy program, który da się skompilować
+- W programie należy umieścić testy jednostkowe, które dadzą się wykonać
+
+### Zaliczenie zadania
+
+Warunkiem zaliczenia zadania jest:
+
+- możliwość skopiowania zawartości repozytorium na komputer prowadzącego
+- bezbłędna kompilacja programu
+- pozytywny wynik testów jednostkowych
+
+### UWAGA: brak zgłoszenia wykonania zadania w terminie do 6 tygodnia zajęć i zaliczenia zadania w terminie do 7 tygodnia zajęć jest uważany za rezygnację z ukończenia kursu.
+
+Przypominam, że utworzyłem filmik z instrukcją opisującą jak utworzyć repozytorium GitHub na potrzeby projektu.
+
+### [Video jest dostępne](https://youtu.be/uANd4kfWfVA)
+
 ## Aktualizacja listy uczestników kursu
 
 Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestników kursu na WIKAMP z listą uczestników kursu, którą dostałem z Dziekanatu. Ponieważ te listy trochę się różnią, więc mam zamiar dokonać ręcznie odpowiednich korekt na WIKAMP. Nie jestem pewien, czy osoby ręcznie wypisane dostaną informację z automatu po wypisaniu, więc aby zapobiec przypadkowemu wypisaniu po zakończeniu wyślę kolejną informację jeszcze dziś, tj. 23-02-20. Proszę sprawdzić i ewentualnie zaktualizować swój zapis do przedmiotu, jeśli wypisanie zostało dokonane pochopnie. Jeśli ktoś dziś nie dostanie kolejnego mail, że skończyłem synchronizować listy, proszę o dokonanie samodzielnego zapisu po raz kolejny lub informację via email do mnie. Poniższy link powinien umożliwić ponowny zapis.

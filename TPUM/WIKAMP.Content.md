@@ -37,38 +37,74 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 |    13    | Bezpieczeństwo komunikacji, Danych i zasobów             |                |                      |          |
 |    15    | Test                                                     |                |                      |          |
 
-## Harmonogram 2020
+## Laboratorium
 
-| Data  | Tydzień | Wykład  godz. 14:15:30                       | Projekt godz. 15:30-19:00      |
-| :---- | :-----: | :------------------------------------------- | ------------------------------ |
-| 26.03 |    4    | Wprowadzenie                                 | ND                             |
-| 16.04 |    6    | Architektura                                 | ND                             |
-| 30.04 |    8    | Protokoły komunikacyjne                      | ND                             |
-| 14.05 |   10    | Semantyka danych - interoperacyjność         | ND                             |
-| 27.05 |   12    | ND                                           | Sprawdzian 1 (1)               |
-| 28.05 |   12    | Przetwarzanie w chmurze                      | Sprawdzian 1 (1)               |
-| 03-06 |   13    | ND                                           | Sprawdzian 1 (2), 2 (1)        |
-| 04-06 |   13    | ND                                           | Sprawdzian 1 (2), 2 (1)        |
-| 10.06 |   14    | Bezpieczeństwo komunikacji, Danych i zasobów | Sprawdzian 1 (3), 2 (2)        |
-| 18.06 |   14    | ND                                           | Sprawdzian 1 (3), 2 (2)        |
-| 17.06 |   15    | ND                                           | Sprawdzian 2 (3)               |
-| 22.06 |   15    | Kolokwium (1), Sprawdzian 2 (3)              | Kolokwium(1), Sprawdzian 2 (3) |
+### Streszczenie
 
-UWAGI:
+#### Harmonogram
 
-- We wszystkich terminach odpowiedni moduł bezie dostępny zdalnie.
+| Zadanie                |     Termin oddania (nr tygodnia)      |
+| ---------------------- | :-----------------------------------: |
+| __________________     | _____________________________________ |
+| Tworzenie repozytorium |                   4                   |
+| Zadanie 1              |                   7                   |
+| Zadanie 2              |                  10                   |
+| Zadanie 3              |                  13                   |
 
-## Testy- zakres tematyczny
+#### Uwagi
 
-| Wykład | Temat                                        | Sprawdzian 1 | Sprawdzian 2 | Kolokwium |
-| ------ | -------------------------------------------- | :----------: | :----------: | :-------: |
-| 1.     | Wprowadzenie                                 |      X       |              |     X     |
-| 2.     | Architektura                                 |      X       |              |     X     |
-| 3.     | Protokoły komunikacyjne                      |      X       |              |     X     |
-| 4.     | Semantyka danych - interoperacyjność         |              |      X       |     X     |
-| 5.     | Przetwarzanie w chmurze                      |              |      X       |     X     |
-| 6.     | Bezpieczeństwo komunikacji, Danych i zasobów |              |              |     X     |
+- Ocena wykonania zdania `Tworzenie repozytorium` nie jest składnikiem oceny końcowej
+- Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem `Ostateczny termin` (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu
+- Ocena za zadania 5..10 punktów
+- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu. **Każdy członek zespołu zgłasza gotowość zadania do oceny**.
+- data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
 
+### Ramowy harmonogram
+
+- 01 - Wprowadzenie do laboratorium
+- 02-03 Zadania
+  - Omówienie treści
+  - Pytania
+  - Środowisko
+- 04 Sprawdzenie zgodności środowisk
+- 05-06 Kontrola postępu
+  - Co zrobiłem do tej pory ?
+  - Co mam zrobić na następne zajęcia?
+  - Z czym mam problem ?
+- 07-09 Projekt Etap-1
+- 10-12 Projekt Etap-2
+- 13-15 Projekt Etap-3
+
+### Tworzenie repozytorium
+
+Każdy uczestnik kursu musi wykonać to zadanie. Przed przesłaniem do oceny należy:
+
+- skopiować zawartość pliku `GitHubREADMETempllate.md` do pliku `README.md` repozytorium
+- uzupełnić plik wpisując swoje personalne dane identyfikacyjne i wygenerowane identyfikatory GUID
+- skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i swój GUID
+- W repozytorium należy umieścić przykładowy program, który da się skompilować
+- W programie należy umieścić testy jednostkowe, które dadzą się wykonać
+
+#### UWAGA: brak zgłoszenia wykonania zadania w terminie do 6 tygodnia zajęć jest uważany za rezygnację z ukończenia kursu
+
+Zgodnie z obietnicą utworzyłem filmik z instrukcją opisującą jak utworzyć repozytorium GitHub na potrzeby projektu.
+
+#### [Video jest dostępne](https://youtu.be/uANd4kfWfVA)
+
+### GitHub README.md template file
+
+1. Przyklej zawartość pliku do README.md repozytorium
+2. Wygeneruj GUID dla każdego członka zespołu
+3. Zmodyfikuj tabelkę wpisując dane identyfikacyjne i wygenerowane identyfikatory GUID
+
+`TPUM\GitHubREADMETempllate.md`
+
+### Tworzenie repozytorium - lista kontrolna
+
+- utwórz issue
+- skopiuj zawartość pliku
+- wykorzystaj listę zadań do kontroli poprawności wykonania zadania
+
+plik `TPUM\GitHubCreateRepoCheckList.md` 
 
 ### Tematyka
-
