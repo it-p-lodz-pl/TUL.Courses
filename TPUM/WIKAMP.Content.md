@@ -37,7 +37,7 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 |    13    | Bezpieczeństwo komunikacji, Danych i zasobów             |                |                      |          |
 |    15    | Test                                                     |                |                      |          |
 
-## Laboratorium
+## Projekt
 
 ### Streszczenie
 
@@ -47,9 +47,9 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 | ---------------------- | :-----------------------------------: |
 | __________________     | _____________________________________ |
 | Tworzenie repozytorium |                   4                   |
-| Zadanie 1              |                   7                   |
-| Zadanie 2              |                  10                   |
-| Zadanie 3              |                  13                   |
+| Projekt-Etap 1         |                   7                   |
+| Projekt-Etap 2         |                  10                   |
+| Projekt Etap 3         |                  13                   |
 
 #### Uwagi
 
@@ -59,23 +59,23 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 - Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu. **Każdy członek zespołu zgłasza gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
 
-### Ramowy harmonogram
+### Ramowy harmonogram zajęć
 
 - 01 - Wprowadzenie do laboratorium
-- 02-03 Zadania
+- 02 Projekt
   - Omówienie treści
   - Pytania
   - Środowisko
-- 04 Sprawdzenie zgodności środowisk
+- 03-04 Sprawdzenie zgodności środowisk
 - 05-06 Kontrola postępu
   - Co zrobiłem do tej pory ?
   - Co mam zrobić na następne zajęcia?
-  - Z czym mam problem ?
+  - Z czym mam problem?
 - 07-09 Projekt Etap-1
 - 10-12 Projekt Etap-2
 - 13-15 Projekt Etap-3
 
-### Tworzenie repozytorium
+### ZADANIE Tworzenie repozytorium
 
 Każdy uczestnik kursu musi wykonać to zadanie. Przed przesłaniem do oceny należy:
 
@@ -107,4 +107,8 @@ Zgodnie z obietnicą utworzyłem filmik z instrukcją opisującą jak utworzyć 
 
 plik `TPUM\GitHubCreateRepoCheckList.md` 
 
-### Tematyka
+### Projekt-Etap 1-interaktywna/reaktywne programowanie
+
+### Projekt-Etap 2-interaktywna/reaktywna komunikacja
+
+### Projekt-Etap 2-Aplikacja Mobilna (rozproszona)

@@ -14,7 +14,7 @@ Celem zadania jest praktyczne poznanie:
 
 ## Opis zadania
 
-Opracować programy z wykorzystaniem technologi .NET, które będzie realizował role klienta i serwera. Z wykorzystaniem tych ról należy zapewnić wymianę wybranych danych strukturalnych pomiędzy instancją klienta i serwera. Należy zrealizować następujące  scenariusze wymiany danych:
+Opracować programy z wykorzystaniem technologi .NET, które będą realizowały odpowiednio role klienta i serwera. Z wykorzystaniem tych ról należy zapewnić wymianę wybranych danych strukturalnych pomiędzy instancją klienta i serwera. Należy zrealizować następujące scenariusze wymiany danych:
 
 - zapytanie/odpowiedź - klient wysyła żądanie, a sewer odpowiada danymi w zależności od otrzymanego zapytania
 - samorzutne wysyłanie/filtrowanie - serwer  wysyła dane samorzutnie, natomiast klient filtruje je zgodnie z potrzebami

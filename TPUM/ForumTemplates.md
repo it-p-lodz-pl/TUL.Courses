@@ -82,6 +82,19 @@ Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestni
 Pozdrawiam,
 W kontakcie
 
+## Oddanie Projekt Etap 1
+
+Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1 - interaktywna/reaktywne programowanie](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://ftims.edu.p.lodz.pl/mod/reservation/view.php?id=75159). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
+
+### Informacja o publikacji Projekt - zadanie etap 2
+
+Waśnie opublikowałem [Projekt - zadanie etap 2 - interaktywna/reaktywna komunikacja](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591). To fakultatywne zadanie pozwoli zbliżyć się do rozwiązani wymaganego do zaliczenia przedmiotu, więc zachęcam to jego realizacji i przejścia procedury zaliczającej. Szczegóły w opisie. Na najbliższych zajęciach w czwartek postaram się omówić jego treść.
+
+### Przypominam o terminie zgłoszenia
+
+Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1 - interaktywna/reaktywne programowanie](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://ftims.edu.p.lodz.pl/mod/reservation/view.php?id=75159). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
+
+
 ## Podsumowanie punktów za aktywność
 
 Przypominam o konieczności podsumowania punktów otrzymanych za aktywność. Proszę podsumować punkty i ich sumę wpisać w pole tekstowe w formacie
