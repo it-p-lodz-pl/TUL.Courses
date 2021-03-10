@@ -24,12 +24,7 @@ Klient/serwer komunikuje się ze sobą z wykorzystaniem technologii **Web-socket
 
 Przesyłąne dane muszą być opisane z wykorzystaniem wspólnego modelu obiektowego i reprezentować wybrany model biznesowy, np.
 
-- internetowe wybory Prezydenta kraju
-- system antywłamaniowy
-- samochód
-- ogrzewanie mieszkania
-- blister z lekami
-- grę komputerową
+
 
 Dane przesyłać z wykorzystaniem serializacji zgodnie ze skłądnią JSON, YAML, XML. Klient musi rozpoznawać skłądnię reaktywnie na podstawie otrzymywanych danych.
 
