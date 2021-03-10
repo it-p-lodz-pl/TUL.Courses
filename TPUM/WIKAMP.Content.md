@@ -41,8 +41,6 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 
 ### Streszczenie
 
-#### Harmonogram
-
 | Zadanie                |     Termin oddania (nr tygodnia)      |
 | ---------------------- | :-----------------------------------: |
 | __________________     | _____________________________________ |
@@ -61,19 +59,27 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 
 ### Ramowy harmonogram zajęć
 
-- 01 - Wprowadzenie do laboratorium
-- 02 Projekt
-  - Omówienie treści
-  - Pytania
-  - Środowisko
-- 03-04 Sprawdzenie zgodności środowisk
-- 05-06 Kontrola postępu
+#### Harmonogram
+
+| Tydzień | Temat                                         | Uwagi                     |
+| ------- | --------------------------------------------- | ------------------------- |
+| 01      |                                               | Zajęcia odrabiane w 07-15 |
+| 02      | Wprowadzenie do laboratorium                  |                           |
+| 03      | Projekt (Omówienie treści, środowisko)        |                           |
+| 04-06   | Tworzenie repozytorium; Kontrola postępu prac |                           |
+| 07-09   | Projekt Etap-1 ocena                          | Odrabianie zajęć 01       |
+| 10-12   | Projekt Etap-2 ocena                          | Odrabianie zajęć 01       |
+| 13-15   | Projekt Etap-3 ocena                          | Odrabianie zajęć 01       |
+
+#### Uwagi: Kontrola postępu prac projektowych
+
+W trakcie zajęć:
+
+- oceniana jest poprawność wykonania zadania `Tworzenie repozytorium`
+- odpowiadamy na pytania:
   - Co zrobiłem do tej pory ?
   - Co mam zrobić na następne zajęcia?
   - Z czym mam problem?
-- 07-09 Projekt Etap-1
-- 10-12 Projekt Etap-2
-- 13-15 Projekt Etap-3
 
 ### ZADANIE Tworzenie repozytorium
 
@@ -111,4 +117,4 @@ plik `TPUM\GitHubCreateRepoCheckList.md`
 
 ### Projekt-Etap 2-interaktywna/reaktywna komunikacja
 
-### Projekt-Etap 2-Aplikacja Mobilna (rozproszona)
+### Projekt-Etap 3-aplikacja mobilna (rozproszona)
