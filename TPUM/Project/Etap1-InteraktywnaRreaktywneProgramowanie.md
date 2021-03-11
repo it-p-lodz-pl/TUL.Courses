@@ -16,7 +16,7 @@ Celem zadania jest praktyczne zastosowanie:
 
 ### Wstęp
 
-Zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej funkcjonalności pozwalającej na automatyzacje wybranego procesu biznesowego z wykorzystaniem graficznego interfejsu użytkownika. Do zaimplementowania należy wybrać jeden z poniższych model biznesowy:
+Zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na automatyzacje wybranego procesu biznesowego z wykorzystaniem graficznego interfejsu użytkownika. Do zaimplementowania należy wybrać jeden z poniższych modeli biznesowy:
 
 - bibliotekę, sklep, itp.
 - zakład usługowy
@@ -32,7 +32,7 @@ Opracować program z wykorzystaniem technologi .NET, który będzie implementowa
 
 - `Dane` - zarządzanie danymi
 - `Logika` - usługi realizujące funkcjonalność dedykowaną dla wybranego procesu biznesowego
-- `Prezentacja` - graficznego interfejsu użytkownika
+- `Prezentacja` - graficzny interfejs użytkownika
 
 Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane z wykorzystaniem testów jednostkowych. Bardziej szczegółowo warstwy te opisano w rozdziale **Architektura**.
 
@@ -51,18 +51,18 @@ Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane z wykorzystani
 
 #### Warstwa `Prezentacja` - graficzny interfejs użytkownika (GUI)
 
-- Utworzyć okno główne aplikacji zawijające potrzebne kontrolki do monitorowania i sterowania sterowania procesem biznesowym
+- Utworzyć okno główne aplikacji zawijające potrzebne kontrolki do monitorowania i sterowania procesem biznesowym
 - Ta warstwa jest odpowiedzialna za inicjację programu (bootstrap) i jego zakończenie
 - zaprojektować interfejs graficzny wykorzystując język XAML
 - Wykorzystać API warstwy **Logika** do wizualizacji i sterowania procesem biznesowym
 
-Warstwa ta musi być zaimplementowany zgodnie ze wzorcem `Model-View-ViewModel` (`MVVM`). Oznacza to, że należy w niej wydzielić następujące warstwy:
+Warstwa ta musi być zaimplementowana zgodnie ze wzorcem `Model-View-ViewModel` (`MVVM`). Oznacza to, że należy w niej wydzielić następujące warstwy:
 
-- `View`: zawiera zestaw kontrolek bezpośrednio zapewniający interakcję pomiędzy użytkownikiem i programem zaprojektowany z wykorzystaniem języka XAML (`*.xaml`).
+- `View`: zawiera zestaw kontrolek bezpośrednio zapewniający interakcję pomiędzy użytkownikiem i programem oraz zaprojektowany z wykorzystaniem języka XAML (`*.xaml`).
 - `ViewModel`: implementuje zachowanie się interfejsu użytkownika tak, aby wyświetlać aktualne dane i realizować polecenia użytkownika w zależności od stanu procesu. Warstwa odpowiedzialna za powiązanie kontrolek z API oferowanym przez warstwę `Model`
 - `Model`: odpowiedzialna za przechowywanie danych na potrzeby interfejsu użytkownika (GUI) i realizację operacji na danych z wykorzystaniem funkcjonalności oferowanej przez warstwę opisaną w poprzednim rozdziale **Warstwa `Logika`**,
 
-Dane i kontrolki muszą być powiązane ze sobą za pomocą mechanizmu wiązania danych `DataBinding`. Oznacza to również, że nie powinno się tworzyć kodu w warstwie widoku (tzw. code-behind) w plikach `*.xaml.cs`, poza kodem automatycznie generowanym przez środowisko projektowe. Do powiadamiania warstwy `View` o zmianach zachodzących w warstwie poniżej należy wykorzystać implementację interfejsów `INotifyPropertyChanged` oraz `INotifyCollectionChanged` lub ich pochodnych.
+Dane i kontrolki muszą być powiązane ze sobą za pomocą mechanizmu wiązania danych `DataBinding`. Oznacza to również, że nie powinno się tworzyć kodu w warstwie widoku (tzw. code-behind) w plikach `*.xaml.cs`, poza kodem automatycznie generowanym przez środowisko projektowe. Do powiadamiania warstwy `View` o zmianach zachodzących w warstwie poniżej, należy wykorzystać implementację interfejsów `INotifyPropertyChanged` oraz `INotifyCollectionChanged` lub ich pochodnych.
 
 Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (implementacja interfejsu `ICommand`). Dotyczy to w szczególności obsługi przycisków, ale także menu i innych elementów interfejsu. Polecenia powinny zostać zaimplementowane jako niezależne klasy w warstwie `ViewModel`.
 
@@ -73,8 +73,8 @@ Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (imple
 - Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie
 - Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne
 - Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`. Proszę odprzęgnąć warstwy na potrzeby testowania używając DI lub MOCK
-- Przy realizacji warstwy **Danych** należy unikać korzystania z zewnetrznych repozytoriów danych, jak pliki, bazy danych. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie wymagał dedykowanego środowiska.
-- warstwować aplikacji najprościej uzyskać implementując warstwy jako osobne projekty.
+- Przy realizacji warstwy **Danych** należy unikać korzystania z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
+- warstwowość programu najprościej uzyskać, implementując warstwy jako osobne projekty.
 - abstrakcyjne API najprościej zadeklarować jako wspólny projekt oraz implementację warstwy w postaci niezależnego silosu realizującego API.
 
 - **UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania aplikacji rozproszonej, tzn. realizowanej na kilku komputerach połączonych poprzez sieć
@@ -82,15 +82,15 @@ Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (imple
 
 ## Lista źródeł
 
-Do zrealizowania zadania można wykorzystać przykładowego kodu na [GitHub](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
+Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
 
 ## Zaliczenie
 
- W celu potwierdzenia celu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane, a w tym
+ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane, a w tym
 
-- wskazaniem miejsca wykorzystania wzorca wstrzykiwania zależności
 - wykazania zastosowania architektury warstwowej
 - wykazaniem, że warstwy testowane sa niezależnie
 - jak zapewniono spójności danych
 - umiejętnością uzasadnienia, że API warstwy danych musi być zadeklarowane z wykorzystaniem abstrakcji
 - deserjalizacją, jeśli ktoś użył jej do odczytu danych zewnętrznych
+- wskazaniem miejsca wykorzystania wzorca wstrzykiwania zależności lub uzycia techniki Mock
