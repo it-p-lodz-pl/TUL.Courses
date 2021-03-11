@@ -93,4 +93,4 @@ Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practic
 - jak zapewniono spójności danych
 - umiejętnością uzasadnienia, że API warstwy danych musi być zadeklarowane z wykorzystaniem abstrakcji
 - deserjalizacją, jeśli ktoś użył jej do odczytu danych zewnętrznych
-- wskazaniem miejsca wykorzystania wzorca wstrzykiwania zależności lub uzycia techniki Mock
+- wskazaniem miejsca wykorzystania wzorca wstrzykiwania zależności lub użycia techniki Mock
