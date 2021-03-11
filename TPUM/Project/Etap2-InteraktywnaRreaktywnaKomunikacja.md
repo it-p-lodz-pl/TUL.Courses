@@ -1,31 +1,37 @@
-# Projekt - zadanie etap 2 - interaktywna/reaktywna komunikacja
+# Projekt Etap 2 - interaktywna/reaktywna komunikacja
 
 ## Cel
 
 Celem zadania jest praktyczne poznanie:
 
-- Komunikacji klient/serwer
+- Komunikacji klient/serwer z wykorzystaniem `Web Socked`
 - reaktywnego i interaktywnego interfejsu warstwy komunikacyjnej,
 - testowania jednostkowego i integracyjnego,
 - wstrzykiwania zależności (ang. Dependency Injection) (opcja)
 - wykorzystanie techniki MOCK (opcja)
 
-## Zakres
+## Opis zadania
 
-Opracować dwa programy z wykorzystaniem technologi .NET, które będą pełnił rolę klienta i sewera:
+Opracować dwa programy z wykorzystaniem technologi .NET, które będą pełniły rolę klienta i sewera - podzielić uprzednio utworzony w etapie 1 program na współdziałające części, tak abu utworzyć aplikację rozproszoną o architekturze klient/serwer. Innymi słowy należy wyróżnić dwa niezależne programy komunikujące sie przez sieć komputerową i pozwalające na automatyzację wybranego uprzednio procesu biznesowego.
 
-- będą implementowały warstwy: `Dane`, `Logika` i `Prezentacja`.
-- Warstwy `Dane` i `Logika` proszę zrealizować w technologii .NET STandard o ile się da
-- Warstwę `Prezentacja` proszę zrealizować w dowolnej ulubionej technologii, np. WPF/mvvm, która pozwoli na graficzną reprezentację danych w przypadku implementacji UI
-- Warstwę `Prezentacja` proszę zrealizować z wykorzystaniem komunikacji Web Socked w przypadku implementacji komunikacji,
-- Warstwa `Dane` ma zwierać model obiektowy reprezentujący wybrany proces biznesowy, np. sklep lub komunikację z serwerem
-- Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie odpowiednio dla klienta i serwera
-- Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne, rozproszone
-- API warstwy KOMUNIKACYJNEJ (WARSTWA DANYCH (klient)/PREZENTACJI (serwer)) MUSI zawierać operacje interaktywne (np. zakup czegoś) i reaktywne (okresowe wysłanie PIT'u, zamówień, itp.)
-- Zachowania reaktywne proszę zaimplementować z wykorzystaniem interfejsów IObserver/IObservable
-- Zachowania interaktywne proszę zaimplementować jako asynchroniczne z wykorzystaniem konstrukcji Task
-- Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`. Opcjonalnie proszę odprzęgnąć warstwy na potrzeby testowania używając DI lub MOCK.
+Każdy z wymienionych programów będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`. Wymienione warstwy `Dane` i `Logika` muszą być testowane z wykorzystaniem testów jednostkowych. Bardziej szczegółowo warstwy te opisano w rozdziale **Architektura** opisu do zadania `Projekt Etap 1 - interaktywna/reaktywne programowanie`.
+
+Komunikację pomiędzy klientem i serwerem należy zrealizować z wykorzystaniem `Web Socked`.
+
+API warstwy KOMUNIKACYJNEJ (WARSTWA DANYCH (klient)/PREZENTACJI (serwer)) MUSI zawierać operacje interaktywne (np. zakup czegoś) i reaktywne (okresowe wysłanie PIT'u, zamówień, itp.)
 
 ## Wytyczne do realizacji
 
-Wytyczne do realizacji znajdują sie w osobnym pliku.
+- Oba programy powinny być w tym samym `Solution`. VS pozwala uruchomić dwie instancje programów jednocześnie.
+- Warstwę `Prezentacja` i `Dane` (odpowiednio dla sewera i klienta) proszę zrealizować z wykorzystaniem komunikacji `Web Socked`,
+- Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie odpowiednio dla klienta i serwera
+- Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne, rozproszone
+- Zachowania reaktywne proszę zaimplementować z wykorzystaniem interfejsów IObserver/IObservable
+- Zachowania interaktywne proszę zaimplementować jako asynchroniczne z wykorzystaniem konstrukcji Task
+- Proszę dodać testy jednostkowe dla ważniejszych operacji. Opcjonalnie proszę odprzęgnąć warstwy na potrzeby testowania używając DI lub MOCK.
+
+- **UWAGA**: rozwiązanie dalej będzie modyfikowane w celu standaryzacji komunikacji poprzez sieć.
+
+## Lista źródeł
+
+Do zrealizowania zadania można wykorzystać przykładowy kodu opublikowany w [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
