@@ -73,6 +73,20 @@ Przypominam, że utworzyłem filmik z instrukcją opisującą jak utworzyć repo
 
 ### [Video jest dostępne](https://youtu.be/uANd4kfWfVA)
 
+## Zaproszenie do zespołu na platformie MS TEAMS
+
+Zajęcia projektowe będą realizowane na platformie MS Teams. Wszystkich proszę o zapisanie się do zespołu  [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb).
+
+Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `geodax2`. W przepadku problemów proszę o kontakt.
+
+Proszę również o przekazanie wszystkim potencjalnym zainteresowanym o możliwości dołączeniem do kursu korzystając z  klucza : **TPUM**. Kurs można znaleźć tu: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/search.php?q=TPUM&areaids=core_course-course). Wybór kursu jao zajęcia fakultatywne wymaga spełnienia kilku warunków, a w tym zapewnienia, że zajęcia  nie kolidują z innymi. Ja mogę jedynie zapewnić, że dołożę wszelkich starań, aby te przeszkody zneutralizować - proszę być ze mną w kontakcie.
+
+## Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**
+
+Zajęcia w dniu **\<date\>** zostaną zrealizowane za pośrednictwem [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb).
+
+Jest tam zdefiniowany termin. Osoby, które planują w tych zajęciach brać udział, proszę o akceptacje terminu - dopisanie się do listy.
+
 ## Aktualizacja listy uczestników kursu
 
 Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestników kursu na WIKAMP z listą uczestników kursu, którą dostałem z Dziekanatu. Ponieważ te listy trochę się różnią, więc mam zamiar dokonać ręcznie odpowiednich korekt na WIKAMP. Nie jestem pewien, czy osoby ręcznie wypisane dostaną informację z automatu po wypisaniu, więc aby zapobiec przypadkowemu wypisaniu po zakończeniu wyślę kolejną informację jeszcze dziś, tj. 23-02-20. Proszę sprawdzić i ewentualnie zaktualizować swój zapis do przedmiotu, jeśli wypisanie zostało dokonane pochopnie. Jeśli ktoś dziś nie dostanie kolejnego mail, że skończyłem synchronizować listy, proszę o dokonanie samodzielnego zapisu po raz kolejny lub informację via email do mnie. Poniższy link powinien umożliwić ponowny zapis.
@@ -99,7 +113,6 @@ Waśnie opublikowałem [Projekt - zadanie etap 2 - interaktywna/reaktywna komuni
 ### Przypominam o terminie zgłoszenia
 
 Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1 - interaktywna/reaktywne programowanie](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://ftims.edu.p.lodz.pl/mod/reservation/view.php?id=75159). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
-
 
 ## Podsumowanie punktów za aktywność
 
