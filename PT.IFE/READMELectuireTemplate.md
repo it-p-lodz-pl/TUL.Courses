@@ -52,20 +52,20 @@ C#, .NET, VisualStrudio, education, mvvm, dependency injection, adaptive-program
 
 ### Recording Page
 
-#### `<YY-MM-DD> Lecture Recording Lesson XX: <Topic>`
+#### `YY-MM-DD` Lecture Recording Lesson `XX: Main topic`
 
 | Information    |         Description         |
 | :------------- | :-------------------------: |
-| Main topic     |  Lesson XX: Data semantics  |
-| Date           |       `<DD-MM-YYYY>`        |
+| Main topic     |   Lesson `XX Main topic`    |
+| Date           |         `YY-MM-DD`          |
 | Recording link | [open video](https://a.b.c) |
 
 ### Activity File Names
 
-- `<YY-MM-DD> Lecture Recording Lesson XX Activity.xlsx`
+- `YY-MM-DD Lesson XX Main topic Activity.xlsx`
 
 ### WIKAMP Forum
 
 ### I have just published the last lecture recording and activity
 
-Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings 2021 Summer](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains a lecture recording and also a file with the corrected Q/A dialog on chat. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievement must be reported before the next lecture.
+Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings 2021 Summer](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains a seminar recording and also a file with the corrected Q/A dialog on chat. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievement must be reported before the next lecture.
