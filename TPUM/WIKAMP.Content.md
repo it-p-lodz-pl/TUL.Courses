@@ -26,16 +26,17 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 
 ## Wykład
 
-| Tydzień  | Tytuł                                                    |      Data      | Link dla uczestnika  |  Hasło   |
-| :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
-| ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
-|    3     | Wprowadzenie                                             |                |                      |          |
-|    5     | Architektura                                             |                |                      |          |
-|    7     | Protokoły komunikacyjne                                  |                |                      |          |
-|    9     | Semantyka danych - interoperacyjność                     |                |                      |          |
-|    11    | Przetwarzanie w chmurze                                  |                |                      |          |
-|    13    | Bezpieczeństwo komunikacji, Danych i zasobów             |                |                      |          |
-|    15    | Test                                                     |                |                      |          |
+| Zajęcia | Tydzień  | Tytuł                                                    |      Data      | Link dla uczestnika  |  Hasło   |
+| :-----: | :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
+|  _____  | ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
+|    1    |    3     | Wprowadzenie                                             |                |                      |          |
+|    2    |    4     | Architektura                                             |                |                      |          |
+|    3    |    5     | Protokoły komunikacyjne                                  |                |                      |          |
+|    4    |    7     | Semantyka danych - interoperacyjność                     |                |                      |          |
+|    5    |    9     | Standaryzacja                                            |                |                      |          |
+|    6    |    11    | Przetwarzanie w chmurze                                  |                |                      |          |
+|    7    |    13    | Bezpieczeństwo komunikacji, Danych i zasobów             |                |                      |          |
+|    8    |    15    | Test                                                     |                |                      |          |
 
 ## Projekt
 
@@ -59,13 +60,11 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 
 ### Ramowy harmonogram zajęć
 
-#### Harmonogram
-
 | Tydzień | Temat                                         | Uwagi                     |
 | ------- | --------------------------------------------- | ------------------------- |
 | 01      |                                               | Zajęcia odrabiane w 07-15 |
 | 02      | Wprowadzenie do laboratorium                  |                           |
-| 03      | Projekt (Omówienie treści, środowisko)        |                           |
+| 03      | Projekt (Omówienie projektu, środowisko)      |                           |
 | 04-06   | Tworzenie repozytorium; Kontrola postępu prac |                           |
 | 07-09   | Projekt Etap-1 ocena                          | Odrabianie zajęć 01       |
 | 10-12   | Projekt Etap-2 ocena                          | Odrabianie zajęć 01       |

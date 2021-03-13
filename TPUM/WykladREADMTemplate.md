@@ -2,14 +2,14 @@
 
 ## FORUM - zaproszenie na wykład
 
-### `Zapraszam na wykład <data> 14:15`
+### `Zapraszam na wykład <data> 11:45`
 
 Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urządzeń mobilnych**. Szczegóły poniżej.
 
 | Nazwa                     |             Opis              |
 | :------------------------ | :---------------------------: |
 | Temat                     |           **Temat**           |
-| Początek                  |          `DataTime`           |
+| Początek                  |       `DataTime 11:45`        |
 | Czas trwania              |          1.5 godziny          |
 | Hasło                     |            `****`             |
 | PIN do aplikacji mobilnej |           ---------           |
