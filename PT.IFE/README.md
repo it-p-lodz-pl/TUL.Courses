@@ -203,7 +203,7 @@ Please book a time-slot for # 4 laboratory using this module to check the progre
 
 ## Section `Recordings`
 
-### Recording page
+### Summary
 
 ```txt
 This section contains:
@@ -211,6 +211,10 @@ This section contains:
 - Video recordings of the selected classes.
 - activity - files with the corrected Q/A dialog on chat
 ```
+
+### Files folder
+
+- Lecture Activity Q/A
 
 > File name: `<Date> [LectureRecording|LaboratoryRecording] #<numer> <title>|LectureActivity`
 

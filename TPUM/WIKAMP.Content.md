@@ -120,14 +120,21 @@ plik `TPUM\GitHubCreateRepoCheckList.md`
 
 ## Zarejestrowane zajęcia
 
+### Streszczenie - zarejestrowane zajęcia
+
+Ta sekcja zawiera
 
 - zarejestrowane wykłady
 - aktywność - pliki z poprawnymi odpowiedziami na pytania
 
+### Folder Aktywność - Q/A podsumowanie
+
+### Aktywność zasady
+
 Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Punkty te doliczane sa do oceny końcowej.
 
-- Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=35649) nie później niż do następnego wykładu.
-- **Odpowiedzi udzielone na pierwszym wykładzie nie są zaliczane do aktywności.**
+- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=35649) nie później niż do następnych zajęć.
+- **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
 
 ## Materiały pomocnicze
 

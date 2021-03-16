@@ -56,7 +56,7 @@ Informacja, informatyka, .NET, C#,
 
 #### Tytuł
 
-`TPUM Wykład N: <temat>`
+`TPUM Seminarium XX: <temat>`
 
 #### Treść
 
@@ -66,18 +66,20 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
 | Nazwa |                   Opis                   |
 | :---- | :--------------------------------------: |
-| Temat |           **Wykład xx: temat**           |
+| Temat |         **Seminarium XX: temat**         |
 | Data  |                 `<data>`                 |
 | Link  | [odtwórz film na YouTube](https://a.b.c) |
 
 ### Aktywność - pliki z poprawnymi odpowiedziami na pytania
 
-- `Wyklad XX <temat>.xlsx`
+- `YY-MM-DD Seminarium <XX> <Main topic> Activity.xlsx`
 
 ## Forum
 
-### `Wykład X - Zarejestrowane zajęcia i aktywność zostały opublikowane`
+### `Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`
 
-Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego wykładu w sekcji: "Zarejestrowane zajęcia".
+Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego wykładu w sekcji: [Zarejestrowane zajęcia 2021 Lato](https://ftims.edu.p.lodz.pl/course/view.php?id=1816#section-4).
+
+Ponieważ są to pierwsze zajęcia, punkty za aktywnośc nie stanowią składowej oceney końcowej.
 
 Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu [Aktywność](www.a.b.c) bezzwłocznie, ale nie później niż do następnego wykładu.
