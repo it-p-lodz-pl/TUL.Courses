@@ -137,18 +137,19 @@ I would like to invite you to a remote lecture class as part of the course **Pro
 1. [xaml](https://docs.microsoft.com/dotnet/framework/xaml-services/)
 1. MVVM (Model, View, ViewModel) pattern
 
-## Section `Laboratory`
+## Section `Project`
 
-### Laboratory Schedule
+### Project Schedule
 
 - Week \#01
   - About the curse
   - Prerequisites
-- Week \#02 (help needed - there will be a reward !!)
+- Week \#02 - \#03 (help needed - there will be a reward !!)
   - Introduction to the development environment
   - Programming in pairs, Test Driven Development, Dependency Injection
-- Week \#03 - Q/A: Task 1 and Task 2 detailed description
-- Week \#04..05 - Environment compatibility
+- Week \#04 - \#05
+  - Q/A: Task 1 and Task 2 detailed description
+  - Environment compatibility
 - Week \#06..09 - Task 1
 - Week \#10..15 - Task 2
 
