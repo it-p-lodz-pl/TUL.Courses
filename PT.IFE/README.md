@@ -201,7 +201,7 @@ Your repository must have the `README.md` file prepared according to this templa
 
 Please book a time-slot for # 4 laboratory using this module to check the progress of your work and compatibility of design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS \ Tools \ Create GUID`.
 
-## Section `Recordings`
+## Section `Recordings 2021 Summer`
 
 ### Summary
 
@@ -216,7 +216,14 @@ This section contains:
 
 - Lecture Activity Q/A
 
-> File name: `<Date> [LectureRecording|LaboratoryRecording] #<numer> <title>|LectureActivity`
+### Activity scores repoting
+
+Review the files above and report your result using [Seminar activity](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10883) - each answer I have not removed = 1 pts. Report your scores using comments of the mentioned module. Your achievement must be reported ASAP. Use the syntax `Lesson XX Scores= YY`, where
+
+- `XX` lesson number, 
+- `YY` number of points you are going to report for this lesson (your answers in the appropriate file).
+
+Entry for each lesson should be in the new comment.
 
 ## Section `References`
 
