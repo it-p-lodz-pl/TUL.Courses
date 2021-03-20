@@ -28,13 +28,9 @@ I would like to invite you to a remote lecture class as part of the course **Pro
 
 ## Youtube entry
 
-### Video link
-
-- [Video link](https://a.b.c)
-
 ### Title
 
-- `Programming Technologies Lecture Lesson X`
+- `Programming Technologies Lecture Lesson X <Topic>`
 
 ### Description
 
@@ -42,7 +38,7 @@ Workout on the Agenda foundation.
 
 ### Thumbnail
 
-LessonXX.Thumbnail.png
+`ProgrammingTechnologySeminar.png`
 
 ### Tags
 
@@ -62,7 +58,7 @@ C#, .NET, VisualStrudio, education, mvvm, dependency injection, adaptive-program
 
 ### Activity File Names
 
-- `YY-MM-DD Lesson XX Main topic Activity.xlsx`
+- `YY-MM-DD Lesson <XX> <Main topic> Activity.xlsx`
 
 ### WIKAMP Forum
 

@@ -74,26 +74,26 @@ I would like to invite you to a remote lecture class as part of the course **Pro
 
 ## Lectures Timetable
 
-|   Week   | Title                                                    |      Date      |       Location       | Password |
-| :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
-| ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
-|    1     | Seminar Lesson 1: Introduction                           |                |                      |          |
-|    2     | Seminar Lesson 2: Data semantics                         |                |                      |          |
-|    3     | Seminar Lesson 2: Data semantics                         |                |                      |          |
-|    4     | Seminar Lesson 3: Data streams                           |                |                      |          |
-|    5     | Seminar Lesson 3: Data streams                           |                |                      |          |
-|    6     | Seminar Lesson 4: Functional programming basics          |                |                      |          |
-|    7     | Seminar Lesson 4: Functional programming basics          |                |                      |          |
-|    8     | Seminar Lesson 5: Structural data                        |                |                      |          |
-|    9     | Seminar Lesson 5: Structural data                        |                |                      |          |
-|    10    | Seminar Lesson 6: Structural data                        |                |                      |          |
-|    11    | Seminar Lesson 6: Structural data                        |                |                      |          |
-|    13    | Seminar Lesson 7: Graphical data                         |                |                      |          |
-|    13    | Seminar Lesson 7: Graphical data                         |                |                      |          |
-|    15    | Preparation for the test - repeating the material        |                |                      |          |
-|    15    | Test                                                     |                |                      |          |
+| Week/Lesson | Main Topic                                               |      Date      |       Location       | Password |
+| :---------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
+|  ________   | ________________________________________________________ | ______________ | ____________________ | ________ |
+|      1      | Introduction                                             |                |                      |          |
+|      2      | Data semantics                                           |                |                      |          |
+|      3      | Data semantics                                           |                |                      |          |
+|      4      | Data streams                                             |                |                      |          |
+|      5      | Data streams                                             |                |                      |          |
+|      6      | Functional programming basics                            |                |                      |          |
+|      7      | Functional programming basics                            |                |                      |          |
+|      8      | Structural data                                          |                |                      |          |
+|      9      | Structural data                                          |                |                      |          |
+|     10      | Structural data                                          |                |                      |          |
+|     11      | Structural data                                          |                |                      |          |
+|     13      | Graphical data                                           |                |                      |          |
+|     13      | Graphical data                                           |                |                      |          |
+|     14      | Preparation for the test - repeating the material        |                |                      |          |
+|     15      | Test                                                     |                |                      |          |
 
-### Information on the organization of the examination period will be provided on the course forum
+- Information on the organization of the examination period will be provided on the course forum
 
 ### Table of topics
 
@@ -103,39 +103,43 @@ I would like to invite you to a remote lecture class as part of the course **Pro
 1. Useful assets: C# language, Visual Studio, GitHub
 1. Program robustness: exception, unit tests, environment simulation
 
-#### Lesson 2: Data semantics
+#### Lesson 2, 3: Data semantics
 
 1. Type concept
 1. Anonymous type
 1. Partial types and methods
 1. Generics
 
-#### Lesson 3: Data streams
+#### Lesson 4, 5: Data streams
 
 1. File and Stream Concepts
 1. Attributes
 1. Reflection
 1. Serialization
 
-#### Lesson 4: Functional programming basics
+#### Lesson 6, 7: Functional programming basics
 
 1. Anonymous function and lambda expression
 1. Extension method
 
-#### Lesson 5: Structural Data
+#### Lesson 8, 9: Structural Data
 
 1. LINQ query and methods syntax
 1. LINQ to object
 
-#### Lesson 6: Structural Data
+#### Lesson 10. 11: Structural Data
 
 1. LINQ to SQL
 
-#### Lesson 7 Graphical data
+#### Lesson 12, 13 Graphical data
 
 1. Delegates and events
 1. [xaml](https://docs.microsoft.com/dotnet/framework/xaml-services/)
 1. MVVM (Model, View, ViewModel) pattern
+
+### Lesson 14 Review
+
+### Lesson 15 Test
 
 ## Section `Project`
 
