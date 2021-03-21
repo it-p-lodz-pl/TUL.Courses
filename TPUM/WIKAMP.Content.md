@@ -87,21 +87,23 @@ W trakcie zajęć:
 
 ### ZADANIE Tworzenie repozytorium
 
-### GitHub README.md template file
+`TPUM\Project\GitHubCreateRepoTask.md`
+
+#### GitHub README.md template file
 
 1. Przyklej zawartość pliku do README.md repozytorium
 2. Wygeneruj GUID dla każdego członka zespołu
 3. Zmodyfikuj tabelkę wpisując dane identyfikacyjne i wygenerowane identyfikatory GUID
 
-`TPUM\GitHubREADMETempllate.md`
+`TPUM\Project\GitHubRCreateRepoEADMETempllate.md`
 
-### Tworzenie repozytorium - lista kontrolna
+#### Tworzenie repozytorium - lista kontrolna
 
 - utwórz issue
 - skopiuj zawartość pliku
 - wykorzystaj listę zadań do kontroli poprawności wykonania zadania
 
-plik `TPUM\GitHubCreateRepoCheckList.md`
+plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
 ### Projekt-Etap 1-interaktywna/reaktywne programowanie
 
