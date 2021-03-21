@@ -17,7 +17,7 @@ Good luck!!
 ## Task 1 Check list publication
 
 As I did promise today I have just published the file `Task 1 Check list.md` to help you apply self-assessment. Copy the content of this file to a new GitHub issue to get a list of tasks prefixed by checkboxes. You can use them to control the scope and progress of your work. Add an issue like that before the final code assessment. 
-BTW; let stress again. To accomplish Task 1 is not required
+BTW; let stress again. To accomplish Task 1 it is not required
 
 - to use external data sources, as files, databases, etc.
 - to use any additional framework (if someone can do something in the framework we can do it in code for sure).
@@ -57,3 +57,9 @@ I would like to invite you to a remote Laboratory class as part of the course **
 Please book a time-slot for the classes using the appropriate module `Lab 04 Reservation`. Our goal is to check the progress of your work and the compatibility of the design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS\Tools\Create GUID`.
 
 Let me stress, your repository must have the `README.md` file prepared according to the template `GitHub README.md template file` published on WIKAMP. Place the README.md file in the main directory of the repository. A GUID is required for identification. This GUID can be generated using `VS\Tools\Create GUID`. Don't use example GUIDs embedded in the template.
+
+## Repository Creation Task
+
+According to the curse rules all group members have to use the personal GitHub repository to share the source code. One repository per working group (a pair) is expected but **each course participant must complete this task**. The task evaluation doesn't contribute to the final course grade. Read carefully the description of the task [Create Repository](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=20097). The description contains a link to a video recorded already to provide a basic introduction. Submit the task as soon as possible.
+
+- **NOTE: It doesn't contribute to the final curse grade but failure to report the completion of the task up to the 6th week of classes is considered a resignation from completing the course**.

@@ -2,9 +2,9 @@
 
 ## FORUM - zaproszenie na wykład
 
-### `Zapraszam na wykład <data> 11:45`
+### `Zapraszam na seminarium <data> 11:45`
 
-Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urządzeń mobilnych**. Szczegóły poniżej.
+Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urządzeń mobilnych (PUM)**. Szczegóły poniżej.
 
 | Nazwa                     |             Opis              |
 | :------------------------ | :---------------------------: |
