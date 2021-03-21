@@ -1,32 +1,3 @@
-# Harmonogram
-
-| Tydzień | Temat zajęć |
-| :-----: | :--------------------------------------------------------------------------------------------------------- |
-| 1 | Seminarium |
-| 2 | Seminarium |
-| 3 | Seminarium |
-| 4 | [Tworzenie repozytorium](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262) - zaliczenie termin 1 |
-| 5 | [Tworzenie repozytorium](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262) - zaliczenie termin 2, |
-| 6 | [Tworzenie repozytorium](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262) - zaliczenie termin 3 |
-| 7 | Seminarium |
-| 8 | [Projekt etap 1](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857) - zaliczenie termin 1 |
-| 9 | [Projekt etap 1](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857) - zaliczenie termin 2 |
-| 10 | [Projekt etap 1](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857) - zaliczenie termin 3 |
-| 11 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 1|
-| 12 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 2|
-| 13 | [Projekt etap 2](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=75591) - zaliczenie termin 3|
-| 13 | [Projekt: Aplikacja Mobilna](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180) - zaliczenie termin 1 |
-| 14 | [Projekt: Aplikacja Mobilna](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180) - zaliczenie termin 2 |
-| 15 | [Projekt: Aplikacja Mobilna](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180) - zaliczenie termin 3 |
-
-## Uwagi
-
-- Ocena za [Projekt: Aplikacja Mobilna][Projekt] 20..40 punktów(40, 30, 20).
-- Studenci muszą zgłosić wykonanie zadania do 24:00 w dniu poprzedzającym zajęcia 13 w środę 03-06-2020.
-- Zgłoszenia należy dokonać **indywidualnie** za pośrednictwem modułu zadania.
-- Każdy członek zespołu musi zgłosić i zaliczyć zadanie niezależnie.
-
-[Projekt]: https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180
 
 ## Wrzesień 2020 - dodtakowe terminy zaliczenia
 
@@ -60,12 +31,12 @@ Jeśli by nie przyszli to ich zajęcia trzeba by przeliczyć nie na 7 tylko na 6
 
 ## Wykład
 
-| Data | Tydzień | Tematyka |
+| Data  | Tydzień | Tematyka                                     |
 | :---- | :-----: | :------------------------------------------- |
-| 26.03 | 4 | Wprowadzenie |
-| 16.04 | 6 | Architektura |
-| 30.04 | 8 | Protokoły komunikacyjne |
-| 14.05 | 10 | Semantyka danych - interoperacyjność |
-| 28.05 | 12 | Przetwarzanie w chmurze |
-| 18.06 | 14 | Bezpieczeństwo komunikacji, Danych i zasobów |
-| 22.06 | Zdalnie | Kolokwium |
+| 26.03 |    4    | Wprowadzenie                                 |
+| 16.04 |    6    | Architektura                                 |
+| 30.04 |    8    | Protokoły komunikacyjne                      |
+| 14.05 |   10    | Semantyka danych - interoperacyjność         |
+| 28.05 |   12    | Przetwarzanie w chmurze                      |
+| 18.06 |   14    | Bezpieczeństwo komunikacji, Danych i zasobów |
+| 22.06 | Zdalnie | Kolokwium                                    |

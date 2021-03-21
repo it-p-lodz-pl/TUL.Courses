@@ -1,6 +1,6 @@
-# Programming Technology Lab
+# Programming Mobile Devices Technologies
 
-## Team
+## Working Group
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |

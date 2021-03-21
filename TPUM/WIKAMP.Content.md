@@ -55,20 +55,25 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 - Ocena wykonania zdania `Tworzenie repozytorium` nie jest składnikiem oceny końcowej
 - Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem `Ostateczny termin` (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu
 - Ocena za zadania 5..10 punktów
-- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu. **Każdy członek zespołu zgłasza gotowość zadania do oceny**.
+- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek grupy roboczej zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
 
 ### Ramowy harmonogram zajęć
 
-| Tydzień | Temat                                         | Uwagi                     |
-| ------- | --------------------------------------------- | ------------------------- |
-| 01      |                                               | Zajęcia odrabiane w 07-15 |
-| 02      | Wprowadzenie do projektu                  |                           |
-| 03      | Projekt (Omówienie projektu, środowisko)      |                           |
-| 04-06   | Tworzenie repozytorium; Kontrola postępu prac |                           |
-| 07-09   | Projekt Etap-1 ocena                          | Odrabianie zajęć 01       |
-| 10-12   | Projekt Etap-2 ocena                          | Odrabianie zajęć 01       |
-| 13-15   | Projekt Etap-3 ocena                          | Odrabianie zajęć 01       |
+| Tydzień | Temat                                                                  | Uwagi                     |
+| ------- | ---------------------------------------------------------------------- | ------------------------- |
+| 01      |                                                                        | Zajęcia odrabiane w 07-15 |
+| 02      | Wprowadzenie do projektu                                               |                           |
+| 03      | Projekt (Omówienie projektu, środowisko)                               |                           |
+| 04-06   | [Tworzenie repozytorium][TworzenieRepozytorium]; Kontrola postępu prac |                           |
+| 07-09   | [Projekt Etap-1 ocena][Etap1]                                          | Odrabianie zajęć 01       |
+| 10-12   | [Projekt Etap-2 ocena][Etap2]                                          | Odrabianie zajęć 01       |
+| 13-15   | [Projekt Etap-3 ocena][Etap3]                                          | Odrabianie zajęć 01       |
+
+[TworzenieRepozytorium]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262
+[Etap1]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857
+[Etap2]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=76009
+[Etap3]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180
 
 #### Uwagi: Kontrola postępu prac projektowych
 
@@ -81,20 +86,6 @@ W trakcie zajęć:
   - Z czym mam problem?
 
 ### ZADANIE Tworzenie repozytorium
-
-Każdy uczestnik kursu musi wykonać to zadanie. Przed przesłaniem do oceny należy:
-
-- skopiować zawartość pliku `GitHubREADMETempllate.md` do pliku `README.md` repozytorium
-- uzupełnić plik wpisując swoje personalne dane identyfikacyjne i wygenerowane identyfikatory GUID
-- skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i swój GUID
-- W repozytorium należy umieścić przykładowy program, który da się skompilować
-- W programie należy umieścić testy jednostkowe, które dadzą się wykonać
-
-#### UWAGA: brak zgłoszenia wykonania zadania w terminie do 6 tygodnia zajęć jest uważany za rezygnację z ukończenia kursu
-
-Zgodnie z obietnicą utworzyłem filmik z instrukcją opisującą jak utworzyć repozytorium GitHub na potrzeby projektu.
-
-#### [Video jest dostępne](https://youtu.be/uANd4kfWfVA)
 
 ### GitHub README.md template file
 
@@ -110,7 +101,7 @@ Zgodnie z obietnicą utworzyłem filmik z instrukcją opisującą jak utworzyć 
 - skopiuj zawartość pliku
 - wykorzystaj listę zadań do kontroli poprawności wykonania zadania
 
-plik `TPUM\GitHubCreateRepoCheckList.md` 
+plik `TPUM\GitHubCreateRepoCheckList.md`
 
 ### Projekt-Etap 1-interaktywna/reaktywne programowanie
 
