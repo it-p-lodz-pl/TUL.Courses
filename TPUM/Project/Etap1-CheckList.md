@@ -1,10 +1,17 @@
-# Etap 1 Checklist
+# Project Stage 1 Checklist
 
-W minimum zaliczeniowym jest wymagane:
-
-1. Brak błędów kompilatora po wyciągnięciu nowej kopii kodu z repozytorium
-1. Pozytywne wyniki wymaganych testów jednostkowych
-1. Poprawne zdefiniowanie modelu obiektowego dla wybranego procesu biznesowego
-1. Rozwiązanie problemu zapewnienia spójności danych w modelu obiektowym
-1. Wykorzystanie testów jednostkowych do testowania modelu obiektowego i logiki biznesowej **niezależnie**
-1. Poprawnego przetestowania z wykorzystaniem testów jednostkowych modelu obiektowego dla dwóch rożnych sposobów generowania danych testowych
+- [ ] text is in C# and use .NET
+- [ ] build succeeded
+- [ ] all UT are green
+- [ ] Object model representing process data
+- [ ] `Data` layer is clearly stated using language terms only (no database of file access is required)
+- [ ] `Data` API is abstract
+- [ ] `Logic` layer is clearly stated using language terms only
+- [ ] `Logic` API is clearly stated
+- [ ] `Logic` uses only the abstract `Data` layer API
+- [ ] `Presentation` layer is clearly stated using language terms only
+- [ ] mvvm and xaml is applied to implement GUI
+- [ ] rective and interactive programming is used
+- [ ] Unit Test - layers are tested independently using abstract API
+- [ ] Dependency injection (additional framework is not required)
+- [ ] Mock is used for testing purpose (expected but not required)
