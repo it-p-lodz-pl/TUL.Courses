@@ -56,7 +56,7 @@ Informacja, informatyka, .NET, C#,
 
 #### Tytuł
 
-`TPUM Seminarium XX: <temat>`
+`Seminarium XX: <temat>`
 
 #### Treść
 
@@ -78,8 +78,8 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
 ### `Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`
 
-Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego wykładu w sekcji: [Zarejestrowane zajęcia 2021 Lato](https://ftims.edu.p.lodz.pl/course/view.php?id=1816#section-4).
+Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego seminarium w sekcji: [Zarejestrowane zajęcia 2021 Lato](https://ftims.edu.p.lodz.pl/course/view.php?id=1816#section-4).
 
 Ponieważ są to pierwsze zajęcia, punkty za aktywnośc nie stanowią składowej oceney końcowej.
 
-Ilość poprawnych odpowiedzi zdobytych w trakcie wykładu proszę wpisywać w komentarze modułu [Aktywność](www.a.b.c) bezzwłocznie, ale nie później niż do następnego wykładu.
+Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Aktywność](www.a.b.c) bezzwłocznie, ale nie później niż do następnego wykładu.

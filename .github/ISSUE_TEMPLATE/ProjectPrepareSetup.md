@@ -6,7 +6,8 @@ labels: 'Feature request'
 assignees: 'mpostol'
 ---
 
-- [ ] Goal, scope and content master plan
+- [ ] Master plan
+  - [ ] Create folder
   - [ ] Presentation
   - [ ] Agenda
 - [ ] Teams create calendar entry
