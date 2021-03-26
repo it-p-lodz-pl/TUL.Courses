@@ -1,39 +1,70 @@
-# Wykład
+# Tematyka
 
-## Harmonogram 2020
+1. Wprowadzenie
+2. Systemy scentralizowane
+3. Systemów rozproszone
+4. Współdziałanie
+5. Normalizacja - standaryzacja
+6. Przetwarzanie w chmurze
+7. Bezpieczeństwo
+  
+## 1 Wprowadzenie
 
-| Data  | Tydzień | Wykład  godz. 14:15:30                       | Projekt godz. 15:30-19:00      |
-| :---- | :-----: | :------------------------------------------- | ------------------------------ |
-| 26.03 |    4    | Wprowadzenie                                 | ND                             |
-| 16.04 |    6    | Architektura                                 | ND                             |
-| 30.04 |    8    | Protokoły komunikacyjne                      | ND                             |
-| 14.05 |   10    | Semantyka danych - interoperacyjność         | ND                             |
-| 28.05 |   12    | Przetwarzanie w chmurze                      | Sprawdzian 1 (1)               |
-| 10.06 |   14    | Bezpieczeństwo komunikacji, Danych i zasobów | Sprawdzian 1 (3), 2 (2)        |
-| 22.06 |   15    | Kolokwium                                    | Kolokwium(1), Sprawdzian 2 (3) |
+## 2 Systemy scentralizowane
 
-UWAGI:
+- Nazwa przedmiotu - słowa kluczowe
+- Urządzenia mobile
+- Programowanie scentralizowane
 
-- We wszystkich terminach odpowiedni moduł bęzie dostępny zdalnie.
-- Sprawdzian 1 obejmuje wykłady 4, 6, 8 (tydzień)
-- Sprawdzian 2 obejmuje wykłady 10, 12, 14 (tydzień)
+## 3 Systemów rozproszone
 
-### Testy - zakres tematyczny
+## 4 Współdziałanie  `<semantyka danych - interoperacyjność>`
 
-| Wykład | Temat                                        | Sprawdzian 1 | Sprawdzian 2 | Kolokwium |
-| ------ | -------------------------------------------- | :----------: | :----------: | :-------: |
-| 1.     | Wprowadzenie                                 |      X       |              |     X     |
-| 2.     | Architektura                                 |      X       |              |     X     |
-| 3.     | Protokoły komunikacyjne                      |      X       |              |     X     |
-| 4.     | Semantyka danych - interoperacyjność         |              |      X       |     X     |
-| 5.     | Przetwarzanie w chmurze                      |              |      X       |     X     |
-| 6.     | Bezpieczeństwo komunikacji, danych i zasobów |              |              |     X     |
+- Integracja komponentów różnych producentów
+  - Roboty
+  - Autonomiczne samochody
 
-## Tematyka
+1. Type concept
+1. Anonymous type
+1. Partial types and methods
+1. Generics
+1. XML, JSON, YAML
+   - [XML=>YAML](https://codebeautify.org/xml-to-yaml#)
+   - [JSON => YAML,XML, CSV](https://jsonformatter.org/)  
+1. OPC UA Information Model
 
-### Wprowadzenie
+## 5 Normalizacja - standaryzacja
 
-#### Wprowadzenie Plan
+- Przykłady architektoniczne
+  - Machine to Machine Communication (M2M)
+  - IoT
+  - Cyber Physical Systems
+
+## 6 Przetwarzanie w chmurze
+
+## 7 Bezpieczeństwo
+
+- Data Transfer Object/Graph
+  - kontekst semantyczny
+  - kontekst bezpieczeństwa
+  - wymagania projektowe
+- Bezpieczeństwo komunikacji
+  - wybrane protokoły
+  - bezpieczeństwo punkt to punkt (p2p)
+  - Bezpieczeństwo end to end (e2e)
+  - end to end security
+- Bezpieczeństwo danych
+  - kryptografia symetryczna
+  - kryptografia asymetryczna
+    - tożsamośc aplikacji
+    - tożsamośc instancji aplikacji
+    - tożsamość uzytkownika (nie wyżekanie się ang. non repudiation)
+  - bezpieczeństwo dokumentów
+    - tożsamoć danych
+
+## Poprzednio
+
+### Wprowadzenie Plan
 
 1. O kursie
 1. Wyjaśnienie tematu
@@ -87,7 +118,18 @@ UWAGI:
   - komunikacja maszyn
   - produkcja przez rożnych producentów
 
-### Architektura
+
+### Architektura - programowanie rozproszone
+
+Programowanie rozproszone
+Współdziałanie rozproszone
+Integracja komponentów różnych producentów
+Roboty
+Autonomiczne samochody
+Przykłady architektoniczne
+Machine to Machine Communication (M2M)
+IoT
+Cyber Physical Systems
 
 #### Architektura plan
 
@@ -182,25 +224,3 @@ UWAGI:
 - WEBSOCKET podejście reaktywne, interaktywne, a asynchroniczne, sesja 
 - kiedy ciąg bitów jest tekstem
 
-### Semantyka danych - interoperacyjność
-
-1. Type concept
-1. Anonymous type
-1. Partial types and methods
-1. Generics
-1. XML, JSON, YAML
-   - [XML=>YAML](https://codebeautify.org/xml-to-yaml#)
-   - [JSON => YAML,XML, CSV](https://jsonformatter.org/)  
-1. OPC UA Information Model
- 
-### Przetwarzanie w chmurze
-
-
-### Bezpieczeństwo komunikacji
-
-- end to end security
-- application identity
-- application instance identity
-- data identity
-- user identity
-- non repudiation

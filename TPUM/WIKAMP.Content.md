@@ -26,6 +26,8 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 
 ## Wykład
 
+### Streszczenie
+
 | Zajęcia | Tydzień  | Tytuł                                                    |      Data      | Link dla uczestnika  |  Hasło   |
 | :-----: | :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
 |  _____  | ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
@@ -37,6 +39,26 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 |    6    |    11    | Przetwarzanie w chmurze                                  |                |                      |          |
 |    7    |    13    | Bezpieczeństwo komunikacji, Danych i zasobów             |                |                      |          |
 |    8    |    15    | Test                                                     |                |                      |          |
+
+- `Link dla uczestnika`  oraz `Hasło` zostaną podane jak tylko będą dostępne (zwykle w dniu poprzedzającym zajęcia)
+
+### Tematyka
+
+`TPUM\WwykładProgram.md`
+
+### Seminarium aktywność
+
+Zdobyte punkt proszę  wpisywać w kolejne komentarze niezwłocznie, ale nie później niż do następnych zajęć.
+
+Po ostatnich zajęciach proszę podsumować punkty i ich sumę wpisać w pole tekstowe w poniższym formacie i przesłać zadanie do oceny.
+
+```TXT
+
+SUMA = n
+
+```
+
+### Kolokwium
 
 ## Projekt
 
@@ -126,7 +148,7 @@ Ta sekcja zawiera
 
 Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Punkty te doliczane sa do oceny końcowej.
 
-- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=35649) nie później niż do następnych zajęć.
+- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
 - **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
 
 ## Materiały pomocnicze
