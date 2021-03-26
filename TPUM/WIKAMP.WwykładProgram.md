@@ -2,7 +2,7 @@
 
 1. Wprowadzenie
 2. Systemy scentralizowane
-3. Systemów rozproszone
+3. Systemy rozproszone
 4. Współdziałanie
 5. Normalizacja - standaryzacja
 6. Przetwarzanie w chmurze

@@ -82,4 +82,4 @@ Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego sem
 
 Ponieważ są to pierwsze zajęcia, punkty za aktywnośc nie stanowią składowej oceney końcowej.
 
-Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu.
+Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu.
