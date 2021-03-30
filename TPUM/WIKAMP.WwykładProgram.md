@@ -3,6 +3,20 @@
 1. Wprowadzenie
 2. Systemy scentralizowane
 3. Systemy rozproszone
+   - Podstawy
+      - Po co nam systemy rozproszone?
+      - Co to są systemy rozproszone?
+   - Komunikacja
+     - Wprowadzenie
+     - Internet
+     - Protokoły
+       - Stos protokołów (ISO/TCP)
+       - HTTP, TCP, UDP, IP
+       - REST
+       - WebSocket
+     - Współdzielenie GUI
+     - Współdzielenie repozytoriów
+     - Podział programu na niezależne procesy
 4. Współdziałanie
 5. Normalizacja - standaryzacja
 6. Przetwarzanie w chmurze
@@ -16,7 +30,7 @@
 - Urządzenia mobile
 - Programowanie scentralizowane
 
-## 3 Systemów rozproszone
+## 3 Systemy rozproszone
 
 ## 4 Współdziałanie  `<semantyka danych - interoperacyjność>`
 
