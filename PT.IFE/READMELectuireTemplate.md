@@ -42,7 +42,7 @@ Workout on the Agenda foundation.
 
 ### Tags
 
-C#, .NET, VisualStrudio, education, mvvm, dependency injection, adaptive-programming, data-intensive-programming, linq, c-sharp, csharp, dotnet, csharp-examples;
+C#, .NET, Visual Studio, education, mvvm, dependency injection, adaptive-programming, data-intensive-programming, linq, c-sharp, csharp, dotnet, csharp-examples;
 
 ## WIKAMP
 
