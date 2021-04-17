@@ -174,7 +174,7 @@ The task completion must be reported up to 24:00 the day before the date enumera
 
 - Scores for one task 10..20
 - The task completion must be reported up to 24:00 the day before. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task.
-- **Late report decreases the max score by 2.5 a week.**
+- **Late report decreases the max score by 2.5 a week. Each working group member reports separately that the task is ready for evaluation.**
 
 ### Laboratory group selection
 
