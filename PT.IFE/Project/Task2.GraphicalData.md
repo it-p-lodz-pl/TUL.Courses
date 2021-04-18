@@ -32,7 +32,7 @@ As the process data repository the SQL database should be used and the types res
 
 - Classes responsible for processing of the data stored in the database must be implemented as a separate layer
 - During the implementation of services it is necessary to provide functionality that allows to create, read, update and delete the entities (in short `CRUD`) from the database
-- This layer should also provide the public API and hide the details of the implementation, e.g. the need to create a <code>DataContext</code>
+- This layer should also provide the public API and hide the details of the implementation, e.g. the need to create a `DataContext`
 - This layer must be implemented as a separate project
 
 ### Presentation layer
