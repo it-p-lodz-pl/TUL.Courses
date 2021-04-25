@@ -2,7 +2,7 @@
 
 ## Tytuł rezerwacji
 
-- Programming Technologies (PT) wykład/projekt
+- Programming Technologies (PT) wykład/seminarium
 
 ## Pełny opis
 
