@@ -2,14 +2,13 @@
 
 ## FORUM - zaproszenie na wykład
 
-### `Zapraszam na seminarium <data> 11:45`
+### `Zapraszam na seminarium środa 5 maja 2021 11:45`
 
 Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urządzeń mobilnych (PUM)**. Szczegóły poniżej.
 
 | Nazwa                     |             Opis              |
 | :------------------------ | :---------------------------: |
 | Temat                     |           **Temat**           |
-| Początek                  |       `DataTime 11:45`        |
 | Czas trwania              |          1.5 godziny          |
 | Hasło                     |            `****`             |
 | PIN do aplikacji mobilnej |           ---------           |
@@ -80,6 +79,6 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
 Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego seminarium w sekcji: [Zarejestrowane zajęcia 2021 Lato](https://ftims.edu.p.lodz.pl/course/view.php?id=1816#section-4).
 
-Ponieważ są to pierwsze zajęcia, punkty za aktywnośc nie stanowią składowej oceney końcowej.
+Ponieważ są to pierwsze zajęcia, punkty za aktywność nie stanowią składowej oceny końcowej.
 
 Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu.
