@@ -62,8 +62,6 @@ SUMA = n
 
 ## Projekt
 
-### Streszczenie
-
 | Zadanie                |     Termin oddania (nr tygodnia)      |
 | ---------------------- | :-----------------------------------: |
 | __________________     | _____________________________________ |
@@ -72,7 +70,7 @@ SUMA = n
 | Projekt-Etap 2         |                  10                   |
 | Projekt Etap 3         |                  13                   |
 
-#### Uwagi
+### Uwagi
 
 - Ocena wykonania zdania `Tworzenie repozytorium` nie jest składnikiem oceny końcowej
 - Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem `Ostateczny termin` (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu
@@ -155,6 +153,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ### Programowanie rozproszone
 
+- Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
 - Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
   - Postół M. (2020) [Object-Oriented Internet Reactive Interoperability](https://www.researchgate.net/publication/341882427_Object-Oriented_Internet_Reactive_Interoperability), presentation, DOI: 10.13140/RG.2.2.33984.56323
 - Mariusz Postol, [Machine to Machine Semantic-Data Based Communication: Comprehensive Survey](https://www.researchgate.net/publication/341165347_Machine_to_Machine_Semantic-Data_Based_Communication_Comprehensive_Survey) chapter in book [Computer Game Innovations 2018](https://www.researchgate.net/publication/335524620_Computer_Game_Innovations_2018), Publisher: Lodz University of Technology Press; ISBN: 978-83-7283-999-2 (open access)
