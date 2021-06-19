@@ -63,3 +63,11 @@ Let me stress, your repository must have the `README.md` file prepared according
 According to the curse rules all group members have to use the personal GitHub repository to share the source code. One repository per working group (a pair) is expected but **each course participant must complete this task**. The task evaluation doesn't contribute to the final course grade. Read carefully the description of the task [Create Repository](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=20097). The description contains a link to a video recorded already to provide a basic introduction. Submit the task as soon as possible.
 
 - **NOTE: It doesn't contribute to the final curse grade but failure to report the completion of the task up to the 6th week of classes is considered a resignation from completing the course**.
+
+## Activity points final summary
+
+It was the last opportunity to gather activity points. Provide the total in the online text window using the following template:
+
+`Total= <scores>`
+
+and submit the task as soon as possible but not later than Sunday, 27 June 2021, 12:00 AM.
