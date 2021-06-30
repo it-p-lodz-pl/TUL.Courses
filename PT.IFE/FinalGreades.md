@@ -1,8 +1,8 @@
-# Final greades
+# Final grades
 
 Hi All,
 
-We are approaching the end of the semester so it is time to finalize your grading process. I have just updated the grades so I will appreciate checking your reports up to **26-02-2021**.
+We are approaching the end of the semester so it is time to finalize your grading process. I have just updated the grades so I will appreciate checking your reports up to **dd-mm-yy**.
 
 Let me recall that there is the seminar example code. Have a look at
 
