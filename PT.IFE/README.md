@@ -220,11 +220,11 @@ This section contains:
 
 - Lecture Activity Q/A
 
-### Activity scores repoting
+### Activity scores reporting
 
 Review the files above and report your result using [Seminar activity](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10883) - each answer I have not removed = 1 pts. Report your scores using comments of the mentioned module. Your achievement must be reported ASAP. Use the syntax `Lesson XX Scores= YY`, where
 
-- `XX` lesson number, 
+- `XX` lesson number,
 - `YY` number of points you are going to report for this lesson (your answers in the appropriate file).
 
 Entry for each lesson should be in the new comment.
@@ -234,6 +234,7 @@ Entry for each lesson should be in the new comment.
 ### Online
 
 - [csharp (C#) Teaching of Programming (TP)](https://github.com/mpostol/TP#csharp-c-teaching-of-programming-tp-)
+- [Programming Technologies 2021; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbyWXRTAe9m-ABP9YWmpLvUk)
 - [Programming Technologies 2020; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)
 - [mpostol gists](https://gist.github.com/mpostol)
 - [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
