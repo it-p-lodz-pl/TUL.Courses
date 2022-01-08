@@ -19,7 +19,7 @@
 
 | Nazwa  | Opis                     |
 | ------ | ------------------------ |
-| Folder | `PT.IFE`                   |
+| Folder | `PT.IFE`                 |
 | Kod    | 07 67 5030 17            |
 | Tytuł  | Programming Technologies |
 
@@ -30,7 +30,7 @@ Computer science in general, and especially programming activities, is a field o
 
 | Nazwa  | Opis                     |
 | ------ | ------------------------ |
-| Folder | PW                       |
+| Folder | `PW`                     |
 | Kod    |                          |
 | Tytuł  | Programming Technologies |
 
@@ -41,7 +41,7 @@ TBD
 
 | Nazwa  | Opis                                         |
 | ------ | -------------------------------------------- |
-| Folder | TPUM                                         |
+| Folder | `TPUM`                                       |
 | Kod    |                                              |
 | Tytuł  | Technologie Programowania Urządzeń Mobilnych |
 
@@ -52,7 +52,7 @@ TBD
 
 | Nazwa  | Opis                                  |
 | ------ | ------------------------------------- |
-| Folder | PAL                                   |
+| Folder | `PAL`                                 |
 | Kod    |
 | Tytuł  | Programowanie Aplikacji Logistycznych |
 
@@ -63,7 +63,7 @@ TBD
 
 | Nazwa  | Opis            |
 | ------ | --------------- |
-| Folder | `PDMP`            |
+| Folder | `PDMP`          |
 | Kod    |                 |
 | Tytuł  | Praca dyplomowa |
 
@@ -74,7 +74,7 @@ TBD
 
  | Nazwa  | Opis                                    |
  | ------ | --------------------------------------- |
- | Folder | `TP`                                      |
+ | Folder | `TP`                                    |
  | Kod    | 07 72 5530 17                           |
  | Tytuł  | Technologie programowania rozproszonego |
 
@@ -85,7 +85,7 @@ Celem przedmiotu jest rozszerzenie wiedzy i umiejętności studentów zdobytych
 
 | Nazwa  | Opis                                    |
 | ------ | --------------------------------------- |
-| Folder | `TPA`                                     |
+| Folder | `TPA`                                   |
 | Kod    | 07 72 6730 17                           |
 | Tytuł  | Technologie Programowania Adaptacyjnego |
 

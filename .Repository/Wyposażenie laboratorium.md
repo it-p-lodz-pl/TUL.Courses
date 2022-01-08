@@ -8,4 +8,3 @@
 - [Klient systemu kontroli wersji Git](https://tortoisegit.org/download/)
 - [Klient systemu kontroli wersji TortoiseSvn](https://tortoisesvn.net/)
 - [Edytor tekstu Notepad++](https://notepad-plus-plus.org/)
-
