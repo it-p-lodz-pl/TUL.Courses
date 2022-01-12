@@ -1,18 +1,14 @@
-# Programowanie urządzeń mobilnych
+# Programowanie Współbieżne
 
 ## Wstęp
 
 - Nazwa skrócona: XX
-- Temat: Programowanie Współrzędne
+- Temat: Programowanie Współbieżne
 - [WIKAMP](https://a.b.c)
 - [Karta ECTS][pwects]
 
 It stands for Concurrent Programming (pl Programowanie Współrzędne)
 It is next class belonging to the Programming Technologies series.
-
-[Description](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=pl&idPrzedmiotu=172860&pkId=1149&s=1&j=0&w=informatyka%20stosowana&v=3)
-
-[pwects]: https://programy.p.lodz.pl/ectslabel-web/przedmiot_4.jsp?l=pl&idPrzedmiotu=179880&pkId=1654&s=4&j=0&w=informatyka%20stosowana&v=4
 
 ## Opis przedmiotu
 
@@ -58,3 +54,4 @@ Klucz: **XXXX**
 URL: [Programowanie Współbieżne][WIKAMP]
 
 [WIKAMP]: https://a.b.p.lodz.pl
+[pwects]: https://programy.p.lodz.pl/ectslabel-web/przedmiot_4.jsp?l=pl&idPrzedmiotu=179880&pkId=1654&s=4&j=0&w=informatyka%20stosowana&v=4
