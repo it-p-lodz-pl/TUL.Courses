@@ -1,6 +1,9 @@
-# Wykład pytania
+# Technologie programowania Urządzeń Mobilnych Test <!-- omit in toc --> 
 
-- [Wykład pytania](#wykład-pytania)
+## Table of Content <!-- omit in toc -->
+
+- [Wstęp](#wstęp)
+- [Pytania do Testu](#pytania-do-testu)
   - [Wykład \#1 Wprowadzenie](#wykład-1-wprowadzenie)
     - [Dane składnia vs semantyka (tak/nie)](#dane-składnia-vs-semantyka-taknie)
     - [Informatyka](#informatyka)
@@ -59,15 +62,21 @@
     - [Funkcja skrótu - wartość](#funkcja-skrótu---wartość)
     - [Klucz sesji - procedura](#klucz-sesji---procedura)
 
-## Wykład \#1 Wprowadzenie
+## Wstęp
 
-### Dane składnia vs semantyka (tak/nie)
+Ten plik został dodany informacyjnie. Zawiera wybrane pytania z testu końcowego przedmiotu Programowanie Urządzeń Mobilnych, który został zaadoptowany do cyklu przedmiotów Technologie Programowania. Wydaje się, że PUM realizowany na 2 semestrze studiów magisterskich jest kontynuacja tego przedmiotu i należy oba przedmioty skorelować co do zakresu i treści w nich zawartych.
+
+## Pytania do Testu
+
+### Wykład \#1 Wprowadzenie
+
+#### Dane składnia vs semantyka (tak/nie)
 
 Dana to znakowa reprezentacja informacji. Aby ta reprezentacja była wzajemnie jednoznaczna musimy zdefiniować: alfabet, czyli zbiór dopuszczalnych znaków, (b) składnię, czyli zbiór reguł określających znaczenie poprawnych ciągów znaków, (c) semantykę, czyli zbiór reguł określających, jak budować poprawne ciągi znaków.
 
 - fałśz
 
-### Informatyka
+#### Informatyka
 
 Informatyka to dziedzina zajmująca się automatyzacją procesów przetwarzania [[1]]. Aby opisać proces przetwarzania [[1]], niezbędny jest [[2]], który określa sekwencję operacji, jakie mają być wykonane w celu przetworzenia zbioru [[1]] wejściowej w zbiór [[1]] wynikowej. Problem w tym, że oba są pojęciami abstrakcyjnymi – to rodzaj wiedzy o tym, co i jak przetwarzać. W konsekwencji nie mogą być bezpośrednio wykorzystane przez współczesne materialne maszyny zbudowane z wykorzystaniem praw i zjawisk znanych w fizyce. Aby je zmaterializować (zaimplementować) wykorzystuje się [[4]] do ich reprezentowania. [[4]] pozwala na formalne opisanie informacji i algorytmu w postaci programu. Podstawą materializacji jest alfabet, który jest ciągiem znaków alfanumerycznych reprezentowanych w środowisku współczesnej maszyny przetwarzającej, jako skończony ciąg bitów. Po kompilacji program może być uruchomiony z wykorzystaniem wybranego środowiska wykonawczego, co oznacza utworzenie [[5]]. [[5]] to zbiór wątków, z których każdy odpowiada za realizację sekwencji instrukcji opisanych w programie z wykorzystaniem [[3]], które tworzone są w trakcie realizacji wątku. Warunkiem utworzenia [[5]] jest nadanie mu [[6]]  dziedziczon(ej)/(ego) po sesji, jeśli program uruchamiany jest przez użytkownika w ramach istniejącej sesji lub skonfigurowan(a)/(ny), jeśli program (usługa) uruchomiany jest przez system operacyjny lub w imieniu innego użytkownika. [[6]] [[5]] jest wykorzystywana do autoryzacji operacji, których wykonania [[5]] może żądać od otoczenia, przykładowo systemu operacyjnego. Autoryzacja to operacja sprawdzenia, czy [[7]] ma [[10]] do wykonania żądanej operacji.
 
@@ -88,7 +97,7 @@ Informatyka to dziedzina zajmująca się automatyzacją procesów przetwarzania 
 15. Nazwa
 16. Tekst
 
-### Warstwowa architektura aplikacji (wybór brakujących słów)
+#### Warstwowa architektura aplikacji (wybór brakujących słów)
 
 [[1]] jest rodzajem abstrakcji pozwalającym na projektowanie [[3]] programu reprezentującej hierarchię zależności elementów składowych programu należących do [[1]]. W tej [[3]] [[1]] łączą relacje zależności w taki sposób, że każda [[1]] z wyjątkiem najniższej jest zależna wyłącznie od [[1]] niższych. [[1]] najniższa nie jest uzależniona od istnienia żadnej innej [[1]]. Analogicznie od [[1]] najwyższej nie jest uzależniona żadna inna [[1]]. Zależność w kontekście programu oznacza wykorzystanie [[5]] eksponowanych przez inną [[1]]. Wszystkie [[5]] eksponowane przez [[1]] tworzą [[8]] dla [[1]]. [[7]] [[8]] [[10]] być abstrakcyjne by ukryć szczegóły implementacyjne [[1]].
 
@@ -103,7 +112,7 @@ Informatyka to dziedzina zajmująca się automatyzacją procesów przetwarzania 
 9. mogą
 10. powinny
 
-### Architektura aplikacji
+#### Architektura aplikacji
 
 W celu ułatwienia pracy zespołowej i testowania zwykle w architektura programu wyróżnia się możliwie niezależne warstwy o dedykowanych funkcjach zależnych od wybranego modelu. W trakcie zajęć odwoływaliśmy się do modeli:
 
@@ -120,7 +129,7 @@ Jakie koncepcje, konstrukcje językowe i technologie można wykorzystać w reali
 | Polimorfizm, który pozwala zaimplementować wybraną funkcjonalność na kilka różnych sposobów w  warstwie.                                                                 | -33.3 | Jest to zła odpowiedź. Polimorfizm, jak zaznaczono w odpowiedzi, wpływa na realizację funkcjonalności, a nie na to, co jest oferowane w zakresie funkcjonalności.                                                |
 | Zbiory typów, które możemy grupować w przestrzenie nazw i ograniczać ich uzależnienie od typów znajdujących się w warstwie poniżej.                                      | 33.3  | To poprawna odpowiedź.                                                                                                                                                                                           |
 
-### Warstwa Programu (wielokrotny wybór)
+#### Warstwa Programu (wielokrotny wybór)
 
 Wybierz **poprawne i kompletne** sformułowania dotyczące tworzenia aplikacji warstwowej. Warstwa w programie to:
 
@@ -130,7 +139,7 @@ Wybierz **poprawne i kompletne** sformułowania dotyczące tworzenia aplikacji w
 - określony zbiór funkcji
 - określony zbiór obiektów
 
-### Rodzaje danych (brakujące słowa)
+#### Rodzaje danych (brakujące słowa)
 
 Dane [[1]] to takie, w których nie możemy wyróżnić części składowych. W konsekwencji praktycznie wszystkie [[2]] na danych prostych dotyczą ich [[3]] jako pewnej całości. Natomiast, w danych [[4]] możemy wyróżnić ich składowe. Wyróżnienie to jest realizowane przez operację [[5]], która dla danych złożonych musi być zdefiniowana. Przykładami danych złożonych jest tablica, struktura, itp. Ich wewnętrzna struktura, więc wzajemne powiązanie elementów skłądowych jest narzucone i nie może być swobodnie zmieniane. Natomiast, dane [[8]] charakteryzują się tym, że relacje pomiędzy elementami mogą być swobodnie implementowane. W konsekwencji w miejsce operacji selektora mamy operację [[9]] wykorzystującą referencje pomiędzy obiektami.
 
@@ -149,7 +158,7 @@ Dane [[1]] to takie, w których nie możemy wyróżnić części składowych. W 
 13. indeksowanie
 14. graf
 
-### Współdziałanie (dopasowanie)
+#### Współdziałanie (dopasowanie)
 
 Dopasuj terminy do odpowiednich opisów. Nie wszystkie terminy mają opis i mogą być wykorzystane w dopasowaniu.
 
@@ -168,19 +177,19 @@ Dopasuj terminy do odpowiednich opisów. Nie wszystkie terminy mają opis i mog�
 - Programowanie obiektowe
 - Programowanie funkcyjne
 
-### Dane mobilne (tak/nie)
+#### Dane mobilne (tak/nie)
 
 Dane mobilne, to dane o charakterze zdarzenia, które pojawiają sie w nieprzedziwnych miejscach sieci komputerowej i nieprzewidzianych chwilach czasowych. Często kojarzone są z miejscem geograficznym i czasem wystąpienia przed przesłąniem ich do miejsca, gdzie mają yć dalej przetwarzane.
 
-### Urządzenia mobilne (tak/nie)
+#### Urządzenia mobilne (tak/nie)
 
 Z punktu widzenia inżynierii programowania warunkiem wystarczającym, aby urządzenia można było nazwać mobilnym, jest to, że może swobodnie zmieniać swoje połowienie geograficzne.
 
-### Eksploatacja urządzeń komputerowych w trudnych warunkach otoczenia
+#### Eksploatacja urządzeń komputerowych w trudnych warunkach otoczenia
 
 Urządzenia mobilne często są używane w trudnych warunkach środowiskowych, np. wibracje, przeciążenia, wilgotność, zadymienie, itd. W takich warunkach korzystanie z graficznego interfejsu użytkownika może być utrudnione. To typowe wyzwanie dla współczesnej inżynierii oprogramowania.
 
-### Service Oriented Architecture (SOA) (tak/nie)
+#### Service Oriented Architecture (SOA) (tak/nie)
 
 Service Oriented Architecture (SOA) - zaznacz wszystkie poprawne i wyczerpujące definicje
 
@@ -189,29 +198,29 @@ Service Oriented Architecture (SOA) - zaznacz wszystkie poprawne i wyczerpujące
 - protokół komunikacyjny w warstwie aplikacji, który pozwala zagwarantować współdziałanie programów stworzonych niezależnie
 - zestaw norm zwanych WebService i oznaczanych WS*, który pozwala zagwarantować współdziałanie programów stworzonych niezależnie
 
-### Wykorzystanie GPS (tak/nie)
+#### Wykorzystanie GPS (tak/nie)
 
 - Czy wykorzystanie odbiornika GPS (ang. Global Positioning System), który służy do lokalizacji geograficznej, w urządzeniu komputerowym, czyni je urządzeniem mobilnym ?
 
-### Aplikacja rozproszona
+#### Aplikacja rozproszona
 
 Jeśli program skonsolidowany (tzn. przeznaczony do realizacji jako jeden proces współczesnego systemu operacyjnego), chcemy podziwić na kilka części i wykonywać te części niezależnie, jako spójna aplikacja rozproszona, to architekturę każdego z programów składowych należy zaprojektować zgodnie z ogólnymi zasadami architektury warstwowej ponownie dokonując dystrybucji funkcjonalności do poszczególnych części aplikacji.
 
-### M2M Communication
+#### M2M Communication
 
 Komunikacja maszyn (ang. Machine to Machine (M2M)) to taka, która zapewnia, że maszyny współpracują ze sobą [bez możliwości | bez konieczności] ingerencji człowieka (użytkownika). Typowym przekładem takiej komunikacji jest [współdziałanie robotów | zdalna monitorowanie stanu zdrowia ].
 
-## Wykład \#2 Architektura
+### Wykład \#2 Architektura
 
-### Kontekst bezpieczeństwa (tak/nie)
+#### Kontekst bezpieczeństwa (tak/nie)
 
 Kontekst bezpieczeństwa to wspólna definicja algorytmów bezpieczeństwa i ich parametrów.
 
-### Kontekst semantyczny
+#### Kontekst semantyczny
 
 Kontekst semantyczny to wspólne uzgodnienie [alfabetu | kodowania], [składni | protokołu komunikacyjnego  ] i [ semantyki | języka, np. XML, HTML ] obowiązujących przy wymienianie strumieni bitów.
 
-### Komunikacja klient/serwer
+#### Komunikacja klient/serwer
 
 Zaznacz wszystkie poprawne i wyczerpujące stwierdzenia opisujące komunikację klient/serwer
 
@@ -221,7 +230,7 @@ Zaznacz wszystkie poprawne i wyczerpujące stwierdzenia opisujące komunikację 
 - tworzy sesję po połączeniu, która odpowiada za zarządzanie stanem współdziałania
 - automatycznie tworzy kontekst semantyczny zapewniający współdziałanie
 
-### Komunikacja publisher/subscriber
+#### Komunikacja publisher/subscriber
 
 Zaznacz wszystkie poprawne i wyczerpujące stwierdzenia opisujące komunikację publisher/subscriber.
 
@@ -235,35 +244,35 @@ Zaznacz wszystkie poprawne i wyczerpujące stwierdzenia opisujące komunikację 
 8. subskryber nie może określić źródła pochodzenia otrzymywanych danych
 9. publisher nie może swobodnie wybierać do kogo dane mają być wysłane
 
-## Wykład \#3 Protokoły
+### Wykład \#3 Protokoły
 
-### WebSocket bezpołączeniowy
+#### WebSocket bezpołączeniowy
 
 Czy WebSocket to protokół komunikacyjny, który nie tworzy sesji?
 
-### WebSocket a komunikacja reaktywna
+#### WebSocket a komunikacja reaktywna
 
 Protokół WebSocket umożliwia reaktywną komunikację inicjowaną przez serwer.
 
-### REST
+#### REST
 
 REST to protokół komunikacyjny bezpołączeniowy.
 
-### REST - komunikacja reaktywna
+#### REST - komunikacja reaktywna
 
 Komunikacja klient/serwer z wykorzystaniem REST to typowy przykład komunikacji interaktywnej synchronicznej.
 
-### HTTP
+#### HTTP
 
 HTTP to protokół komunikacyjny bezpołączeniowy
 
-### HTTP Sesja
+#### HTTP Sesja
 
 Protokół HTTP jest bezpołączeniowy i w związku z tym jego zastosowanie uniemożliwia utworzenie sesji
 
-## Wykład \#4 Semantyka danych - interoperacyjność
+### Wykład \#4 Semantyka danych - interoperacyjność
 
-### Pytanie o zrozumienie treści zadania
+#### Pytanie o zrozumienie treści zadania
 
 W treści zadania projektowego `projekt aplikacja mobilna` jest wymaganie:
 
@@ -283,34 +292,34 @@ Wybierz co oznaczają poszczególne frazy:
 - harmonizować używany model obiektowy z modelem wygenerowanym automatycznie
   - porównać wygenerowane definicje w C# z własnym kodem i umieć wyjaśnić różnice
 
-### Co to jest aplikacja rozproszona #1
+#### Co to jest aplikacja rozproszona #1
 
 Aplikacja rozproszona to zbiór procesów wspólnie realizujących wybrane zadania, aby zrealizować wspólny cel.
 
-### Co to jest aplikacja rozproszona #2
+#### Co to jest aplikacja rozproszona #2
 
 Aplikacja rozproszona to zbiór procesów komunikujących się wyłącznie poprzez sieć komputerową, które wspólnie realizują wybrane zadania, aby osiągnąć wspólny cel.
 
-### Komunikacja M2M
+#### Komunikacja M2M
 
 Dla komunikacji typu maszyna - maszyna (ang. Machine to Machine communication (M2M)) cechą wyróżniającą jest
 
 - brak interakcji z człowiekiem
 - odpowiedni interfejs graficzny użytkownika
 
-### Serializacja/deserializacja
+#### Serializacja/deserializacja
 
 Serializacja/deserializacja jest przydatna do budowy aplikacji rozproszonych, ale da się ją wyeliminować.
 
-### Wykorzystanie obiektów do komunikacji
+#### Wykorzystanie obiektów do komunikacji
 
 Aplikacja rozproszona wymaga wymiany danych pomiędzy poszczególnymi procesami ją tworzącymi.
 
-### REST to protokół
+#### REST to protokół
 
 REST jest protokołem komunikacyjnym.
 
-### REST czym jest
+#### REST czym jest
 
 REST - wybierz prawidłową odpowiedź
 
@@ -320,14 +329,14 @@ REST - wybierz prawidłową odpowiedź
 - To technologia bazująca na wykorzystaniu koncepcji sesji tworzonej przez klient/serwer
 - To koncepcja komunikacji pozwalająca zdefiniować kontekst semantyczny dla aplikacji rozproszonych
 
-### Object Oriented Internet
+#### Object Oriented Internet
 
 Object Oriented Internet to
 
 - to protokół komunikacyjny
 - to paradygmat tworzenia aplikacji rozproszonych
 
-### Web Service (WS*)
+#### Web Service (WS*)
 
 Web Service (WS*) to technologia komunikacyjna znormalizowana przez konsorcjum W3C w które (dopasuj)
 
@@ -336,83 +345,83 @@ Web Service (WS*) to technologia komunikacyjna znormalizowana przez konsorcjum W
 - SOAP - jest protokołem komunikacyjnym pozwalającym na zdalne operowanie na obiektach
 - UDDI - jest katalogiem pozwalającym na znajdowanie definicji usług
 
-### Aplikacja interaktywna/reaktywna
+#### Aplikacja interaktywna/reaktywna
 
 - rozproszona aplikacja interaktywna - bazuje na współdziałaniu client/server i tworzonej przez nich sesji niezbędnej do późniejszej wymiany danych
 - rozproszona aplikacja reaktywna - bazuje na współdziałaniu publisher/subscriber i wymianie danych bez potrzeby tworzenia jakichkolwiek związków pomiędzy tymi rolami
 - bazuje na współdziałaniu systemów operacyjnych
 - bazuje na współdziałaniu procesów z wykorzystaniem protokołu WebSocket
 
-### Metadane
+#### Metadane
 
 Pisząc program w C# do opisu danych używamy metadanych, którymi są typy/komentarze/dokumentacja
 
-## Wykład \#5 Przetwarzanie w chmurze
+### Wykład \#5 Przetwarzanie w chmurze
 
-## Kontekst semantyczny (tak/nie)
+### Kontekst semantyczny (tak/nie)
 
  Kontekst semantyczny to uzgodnienie pomiędzy komunikującymi się procesami alfabetu, składni i semantyki przesyłanych pomiędzy nimi danych.
 
-## Uzgodnienie kontekstu semantycznego (code first)
+### Uzgodnienie kontekstu semantycznego (code first)
 
 Jedną z metod uzgodnienia kontekstu semantycznego jest współużytkowanie tych samych definicji typów pod warunkiem, że programy tworzące aplikację rozproszoną są napisane w tym samym języku.
 
-## Uzgodnienie kontekstu semantycznego (DSL)
+### Uzgodnienie kontekstu semantycznego (DSL)
 
 W przypadku, gdy programy tworzące aplikację rozproszoną są napisane w różnych językach programowania, kontekst semantyczny można utworzyć stosując Domain Specyfic Language do definicji typów wymienianych danych.
 
-### Przetwarzanie w chmurze (tak/nie)
+#### Przetwarzanie w chmurze (tak/nie)
 
 Przetwarzanie w chmurze to subskrypcja usług informatycznych.
 
-## Wykład \#6 Bezpieczeństwo komunikacji
+### Wykład \#6 Bezpieczeństwo komunikacji
 
-### Niewyrzekanie się
+#### Niewyrzekanie się
 
 - ochrona danych przed modyfikacją
 - ochrona danych przed niepowołanym dostępem
 - zagwarantowanie niekwestionowanego autorstwa
 
-### Szyfrowanie danych
+#### Szyfrowanie danych
 
 Szyfrowanie danych polega na zastąpieniu strumienia bitów strumieniem ekwiwalentnym, w którym przestają obowiązywać pierwotne reguły składniowe. To powoduje, że, w konsekwencji do takiego strumienia nie można zastosować reguł semantycznym, a więc przypisania reprezentowanej informacji.
 
-### Integralność danych
+#### Integralność danych
 
 Zapewnienie integralności danych chroni reprezentowaną prze nie informację przed dostępem osób postronnych.
 
-### Składowe bezpieczeństwa
+#### Składowe bezpieczeństwa
 
 Poprawa bezpieczeństwa polega na:
 
 - zastosowaniu odpowiedniej procedury, która narzucają odpowiedni sposób prowadzenia działań
 - zastosowaniu odpowiedniej technologii, która określa odpowiednie środki techniczne
 
-### Składanie bezpieczeństwa p2p
+#### Składanie bezpieczeństwa p2p
 
 Jeśli dane są retransmitowane przez wile węzłów sieci komputerowej, to bezpieczne połączenie pomiędzy poszczególnymi węzłami (zwane bezpieczeństwem p2p) jest wystarczające do zagwarantowania bezpieczeństwa pomiędzy ich źródłem a ostatecznym odbiorcą (zwane bezpieczeństwem end-to-end).
 
-### Szyfrowanie symetryczne
+#### Szyfrowanie symetryczne
 
 W kryptografii symetrycznej do szyfrowania i deszyfrowania używa się identycznych kluczy, które muszą być w posiadaniu nadawcy i odbiorcy danych.
 
-### Podpis cyfrowy - klucz publiczny
+#### Podpis cyfrowy - klucz publiczny
 
 W kryptografii asymetrycznej wejście w posiadanie klucza, służącego do sprawdzania podpisu cyfrowego, przez osoby postronne należy uważać za naruszenie kontekstu bezpieczeństwa.
 
-### Podpis cyfrowy - definicja
+#### Podpis cyfrowy - definicja
 
 Podpis cyfrowy wybranego ciągu bitów to zaszyfrowana kluczem prywatnym wartość skrótu dla tego ciągu.
 
-### Funkcja skrótu - kolizja
+#### Funkcja skrótu - kolizja
 
 Funkcja skrótu generuje wartość, która powinna być różna dla różnych strumieni bitów. W przypadku, gdy generowana jest taka sam wartość mówimy o kolizji.
 
-### Funkcja skrótu - wartość
+#### Funkcja skrótu - wartość
 
 Wartość wybranej funkcji skrótu jest ciągiem bitów o ścisłe określonej długości.
 
-### Klucz sesji - procedura 
+#### Klucz sesji - procedura 
 
 Aby wykorzystać kryptografię asymetryczną do bezpiecznego uzgodnienia klucza sesji, partnerzy powinni:
 

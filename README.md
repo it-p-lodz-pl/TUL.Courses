@@ -28,14 +28,16 @@ Computer science in general, and especially programming activities, is a field o
 
 ### 1.2. Programowanie Współbieżne
 
-| Nazwa  | Opis                     |
-| ------ | ------------------------ |
-| Folder | `PW`                     |
-| Kod    |                          |
-| Tytuł  | Programming Technologies |
+| Nazwa  | Opis                      |
+| ------ | ------------------------- |
+| Folder | `PW`                      |
+| Kod    | [Programowanie współrzędne; Karta][pwects]          |
+| Tytuł  | Programowanie współrzędne |
 
-**Executive Summary**:
-TBD
+**Treść**:
+Klasyfikacja architektur obliczeniowych, systemów wieloprocesorowych i rozproszonych. Współbieżność obliczeń i procesy współbieżne. Miary jakości zrównoleglenia. Elementy systemów operacyjnych służące do sterowania równoległością. Elementy języków programowania równoległego i rozproszonego. Analiza mechanizmów synchronizacji. Przykłady algorytmów równoległych. ĆWICZENIA LABORATORYJNE Budowa i analiza programów równoległych. Umiejętność oszacowywania stopnia zrównoleglenia. Umiejętność prawidłowego stosowania mechanizmów sterowania współbieżnością. Tworzenie programów rozproszonych, realizacja komunikacji pomiędzy rozproszonymi procesami.
+
+[pwects]: https://programy.p.lodz.pl/ectslabel-web/przedmiot_4.jsp?l=pl&idPrzedmiotu=179880&pkId=1654&s=4&j=0&w=informatyka%20stosowana&v=4
 
 ### 1.3. Technologie Programowania Urządzeń Mobilnych
 
