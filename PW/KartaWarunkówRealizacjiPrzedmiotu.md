@@ -2,7 +2,7 @@
 
 ## Obowiązujące zasady odbywania zajęć dydaktycznych
 
-`Obowiązujące zasady odbywania zajęć dydaktycznych` a w tym: 
+`Obowiązujące zasady odbywania zajęć dydaktycznych` a w tym:
 
 - Warunki i trybu przystępowania i uzyskiwania zaliczenia zajęć
 - Warunki odrabiania nieobecności na obowiązkowych zajęciach
@@ -29,9 +29,7 @@ są opisane w module
 
 ## Terminy konsultacji
 
-Podstawowe terminy konsultacji są podane na WIKAMP w profilach prowadzących zajęcia:
+Podstawowe terminy konsultacji są podane na WIKAMP w profilach prowadzących zajęcia
 
-- [dr inż. Mariusz Postół; Kierownik przedmiotu](https://ftims.edu.p.lodz.pl/user/profile.php?id=2938)
-
-[RZP]: https://ftims.edu.p.lodz.pl/mod/page/view.php?id=70783
-[Forum]: https://ftims.edu.p.lodz.pl/mod/forum/view.php?id=69572
+[RZP]: https://a.b.c
+[Forum]: https://c.d.e
