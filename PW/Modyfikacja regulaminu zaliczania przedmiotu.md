@@ -4,7 +4,7 @@ Wychodząc naprzeciw akcji #STUDENSAMWDOMU przypominam, że to nie są korona-fe
 
 To nowe doświadczenia dla wszystkich, ale co zrobimy teraz, nie będziemy musieli robić w wakacje.
 
-Pomimo nietypowej sytuacji mogę chyba podsumować dyskusję dotyczącą celu, zakresu i sposobu oceniania w kursie TPUM. W planowanym uprzednio terminie nie otrzymałem żądnej propozycji merytorycznej, a w głosowaniu wzięły udział tylko 3 osoby z 33, które zapisały się na przedmiot. Ponieważ nie otrzymałem propozycji przedłużenia tego terminu, uważam dyskusję za zamkniętą i przyjmujemy nowe propozycje jako drogowskaz. Warunki zewnętrzne są dynamiczne, więc pozostawiam tę kwestię otwartą.
+Pomimo nietypowej sytuacji mogę chyba podsumować dyskusję dotyczącą celu, zakresu i sposobu oceniania w kursie PW. W planowanym uprzednio terminie nie otrzymałem żądnej propozycji merytorycznej, a w głosowaniu wzięły udział tylko 3 osoby z 33, które zapisały się na przedmiot. Ponieważ nie otrzymałem propozycji przedłużenia tego terminu, uważam dyskusję za zamkniętą i przyjmujemy nowe propozycje jako drogowskaz. Warunki zewnętrzne są dynamiczne, więc pozostawiam tę kwestię otwartą.
 
 Oczywiście, stopień realizacji efektów kształcenia musi mieć wpływ na końcową ocenę bez względu na warunki zewnętrzne. Zaliczenie przedmiotu (otrzymanie minimalnej zaliczającej oceny, czyli 3.0) musi być natomiast uzależnione od osiągnięcia pewnych minimów w tym zakresie.
 

@@ -16,7 +16,7 @@ Celem zadania jest praktyczne zastosowanie:
 
 ### Wstęp
 
-Zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na automatyzacje wybranego procesu biznesowego z wykorzystaniem graficznego interfejsu użytkownika. Do zaimplementowania należy wybrać jeden z poniższych modeli biznesowy:
+Zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na automatyzację wybranego procesu biznesowego z wykorzystaniem graficznego interfejsu użytkownika. Do zaimplementowania należy wybrać jeden z poniższych modeli biznesowy:
 
 - bibliotekę, sklep, itp.
 - zakład usługowy

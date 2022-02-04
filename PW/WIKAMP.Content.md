@@ -1,14 +1,14 @@
 # WIKAMP zawartość
 
-## Technologie Programowania Urządzeń Mobilnych
+## Programowanie współbieżne
 
-Proszę przekazać wszystkim zainteresowanym klucz do samodzielnego zapisu: **TPUM**.
+Proszę przekazać wszystkim zainteresowanym klucz do samodzielnego zapisu: **TPW**.
 
 Projekt dla przedmiotu jest realizowany na platformie TEAMS:
 
-Zespół na Teams: [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+Zespół na Teams: [22-Programowanie Współbieżne](https://teams.microsoft.com/l/team/19%3a4U2wG_5WsHvM72H3Lds39UYRIu2f5WPuZvi33wQdHjg1%40thread.tacv2/conversations?groupId=6a1b210c-f64a-4842-a14b-f839faba546a&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 
-Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `geodax2`
+Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `3iouqb5`
 
 ### Forum
 
@@ -74,26 +74,26 @@ SUMA = n
 
 - Ocena wykonania zdania `Tworzenie repozytorium` nie jest składnikiem oceny końcowej
 - Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem `Ostateczny termin` (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu
-- Ocena za zadania 5..10 punktów
+- Ocena za zadania 10..20 punktów
 - Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek grupy roboczej zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
 
 ### Ramowy harmonogram zajęć
 
-| Tydzień | Temat                                                                  | Uwagi                     |
-| ------- | ---------------------------------------------------------------------- | ------------------------- |
-| 01      |                                                                        | Zajęcia odrabiane w 07-15 |
-| 02      | Wprowadzenie do projektu                                               |                           |
-| 03      | Projekt (Omówienie projektu, środowisko)                               |                           |
-| 04-06   | [Tworzenie repozytorium][TworzenieRepozytorium]; Kontrola postępu prac |                           |
-| 07-09   | [Projekt Etap-1 ocena][Etap1]                                          | Odrabianie zajęć 01       |
-| 10-12   | [Projekt Etap-2 ocena][Etap2]                                          | Odrabianie zajęć 01       |
-| 13-15   | [Projekt Etap-3 ocena][Etap3]                                          | Odrabianie zajęć 01       |
+| Tydzień | Temat                                                                                                                  | Uwagi |
+| ------- | ---------------------------------------------------------------------------------------------------------------------- | ----- |
+| 01      | Cel, zakres, metodyka, narzędzia, zaliczenie, WIKAMP, zasoby                                                           |       |
+| 02      | Środowisko projektowe, praca w parach, testy jednostkowe, TDD (ang. test driven development), wprowadzenie do projektu |       |
+| 03      | Projekt (Omówienie projektu, środowisko)                                                                               |       |
+| 04-06   | [Tworzenie repozytorium][TworzenieRepozytorium]; Kontrola postępu prac                                                 |       |
+| 07-09   | [Projekt Etap-1 ocena][Etap1] Kontrola postępu prac, zaliczanie                                                        |       |
+| 10-12   | [Projekt Etap-2 ocena][Etap2] Kontrola postępu prac, zaliczanie                                                        |       |
+| 13-15   | [Projekt Etap-3 ocena][Etap3] Kontrola postępu prac, zaliczanie                                                        |       |
 
-[TworzenieRepozytorium]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262
-[Etap1]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857
-[Etap2]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=76009
-[Etap3]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180
+[TworzenieRepozytorium]:https://a.b.c
+[Etap1]:https://d.e.f
+[Etap2]:https://g.h.i
+[Etap3]:https://j.k.l
 
 #### Uwagi: Kontrola postępu prac projektowych
 
@@ -101,7 +101,7 @@ W trakcie zajęć:
 
 - oceniana jest poprawność wykonania zadania `Tworzenie repozytorium`
 - odpowiadamy na pytania:
-  - Co zrobiłem do tej pory ?
+  - Co zrobiłem do tej pory?
   - Co mam zrobić na następne zajęcia?
   - Z czym mam problem?
 
@@ -127,9 +127,15 @@ plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
 ### Projekt-Etap 1-interaktywna/reaktywne programowanie
 
+- Opis w osobnym pliku
+
 ### Projekt-Etap 2-interaktywna/reaktywna komunikacja
 
+- Opis w osobnym pliku
+
 ### Projekt-Etap 3-aplikacja mobilna (rozproszona)
+
+- Opis w osobnym pliku
 
 ## Zarejestrowane zajęcia
 
@@ -153,6 +159,9 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ### Programowanie rozproszone
 
+- Udemy kurs
+- ResearchGate
+- MPostol na GitHub
 - Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
 - Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
   - Postół M. (2020) [Object-Oriented Internet Reactive Interoperability](https://www.researchgate.net/publication/341882427_Object-Oriented_Internet_Reactive_Interoperability), presentation, DOI: 10.13140/RG.2.2.33984.56323
@@ -185,9 +194,6 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ## Narzędzia
 
-- [Gist - jak zainicjować repozytorium GitHub - lista kontrolna](https://gist.github.com/mpostol/496fe3038dd88790b446fb24276da1b9)
-- [Address Space Model Designer (ASMD)](https://github.com/mpostol/ASMD#-address-space-model-designer-asmd)
-- [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool)
 - [Walk-through ReferenceApplication](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/ReferenceApplication#walk-through-referenceapplication)
 - [XML => YAML](https://codebeautify.org/xml-to-yaml#)
 - [JSON => YAML,XML, CSV](https://jsonformatter.org/)
