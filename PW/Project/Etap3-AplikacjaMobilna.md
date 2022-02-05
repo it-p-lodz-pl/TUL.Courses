@@ -1,4 +1,4 @@
-# Aplikacja Mobilna
+# Projekt Etap 3 - programowanie równoległe i czasu rzeczywistego
 
 ## Cel
 
@@ -18,9 +18,9 @@ W tym etapie należy wykorzystać uprzednio stworzoną aplikację rozproszoną, 
 
 Klient/serwer komunikuje się ze sobą z wykorzystaniem technologii **Web-sockets**.
 
-Przesyłąne dane muszą być opisane z wykorzystaniem wspólnego modelu obiektowego i reprezentować wybrany uprzednio model biznesowy.
+Przesyłane dane muszą być opisane z wykorzystaniem wspólnego modelu obiektowego i reprezentować wybrany uprzednio model biznesowy.
 
-Dane przesyłać z wykorzystaniem serializacji zgodnie ze skłądnią JSON, YAML, XML. Klient musi rozpoznawać skłądnię reaktywnie na podstawie otrzymywanych danych.
+Dane przesyłać z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML. Klient musi rozpoznawać składnię reaktywne na podstawie otrzymywanych danych.
 
 Poprawność programu należy sprawdzić z wykorzystaniem testów jednostkowych i testów integracyjnych.
 

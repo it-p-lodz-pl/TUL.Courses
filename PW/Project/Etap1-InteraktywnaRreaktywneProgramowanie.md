@@ -1,4 +1,4 @@
-# Projekt Etap 1 - interaktywna/reaktywne programowanie
+# Projekt Etap 1 - programowania interaktywne/reaktywne, IoC (ang. inversion of control)
 
 ## Cel
 

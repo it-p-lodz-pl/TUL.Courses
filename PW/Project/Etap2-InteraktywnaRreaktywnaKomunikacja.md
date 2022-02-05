@@ -1,4 +1,4 @@
-# Projekt Etap 2 - interaktywna/reaktywna komunikacja
+# Projekt Etap 2 - programowania asynchroniczne, sekcja krytyczna
 
 ## Cel
 

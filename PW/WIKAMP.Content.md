@@ -31,14 +31,14 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 | Zajęcia | Tydzień  | Tytuł                                                    |      Data      | Link dla uczestnika  |  Hasło   |
 | :-----: | :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
 |  _____  | ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
-|    1    |    3     | Wprowadzenie                                             |                |                      |          |
-|    2    |    4     | Systemy scentralizowane                                  |                |                      |          |
-|    3    |    5     | Systemów rozproszone                                     |                |                      |          |
-|    4    |    7     | Współdziałanie                                           |                |                      |          |
-|    5    |    9     | Normalizacja - standaryzacja                             |                |                      |          |
-|    6    |    11    | Przetwarzanie w chmurze                                  |                |                      |          |
-|    7    |    13    | Bezpieczeństwo                                           |                |                      |          |
-|    8    |    15    | Test                                                     |                |                      |          |
+|    1    |    3     |                                                          |                |                      |          |
+|    2    |    4     |                                                          |                |                      |          |
+|    3    |    5     |                                                          |                |                      |          |
+|    4    |    7     |                                                          |                |                      |          |
+|    5    |    9     |                                                          |                |                      |          |
+|    6    |    11    |                                                          |                |                      |          |
+|    7    |    13    |                                                          |                |                      |          |
+|    8    |    15    |                                                          |                |                      |          |
 
 - `Link dla uczestnika`  oraz `Hasło` zostaną podane jak tylko będą dostępne (zwykle w dniu poprzedzającym zajęcia)
 
