@@ -4,66 +4,49 @@
 
 Celem zadania jest;
 
-- praktyczne wykorzystanie standardów do projektowania modeli współdziałania programów wytworzonych niezależnie
-- wykorzystanie komunikacji interaktywnej
-- wykorzystanie komunikacji reaktywnej
+- programowania asynchronicznego,
+- implementacji koncepcji programowania czasu rzeczywistego,
+- potwierdzenia wykorzystania programowania równoległego,
+- testowania jednostkowego i integracyjnego,
+- wstrzykiwania zależności (ang. Dependency Injection) (opcja)
+- wykorzystanie techniki MOCK (opcja)
 
 ## Opis zadania
 
-W tym etapie należy wykorzystać uprzednio stworzoną aplikację rozproszoną, które będą realizuje role klienta i serwera. Z wykorzystaniem tych ról należy zapewnić wymianę wybranych danych strukturalnych pomiędzy instancją klienta i serwera. Należy zrealizować następujące scenariusze wymiany danych:
+W tym etapie należy wykorzystać uprzednio stworzoną aplikację, w której dodatkowo należ wbudować elementy programowania czasu rzeczywistego, a więc zaimplementować takie  algorytmy, które będą wymagały wykorzystania czynnika czasu. Przykładowo może to być mechanizm logowania do pliku danych diagnostycznych o zachowaniu się kulek. W takim przykładzie należy uwzględnić możliwość chwilowego braku odpowiedniej przepustowości kanałów zapisu do pliku. Dane diagnostyczne do zapisu powinny byc przygotowane z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML.
 
-- zapytanie/odpowiedź - klient wysyła żądanie, a sewer odpowiada danymi w zależności od otrzymanego zapytania
-- samorzutne wysyłanie/filtrowanie - serwer  wysyła dane samorzutnie, natomiast klient filtruje je zgodnie z potrzebami
-- publikowanie/subskrypcja - klient zamawia dane (subskrybuje), a serwer wysyła (publikuje) samorzutnie wybrane dane w ramach utworzonej sesji
-
-Klient/serwer komunikuje się ze sobą z wykorzystaniem technologii **Web-sockets**.
-
-Przesyłane dane muszą być opisane z wykorzystaniem wspólnego modelu obiektowego i reprezentować wybrany uprzednio model biznesowy.
-
-Dane przesyłać z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML. Klient musi rozpoznawać składnię reaktywne na podstawie otrzymywanych danych.
+Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
 
 Poprawność programu należy sprawdzić z wykorzystaniem testów jednostkowych i testów integracyjnych.
-
-Opracować model danych z wykorzystaniem standardu OPC Unified Architecture i harmonizować używany model obiektowy z modelem wygenerowanym automatycznie przez wybrane narzędzie.
 
 ### Wytyczne do realizacji
 
 Dodatkowe informacje ułatwiające wykonanie zadania:
 
 - proszę zwrócić uwagę na konieczność zastosowania technologi programowania reaktywnego dla wybranych scenariuszy
-- niezbędna jest umiejętność wytłumaczenia czym różni się współdziałanie reaktywne od interaktywnego, synchroniczne od asynchronicznego
+- niezbędna jest umiejętność wytłumaczenia czym różni się programowanie reaktywne od interaktywnego, synchroniczne od asynchronicznego i czasu rzeczywistego
 - zaoszczędzisz czas, jeśli do wykonania zadania zostaną wykorzystane dostępne przykłady
-- proszę zwrócić uwagę, aby dane był strukturalne niezależnie od wybranego realizowanego modelu biznesowego
 - do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności
 - ważne jest, aby współdzielone dane były chronione sekcją krytyczną
+- Prawidłowa implementacja sekcji krytycznej, zapobieganie zjawisku wyścigu i poprawna synchronizacja współbieżnych wątków są krytyczne dla programowania czasu rzeczywistego
 - pomocne w implementacji testów jednostkowych w miejsce testów integracyjnych jest wstrzykiwanie zależności i koncepcja MOCK
 
 ## Zaliczenie
 
-W trakcie zaliczenia mogą być poruszane zagadnienie związane z:
+W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu należy wykazać, że zostały zrealizowane punkty z listy kontrolnej zamieszczonej w osobnym pliku. Przed oddaniem pracy do sprawdzenia, należy ten plik dodać do repozytorium i upewnić sie samemu, ze wszystkie punkty listy kontrolnej zostały zrealizowane.
 
-- umiejętnością wskazania miejsc występowania i wytłumaczenia różnicy pomiędzy programowaniem reaktywny, a programowaniem interaktywnym
-- umiejętnością wskazania miejsc występowania i wytłumaczenia różnicy pomiędzy programowaniem asynchronicznym, a programowaniem synchronicznym
-- umiejętnością wskazania miejsc występowania sekcji krytycznej i jej implementacji
-- wykazania, że aplikacja jest warstwowa i wskazanie granic i relacji warstw
-- wskazaniem w programie miejsc odpowiedzialnych za produkowanie danych procesowych, komunikację pomiędzy instancjami programu, itp.
+## Lista źródeł
 
-Do zrealizowania zadania można wykorzystać przykładowy kodu opublikowany w [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP).
+Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
 
 ## Zobacz też
 
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [How to test software, part I: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/?gclid=Cj0KCQiAkePyBRCEARIsAMy5ScunlfHQKu8LF1w4pG9d4P10ChGBpIv8YNgJklqj0rOYGb3p7-kNe8saAjZYEALw_wcB)
-- [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
 - [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
-- [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
 - [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
 - [Repo for managing Moq 4.x](https://github.com/moq/moq4)
 - [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
 - [Przykładowa implementacja repliki procesu - symulator bojlerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
-- [Address Space Model Designer](https://github.com/mpostol/ASMD/releases)
-- [Address Space Model Designer OnLine Help](https://commsvr-com.github.io/Documentation/ModelDesigner/html/a2d55988-b59a-4a87-95b9-933f6bbdf5bd.htm)
-- [Mariusz Postol. OPC UA Information Model Deployment. 2016. Version 1.2][CAS.OPCUAIMD] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2586616.svg)](https://doi.org/10.5281/zenodo.2586616)
-- [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool)
 
 [CAS.OPCUAIMD]: https://www.researchgate.net/publication/331565040_OPC_UA_INFORMATION_MODEL_DEPLOYMENT
