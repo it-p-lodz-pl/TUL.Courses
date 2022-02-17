@@ -1,10 +1,15 @@
-# Projekt Etap 3 - programowanie równoległe i czasu rzeczywistego
+# Projekt Etap 3 - szczegółowy opis
+
+## programowanie równoległe i czasu rzeczywistego
 
 ## Cel
 
-Celem zadania jest;
+To trzy etapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na  prostokątnej płaszczyźnie ograniczonej ścianami bocznymi.
 
-- programowania asynchronicznego,
+Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
+
+Celem tego etapu jest praktyczne zastosowanie:
+
 - implementacji koncepcji programowania czasu rzeczywistego,
 - potwierdzenia wykorzystania programowania równoległego,
 - testowania jednostkowego i integracyjnego,
@@ -13,23 +18,22 @@ Celem zadania jest;
 
 ## Opis zadania
 
-W tym etapie należy wykorzystać uprzednio stworzoną aplikację, w której dodatkowo należ wbudować elementy programowania czasu rzeczywistego, a więc zaimplementować takie  algorytmy, które będą wymagały wykorzystania czynnika czasu. Przykładowo może to być mechanizm logowania do pliku danych diagnostycznych o zachowaniu się kulek. W takim przykładzie należy uwzględnić możliwość chwilowego braku odpowiedniej przepustowości kanałów zapisu do pliku. Dane diagnostyczne do zapisu powinny byc przygotowane z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML.
+W tym etapie należy wykorzystać uprzednio stworzoną aplikację, w której dodatkowo należ wbudować elementy programowania czasu rzeczywistego, a więc zaimplementować takie  algorytmy, które będą wymagały wykorzystania czynnika czasu. Przykładowo może to być mechanizm logowania do pliku danych diagnostycznych o zachowaniu się kul. W takim przykładzie należy uwzględnić możliwość chwilowego braku odpowiedniej przepustowości kanałów zapisu do pliku. Dane diagnostyczne do zapisu powinny byc przygotowane z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML.
 
-Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
+Program będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`. Bardziej szczegółowo warstwy opisano w rozdziale **Architektura** opisu do zadania `Projekt Etap 1`.
 
-Poprawność programu należy sprawdzić z wykorzystaniem testów jednostkowych i testów integracyjnych.
+Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane niezależnie z wykorzystaniem testów jednostkowych. Aby to było możliwe API warstwy `Dane` i `Logika` musi być zrealizowany jako wyraźnie wydzielone definicje abstrakcyjne.
 
 ### Wytyczne do realizacji
 
 Dodatkowe informacje ułatwiające wykonanie zadania:
 
-- proszę zwrócić uwagę na konieczność zastosowania technologi programowania reaktywnego dla wybranych scenariuszy
-- niezbędna jest umiejętność wytłumaczenia czym różni się programowanie reaktywne od interaktywnego, synchroniczne od asynchronicznego i czasu rzeczywistego
-- zaoszczędzisz czas, jeśli do wykonania zadania zostaną wykorzystane dostępne przykłady
-- do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności
-- ważne jest, aby współdzielone dane były chronione sekcją krytyczną
-- Prawidłowa implementacja sekcji krytycznej, zapobieganie zjawisku wyścigu i poprawna synchronizacja współbieżnych wątków są krytyczne dla programowania czasu rzeczywistego
-- pomocne w implementacji testów jednostkowych w miejsce testów integracyjnych jest wstrzykiwanie zależności i koncepcja MOCK
+- Proszę zwrócić uwagę na konieczność zastosowania technologi programowania reaktywnego dla wybranych scenariuszy.
+- Niezbędna jest umiejętność wytłumaczenia czym różni się programowanie reaktywne od interaktywnego, synchroniczne od asynchronicznego i czasu rzeczywistego.
+- Ważne jest, aby współdzielone dane były chronione sekcją krytyczną.
+- Prawidłowa implementacja sekcji krytycznej, zapobieganie zjawisku wyścigu i poprawna synchronizacja współbieżnych wątków są krytyczne dla programowania czasu rzeczywistego.
+- Pomocne w implementacji testów jednostkowych w miejsce testów integracyjnych jest wstrzykiwanie zależności i koncepcja MOCK.
+- Do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności (DI).
 
 ## Zaliczenie
 
@@ -38,15 +42,3 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 ## Lista źródeł
 
 Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
-
-## Zobacz też
-
-- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-- [How to test software, part I: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/?gclid=Cj0KCQiAkePyBRCEARIsAMy5ScunlfHQKu8LF1w4pG9d4P10ChGBpIv8YNgJklqj0rOYGb3p7-kNe8saAjZYEALw_wcB)
-- [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
-- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
-- [Repo for managing Moq 4.x](https://github.com/moq/moq4)
-- [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
-- [Przykładowa implementacja repliki procesu - symulator bojlerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
-
-[CAS.OPCUAIMD]: https://www.researchgate.net/publication/331565040_OPC_UA_INFORMATION_MODEL_DEPLOYMENT

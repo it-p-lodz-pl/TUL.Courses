@@ -2,9 +2,9 @@
 
 ## Wstęp
 
-- Nazwa skrócona: XX
+- Nazwa skrócona: TPW
 - Temat: Programowanie Współbieżne
-- [WIKAMP](https://a.b.c)
+- [WIKAMP][WIKAMP]
 - [Karta ECTS][pwects]
 
 It stands for Concurrent Programming (pl Programowanie Współrzędne)
@@ -12,7 +12,7 @@ It is next class belonging to the Programming Technologies series.
 
 ## Opis przedmiotu
 
-- w wersji polskiej - [TUTAJ][pwects]  
+- Karta przedmiotu w wersji polskiej - [TUTAJ][pwects]
 - w wersji angielskiej - [TUTAJ](https:/a.b.c)
 
 > **UWAGA**: Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
@@ -21,7 +21,7 @@ It is next class belonging to the Programming Technologies series.
 
 TBD
 
-### Klucz do samodzielnego zapisu `XXXX`
+### Klucz do samodzielnego zapisu `TPW`
 
 Dalsze instrukcje związane z organizacja pracy będę przekazywał sukcesywnie za pośrednictwem modułu `Forum`.
 
@@ -50,8 +50,8 @@ Uprzejmie proszę o przekazanie studentom informacji o możliwości samodzielneg
 - Programowanie Współbieżne
 - ECTS: `07 72 4091 30`
 
-Klucz: **XXXX**
+Klucz: **TPW**
 URL: [Programowanie Współbieżne][WIKAMP]
 
-[WIKAMP]: https://a.b.p.lodz.pl
+[WIKAMP]: https://ftims.edu.p.lodz.pl/course/view.php?id=2332
 [pwects]: https://programy.p.lodz.pl/ectslabel-web/przedmiot_4.jsp?l=pl&idPrzedmiotu=179880&pkId=1654&s=4&j=0&w=informatyka%20stosowana&v=4

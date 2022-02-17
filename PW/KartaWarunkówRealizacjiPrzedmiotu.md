@@ -25,11 +25,11 @@ są opisane w module
 ## Pozostałe warunki uzyskania zaliczenia przedmiotu
 
 1. Pozostałe warunki są ustalane wg. potrzeb na wniosek studenta przez Kierownika przedmiotu.
-1. Wszelkie zmiany karty i regulaminów są podawane z wyprzedzeniem na [Forum][Forum].
+1. Wszelkie zmiany dotyczące organizacji zajęć i regulaminów są podawane z wyprzedzeniem na [Forum][Forum].
 
 ## Terminy konsultacji
 
 Podstawowe terminy konsultacji są podane na WIKAMP w profilach prowadzących zajęcia
 
-[RZP]: https://a.b.c
-[Forum]: https://c.d.e
+[RZP]: https://ftims.edu.p.lodz.pl/mod/page/view.php?id=102576
+[Forum]: https://ftims.edu.p.lodz.pl/mod/forum/view.php?id=101381

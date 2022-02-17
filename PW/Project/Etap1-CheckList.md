@@ -11,7 +11,7 @@
 - [ ] `Logic` uses only the abstract `Data` layer API
 - [ ] `Presentation` layer is clearly stated using language terms only
 - [ ] mvvm and xaml is applied to implement GUI
-- [ ] rective and interactive programming is used
+- [ ] reactive and interactive programming is used
 - [ ] Unit Test - layers are tested independently using abstract API
 - [ ] Dependency injection (additional framework is not required)
 - [ ] Mock is used for testing purpose (expected but not required)

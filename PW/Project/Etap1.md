@@ -1,23 +1,25 @@
-# Projekt Etap 1 - programowania interaktywne/reaktywne, IoC (ang. inversion of control)
+# Projekt Etap 1 - szczegółowy opis
+
+## programowania interaktywne/reaktywne, IoC (ang. inversion of control)
 
 ## Cel
 
-Celem zadania jest praktyczne zastosowanie:
+To trzy etapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na  prostokątnej płaszczyźnie ograniczonej ścianami bocznymi.
+
+Celem tego etapu jest praktyczne zastosowanie:
 
 - wybranego środowiska projektowego, tzn. GitHub, VisualStudio, język C#
-- programowania reaktywnego i interaktywnego
-- reaktywnego i interaktywnego współdziałania użytkownik komputer
-- architektury warstwowej, a w tym zastosowanie wzorca `MVVM`
+- reaktywnego i interaktywnego współdziałania użytkownik/komputer
+- zastosowanie wzorca `MVVM` (architektury warstwowej)
 - graficznego interfejsu użytkownika (GUI) z wykorzystaniem języka `XAML`
+- programowania asynchronicznego (reaktywnego i interaktywnego)
 - testowania jednostkowego i integracyjnego
 - techniki wstrzykiwania zależności (ang. Dependency Injection)
 - techniki MOCK (opcja)
 
 ## Opis zadania
 
-### Wstęp
-
-Zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul w prostokątnej przestrzeni  ograniczonej ścianami. W tym etapie kule nie oddziaływają na siebie i ze ściankami ograniczającymi. Kule poruszają się według trajektorii określonej przez generator pseudolosowy, tzn. jedynym warunkiem na określenie ich następnego położenia jest to, aby nadal znajdowały się w wyznaczonej przestrzeni. Na ekranie kula może być wizualizowana jako okrąg. Ruch powinien byc płynny. Należy umożliwić wprowadzenie przez użytkownika początkowej liczby kul poprzez umieszczenie odpowiednich kontrolek na ekranie (GUI).
+W tym etapie kule poruszają się po ograniczonej płaszczyźnie, ale nie oddziaływają między sabą i ze ściankami ograniczającymi. Kule poruszają się według trajektorii określonej przez generator pseudolosowy, tzn. jedynym warunkiem na określenie ich następnego położenia jest to, aby nadal znajdowały się wewnątrz ograniczonej płaszczyzny. Na ekranie kula może być wizualizowana jako okrąg. Ruch powinien byc płynny. Należy umożliwić wprowadzenie przez użytkownika początkowej liczby kul poprzez umieszczenie odpowiednich kontrolek na ekranie (GUI). Początkowe położenie kul na płaszczyźnie jest losowe.
 
 Opracować program z wykorzystaniem technologi .NET, który będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`, więc w architekturze programu należy **wyraźnie** wydzielić następujące warstwy:
 
@@ -25,7 +27,11 @@ Opracować program z wykorzystaniem technologi .NET, który będzie implementowa
 - `Logika` - usługi realizujące funkcjonalność dedykowaną dla wybranego procesu biznesowego
 - `Prezentacja` - graficzny interfejs użytkownika
 
-Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane z wykorzystaniem testów jednostkowych. Bardziej szczegółowo warstwy te opisano w rozdziale **Architektura**.
+Bardziej szczegółowo warstwy te opisano w rozdziale **Architektura**.
+
+Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane niezależnie z wykorzystaniem testów jednostkowych. Aby to było możliwe API warstwy `Dane` i `Logika` musi być zrealizowany jako wyraźnie wydzielone definicje abstrakcyjne.
+
+**UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania końcowej funkcjonalności, która opisana jest w kolejnych etapach
 
 ### Architektura
 
@@ -37,7 +43,6 @@ W tym etapie nie ma ograniczeń co do funkcjonalności tej warstwy, a w szczegó
 
 - Implementując usługi w tej warstwie, należy dostarczyć funkcjonalność umożliwiającą przetwarzanie danych na potrzeby wybranego procesu biznesowego.
 - API warstwy `Logika` powinno zawierać operacje interaktywne (np. twórz kule) i reaktywne (okresowe wysłanie położenia kul).
-- Warstwa powinna udostępniać publiczne abstrakcyjne API, a ukrywać szczegóły implementacji.
 
 #### Warstwa `Prezentacja` - graficzny interfejs użytkownika (GUI)
 
@@ -59,19 +64,21 @@ Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (imple
 
 ## Wytyczne do realizacji
 
-- Warstwy `Dane` i `Logika` proszę zrealizować w technologii .NET STandard
-- Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie
-- Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne
-- Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`. Proszę warstwy były luźno powiązane na potrzeby testowania używając DI lub MOCK
+Dodatkowe informacje ułatwiające wykonanie zadania:
+
+- Warstwy `Model`, `ViewModel`, `Dane` i `Logika` powinna być zrealizowana w technologii `.NET Standard`.
+- Warstwę `View` powinna byc zrealizowana w technologii `WPF`.
+- Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie.
+- Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne.
+- Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`.
+- Warstwy powinny być luźno powiązane na potrzeby testowania używając DI lub MOCK.
 - Przy realizacji warstwy **Danych** należy unikać korzystania z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
 - architekturę warstwową (luźno powiązane warstwy) programu najprościej uzyskać, implementując warstwy jako osobne projekty.
-- abstrakcyjne API najprościej zadeklarować jako wspólny projekt oraz implementację warstwy w postaci niezależnego silosu realizującego API.
-
-**UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania końcowej funkcjonalności, która opisana jest w kolejnych etapach
+- do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności (DI)
 
 ## Zaliczenie
 
- W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu należy wykazać, że zostały zrealizowane punkty z listy kontrolnej zamieszczonej w osobnym pliku. Przed oddaniem pracy do sprawdzenia, należy ten plik dodać do repozytorium i upewnić sie samemu, ze wszystkie punkty listy kontrolnej zostały zrealizowane.
+W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu należy wykazać, że zostały zrealizowane punkty z listy kontrolnej zamieszczonej w osobnym pliku. Przed oddaniem pracy do sprawdzenia, należy ten plik dodać do repozytorium i upewnić sie samemu, ze wszystkie punkty listy kontrolnej zostały zrealizowane.
 
 ## Lista źródeł
 

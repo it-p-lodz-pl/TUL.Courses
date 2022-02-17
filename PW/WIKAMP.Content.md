@@ -1,4 +1,38 @@
-# WIKAMP zawartość
+# WIKAMP zawartość <!-- omit in toc -->
+
+## Spis treści <!-- omit in toc -->
+
+- [Programowanie współbieżne](#programowanie-współbieżne)
+  - [Forum](#forum)
+  - [Lista Obecności](#lista-obecności)
+  - [Rozkład roku akademickiego (Link)](#rozkład-roku-akademickiego-link)
+  - [Kalendarz zajęć parzyste/nieparzyste (plik)](#kalendarz-zajęć-parzystenieparzyste-plik)
+- [Opis przedmiotu](#opis-przedmiotu)
+  - [Karta Warunków Realizacji Przedmiotu](#karta-warunków-realizacji-przedmiotu)
+  - [Regulamin zaliczenia przedmiotu](#regulamin-zaliczenia-przedmiotu)
+- [Wykład](#wykład)
+  - [Streszczenie](#streszczenie)
+  - [Tematyka](#tematyka)
+  - [Seminarium aktywność](#seminarium-aktywność)
+  - [Kolokwium](#kolokwium)
+- [Projekt](#projekt)
+  - [Uwagi](#uwagi)
+  - [Ramowy harmonogram zajęć](#ramowy-harmonogram-zajęć)
+    - [Uwagi: Kontrola postępu prac projektowych](#uwagi-kontrola-postępu-prac-projektowych)
+  - [ZADANIE Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
+    - [GitHub README.md template file](#github-readmemd-template-file)
+    - [Tworzenie repozytorium - lista kontrolna](#tworzenie-repozytorium---lista-kontrolna)
+  - [Projekt-Etap 1-interaktywna/reaktywne programowanie](#projekt-etap-1-interaktywnareaktywne-programowanie)
+  - [Projekt-Etap 2-interaktywna/reaktywna komunikacja](#projekt-etap-2-interaktywnareaktywna-komunikacja)
+  - [Projekt-Etap 3-aplikacja mobilna (rozproszona)](#projekt-etap-3-aplikacja-mobilna-rozproszona)
+- [Zarejestrowane zajęcia](#zarejestrowane-zajęcia)
+  - [Streszczenie - zarejestrowane zajęcia](#streszczenie---zarejestrowane-zajęcia)
+  - [Folder Aktywność - Q/A podsumowanie](#folder-aktywność---qa-podsumowanie)
+  - [Aktywność zasady](#aktywność-zasady)
+- [Materiały pomocnicze](#materiały-pomocnicze)
+  - [Programowanie rozproszone](#programowanie-rozproszone)
+  - [Testowanie](#testowanie)
+  - [Narzędzia](#narzędzia)
 
 ## Programowanie współbieżne
 
@@ -6,9 +40,9 @@ Proszę przekazać wszystkim zainteresowanym klucz do samodzielnego zapisu: **TP
 
 Projekt dla przedmiotu jest realizowany na platformie TEAMS:
 
-Zespół na Teams: [22-Programowanie Współbieżne](https://teams.microsoft.com/l/team/19%3a4U2wG_5WsHvM72H3Lds39UYRIu2f5WPuZvi33wQdHjg1%40thread.tacv2/conversations?groupId=6a1b210c-f64a-4842-a14b-f839faba546a&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+Zespół na Teams: [22-Programowanie Współbieżne](https://teams.microsoft.com/l/team/19%3aPIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1%40thread.tacv2/conversations?groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 
-Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `3iouqb5`
+Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `xwq49te`
 
 ### Forum
 
@@ -73,7 +107,7 @@ SUMA = n
 ### Uwagi
 
 - Ocena wykonania zdania `Tworzenie repozytorium` nie jest składnikiem oceny końcowej
-- Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem `Ostateczny termin` (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu
+- Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem OstatecznyM terminem (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu.
 - Ocena za zadania 10..20 punktów
 - Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek grupy roboczej zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
@@ -111,7 +145,7 @@ W trakcie zajęć:
 
 #### GitHub README.md template file
 
-1. Przyklej zawartość pliku do README.md repozytorium
+1. Kopiowanie zawartości pliku do README.md repozytorium
 2. Wygeneruj GUID dla każdego członka zespołu
 3. Zmodyfikuj tabelkę wpisując dane identyfikacyjne i wygenerowane identyfikatory GUID
 
@@ -176,10 +210,10 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
   - Dane Graficzne
   - Dane strumieniowe (XML, JSON)
   - Bazy danych
+- [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
 - [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
   - C# in Practice - set of C# examples targeting education purpose
 - [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
-- [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
 - [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
 - [Semantic-Data Processing Architecture](https://commsvr.gitbook.io/ooi/semantic-data-processing/semanticdata)
 - [Przykładowa implementacja repliki procesu - symulator boilerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
@@ -192,7 +226,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
 - [Azure DevOps/Azure Pipelines Ecosystems & integration  ASP.NET](https://docs.microsoft.com/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops)
 
-## Narzędzia
+### Narzędzia
 
 - [Walk-through ReferenceApplication](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/ReferenceApplication#walk-through-referenceapplication)
 - [XML => YAML](https://codebeautify.org/xml-to-yaml#)
