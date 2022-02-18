@@ -16,9 +16,6 @@
   - [Seminarium aktywność](#seminarium-aktywność)
   - [Kolokwium](#kolokwium)
 - [Projekt](#projekt)
-  - [Uwagi](#uwagi)
-  - [Ramowy harmonogram zajęć](#ramowy-harmonogram-zajęć)
-    - [Uwagi: Kontrola postępu prac projektowych](#uwagi-kontrola-postępu-prac-projektowych)
   - [ZADANIE Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
     - [GitHub README.md template file](#github-readmemd-template-file)
     - [Tworzenie repozytorium - lista kontrolna](#tworzenie-repozytorium---lista-kontrolna)
@@ -96,48 +93,21 @@ SUMA = n
 
 ## Projekt
 
-| Zadanie                |     Termin oddania (nr tygodnia)      |
-| ---------------------- | :-----------------------------------: |
-| __________________     | _____________________________________ |
-| Tworzenie repozytorium |                   4                   |
-| Projekt-Etap 1         |                   7                   |
-| Projekt-Etap 2         |                  10                   |
-| Projekt Etap 3         |                  13                   |
+| Zadanie            |     Termin oddania (nr tygodnia)      | Ocena punktowa  |
+| ------------------ | :-----------------------------------: | :-------------: |
+| __________________ | _____________________________________ | _______________ |
+| Projekt Etap 0     |                   4                   |      <= 12      |
+| Projekt-Etap 1     |                   7                   |      <= 16      |
+| Projekt-Etap 2     |                  10                   |      <= 16      |
+| Projekt Etap 3     |                  13                   |      <= 16      |
+|                    |                                       | _______________ |
+| Razem projekt      |                                       |      <= 60      |
 
-### Uwagi
+**Uwagi**:
 
-- Ocena wykonania zdania `Tworzenie repozytorium` nie jest składnikiem oceny końcowej
-- Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem OstatecznyM terminem (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu.
-- Ocena za zadania 10..20 punktów
-- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek grupy roboczej zgłasza osobno gotowość zadania do oceny**.
+- Szczegóły oceniania w `Regulamin zaliczania laboratorium`
+- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
-
-### Ramowy harmonogram zajęć
-
-| Tydzień | Temat                                                                                                                  | Uwagi |
-| ------- | ---------------------------------------------------------------------------------------------------------------------- | ----- |
-| 01      | Cel, zakres, metodyka, narzędzia, zaliczenie, WIKAMP, zasoby                                                           |       |
-| 02      | Środowisko projektowe, praca w parach, testy jednostkowe, TDD (ang. test driven development), wprowadzenie do projektu |       |
-| 03      | Projekt (Omówienie projektu, środowisko)                                                                               |       |
-| 04-06   | [Tworzenie repozytorium][TworzenieRepozytorium]; Kontrola postępu prac                                                 |       |
-| 07-09   | [Projekt Etap-1 ocena][Etap1] Kontrola postępu prac, zaliczanie                                                        |       |
-| 10-12   | [Projekt Etap-2 ocena][Etap2] Kontrola postępu prac, zaliczanie                                                        |       |
-| 13-15   | [Projekt Etap-3 ocena][Etap3] Kontrola postępu prac, zaliczanie                                                        |       |
-
-[TworzenieRepozytorium]:https://a.b.c
-[Etap1]:https://d.e.f
-[Etap2]:https://g.h.i
-[Etap3]:https://j.k.l
-
-#### Uwagi: Kontrola postępu prac projektowych
-
-W trakcie zajęć:
-
-- oceniana jest poprawność wykonania zadania `Tworzenie repozytorium`
-- odpowiadamy na pytania:
-  - Co zrobiłem do tej pory?
-  - Co mam zrobić na następne zajęcia?
-  - Z czym mam problem?
 
 ### ZADANIE Tworzenie repozytorium
 
