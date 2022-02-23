@@ -3,7 +3,7 @@
 ## Wstęp
 
 - Nazwa skrócona: TPUM
-- Temat: Technologie Programowania Urządzeń Mobilnych 
+- Temat: Technologie Programowania Urządzeń Mobilnych
 - [WIKAMP](https://ftims.edu.p.lodz.pl/course/view.php?id=1816)
 
 It stands for Programming Mobile Devices (pl Programomanie Urządzeń Mobilnych).
@@ -39,12 +39,7 @@ Proszę się zapoznać z warunkami zaliczenia przedmiotu.
 dr inż Mariusz Postół
 mariusz.postol@p.lodz.pl
 
-### TEAMS zespół
-
-Zespół na Teams: [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
-Klucz to MSTeams: geodax2
-
-## List do Dzikanatu
+## List do Dziekanatu
 
 Uprzejmie proszę o przekazanie studentom informacji o możliwości samodzielnego zapisania się na kurs
 

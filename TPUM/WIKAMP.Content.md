@@ -2,27 +2,29 @@
 
 ## Technologie Programowania Urządzeń Mobilnych
 
-Proszę przekazać wszystkim zainteresowanym klucz do samodzielnego zapisu: **TPUM**.
+Proszę przekazać wszystkim zainteresowanym, ze można się samodzielnie zapisać na przedmiot [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/view.php?id=1816) prowadzony na WIKAMP. Klucz do samodzielnego zapisu: `TPUM`.
 
-Projekt dla przedmiotu jest realizowany na platformie TEAMS:
+Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na odległość na platformie TEAMS. W tym celu na TEAMS utworzony został zespół: [22-Technologie Programowania Urządzeń Mobilnych](https://teams.microsoft.com/l/team/19%3aTiVnS1IG-xY2EiP-jW68ii_tEYAF5pOQuvv8cgy6_fM1%40thread.tacv2/conversations?groupId=2c948f15-6072-4ea9-850c-829ef8283285&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 
-Zespół na Teams: [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `317cyom`.
 
-Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `geodax2`
-
-### Forum
-
-### Lista Obecności
+### Forum (moduł)
 
 ### Rozkład roku akademickiego (Link)
 
-### Kalendarz zajęć parzyste/nieparzyste (plik)
+### Kalendarz zajęć parzyste/nieparzyste
 
-## Opis przedmiotu
+## Karta
+
+- [Programowanie urządzeń mobilnych; 	07 69 1230 19](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=pl&idPrzedmiotu=172860&pkId=1149&s=1&t=1&j=0&w=informatyka%20stosowana%20%22Opis%20Przedmiotu%22)
 
 ### Karta Warunków Realizacji Przedmiotu
 
+- `TPUM\KartaWarunkówRealizacjiPrzedmiotu.md`
+
 ### Regulamin zaliczenia przedmiotu
+
+- `TPUM\RegulaminZaliczaniaPrzedmiotu.md`
 
 ## Wykład
 
@@ -31,13 +33,13 @@ Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lu
 | Zajęcia | Tydzień  | Tytuł                                                    |      Data      | Link dla uczestnika  |  Hasło   |
 | :-----: | :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
 |  _____  | ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
-|    1    |    3     | Wprowadzenie                                             |                |                      |          |
+|    1    |    2     | Wprowadzenie                                             |                |                      |          |
 |    2    |    4     | Systemy scentralizowane                                  |                |                      |          |
-|    3    |    5     | Systemów rozproszone                                     |                |                      |          |
-|    4    |    7     | Współdziałanie                                           |                |                      |          |
-|    5    |    9     | Normalizacja - standaryzacja                             |                |                      |          |
-|    6    |    11    | Przetwarzanie w chmurze                                  |                |                      |          |
-|    7    |    13    | Bezpieczeństwo                                           |                |                      |          |
+|    3    |    6     | Systemów rozproszone                                     |                |                      |          |
+|    4    |    8     | Współdziałanie                                           |                |                      |          |
+|    5    |    10    | Normalizacja - standaryzacja                             |                |                      |          |
+|    6    |    12    | Przetwarzanie w chmurze                                  |                |                      |          |
+|    7    |    14    | Bezpieczeństwo                                           |                |                      |          |
 |    8    |    15    | Test                                                     |                |                      |          |
 
 - `Link dla uczestnika`  oraz `Hasło` zostaną podane jak tylko będą dostępne (zwykle w dniu poprzedzającym zajęcia)
@@ -58,52 +60,26 @@ SUMA = n
 
 ```
 
-### Kolokwium
+### Kolokwium (test)
 
 ## Projekt
 
-| Zadanie                |     Termin oddania (nr tygodnia)      |
-| ---------------------- | :-----------------------------------: |
-| __________________     | _____________________________________ |
-| Tworzenie repozytorium |                   4                   |
-| Projekt-Etap 1         |                   7                   |
-| Projekt-Etap 2         |                  10                   |
-| Projekt Etap 3         |                  13                   |
+| Zadanie            |     Termin oddania (nr tygodnia)      | Ocena (punkty) |
+| ------------------ | :-----------------------------------: | :------------: |
+| __________________ | _____________________________________ |  ____________  |
+| Projekt-Etap 0     |                   4                   |   04, 03, 02   |
+| Projekt-Etap 1     |                   7                   |   12, 09, 06   |
+| Projekt-Etap 2     |                  10                   |   12, 09, 06   |
+| Projekt Etap 3     |                  13                   |   12, 09, 06   |
+|                    |                                       | _____________  |
+| Razem projekt      |                                       |     <= 40      |
 
 ### Uwagi
 
-- Ocena wykonania zdania `Tworzenie repozytorium` nie jest składnikiem oceny końcowej
-- Brak zgłoszenia zadania `Tworzenie repozytorium` przed upływem `Ostateczny termin` (6 tydzień) jest uważane za rezygnację z chęci ukończenia kursu
-- Ocena za zadania 5..10 punktów
-- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek grupy roboczej zgłasza osobno gotowość zadania do oceny**.
+- Szczegóły oceniania opisano w [Regulamin zaliczania laboratorium](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=70785)
+- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
-
-### Ramowy harmonogram zajęć
-
-| Tydzień | Temat                                                                  | Uwagi                     |
-| ------- | ---------------------------------------------------------------------- | ------------------------- |
-| 01      |                                                                        | Zajęcia odrabiane w 07-15 |
-| 02      | Wprowadzenie do projektu                                               |                           |
-| 03      | Projekt (Omówienie projektu, środowisko)                               |                           |
-| 04-06   | [Tworzenie repozytorium][TworzenieRepozytorium]; Kontrola postępu prac |                           |
-| 07-09   | [Projekt Etap-1 ocena][Etap1]                                          | Odrabianie zajęć 01       |
-| 10-12   | [Projekt Etap-2 ocena][Etap2]                                          | Odrabianie zajęć 01       |
-| 13-15   | [Projekt Etap-3 ocena][Etap3]                                          | Odrabianie zajęć 01       |
-
-[TworzenieRepozytorium]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262
-[Etap1]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857
-[Etap2]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=76009
-[Etap3]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=71180
-
-#### Uwagi: Kontrola postępu prac projektowych
-
-W trakcie zajęć:
-
-- oceniana jest poprawność wykonania zadania `Tworzenie repozytorium`
-- odpowiadamy na pytania:
-  - Co zrobiłem do tej pory ?
-  - Co mam zrobić na następne zajęcia?
-  - Z czym mam problem?
+- zadania postawione w **wersji roboczej** nie będą traktowane jako skutecznie zgłoszone
 
 ### ZADANIE Tworzenie repozytorium
 
@@ -131,18 +107,37 @@ plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
 ### Projekt-Etap 3-aplikacja mobilna (rozproszona)
 
-## Zarejestrowane zajęcia
+## Zarejestrowane zajęcia (yyyy)
 
 ### Streszczenie - zarejestrowane zajęcia
 
-Ta sekcja zawiera
+Ta sekcja zawiera zarejestrowane zajęcia yyyy Lato
 
 - zarejestrowane wykłady
 - aktywność - pliki z poprawnymi odpowiedziami na pytania
 
-### Folder Aktywność - Q/A podsumowanie
+#### Opis lekcji zdalnej (strona)
 
-### Aktywność zasady
+Poniżej szczegóły zarejestrowanej lekcji zdalnej.
+
+| Nazwa        |              Opis               |
+| :----------- | :-----------------------------: |
+| Temat        |       **Temat spotkania**       |
+| Data         |            \<Date\>             |
+| Czas trwania |            2 godziny            |
+| Link         | [odtwórz film na YouTube]`link` |
+
+**Agenda**:
+
+1. Temat 1
+1. temat 2
+   - temat
+
+### Aktywność - Q/A podsumowanie (folder)
+
+- `YY-MM-DD Seminarium <XX> <Main topic> Activity.xlsx`
+
+### Aktywność zasady (strona)
 
 Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Punkty te doliczane sa do oceny końcowej.
 

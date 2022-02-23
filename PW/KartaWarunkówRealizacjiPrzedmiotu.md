@@ -33,3 +33,4 @@ Podstawowe terminy konsultacji są podane na WIKAMP w profilach prowadzących za
 
 [RZP]: https://ftims.edu.p.lodz.pl/mod/page/view.php?id=102576
 [Forum]: https://ftims.edu.p.lodz.pl/mod/forum/view.php?id=101381
+

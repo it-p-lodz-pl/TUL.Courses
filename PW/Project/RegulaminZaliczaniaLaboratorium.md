@@ -1,6 +1,6 @@
 # Regulamin zaliczania laboratorium
 
-## Ramowy harmonogram zajęć
+## Ramowy harmonogram zajęć (opis)
 
 | Tydzień | Temat                                                                                                                  | Uwagi |
 | ------- | ---------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -8,9 +8,9 @@
 | 02      | Środowisko projektowe, praca w parach, testy jednostkowe, TDD (ang. test driven development), wprowadzenie do projektu |       |
 | 03      | Projekt (Omówienie projektu, środowisko)                                                                               |       |
 | 04-06   | [Projekt Etap-0][TworzenieRepozytorium]; Kontrola postępu prac, pytania, zaliczenie                                    |       |
-| 07-09   | [Projekt Etap-1][Etap1] Kontrola postępu prac, zaliczanie                                                              |       |
-| 10-12   | [Projekt Etap-2][Etap2] Kontrola postępu prac, zaliczanie                                                              |       |
-| 13-15   | [Projekt Etap-3][Etap3] Kontrola postępu prac, zaliczanie                                                              |       |
+| 07-09   | [Projekt Etap-1][Etap1] Kontrola postępu prac, pytania, zaliczanie                                                              |       |
+| 10-12   | [Projekt Etap-2][Etap2] Kontrola postępu prac, pytania, zaliczanie                                                              |       |
+| 13-15   | [Projekt Etap-3][Etap3] Kontrola postępu prac, pytania, zaliczanie                                                              |       |
 
 [TworzenieRepozytorium]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102935
 [Etap1]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102936
@@ -60,17 +60,17 @@
    - **Zgłoszenia należy dokonać za pośrednictwem modułu zadania na `WIKAMP`** po całkowitym zakończeniu prac. W tekście zwrotnym należy umieścić URL do repozytorium dla wybranego zadania i numer wersji nadanej `Release`.
    - **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
 
-1. Prowadzącego na podstawie kodu źródłowego, oddanej dokumentacji, weryfikacji zdobytej wiedzy i nabytych umiejętności ocenia zakresu i poprawność realizacji prac dla etapu. 
+1. Prowadzącego na podstawie kodu źródłowego, oddanej dokumentacji, weryfikacji zdobytej wiedzy i nabytych umiejętności ocenia zakresu i poprawność realizacji prac dla etapu.
 1. Jeżeli ta ocena jest negatywna, wówczas student zobowiązany jest do powtórnego zaliczenia w kolejnym terminie,a w konsekwencji traci punkty.
 1. W trakcie zaliczenia student jest informowany, za co zostały odebrane mu punkty.
 1. **Zaliczone zadania nie mogą być poprawiane**.
 1. W trakcie oceny poprawności wykonania zadania student musi wykazać się wiedzą merytoryczną i umiejętnościami w zakresie zadania pozwalającymi na stwierdzenie, że prace zostały wykonane samodzielnie.
 1. Wszystkie zadania muszą być zaliczane w okresie trwania zajęć.
-1. W przypadku braku zaliczenia w drugim terminie, niezaliczone zadania mogą być zaliczone w terminie poprawkowym (trzecie podejście). Studentowi nie przysługuje prawo ubiegania się o zaliczenie zadania w kolejnym terminie, czyli **brak zaliczenia w terminie poprawkowym uniemożliwia zaliczenie laboratorium**, a w konsekwencji przedmiotu.
+1. W przypadku braku zaliczenia w drugim terminie, niezaliczone zadania mogą być zaliczone w terminie poprawkowym (trzecia próba). Studentowi nie przysługuje prawo ubiegania się o zaliczenie zadania w kolejnym terminie, czyli **brak zaliczenia w terminie poprawkowym uniemożliwia zaliczenie laboratorium**, a w konsekwencji przedmiotu.
 1. Aby wykonanie zadania w zgłoszonym terminie było uznane należy:
    - Zgłosić zadanie do oceny nie później niż w dniu poprzedzającym zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
-   - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez wszystkich jego współautorów.
-   - Brak zgłoszenia do oceny w terminie powoduje **utratę 2 punktów** w dla Etap 0 i 2 punktów dla wszystkich pozostałych. pierwszych dwóch terminach i **4** w terminie poprawkowym zgodnie z harmonogramem zajęć.
+   - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez każdego członka zespołu.
+   - Brak zgłoszenia do oceny w terminie powoduje utratę **2 punktów** dla Etap 0 i **4 punktów** dla wszystkich pozostałych etapów.
 
 ## Dodatkowo
 

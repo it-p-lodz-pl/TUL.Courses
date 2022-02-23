@@ -2,7 +2,7 @@
 
 ## Obowiązujące zasady odbywania zajęć dydaktycznych
 
-`Obowiązujące zasady odbywania zajęć dydaktycznych` a w tym: 
+`Obowiązujące zasady odbywania zajęć dydaktycznych` a w tym:
 
 - Warunki i trybu przystępowania i uzyskiwania zaliczenia zajęć
 - Warunki odrabiania nieobecności na obowiązkowych zajęciach
@@ -25,11 +25,11 @@ są opisane w module
 ## Pozostałe warunki uzyskania zaliczenia przedmiotu
 
 1. Pozostałe warunki są ustalane wg. potrzeb na wniosek studenta przez Kierownika przedmiotu.
-1. Wszelkie zmiany karty i regulaminów są podawane z wyprzedzeniem na [Forum][Forum].
+1. Wszelkie zmiany dotyczące organizacji zajęć i regulaminów są podawane z wyprzedzeniem na [Forum][Forum].
 
 ## Terminy konsultacji
 
-Podstawowe terminy konsultacji są podane na WIKAMP w profilach prowadzących zajęcia:
+Podstawowe terminy konsultacji są podane na WIKAMP w profilach prowadzących zajęcia
 
 - [dr inż. Mariusz Postół; Kierownik przedmiotu](https://ftims.edu.p.lodz.pl/user/profile.php?id=2938)
 
