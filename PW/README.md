@@ -46,7 +46,7 @@ Uprzejmie proszę o przekazanie studentom informacji o możliwości samodzielneg
 - dr inż. Marcin Cegielski I72 <marcin.cegielski@p.lodz.pl>
 - Wykład/Laboratorium
 - Informatyka stosowana
-- Studia stacjonarne 1 stopień, semestr czwarty
+- Studia stacjonarne 1 stopień, czwarty semestr
 - Programowanie Współbieżne
 - ECTS: `07 72 4091 30`
 
