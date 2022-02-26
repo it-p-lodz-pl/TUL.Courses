@@ -1,41 +1,31 @@
 # Assessment – grading scale
 
-1. Final grade – max 100
-   - Seminar: 60
-     - Test: 40
-     - Activity: 20
-   - Laboratory: 40 (2x20)
+1. Total scores: <= 100
+   - Seminar: <= 60
+     - Test: <= 40
+     - Activity: <= 20
+   - Project: <=40 (4 + 18 + 18)
 
-## Notes
+**Notes:**
 
-You have 3 attempts for each.
-You must get a minimum of 50% for each, i.e.
+1. To pass the test you have up to three attempts. In the case of several attempts, the total number of points is equal to the arithmetic mean obtained on all attempts.
+1. In the case of passing the test (i.e. obtaining a minimum of 20 points) at any time, the total number of points is assumed to be 20, if the arithmetic mean is less than 20 points.
+1. You may try to improve the scores on the following attempts as described above.
+1. Detailed description related to the project assessment you may find in the `Project` section.
+1. The following elements contribute to the assessment of activity at the seminar are:
+   - Correct answer to the question asked during the seminar classes (1 point each). The questions asked during last year's classes you may find in the section titled: Recordings 2021 Summer
+   - Improvement of the source code managed in the repository [mpostol/TP](https://github.com/mpostol/TP) according to the rules described in this repository ((scores agreed in advance).
 
-1. Seminar (grade: 30..60)
-1. Laboratory 20..40 (**for deadline violation penalty is 2.5 points a week.**)
-    - task 1  (grade: 10..20)
-    - task 2  (grade: 10..20)
+## Final Grade
 
-# Regulamin zaliczania przedmiotu
+1. To pass the course, it is necessary to pass all the components, i.e. obtain a minimum of 50% of the maximum number of points for the 'Seminar' and 'Project' groups each.
+1. The final grade is based on the total scores. The scores are converted into a final grade in accordance with the table below
 
-1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
- 
-2. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
-
-  1.	Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów.
-  1.	Aktywności na seminarium – maksymalnie 20 punktów.
-  1.	Laboratorium wg osobnego regulaminu – maksymalnie 40 punktów.
-
-2.	Do zaliczenia przedmiotu niezbędne jest zaliczenie wszystkich składowych, tzn. uzyskanie minimum 50% maksymalnej liczby punktów. 
-
-3.	W przypadku zaliczania kolokwium w kilku terminach, łączna liczba punktów jest równa średnie arytmetycznej uzyskanej na wszystkich terminach.
-
-4.	W przypadku zaliczenia kolokwium (czyli uzyskania min 20 punktów) w którymkolwiek terminie, łączna liczba punktów przyjmowana jest na 20, jeśli średnia arytmetyczna jest mniejsza od 20 punktów.
-
-5.	Student może poprawiać ocenę w kolejnych terminach na zasadach opisanych powyżej.
-
-6.	Końcowa ocena bazuje na sumie zdobytych punktów.
-
-7.	Ocenianymi elementami aktywności na seminarium są:
-  1.	poprawna wypowiedź w ramach prowadzonej dyskusji do 10 punktów
-  2.	prezentacja do 10 punktów
+| Scores | TUL Grade |
+| :----: | :-------: |
+| 100-90 |    5.0    |
+| 89 -80 |    4.5    |
+| 79-70  |    4.0    |
+| 69-60  |    3.5    |
+| 59-50  |    3.0    |
+| 49-50  |    2.0    |

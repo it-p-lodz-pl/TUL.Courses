@@ -1,4 +1,58 @@
-# Forum Templates
+# Forum Templates <!-- omit in toc -->
+
+## Table of Contents <!-- omit in toc -->
+
+- [Seminar invitation](#seminar-invitation)
+  - [Version 1](#version-1)
+  - [Agenda](#agenda)
+  - [Instruction for visitors](#instruction-for-visitors)
+  - [Version 2](#version-2)
+- [Enrolment message on forum](#enrolment-message-on-forum)
+  - [Forum](#forum)
+- [Task 1 Check list publication](#task-1-check-list-publication)
+- [Lab - Alternative Path](#lab---alternative-path)
+- [I have just published the last lecture recording and activity](#i-have-just-published-the-last-lecture-recording-and-activity)
+  - [NOTE](#note)
+  - [How to improve your correctness](#how-to-improve-your-correctness)
+- [Lab Time Slot Reservation](#lab-time-slot-reservation)
+- [Repository Creation Task](#repository-creation-task)
+- [Activity points final summary](#activity-points-final-summary)
+- [Final grades](#final-grades)
+- [Good luck](#good-luck)
+
+## Seminar invitation
+
+### Version 1
+`14:45 <DateTime> Lecture class invitation`
+
+I would like to invite you to a remote lecture class as part of the course **Programming Technologies**. Details below.
+
+| Information                |     Detailed description      |
+| :------------------------- | :---------------------------: |
+| Title of the classes       |      **Temat spotkania**      |
+| Duration                   |             1.5 h             |
+| Password                   |           `xxxxxx`            |
+| PIN for mobile application |          `xxxxxxxx`           |
+| Enter as participant       | [webPokój 32](https://a.b.pl) |
+
+### Agenda
+
+1. Topic 1
+1. Topic 2
+
+### Instruction for visitors
+
+1. To enter the webinar room, click on the button: `Enter as a participant` located in the table above. Then enter your TUL email address, and enter the password listed in the table.
+1. Please do not enter your email password, it is completely unnecessary in this case. A valid password is given above.
+1. To actively participate in the webinar, the Chrome, Firefox, or Safari browser is recommended. Full audio and camera support will be needed.
+1. The room is currently running a waiting room that allows you to verify whether your computer meets the requirements of the webinar platform.
+1. We recommend that people participating in the class were not in one room and if possible use headphones to not interfere with each other's work.
+
+### Version 2
+
+I would like to invite you to a remote lecture class as part of the course **Programming Technologies**. Details below.
+
+- [14:45 Monday 1 March 2021Lecture class invitation](https://ife.edu.p.lodz.pl/mod/forum/discuss.php?d=3425#p4895)
 
 ## Enrolment message on forum
 
@@ -13,6 +67,16 @@ Unenroll from PT, and contact me immediately if you have been enrolled in this c
 I am open to any questions or proposals you may have. Contact me on Teams or by email.
 
 Good luck!!
+
+### Forum
+
+I have been asked by the University Authority to harmonize the schedule with the current situation, and especially the late enrolment of some course members. I agree with that so I decided to postpone the deadline for Task 1 from lesson 5 (10-11-2020) to lesson 6 (17-11-2020).
+
+During the next laboratory, we will repeat the same agenda as for lesson 4, and as a result, you will have the opportunity to reserve a place in the line to validate your code against my environment and assessment rules. Again, it is your opportunity but not a requirement. Add to the code everything you believe is useful for you. In other words, everything is allowed but only a few things are required.  
+
+**My advice is - keep things as simple as possible to avoid a surprise.**
+
+Contact me directly in any case questions or proposals you may have.
 
 ## Task 1 Check list publication
 
@@ -71,3 +135,32 @@ It was the last opportunity to gather activity points. Provide the total in the 
 `Total= <scores>`
 
 and submit the task as soon as possible but not later than Sunday, 27 June 2021, 12:00 AM.
+
+## Final grades
+
+Hi All,
+
+We are approaching the end of the semester so it is time to finalize your grading process. I have just updated the grades so I will appreciate checking your reports up to **dd-mm-yy**.
+
+Let me recall that there is the seminar example code. Have a look at
+
+- [https://github.com/mpostol/TP](https://github.com/mpostol/TP)
+
+The lecture recordings are here:
+
+- [youtube.com](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)
+
+To be in touch please join the Gitter chat
+
+- [https://gitter.im/mpostol/TP](https://gitter.im/mpostol/TP)
+
+Contact me in any case you will have questions.
+
+Thank you very much for your engagement. I believe the effort will be rewarded in your real life. 
+
+## Good luck
+
+- Mariusz Postół Ph. D.
+- Institute of Information Technology
+- Technical University of Lodz
+- Email: mariusz.postol@p.lodz.pl
