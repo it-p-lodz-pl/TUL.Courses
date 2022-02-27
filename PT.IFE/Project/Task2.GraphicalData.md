@@ -1,5 +1,5 @@
 
-# Task 2 – Graphical Data
+# Task 2 – Graphical Data Description
 
 ## Aims
 
