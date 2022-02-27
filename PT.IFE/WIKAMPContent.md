@@ -115,12 +115,12 @@ Entry for each lesson should be in the new comment.
 
 ### Project deadlines and scores
 
-| Zadanie            |         Deadline week number          |     Scores      |
+| Task Name          |         Deadline week number          |     Scores      |
 | ------------------ | :-----------------------------------: | :-------------: |
 | __________________ | _____________________________________ | _______________ |
 | Projekt Task 0     |                   4                   |     4, 3, 2     |
-| Projekt-Task 1     |                   7                   |  18, 15, 12, 9  |
-| Projekt-Task 2     |                  11                   |  18, 15, 12, 9  |
+| Projekt Task 1     |                   7                   |  18, 15, 12, 9  |
+| Projekt Task 2     |                  11                   |  18, 15, 12, 9  |
 |                    |                                       | _______________ |
 | Total              |                                       |      <= 40      |
 

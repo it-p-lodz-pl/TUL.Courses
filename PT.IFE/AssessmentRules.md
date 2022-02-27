@@ -8,13 +8,13 @@
 
 **Notes:**
 
-1. To pass the test you have up to three attempts. In the case of several attempts, the total number of points is equal to the arithmetic mean obtained on all attempts.
+1. To pass the test you have up to three attempts. In the case of several attempts, the total number of points gathered is equal to the arithmetic mean obtained on all attempts.
 1. In the case of passing the test (i.e. obtaining a minimum of 20 points) at any time, the total number of points is assumed to be 20, if the arithmetic mean is less than 20 points.
 1. You may try to improve the scores on the following attempts as described above.
 1. Detailed description related to the project assessment you may find in the `Project` section.
 1. The following elements contribute to the assessment of activity at the seminar are:
    - Correct answer to the question asked during the seminar classes (1 point each). The questions asked during last year's classes you may find in the section titled: Recordings 2021 Summer
-   - Improvement of the source code managed in the repository [mpostol/TP](https://github.com/mpostol/TP) according to the rules described in this repository ((scores agreed in advance).
+   - Improvement of the source code managed in the repository [mpostol/TP](https://github.com/mpostol/TP) according to the rules described in this repository (scores must be agreed in advance).
 
 ## Final Grade
 
