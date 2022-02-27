@@ -1,4 +1,4 @@
-# Projekt Aplikacja Mobilna List Kontrolna
+# Projekt Etap 3 List Kontrolna
 
 - [ ] program jest w .NET
 - [ ] program się kompiluje

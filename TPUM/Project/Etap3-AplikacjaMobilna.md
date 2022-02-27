@@ -1,4 +1,4 @@
-# Aplikacja Mobilna
+# Projekt Etap 3 - Aplikacja Mobilna
 
 ## Cel
 
@@ -47,23 +47,6 @@ W trakcie zaliczenia mogą być poruszane zagadnienie związane z:
 - umiejętnością wskazania miejsc występowania sekcji krytycznej i jej implementacji
 - wykazania, że aplikacja jest warstwowa i wskazanie granic i relacji warstw
 - wskazaniem w programie miejsc odpowiedzialnych za produkowanie danych procesowych, komunikację pomiędzy instancjami programu, itp.
+- aby zobiektywizować ocenianie zadania projektowego wykorzystamy listę kontrolną do sprawdzania poprawności realizacji etapu. Proszę sobie utworzyć Issue i skopiować do niego załączoną listę kontrolną i spróbować samemu odhaczyć zrealizowane wymagania, by sprawdzić kompletność wykonania
 
 Do zrealizowania zadania można wykorzystać przykładowy kodu opublikowany w [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP).
-
-## Zobacz też
-
-- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-- [How to test software, part I: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/?gclid=Cj0KCQiAkePyBRCEARIsAMy5ScunlfHQKu8LF1w4pG9d4P10ChGBpIv8YNgJklqj0rOYGb3p7-kNe8saAjZYEALw_wcB)
-- [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
-- [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
-- [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
-- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
-- [Repo for managing Moq 4.x](https://github.com/moq/moq4)
-- [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
-- [Przykładowa implementacja repliki procesu - symulator bojlerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
-- [Address Space Model Designer](https://github.com/mpostol/ASMD/releases)
-- [Address Space Model Designer OnLine Help](https://commsvr-com.github.io/Documentation/ModelDesigner/html/a2d55988-b59a-4a87-95b9-933f6bbdf5bd.htm)
-- [Mariusz Postol. OPC UA Information Model Deployment. 2016. Version 1.2][CAS.OPCUAIMD] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2586616.svg)](https://doi.org/10.5281/zenodo.2586616)
-- [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool)
-
-[CAS.OPCUAIMD]: https://www.researchgate.net/publication/331565040_OPC_UA_INFORMATION_MODEL_DEPLOYMENT

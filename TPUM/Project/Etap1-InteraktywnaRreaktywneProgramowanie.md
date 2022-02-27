@@ -1,4 +1,4 @@
-# Projekt Etap 1 - interaktywna/reaktywne programowanie
+# Projekt Etap 1 - interaktywna/reaktywne programowanie - opis
 
 ## Cel
 
@@ -10,7 +10,7 @@ Celem zadania jest praktyczne zastosowanie:
 - graficznego interfejsu użytkownika (GUI) z wykorzystaniem języka `XAML`
 - testowania jednostkowego i integracyjnego
 - techniki wstrzykiwania zależności (ang. Dependency Injection)
-- techniki MOCK
+- techniki MOCK (opcjonalnie)
 
 ## Opis zadania
 
@@ -41,26 +41,27 @@ Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane z wykorzystani
 #### Warstwa `Dane`
 
 - Jako repozytorium danych procesowych należy wykorzystać model obiektowy w pamięci operacyjnej. Początkowy stan procesu biznesowego należy odtworzyć z wygenerowanych/odczytanych danych, z zastrzeżeniami opisanymi w rozdziale **Wytyczne do realizacji**.
-- Warstwa powinna udostępniać publiczne abstrakcyjne API, a ukrywać szczegóły implementacji.
+- Warstwa powinna udostępniać publiczne abstrakcyjne API i ukrywać szczegóły implementacji.
 
 #### Warstwa `Logika`
 
 - Implementując usługi w tej warstwie, należy dostarczyć funkcjonalność umożliwiającą przetwarzanie danych na potrzeby wybranego procesu biznesowego.
 - API warstwy `Logika` powinno zawierać operacje interaktywne (np. zakup czegoś) i reaktywne (okresowe wysłanie PIT'u).
-- Warstwa powinna udostępniać publiczne abstrakcyjne API, a ukrywać szczegóły implementacji.
+- Warstwa powinna udostępniać publiczne abstrakcyjne API i ukrywać szczegóły implementacji.
 
 #### Warstwa `Prezentacja` - graficzny interfejs użytkownika (GUI)
 
-- Utworzyć okno główne aplikacji zawijające potrzebne kontrolki do monitorowania i sterowania procesem biznesowym
+- Utworzyć okno główne aplikacji zawierające potrzebne kontrolki do monitorowania i sterowania procesem biznesowym
 - Ta warstwa jest odpowiedzialna za inicjację programu (bootstrap) i jego zakończenie
 - zaprojektować interfejs graficzny wykorzystując język XAML
 - Wykorzystać API warstwy **Logika** do wizualizacji i sterowania procesem biznesowym
+- warstwa ta powinna zawierać elementy interaktywnego i reaktywnego współdziałania z użytkownikiem
 
-Warstwa ta musi być zaimplementowana zgodnie ze wzorcem `Model-View-ViewModel` (`MVVM`). Oznacza to, że należy w niej wydzielić następujące warstwy:
+Warstwa ta musi być zaimplementowana zgodnie ze wzorcem `Model-View-ViewModel` (`MVVM`). Oznacza to, że należy w niej wydzielić następujące warstwy składowe:
 
 - `View`: zawiera zestaw kontrolek bezpośrednio zapewniający interakcję pomiędzy użytkownikiem i programem oraz zaprojektowany z wykorzystaniem języka XAML (`*.xaml`).
 - `ViewModel`: implementuje zachowanie się interfejsu użytkownika tak, aby wyświetlać aktualne dane i realizować polecenia użytkownika w zależności od stanu procesu. Warstwa odpowiedzialna za powiązanie kontrolek z API oferowanym przez warstwę `Model`
-- `Model`: odpowiedzialna za przechowywanie danych na potrzeby interfejsu użytkownika (GUI) i realizację operacji na danych z wykorzystaniem funkcjonalności oferowanej przez warstwę opisaną w poprzednim rozdziale **Warstwa `Logika`**,
+- `Model`: odpowiedzialna za przechowywanie danych wyłącznie na potrzeby interfejsu użytkownika (GUI) i realizację operacji na danych z wykorzystaniem funkcjonalności oferowanej przez warstwę opisaną w poprzednim rozdziale **Warstwa `Logika`**,
 
 Dane i kontrolki muszą być powiązane ze sobą za pomocą mechanizmu wiązania danych `DataBinding`. Oznacza to również, że nie powinno się tworzyć kodu w warstwie widoku (tzw. code-behind) w plikach `*.xaml.cs`, poza kodem automatycznie generowanym przez środowisko projektowe. Do powiadamiania warstwy `View` o zmianach zachodzących w warstwie poniżej, należy wykorzystać implementację interfejsów `INotifyPropertyChanged` oraz `INotifyCollectionChanged` lub ich pochodnych.
 
@@ -75,10 +76,8 @@ Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (imple
 - Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`. Proszę odprzęgnąć warstwy na potrzeby testowania używając DI lub MOCK
 - Przy realizacji warstwy **Danych** należy unikać korzystania z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
 - warstwowość programu najprościej uzyskać, implementując warstwy jako osobne projekty.
-- abstrakcyjne API najprościej zadeklarować jako wspólny projekt oraz implementację warstwy w postaci niezależnego silosu realizującego API.
 
-- **UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania aplikacji rozproszonej, tzn. realizowanej na kilku komputerach połączonych poprzez sieć
-  - Proszę pomyśleć, w którym miejscu wstawić komunikację pomiędzy klientem i serwerem pamiętając, że klient/serwer komunikuje się ze sobą z wykorzystaniem technologii Web-sockets
+- **UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania aplikacji rozproszonej, tzn. realizowanej na kilku komputerach połączonych poprzez sieć. Z wyprzedzeniem proszę pomyśleć, w którym miejscu będzie wstawiona komunikacja pomiędzy klientem i serwerem pamiętając, że klient/serwer komunikuje się ze sobą z wykorzystaniem technologii Web-sockets.
 
 ## Lista źródeł
 
@@ -86,11 +85,4 @@ Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practic
 
 ## Zaliczenie
 
- W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane, a w tym
-
-- wykazania zastosowania architektury warstwowej
-- wykazaniem, że warstwy testowane sa niezależnie
-- jak zapewniono spójności danych
-- umiejętnością uzasadnienia, że API warstwy danych musi być zadeklarowane z wykorzystaniem abstrakcji
-- deserjalizacją, jeśli ktoś użył jej do odczytu danych zewnętrznych
-- wskazaniem miejsca wykorzystania wzorca wstrzykiwania zależności lub użycia techniki Mock
+ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane. W celu poprawy obiektywności do zadania dołączyłem listę kontrolną, która musi być wypełniona.

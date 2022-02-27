@@ -1,12 +1,53 @@
-# WIKAMP zawartość
+# WIKAMP zawartość <!-- omit in toc -->
 
-## Technologie Programowania Urządzeń Mobilnych
+**Table of Contents**:
+
+- [Ogólne](#ogólne)
+  - [Forum (moduł)](#forum-moduł)
+  - [Rozkład roku akademickiego (Link)](#rozkład-roku-akademickiego-link)
+  - [Kalendarz zajęć parzyste/nieparzyste](#kalendarz-zajęć-parzystenieparzyste)
+  - [Karta Przedmiotu](#karta-przedmiotu)
+  - [Karta Warunków Realizacji Przedmiotu](#karta-warunków-realizacji-przedmiotu)
+  - [Regulamin zaliczenia przedmiotu](#regulamin-zaliczenia-przedmiotu)
+- [Wykład](#wykład)
+  - [Streszczenie](#streszczenie)
+  - [Tematyka](#tematyka)
+  - [Seminarium aktywność](#seminarium-aktywność)
+  - [Kolokwium (test)](#kolokwium-test)
+- [Projekt](#projekt)
+  - [Podsumowanie](#podsumowanie)
+  - [Regulamin zaliczania projektu (Strona)](#regulamin-zaliczania-projektu-strona)
+  - [Przydział do zespołu (wybór grupy)](#przydział-do-zespołu-wybór-grupy)
+  - [Wybór grupy projektowej (wybór grupy)](#wybór-grupy-projektowej-wybór-grupy)
+  - [Projekt Etap 0 - Tworzenie repozytorium](#projekt-etap-0---tworzenie-repozytorium)
+    - [Projekt Etap 0 - Opis (Strona)](#projekt-etap-0---opis-strona)
+    - [Projekt Etap 0 - lista kontrolna (Plik)](#projekt-etap-0---lista-kontrolna-plik)
+  - [Projekt Etap 1-interaktywna/reaktywne programowanie](#projekt-etap-1-interaktywnareaktywne-programowanie)
+    - [Projekt Etap 1 - Opis (strona)](#projekt-etap-1---opis-strona)
+    - [Projekt-Etap 1 - Lista kontrolna (plik)](#projekt-etap-1---lista-kontrolna-plik)
+  - [Projekt-Etap 2 - interaktywna/reaktywna komunikacja](#projekt-etap-2---interaktywnareaktywna-komunikacja)
+    - [Projekt Etap 2 - Opis (strona)](#projekt-etap-2---opis-strona)
+    - [Projekt-Etap 2 - Lista kontrolna (plik)](#projekt-etap-2---lista-kontrolna-plik)
+  - [Projekt-Etap 3-aplikacja mobilna (rozproszona)](#projekt-etap-3-aplikacja-mobilna-rozproszona)
+    - [Projekt-Etap 3 - Opis (strona)](#projekt-etap-3---opis-strona)
+    - [Projekt-Etap 3 - Lista kontrolna (plik)](#projekt-etap-3---lista-kontrolna-plik)
+- [Zarejestrowane zajęcia (yyyy)](#zarejestrowane-zajęcia-yyyy)
+  - [Streszczenie - zarejestrowane zajęcia](#streszczenie---zarejestrowane-zajęcia)
+    - [Opis lekcji zdalnej (strona)](#opis-lekcji-zdalnej-strona)
+  - [Aktywność - Q/A podsumowanie (folder)](#aktywność---qa-podsumowanie-folder)
+  - [Aktywność zasady (strona)](#aktywność-zasady-strona)
+- [Materiały pomocnicze](#materiały-pomocnicze)
+  - [Programowanie rozproszone](#programowanie-rozproszone)
+  - [Testowanie](#testowanie)
+- [Narzędzia](#narzędzia)
+
+## Ogólne
 
 Proszę przekazać wszystkim zainteresowanym, ze można się samodzielnie zapisać na przedmiot [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/view.php?id=1816) prowadzony na WIKAMP. Klucz do samodzielnego zapisu: `TPUM`.
 
 Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na odległość na platformie TEAMS. W tym celu na TEAMS utworzony został zespół: [22-Technologie Programowania Urządzeń Mobilnych](https://teams.microsoft.com/l/team/19%3aTiVnS1IG-xY2EiP-jW68ii_tEYAF5pOQuvv8cgy6_fM1%40thread.tacv2/conversations?groupId=2c948f15-6072-4ea9-850c-829ef8283285&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 
-Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `317cyom`.
+Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `317cyom`. 
 
 ### Forum (moduł)
 
@@ -14,7 +55,7 @@ Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji 
 
 ### Kalendarz zajęć parzyste/nieparzyste
 
-## Karta
+### Karta Przedmiotu
 
 - [Programowanie urządzeń mobilnych; 07 69 1230 19](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=pl&idPrzedmiotu=172860&pkId=1149&s=1&t=1&j=0&w=informatyka%20stosowana%20%22Opis%20Przedmiotu%22)
 
@@ -64,6 +105,8 @@ SUMA = n
 
 ## Projekt
 
+### Podsumowanie
+
 | Zadanie            |     Termin oddania (nr tygodnia)      | Ocena (punkty) |
 | ------------------ | :-----------------------------------: | :------------: |
 | __________________ | _____________________________________ |  ____________  |
@@ -74,26 +117,38 @@ SUMA = n
 |                    |                                       | _____________  |
 | Razem projekt      |                                       |     <= 40      |
 
-### Uwagi
+**Uwagi**:
 
-- Szczegóły oceniania opisano w [Regulamin zaliczania laboratorium](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=70785)
+- Szczegóły oceniania opisano w [Regulamin zaliczania projektu](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=70785)
 - Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
 - zadania postawione w **wersji roboczej** nie będą traktowane jako skutecznie zgłoszone
 
-### ZADANIE Tworzenie repozytorium
+### Regulamin zaliczania projektu (Strona)
 
-`TPUM\Project\GitHubCreateRepoTask.md`
+- TPUM\Project\RegulaminZaliczaniaLaboratorium.md
 
-#### GitHub README.md template file
+### Przydział do zespołu (wybór grupy)
 
-1. Przyklej zawartość pliku do README.md repozytorium
-2. Wygeneruj GUID dla każdego członka zespołu
-3. Zmodyfikuj tabelkę wpisując dane identyfikacyjne i wygenerowane identyfikatory GUID
+Każdy uczestnik kursu musi być członkiem 1 lub 2 osobowego zespołu. Korzystając z tego modułu można dokonać wyboru zespołu.
 
-`TPUM\Project\GitHubRCreateRepoEADMETempllate.md`
+**UWAGA:** Ta aktywność zostanie zamknięta przed trzecimi zajęciami.
 
-#### Tworzenie repozytorium - lista kontrolna
+### Wybór grupy projektowej (wybór grupy)
+
+Z uwagi na zmianę ilości grup projektowy musimy dokonać podziału na grupy. Bardzo proszę o zapisywanie się z uwzględnieniem zespołów roboczych.
+
+### Projekt Etap 0 - Tworzenie repozytorium
+
+
+#### Projekt Etap 0 - Opis (Strona)
+
+Opis w [Projekt Etap 0: Tworzenie repozytorium - opis](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=103725)
+
+- `TPUM\Project\GitHubCreateRepoTask.md`
+- `TPUM\Project\GitHubRCreateRepoEADMETempllate.md`
+
+#### Projekt Etap 0 - lista kontrolna (Plik)
 
 - utwórz issue
 - skopiuj zawartość pliku
@@ -101,11 +156,31 @@ SUMA = n
 
 plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
-### Projekt-Etap 1-interaktywna/reaktywne programowanie
+### Projekt Etap 1-interaktywna/reaktywne programowanie
 
-### Projekt-Etap 2-interaktywna/reaktywna komunikacja
+#### Projekt Etap 1 - Opis (strona)
+
+- `TPUM\Project\Etap1-InteraktywnaRreaktywneProgramowanie.md`
+
+#### Projekt-Etap 1 - Lista kontrolna (plik)
+
+- `TPUM\Project\Etap1-CheckList.md`
+
+### Projekt-Etap 2 - interaktywna/reaktywna komunikacja
+
+#### Projekt Etap 2 - Opis (strona)
+
+- `TPUM\Project\Etap2-InteraktywnaRreaktywnaKomunikacja.md`
+
+#### Projekt-Etap 2 - Lista kontrolna (plik)
+
+- `TPUM\Project\Etap2-CheckList.md`
 
 ### Projekt-Etap 3-aplikacja mobilna (rozproszona)
+
+#### Projekt-Etap 3 - Opis (strona)
+
+#### Projekt-Etap 3 - Lista kontrolna (plik)
 
 ## Zarejestrowane zajęcia (yyyy)
 
@@ -148,6 +223,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ### Programowanie rozproszone
 
+- [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
 - Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
 - Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
   - Postół M. (2020) [Object-Oriented Internet Reactive Interoperability](https://www.researchgate.net/publication/341882427_Object-Oriented_Internet_Reactive_Interoperability), presentation, DOI: 10.13140/RG.2.2.33984.56323
@@ -164,6 +240,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
   - Bazy danych
 - [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
   - C# in Practice - set of C# examples targeting education purpose
+- [Mariusz Postol. OPC UA Information Model Deployment. 2016. Version 1.2][CAS.OPCUAIMD] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2586616.svg)](https://doi.org/10.5281/zenodo.2586616)
 - [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
 - [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
 - [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
@@ -182,6 +259,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 - [Gist - jak zainicjować repozytorium GitHub - lista kontrolna](https://gist.github.com/mpostol/496fe3038dd88790b446fb24276da1b9)
 - [Address Space Model Designer (ASMD)](https://github.com/mpostol/ASMD#-address-space-model-designer-asmd)
+- [Address Space Model Designer OnLine Help](https://commsvr-com.github.io/Documentation/ModelDesigner/html/a2d55988-b59a-4a87-95b9-933f6bbdf5bd.htm)
 - [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool)
 - [Walk-through ReferenceApplication](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/ReferenceApplication#walk-through-referenceapplication)
 - [XML => YAML](https://codebeautify.org/xml-to-yaml#)
@@ -190,3 +268,4 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 [wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
 [wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
+[CAS.OPCUAIMD]: https://www.researchgate.net/publication/331565040_OPC_UA_INFORMATION_MODEL_DEPLOYMENT

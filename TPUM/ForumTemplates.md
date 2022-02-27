@@ -1,22 +1,49 @@
-# Forum Templates
+# Forum Templates <!-- omit in toc -->
 
-## Kick-off meeting **11:45 - pon. 08.03.2021*
+**Table of Contents**:
 
-Witam na kursie Programowanie Urządzeń Mobilnych. Zajęcia w dniu **pon. 08.03.2021** zostaną zrealizowane za pośrednictwem Zespółu na Teams: [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L][TEAM].
+- [Zaproszenie do zespołu na platformie MS TEAMS](#zaproszenie-do-zespołu-na-platformie-ms-teams)
+- [Kick-off meeting](#kick-off-meeting)
+  - [Cel](#cel)
+  - [Agenda](#agenda)
+  - [Współdziałanie](#współdziałanie)
+- [Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**](#lab-zaproszenie-na-zajęcia-projektowe-w-dniu-date-godz-czas)
+- [Zaproszenie na wykład](#zaproszenie-na-wykład)
+  - [`Zapraszam na seminarium środa 5 maja 2021 11:45`](#zapraszam-na-seminarium-środa-5-maja-2021-1145)
+  - [Seminarium Agenda](#seminarium-agenda)
+  - [Instrukcja dla uczestnika](#instrukcja-dla-uczestnika)
+- [`Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`](#seminarium-xx---zarejestrowane-zajęcia-i-aktywność-zostały-opublikowane)
+- [Zadanie Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
+- [Aktualizacja listy uczestników kursu](#aktualizacja-listy-uczestników-kursu)
+- [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
+- [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
+  - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
+  - [Przypominam o terminie zgłoszenia](#przypominam-o-terminie-zgłoszenia)
+- [Podsumowanie punktów za aktywność](#podsumowanie-punktów-za-aktywność)
+- [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
+- [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
+- [Wakacje czas zacząć](#wakacje-czas-zacząć)
 
-Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `geodax2`
+## Zaproszenie do zespołu na platformie MS TEAMS
+
+Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na odległość na platformie TEAMS. W tym celu na TEAMS utworzony został zespół. Link do zespołu jest dostępny na głównej stronie kursu. Proszę się również zarejestrować z wyprzedzeniem.
+
+Proszę również o przekazanie wszystkim potencjalnym zainteresowanym o możliwości dołączeniem do kursu korzystając z  klucza : **TPUM**. Kurs można znaleźć tu: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/view.php?id=1816). Wybór kursu jao zajęcia fakultatywne wymaga spełnienia kilku warunków, a w tym zapewnienia, że zajęcia  nie kolidują z innymi. Ja mogę jedynie zapewnić, że dołożę wszelkich starań, aby te przeszkody zneutralizować - proszę być ze mną w kontakcie.
+
+## Kick-off meeting
+
+Witam na kursie Programowanie Urządzeń Mobilnych. Zajęcia zostaną zrealizowane za pośrednictwem WEBINAR:
 
 Szczegóły poniżej.
 
 |                Nazwa |                                Opis                                 |
 | -------------------: | :-----------------------------------------------------------------: |
 |                Temat | **Technologie programowania urządzeń mobilnych - kick off meeting** |
-|             Początek |                      `11:45 - pon. 08.03.2021`                      |
+|             Początek |                            `<date time>`                            |
 |         Czas trwania |                              2 godziny                              |
 | Link dla uczestników |                   [Wejdź jako uczestnik][Meeting]                   |
 
-[Meeting]:https://teams.microsoft.com/l/meetup-join/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/1615126417210?context=%7b%22Tid%22%3a%2267ea5955-9b5c-4693-a8f9-960f2a3b49bb%22%2c%22Oid%22%3a%22ca8d45ae-21cb-4030-bbab-1d3a5fb8cc81%22%7d
-[TEAM]:https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb
+[Meeting]:a.b.c.com
 
 ### Cel
 
@@ -49,6 +76,9 @@ Uprzejmie proszę o przekazanie wszystkim zainteresowanym informacji o możliwo�
 URL: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/search.php?q=TPUM&areaids=core_course-course)
 Klucz: **TPUM**
 
+## Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**
+
+Zajęcia w dniu **\<date\>** zostaną zrealizowane za pośrednictwem zespołu na Teams. Link do zespołu jest dostępny na głównej stronie kursu Jest tam zdefiniowany termin. Osoby, które planują w tych zajęciach brać udział, proszę o akceptacje terminu - dopisanie się do listy.
 
 ## Zaproszenie na wykład
 
@@ -64,15 +94,8 @@ Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urząd
 | PIN do aplikacji mobilnej |           ---------           |
 | Link dla uczestników      | [Wejdź jako uczestnik](a.b.c) |
 
-### `Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`
 
-Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego seminarium w sekcji: [Zarejestrowane zajęcia 2021 Lato](https://ftims.edu.p.lodz.pl/course/view.php?id=1816#section-4).
-
-Ponieważ są to pierwsze zajęcia, punkty za aktywność nie stanowią składowej oceny końcowej.
-
-Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu.
-
-## Agenda
+### Seminarium Agenda
 
 - Temat 1
 - Temat 2
@@ -85,9 +108,17 @@ Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w
 1. W pokoju jest aktualnie uruchomiona poczekalnia która pozwala zweryfikować czy Państwa komputer spełnia wymogi platformy webinariów.
 1. Zalecamy, aby osoby uczestniczące w szkoleniu nie znajdowały się w jednym pomieszczeniu oraz jeśli to możliwe, stosowały słuchawki aby nie zakłócać sobie wzajemnie pracy.
   
+## `Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`
+
+Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego seminarium w sekcji: [Zarejestrowane zajęcia 2021 Lato](https://ftims.edu.p.lodz.pl/course/view.php?id=1816#section-4).
+
+Ponieważ są to pierwsze zajęcia, punkty za aktywność nie stanowią składowej oceny końcowej.
+
+Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu.
+
 ## Zadanie Tworzenie repozytorium
 
-Przypominam, że wszyscy muszą ukończyć zadanie jak w tytule. Szczegóły oddania i zaliczenia zadania na stronie WIKAMP.  Przed przesłaniem do oceny należy:
+Przypominam, że wszyscy muszą ukończyć zadanie jak w tytule. Szczegóły oddania i zaliczenia zadania na stronie WIKAMP. Przed przesłaniem do oceny należy:
 
 - skopiować zawartość pliku `GitHubREADMETempllate.md` do pliku `README.md` repozytorium
 - uzupełnić plik wpisując swoje personalne dane identyfikacyjne i wygenerowane identyfikatory GUID
@@ -95,33 +126,17 @@ Przypominam, że wszyscy muszą ukończyć zadanie jak w tytule. Szczegóły odd
 - W repozytorium należy umieścić przykładowy program, który da się skompilować
 - W programie należy umieścić testy jednostkowe, które dadzą się wykonać
 
-### Zaliczenie zadania
-
 Warunkiem zaliczenia zadania jest:
 
 - możliwość skopiowania zawartości repozytorium na komputer prowadzącego
 - bezbłędna kompilacja programu
 - pozytywny wynik testów jednostkowych
 
-### UWAGA: brak zgłoszenia wykonania zadania w terminie do 6 tygodnia zajęć i zaliczenia zadania w terminie do 7 tygodnia zajęć jest uważany za rezygnację z ukończenia kursu.
+**UWAGA**: brak zgłoszenia wykonania zadania w terminie do 6 tygodnia zajęć i zaliczenia zadania w terminie do 7 tygodnia zajęć jest uważany za rezygnację z ukończenia kursu.
 
 Przypominam, że utworzyłem filmik z instrukcją opisującą jak utworzyć repozytorium GitHub na potrzeby projektu.
 
-### [Video jest dostępne](https://youtu.be/uANd4kfWfVA)
-
-## Zaproszenie do zespołu na platformie MS TEAMS
-
-Zajęcia projektowe będą realizowane na platformie MS Teams. Wszystkich proszę o zapisanie się do zespołu  [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb).
-
-Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `geodax2`. W przepadku problemów proszę o kontakt.
-
-Proszę również o przekazanie wszystkim potencjalnym zainteresowanym o możliwości dołączeniem do kursu korzystając z  klucza : **TPUM**. Kurs można znaleźć tu: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/search.php?q=TPUM&areaids=core_course-course). Wybór kursu jao zajęcia fakultatywne wymaga spełnienia kilku warunków, a w tym zapewnienia, że zajęcia  nie kolidują z innymi. Ja mogę jedynie zapewnić, że dołożę wszelkich starań, aby te przeszkody zneutralizować - proszę być ze mną w kontakcie.
-
-## Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**
-
-Zajęcia w dniu **\<date\>** zostaną zrealizowane za pośrednictwem [21-Technologie Programowanie Urządzeń Mobilnych (TPUM) 2021L](https://teams.microsoft.com/l/team/19%3a7b33b22e3cd846559f8191aa5045ef0a%40thread.tacv2/conversations?groupId=c33fd2c9-38c6-4b78-998e-55a84598e90c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb).
-
-Jest tam zdefiniowany termin. Osoby, które planują w tych zajęciach brać udział, proszę o akceptacje terminu - dopisanie się do listy.
+- [Video jest dostępne](https://youtu.be/uANd4kfWfVA)
 
 ## Aktualizacja listy uczestników kursu
 

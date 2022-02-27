@@ -1,4 +1,4 @@
-# Regulamin zaliczania laboratorium
+# Regulamin zaliczania projektu
 
 ## Ramowy harmonogram zajęć (opis)
 
@@ -25,7 +25,7 @@
 
 ## Organizacja zajęć
 
-1. Zajęcia laboratoryjne są obowiązkowe i prowadzone w obecności Prowadzącego, który na bieżąco kontroluje postęp i samodzielność wykonywanych prac.
+1. Zajęcia są obowiązkowe i prowadzone w obecności Prowadzącego, który na bieżąco kontroluje postęp i samodzielność wykonywanych prac.
 1. Treść zadań, wymagania i harmonogram zaliczania jest określony w osobnych dokumentach.
 1. Organizacja pracy
    - Zadania są wykonywane w zespołach 1 i 2 osobowych
@@ -50,9 +50,9 @@
 
 ## Ocena
 
-1. W trakcie zajęć laboratoryjnych wymagane jest zaliczenie wszystkich zadań zgodnie z harmonogramem zamieszczonym w osobnym dokumencie.
+1. W trakcie zajęć wymagane jest zaliczenie wszystkich zadań zgodnie z harmonogramem zamieszczonym w osobnym dokumencie.
 1. Oceniane są wyłącznie zadania zgłoszone poprzez odpowiedni moduł `WIKAMP`.
-1. Zaliczenie laboratorium wymaga uzyskania **zaliczenia wszystkich zadań i uzyskania łącznej punktacji nie niższej niż 50% z maksymalnej do uzyskania liczby punktów**.
+1. Zaliczenie wymaga uzyskania **zaliczenia wszystkich zadań i uzyskania łącznej punktacji nie niższej niż 50% z maksymalnej do uzyskania liczby punktów**.
 1. Zaliczenie zadań w poszczególnych etapach wymaga uzyskania, co najmniej **50% maksymalnej liczby punktów określonych dla każdego zadania**.
 1. Zgłoszenie zadania do oceny:
 
@@ -66,7 +66,7 @@
 1. **Zaliczone zadania nie mogą być poprawiane**.
 1. W trakcie oceny poprawności wykonania zadania student musi wykazać się wiedzą merytoryczną i umiejętnościami w zakresie zadania pozwalającymi na stwierdzenie, że prace zostały wykonane samodzielnie.
 1. Wszystkie zadania muszą być zaliczane w okresie trwania zajęć.
-1. W przypadku braku zaliczenia w drugim terminie, niezaliczone zadania mogą być zaliczone w terminie poprawkowym (trzecia próba). Studentowi nie przysługuje prawo ubiegania się o zaliczenie zadania w kolejnym terminie, czyli **brak zaliczenia w terminie poprawkowym uniemożliwia zaliczenie laboratorium**, a w konsekwencji przedmiotu.
+1. W przypadku braku zaliczenia w drugim terminie, niezaliczone zadania mogą być zaliczone w terminie poprawkowym (trzecia próba). Studentowi nie przysługuje prawo ubiegania się o zaliczenie zadania w kolejnym terminie, czyli **brak zaliczenia w terminie poprawkowym uniemożliwia zaliczenie projektu**, a w konsekwencji przedmiotu.
 1. Aby wykonanie zadania w zgłoszonym terminie było uznane należy:
    - Zgłosić zadanie do oceny nie później niż w dniu poprzedzającym zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
    - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez każdego członka zespołu.

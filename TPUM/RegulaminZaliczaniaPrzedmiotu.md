@@ -1,13 +1,13 @@
 # Regulamin zaliczania przedmiotu
 
 1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
-2. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
+1. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
 
    - **Wykład** ( <= 60 punktów):
      - Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów
      - Aktywności na wykładzie – maksymalnie 20 punktów
 
-   - **Laboratorium** ( <= 40 punktów):
+   - **Projekt** ( <= 40 punktów):
       - zaliczenie wg osobnego regulaminu
   
 ## WYkład
@@ -17,13 +17,13 @@
 1. Student może poprawiać ocenę w kolejnych terminach na zasadach opisanych powyżej.
 1. Ocenianymi elementami aktywności na seminarium jest poprawna wypowiedź w ramach prowadzonej dyskusji.
 
-## Laboratorium
+## Projekt
 
-Zaliczenie opisane jest w osobnym regulaminie: [Regulamin zaliczania laboratorium](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=70785)
+Zaliczenie opisane jest w osobnym regulaminie: [Regulamin zaliczania projektu](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=70785)
 
 ## Ocena końcowa
 
-1. Do zaliczenia przedmiotu niezbędne jest zaliczenie wszystkich składowych, tzn. uzyskanie minimum 50% maksymalnej liczby punktów z `Wykład` i `Laboratorium`.
+1. Do zaliczenia przedmiotu niezbędne jest zaliczenie wszystkich składowych, tzn. uzyskanie minimum 50% maksymalnej liczby punktów z `Wykład` i `Projekt`.
 1. Końcowa ocena bazuje na sumie zdobytych punktów. Liczba zdobytych punktów przeliczana jest na ocenę zgodnie z poniższą tabelą
 
 | Liczba punktów | ocena wg skali PŁ |
