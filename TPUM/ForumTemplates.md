@@ -42,6 +42,7 @@ Szczegóły poniżej.
 |             Początek |                            `<date time>`                            |
 |         Czas trwania |                              2 godziny                              |
 | Link dla uczestników |                   [Wejdź jako uczestnik][Meeting]                   |
+|                Hasło |                               `****`                                |
 
 [Meeting]:a.b.c.com
 

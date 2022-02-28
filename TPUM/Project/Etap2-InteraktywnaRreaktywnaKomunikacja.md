@@ -32,15 +32,10 @@ API warstwy KOMUNIKACYJNEJ (WARSTWA DANYCH (klient)/PREZENTACJI (serwer)) MUSI z
 
 - **UWAGA**: rozwiązanie dalej będzie modyfikowane w celu standaryzacji komunikacji poprzez sieć.
 
-Do zrealizowania zadania można wykorzystać przykładowy kodu opublikowany w [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP).
+## Lista źródeł
 
-## Zobacz też
+Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
 
-- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-- [How to test software, part I: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/?gclid=Cj0KCQiAkePyBRCEARIsAMy5ScunlfHQKu8LF1w4pG9d4P10ChGBpIv8YNgJklqj0rOYGb3p7-kNe8saAjZYEALw_wcB)
-- [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
-- [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
-- [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
-- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
-- [Repo for managing Moq 4.x](https://github.com/moq/moq4)
-- [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
+## Zaliczenie
+
+W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane. W celu poprawy obiektywności do zadania dołączyłem listę kontrolną, która musi być wypełniona.

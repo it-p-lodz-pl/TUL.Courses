@@ -269,3 +269,4 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 [wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
 [wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
 [CAS.OPCUAIMD]: https://www.researchgate.net/publication/331565040_OPC_UA_INFORMATION_MODEL_DEPLOYMENT
+
