@@ -126,9 +126,8 @@ Entry for each lesson should be in the new comment.
 
 **Notes**:
 
-- The task completion must be reported up to 24:00 the day before. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task.
-- Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Each team member has to report the readiness for evaluation separately**.
-- the date for the week number is determined on the basis of the official University timetable
+- The task completion must be **reported up to 24:00 the day before**. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task. **Each team member has to report the readiness for evaluation separately**.
+- the date for the week number is determined on the basis of the official University timetable: [Calendar odd/even weeks](https://ife.edu.p.lodz.pl/pluginfile.php/78638/mod_resource/content/5/kalendarz%20LATO%2021_22.pdf)
 - **Late report decreases the max score on the week number basis. Each working group member reports separately that the task is ready for evaluation.**
 - tasks in the draft version will not be treated as effectively reported
 
