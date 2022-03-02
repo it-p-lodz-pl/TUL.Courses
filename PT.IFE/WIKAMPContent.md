@@ -134,7 +134,7 @@ Entry for each lesson should be in the new comment.
 
 ### Project group selection (group selection)
 
-All participants must be a member of one laboratory group. Use this module to select the group you prefer. Take care that we will work in pairs and all members of the working teem must be in the same group. You can change your selection provided there are free seats in the destination group. The number of members is limited.
+All participants must be a member of one laboratory group. Use this module to select the group you prefer. Take care that we will work in pairs and all members of the working team must be in the same group. You can change your selection provided there are free seats in the destination group. The number of members is limited.
 
 Table: List of available classes groups
 |  Name   | Description                                      |

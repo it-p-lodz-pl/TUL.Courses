@@ -3,7 +3,7 @@
 ## Table of Contents <!-- omit in toc -->
 
 - [Seminar invitation](#seminar-invitation)
-  - [Version 1](#version-1)
+  - [\<DateTime\> Lecture class invitation](#datetime-lecture-class-invitation)
   - [Agenda](#agenda)
   - [Instruction for visitors](#instruction-for-visitors)
   - [Version 2](#version-2)
@@ -22,8 +22,7 @@
 
 ## Seminar invitation
 
-### Version 1
-`14:45 <DateTime> Lecture class invitation`
+### \<DateTime\> Lecture class invitation
 
 I would like to invite you to a remote lecture class as part of the course **Programming Technologies**. Details below.
 
@@ -50,7 +49,7 @@ I would like to invite you to a remote lecture class as part of the course **Pro
 
 ### Version 2
 
-I would like to invite you to a remote lecture class as part of the course **Programming Technologies**. Details below.
+I would like to invite you to a remote project classes as part of the course **Programming Technologies**. Details below.
 
 - [14:45 Monday 1 March 2021Lecture class invitation](https://ife.edu.p.lodz.pl/mod/forum/discuss.php?d=3425#p4895)
 

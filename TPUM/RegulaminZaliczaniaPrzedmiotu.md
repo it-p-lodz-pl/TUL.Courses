@@ -33,4 +33,4 @@ Zaliczenie opisane jest w osobnym regulaminie: [Regulamin zaliczania projektu](h
 |     79-70      |        4.0        |
 |     69-60      |        3.5        |
 |     59-50      |        3.0        |
-|     49-50      |        2.0        |
+|     49-00      |        2.0        |
