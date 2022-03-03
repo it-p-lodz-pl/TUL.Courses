@@ -1,4 +1,4 @@
-# Programming Mobile Devices Technologies
+# Concurrent programming
 
 ## Working Group
 

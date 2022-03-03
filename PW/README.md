@@ -19,7 +19,7 @@ It is next class belonging to the Programming Technologies series.
 
 ## Podsumowanie przedmiotu
 
-TBD
+Podstawowe treści: Klasyfikacja architektur obliczeniowych, systemów wieloprocesorowych i rozproszonych. Współbieżność obliczeń i procesy współbieżne. Miary jakości zrównoleglenia. Elementy systemów operacyjnych służące do sterowania równoległością. Elementy języków programowania równoległego i rozproszonego. Analiza mechanizmów synchronizacji. Przykłady algorytmów równoległych. ĆWICZENIA LABORATORYJNE Budowa i analiza programów równoległych. Umiejętność oszacowywania stopnia zrównoleglenia. Umiejętność prawidłowego stosowania mechanizmów sterowania współbieżnością. Tworzenie programów rozproszonych, realizacja komunikacji pomiędzy rozproszonymi procesami.
 
 ### Klucz do samodzielnego zapisu `TPW`
 
@@ -41,7 +41,7 @@ Klucz to MSTeams: `3iouqb5`
 
 ## List do Dziekanatu
 
-Uprzejmie proszę o przekazanie studentom informacji o możliwości samodzielnego zapisania się na kurs na platformie WIKAMP
+Uprzejmie proszę o przekazanie studentom informacji o możliwości samodzielnego zapisania się na kurs Programowanie Współbieżne na platformie WIKAMP
 
 - dr inż. Marcin Cegielski I72 <marcin.cegielski@p.lodz.pl>
 - Wykład/Laboratorium

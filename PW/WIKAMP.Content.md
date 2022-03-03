@@ -3,13 +3,12 @@
 ## Spis treści <!-- omit in toc -->
 
 - [Programowanie współbieżne](#programowanie-współbieżne)
-  - [Forum](#forum)
-  - [Lista Obecności](#lista-obecności)
-  - [Rozkład roku akademickiego (Link)](#rozkład-roku-akademickiego-link)
-  - [Kalendarz zajęć parzyste/nieparzyste (plik)](#kalendarz-zajęć-parzystenieparzyste-plik)
-- [Opis przedmiotu](#opis-przedmiotu)
-  - [Karta Warunków Realizacji Przedmiotu](#karta-warunków-realizacji-przedmiotu)
+  - [Ogłoszenia](#ogłoszenia)
+    - [Karta przedmiotu w wersji polskiej](#karta-przedmiotu-w-wersji-polskiej)
+  - [Karta Warunków Realizacji Przedmiotu (page)](#karta-warunków-realizacji-przedmiotu-page)
   - [Regulamin zaliczenia przedmiotu](#regulamin-zaliczenia-przedmiotu)
+  - [Podział roku akademickiego (Link)](#podział-roku-akademickiego-link)
+  - [Kalendarz zajęć parzyste/nieparzyste (plik)](#kalendarz-zajęć-parzystenieparzyste-plik)
 - [Wykład](#wykład)
   - [Streszczenie](#streszczenie)
   - [Tematyka](#tematyka)
@@ -35,25 +34,27 @@
 
 Proszę przekazać wszystkim zainteresowanym klucz do samodzielnego zapisu: **TPW**.
 
-Projekt dla przedmiotu jest realizowany na platformie TEAMS:
+Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na odległość na platformie TEAMS. W tym celu na TEAMS utworzony został zespół: [22-Programowanie Współbieżne](https://teams.microsoft.com/l/team/19%3aPIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1%40thread.tacv2/conversations?groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb). Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `3iouqb5`.
 
-Zespół na Teams: [22-Programowanie Współbieżne](https://teams.microsoft.com/l/team/19%3aPIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1%40thread.tacv2/conversations?groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+### Ogłoszenia
 
-Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `xwq49te`
+#### Karta przedmiotu w wersji polskiej
 
-### Forum
+- [URL](https://programy.p.lodz.pl/ectslabel-web/przedmiot_4.jsp?l=pl&idPrzedmiotu=179880&pkId=1654&s=4&j=0&w=informatyka%20stosowana&v=4)
 
-### Lista Obecności
+### Karta Warunków Realizacji Przedmiotu (page)
 
-### Rozkład roku akademickiego (Link)
-
-### Kalendarz zajęć parzyste/nieparzyste (plik)
-
-## Opis przedmiotu
-
-### Karta Warunków Realizacji Przedmiotu
+- `PW\KartaWarunkówRealizacjiPrzedmiotu.md`
 
 ### Regulamin zaliczenia przedmiotu
+
+- `PW\RegulaminZaliczaniaPrzedmiotu.md`
+
+### Podział roku akademickiego (Link)
+
+[URL](https://p.lodz.pl/studenci/podzial-roku-akademickiego)
+
+### Kalendarz zajęć parzyste/nieparzyste (plik)
 
 ## Wykład
 
@@ -96,18 +97,19 @@ SUMA = n
 | Zadanie            |     Termin oddania (nr tygodnia)      | Ocena punktowa  |
 | ------------------ | :-----------------------------------: | :-------------: |
 | __________________ | _____________________________________ | _______________ |
-| Projekt Etap 0     |                   4                   |      <= 12      |
-| Projekt-Etap 1     |                   7                   |      <= 16      |
-| Projekt-Etap 2     |                  10                   |      <= 16      |
-| Projekt Etap 3     |                  13                   |      <= 16      |
+| Projekt Etap 0     |                   4                   |    12, 9, 6     |
+| Projekt-Etap 1     |                   7                   |    16, 12, 8    |
+| Projekt-Etap 2     |                  10                   |    16, 12, 8    |
+| Projekt Etap 3     |                  13                   |    16, 12, 8    |
 |                    |                                       | _______________ |
 | Razem projekt      |                                       |      <= 60      |
 
 **Uwagi**:
 
-- Szczegóły oceniania w `Regulamin zaliczania laboratorium`
+- Szczegóły oceniania w [Regulamin zaliczania laboratorium](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=102579)
 - Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
+- zadania postawione w **wersji roboczej** nie będą traktowane jako skutecznie zgłoszone
 
 ### ZADANIE Tworzenie repozytorium
 
@@ -115,11 +117,11 @@ SUMA = n
 
 #### GitHub README.md template file
 
-1. Kopiowanie zawartości pliku do README.md repozytorium
-2. Wygeneruj GUID dla każdego członka zespołu
-3. Zmodyfikuj tabelkę wpisując dane identyfikacyjne i wygenerowane identyfikatory GUID
+1. Kopiuj zawartości tego pliku do README.md w utworzonym repozytorium
+1. Wygeneruj GUID dla każdego członka zespołu projektowego
+1. Zmodyfikuj tabelkę wpisując dane identyfikacyjne i wygenerowane identyfikatory GUID
 
-`TPUM\Project\GitHubRCreateRepoEADMETempllate.md`
+`PW\Project\Etap 0 EADME Templlate.md`
 
 #### Tworzenie repozytorium - lista kontrolna
 

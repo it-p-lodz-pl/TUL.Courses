@@ -2,10 +2,12 @@
 
 ## Table of content <!-- omit in toc -->
 
-- [1. Kick-off meeting **11:45 - pon. 08.03.2021*](#1-kick-off-meeting-1145---pon-08032021)
+- [1. Zaproszenie na zajęcia projektowe](#1-zaproszenie-na-zajęcia-projektowe)
+- [Plan A jest następujący](#plan-a-jest-następujący)
   - [1.1. Cel](#11-cel)
   - [1.2. Agenda](#12-agenda)
   - [1.3. Współdziałanie](#13-współdziałanie)
+- [List do planistek](#list-do-planistek)
 - [2. Zadanie Tworzenie repozytorium](#2-zadanie-tworzenie-repozytorium)
   - [2.1. Zaliczenie zadania](#21-zaliczenie-zadania)
   - [2.2. Brak zgłoszenia konsekwencje](#22-brak-zgłoszenia-konsekwencje)
@@ -22,23 +24,15 @@
 - [10. Oceny końcowe wystawione](#10-oceny-końcowe-wystawione)
 - [11. Wakacje czas zacząć](#11-wakacje-czas-zacząć)
 
-## 1. Kick-off meeting **11:45 - pon. 08.03.2021*
+## 1. Zaproszenie na zajęcia projektowe
 
-Witam na kursie **Programowanie współbieżne**. Zajęcia w dniu **ddd. <data:godzina)** zostaną zrealizowane za pośrednictwem Zespołu na Teams: [22-Programowanie Współbieżne][TEAM].
+Witam na kursie **Programowanie współbieżne**. Zajęcia w dniu **04-03-2022** zostaną zrealizowane za pośrednictwem Zespołu na Teams: [22-Programowanie Współbieżne][TEAM].
 
-Proszę się zarejestrować. Zakończenie rejestracji wymaga mojej akceptacji lub użycia klucza: `3iouqb5`
+Proszę się zarejestrować. Taka rejestracja wymaga mojej akceptacji. Mnożna się również zarejestrować używając klucza: `3iouqb5`.
 
-Szczegóły poniżej.
+W ramach tego zespołu zostały zdefiniowane niezależne zajęcia zgodnie z plane zajęć:
 
-|                Nazwa |                                Opis                                 |
-| -------------------: | :-----------------------------------------------------------------: |
-|                Temat | **Technologie programowania urządzeń mobilnych - kick off meeting** |
-|             Początek |                      `11:45 - pon. 08.03.2021`                      |
-|         Czas trwania |                              2 godziny                              |
-| Link dla uczestników |                   [Wejdź jako uczestnik][Meeting]                   |
-
-[Meeting]:https://teams.microsoft.com/l/team/19%3aPIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1%40thread.tacv2/conversations?groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb
-[TEAM]:https://teams.microsoft.com/l/team/19%3aPIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1%40thread.tacv2/conversations?groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb
+## Plan A jest następujący
 
 ### 1.1. Cel
 
@@ -58,6 +52,12 @@ Szczegóły poniżej.
 - Harmonogram
 - Narzędzia
 - Organizacja pracy i zaliczanie
+
+Zapraszam i do zobaczenia/usłyszenia.
+
+[TEAM]:https://teams.microsoft.com/l/team/19%3aPIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1%40thread.tacv2/conversations?groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb
+
+## List do planistek
   
 Uprzejmie proszę o przekazanie wszystkim zainteresowanym informacji o możliwości samodzielnego zapisania się na kurs na WIKAMP
 

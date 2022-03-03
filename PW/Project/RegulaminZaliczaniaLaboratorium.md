@@ -8,9 +8,9 @@
 | 02      | Środowisko projektowe, praca w parach, testy jednostkowe, TDD (ang. test driven development), wprowadzenie do projektu |       |
 | 03      | Projekt (Omówienie projektu, środowisko)                                                                               |       |
 | 04-06   | [Projekt Etap-0][TworzenieRepozytorium]; Kontrola postępu prac, pytania, zaliczenie                                    |       |
-| 07-09   | [Projekt Etap-1][Etap1] Kontrola postępu prac, pytania, zaliczanie                                                              |       |
-| 10-12   | [Projekt Etap-2][Etap2] Kontrola postępu prac, pytania, zaliczanie                                                              |       |
-| 13-15   | [Projekt Etap-3][Etap3] Kontrola postępu prac, pytania, zaliczanie                                                              |       |
+| 07-09   | [Projekt Etap-1][Etap1] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
+| 10-12   | [Projekt Etap-2][Etap2] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
+| 13-15   | [Projekt Etap-3][Etap3] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
 
 [TworzenieRepozytorium]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102935
 [Etap1]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102936
