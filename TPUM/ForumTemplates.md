@@ -12,7 +12,9 @@
   - [`Zapraszam na seminarium środa 5 maja 2021 11:45`](#zapraszam-na-seminarium-środa-5-maja-2021-1145)
   - [Seminarium Agenda](#seminarium-agenda)
   - [Instrukcja dla uczestnika](#instrukcja-dla-uczestnika)
+- [Zaproszenie - Praca w parach - projekt W02](#zaproszenie---praca-w-parach---projekt-w02)
 - [`Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`](#seminarium-xx---zarejestrowane-zajęcia-i-aktywność-zostały-opublikowane)
+- [Podział na dwu osobowe zespoły robocze](#podział-na-dwu-osobowe-zespoły-robocze)
 - [Zadanie Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
 - [Aktualizacja listy uczestników kursu](#aktualizacja-listy-uczestników-kursu)
 - [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
@@ -95,7 +97,6 @@ Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urząd
 | PIN do aplikacji mobilnej |           ---------           |
 | Link dla uczestników      | [Wejdź jako uczestnik](a.b.c) |
 
-
 ### Seminarium Agenda
 
 - Temat 1
@@ -109,13 +110,25 @@ Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urząd
 1. W pokoju jest aktualnie uruchomiona poczekalnia która pozwala zweryfikować czy Państwa komputer spełnia wymogi platformy webinariów.
 1. Zalecamy, aby osoby uczestniczące w szkoleniu nie znajdowały się w jednym pomieszczeniu oraz jeśli to możliwe, stosowały słuchawki aby nie zakłócać sobie wzajemnie pracy.
   
+## Zaproszenie - Praca w parach - projekt W02
+
+Czekam na woluntariusz(kę)/(a), z którą popracujemy w parach. Wymagania: podstawowe umiejętności w zakresie "klikolandii" VS. Można zarobić 10 pkt. z aktywności.
+
 ## `Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`
 
-Zgodnie z obietnicą opublikowałem nagranie i plik aktywności z ostatniego seminarium w sekcji: [Zarejestrowane zajęcia 2021 Lato](https://ftims.edu.p.lodz.pl/course/view.php?id=1816#section-4).
+Zgodnie z obietnicą opublikowałem na stronie kursu plik aktywności z ostatniego seminarium. Niestety z powodów technicznych rezultaty Waszej aktywności opublikowałem z pewnym opóźnienie, za co przeprasza. W przyszłości proszę dać mi znać jeśli plik aktywności nie będzie opublikowany do czwartku w tygodniu, w którym mamy seminarium.
 
-Ponieważ są to pierwsze zajęcia, punkty za aktywność nie stanowią składowej oceny końcowej.
+Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu. Ponieważ są to pierwsze zajęcia, punkty za aktywność nie stanowią składowej oceny końcowej.
 
-Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu.
+## Podział na dwu osobowe zespoły robocze
+
+Przypominam, że każdy uczestnik kursu musi być członkiem 1 lub 2 osobowego zespołu. Korzystając z modułu [Przydział do zespołu](https://ftims.edu.p.lodz.pl/mod/choicegroup/view.php?id=103711) można dokonać wyboru zespołu. Z powodu pomyłki w konfiguracji moduł ten był zablokowany do tej pory. Bardzo proszę o możliwie szybkie uzupełnienie wyboru, co pozwoli uzyskać dostęp do innych modułów opublikowanych w przedmiocie.
+
+Proszę niezwłocznie informować o wszelkich nieprawidłowościach pracy infrastruktury. Preferowany sposób informowania to odpowiedz do tego wątku. 
+
+Jeśli ktoś nadal szuka pary do zespołu, to proszę o tym nadmienić w odpowiedzi do tego wątku. Natomiast, wszelkie propozycje proszę współpracy proszę kierować na prywatny czat.  
+
+**UWAGA:** Ta aktywność zostanie zamknięta przed trzecimi zajęciami.
 
 ## Zadanie Tworzenie repozytorium
 

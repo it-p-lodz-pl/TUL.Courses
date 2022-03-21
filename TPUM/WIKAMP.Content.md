@@ -12,6 +12,8 @@
 - [Wykład](#wykład)
   - [Streszczenie](#streszczenie)
   - [Tematyka](#tematyka)
+  - [Aktywność](#aktywność)
+  - [Raporty aktywności (folder)](#raporty-aktywności-folder)
   - [Seminarium aktywność](#seminarium-aktywność)
   - [Kolokwium (test)](#kolokwium-test)
 - [Projekt](#projekt)
@@ -24,13 +26,13 @@
     - [Projekt Etap 0 - lista kontrolna (Plik)](#projekt-etap-0---lista-kontrolna-plik)
   - [Projekt Etap 1-interaktywna/reaktywne programowanie](#projekt-etap-1-interaktywnareaktywne-programowanie)
     - [Projekt Etap 1 - Opis (strona)](#projekt-etap-1---opis-strona)
-    - [Projekt-Etap 1 - Lista kontrolna (plik)](#projekt-etap-1---lista-kontrolna-plik)
+    - [Projekt-Etap 1 - Lista kontrolna (strona)](#projekt-etap-1---lista-kontrolna-strona)
   - [Projekt-Etap 2 - interaktywna/reaktywna komunikacja](#projekt-etap-2---interaktywnareaktywna-komunikacja)
     - [Projekt Etap 2 - Opis (strona)](#projekt-etap-2---opis-strona)
-    - [Projekt-Etap 2 - Lista kontrolna (plik)](#projekt-etap-2---lista-kontrolna-plik)
+    - [Projekt-Etap 2 - Lista kontrolna (strona)](#projekt-etap-2---lista-kontrolna-strona)
   - [Projekt-Etap 3-aplikacja mobilna (rozproszona)](#projekt-etap-3-aplikacja-mobilna-rozproszona)
     - [Projekt-Etap 3 - Opis (strona)](#projekt-etap-3---opis-strona)
-    - [Projekt-Etap 3 - Lista kontrolna (plik)](#projekt-etap-3---lista-kontrolna-plik)
+    - [Projekt-Etap 3 - Lista kontrolna (strona)](#projekt-etap-3---lista-kontrolna-strona)
 - [Zarejestrowane zajęcia (yyyy)](#zarejestrowane-zajęcia-yyyy)
   - [Streszczenie - zarejestrowane zajęcia](#streszczenie---zarejestrowane-zajęcia)
     - [Opis lekcji zdalnej (strona)](#opis-lekcji-zdalnej-strona)
@@ -89,6 +91,16 @@ Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji 
 
 `TPUM\WwykładProgram.md`
 
+### Aktywność
+
+Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Punkty te doliczane są do oceny końcowej.
+
+- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium obliczyć samodzielnie na podstawie opublikowanych raportów
+- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
+- **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
+
+### Raporty aktywności (folder)
+
 ### Seminarium aktywność
 
 Zdobyte punkt proszę  wpisywać w kolejne komentarze niezwłocznie, ale nie później niż do następnych zajęć.
@@ -136,7 +148,7 @@ Każdy uczestnik kursu musi być członkiem 1 lub 2 osobowego zespołu. Korzysta
 
 ### Wybór grupy projektowej (wybór grupy)
 
-Z uwagi na zmianę ilości grup projektowy musimy dokonać podziału na grupy. Bardzo proszę o zapisywanie się z uwzględnieniem zespołów roboczych.
+Musimy dokonać podziału na grupy. Bardzo proszę o zapisywanie się z uwzględnieniem zespołów roboczych.
 
 ### Projekt Etap 0 - Tworzenie repozytorium
 
@@ -162,7 +174,7 @@ plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
 - `TPUM\Project\Etap1-InteraktywnaRreaktywneProgramowanie.md`
 
-#### Projekt-Etap 1 - Lista kontrolna (plik)
+#### Projekt-Etap 1 - Lista kontrolna (strona)
 
 - `TPUM\Project\Etap1-CheckList.md`
 
@@ -172,7 +184,7 @@ plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
 - `TPUM\Project\Etap2-InteraktywnaRreaktywnaKomunikacja.md`
 
-#### Projekt-Etap 2 - Lista kontrolna (plik)
+#### Projekt-Etap 2 - Lista kontrolna (strona)
 
 - `TPUM\Project\Etap2-CheckList.md`
 
@@ -180,7 +192,9 @@ plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
 #### Projekt-Etap 3 - Opis (strona)
 
-#### Projekt-Etap 3 - Lista kontrolna (plik)
+#### Projekt-Etap 3 - Lista kontrolna (strona)
+
+- `TPUM\Project\Etap3-AplikacjaMobilnaListKontrolna.md`
 
 ## Zarejestrowane zajęcia (yyyy)
 

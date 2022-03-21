@@ -1,5 +1,6 @@
-# Projekt Etap 3 List Kontrolna
+# Project Stage 3 Checklist
 
+``` txt
 - [ ] program jest w .NET
 - [ ] program się kompiluje
 - [ ] testy jednostkowe na zielono
@@ -14,3 +15,4 @@
 - [ ] Oba programy korzystają ze wspólnego modelu obiektowego
 - [ ] Opracowano model wymiany danych z wykorzystaniem OPC UA
 - [ ] Harmonizacja modeli - wygenerowano ekwiwalentny model i porównano go z napisanym ręcznie
+```

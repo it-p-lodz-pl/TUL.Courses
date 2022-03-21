@@ -1,5 +1,6 @@
-# Etap 2 Checklist
+# Project Stage 2 Checklist
 
+``` txt
 - [ ] text is in C# and use .NET
 - [ ] build succeeded
 - [ ] all UT are green
@@ -13,3 +14,4 @@
 - [ ] Unit Test - layers are tested independently using abstract API
 - [ ] Dependency injection (additional framework is not required)
 - [ ] Mock is used for testing purpose (expected but not required)
+```
