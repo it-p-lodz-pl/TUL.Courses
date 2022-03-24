@@ -13,7 +13,7 @@
   - [Seminarium Agenda](#seminarium-agenda)
   - [Instrukcja dla uczestnika](#instrukcja-dla-uczestnika)
 - [Zaproszenie - Praca w parach - projekt W02](#zaproszenie---praca-w-parach---projekt-w02)
-- [`Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`](#seminarium-xx---zarejestrowane-zajęcia-i-aktywność-zostały-opublikowane)
+- [Seminarium XX - Raport aktywności został opublikowany](#seminarium-xx---raport-aktywności-został-opublikowany)
 - [Podział na dwu osobowe zespoły robocze](#podział-na-dwu-osobowe-zespoły-robocze)
 - [Zadanie Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
 - [Aktualizacja listy uczestników kursu](#aktualizacja-listy-uczestników-kursu)
@@ -114,7 +114,7 @@ Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urząd
 
 Czekam na woluntariusz(kę)/(a), z którą popracujemy w parach. Wymagania: podstawowe umiejętności w zakresie "klikolandii" VS. Można zarobić 10 pkt. z aktywności.
 
-## `Seminarium XX - Zarejestrowane zajęcia i aktywność zostały opublikowane`
+## Seminarium XX - Raport aktywności został opublikowany
 
 Zgodnie z obietnicą opublikowałem na stronie kursu plik aktywności z ostatniego seminarium. Niestety z powodów technicznych rezultaty Waszej aktywności opublikowałem z pewnym opóźnienie, za co przeprasza. W przyszłości proszę dać mi znać jeśli plik aktywności nie będzie opublikowany do czwartku w tygodniu, w którym mamy seminarium.
 
