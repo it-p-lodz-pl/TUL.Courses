@@ -86,6 +86,7 @@ and submit the task.
 ### Seminar Activity Q/A (Files folder)
 
 - Seminar activity files containing questions and accepted answers
+- `\date\ Lesson xx \<title\>.xlsx`
 
 ### Activity scores reporting (page)
 

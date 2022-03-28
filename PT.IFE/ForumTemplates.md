@@ -8,10 +8,11 @@
   - [Instruction for visitors](#instruction-for-visitors)
   - [Version 2](#version-2)
 - [Enrolment message on forum](#enrolment-message-on-forum)
-  - [Forum](#forum)
+- [Late enrolment](#late-enrolment)
+- [Forum](#forum)
 - [Task 1 Check list publication](#task-1-check-list-publication)
 - [Lab - Alternative Path](#lab---alternative-path)
-- [I have just published the last lecture recording and activity](#i-have-just-published-the-last-lecture-recording-and-activity)
+- [I have just published reviewed last seminar chat activity (Q/A)](#i-have-just-published-reviewed-last-seminar-chat-activity-qa)
   - [NOTE](#note)
   - [How to improve your correctness](#how-to-improve-your-correctness)
 - [Lab Time Slot Reservation](#lab-time-slot-reservation)
@@ -67,7 +68,25 @@ I am open to any questions or proposals you may have. Contact me on Teams or by 
 
 Good luck!!
 
-### Forum
+## Late enrolment
+
+🤝🏻Hello,
+
+It is possible to enroll in the course as an Erasmus student, but it is late enrolment and probably needs an individual schedule. To enroll follow the procedure
+
+1. Read carefully about scope, goal, and rules of assessment before making a final decision. Access to the course landing page is open for guests [Programming Technologies](https://ife.edu.p.lodz.pl/course/view.php?id=224).
+1. After login into the WIKAMP enroll in the course at [Programming Technologies](https://ife.edu.p.lodz.pl/course/view.php?id=224). The key to enrolling is PT.
+1. You must also enroll to the our team on MS Teams. Instruction hot to get starred is at the top of landing page of the course.
+1. Read carefully the documents provided on this page and join the appropriate project group using the module Laboratory group selection. You may advertise your willingness to find someone to make a team using the entry on Teams at: [Pairs selection](https://teams.microsoft.com/l/message/19:AUB8jKBn0SgWb7LuqrHCc6otW_wehGEOQ9F80Bpt1uU1@thread.tacv2/1646841286339?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=671706ef-d5ee-40b7-8bdb-0346cf339d2a&parentMessageId=1646841286339&teamName=22-Programming%20Technologies&channelName=General&createdTime=1646841286339).
+1. It is possible to adjust deadlines for you in advance - send me a proposal to follow up provided you need to modify them, otherwise let me keep them intact. It must be done in advance.
+1. Please join the current team on Teams: 22-Programming. Instruction is at the top of the course working space.
+1. You must accomplish the task 0 – read carefully assessment rules. Again, because of your late enrollment I can consider your proposal to change the schedule for you, but I must get your proposal ASAP. 
+
+In case of problem or questions, you may have I can organize a consultancy meeting 😊 on Teams.
+
+Good luck and keep me informed.
+
+## Forum
 
 I have been asked by the University Authority to harmonize the schedule with the current situation, and especially the late enrolment of some course members. I agree with that so I decided to postpone the deadline for Task 1 from lesson 5 (10-11-2020) to lesson 6 (17-11-2020).
 
@@ -97,9 +116,9 @@ I will ask for information as soon as possible because the task needs to be prep
 
 Contact me by email or on the Teams platform.
 
-## I have just published the last lecture recording and activity
+## I have just published reviewed last seminar chat activity (Q/A)
 
-Let me inform you that I have just published the last lecture outcomes. They are available in the section [Recordings 2021 Summer](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3). This section contains lecture recordings and also files with the corrected Q/A dialog on chat. This time I have left more answers associated with one question, but your activity for this lecture shall not be considered to report activity points. Take it easy. The next ones will be more serious.
+Let me inform you that I have just published the last lecture outcomes. This time I have left more answers associated with one question, but your activity for this lecture shall not be considered to report activity points. Take it easy. The next ones will be more serious.
 
 ### NOTE
 
