@@ -83,3 +83,5 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 ## Lista źródeł
 
 Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
+
+- [Elastic collisions; Wikipedia](https://en.wikipedia.org/wiki/Elastic_collision)

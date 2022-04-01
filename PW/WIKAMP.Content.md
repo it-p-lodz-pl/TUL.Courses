@@ -26,7 +26,7 @@
   - [Folder Aktywność - Q/A podsumowanie](#folder-aktywność---qa-podsumowanie)
   - [Aktywność zasady](#aktywność-zasady)
 - [Materiały pomocnicze](#materiały-pomocnicze)
-  - [Programowanie rozproszone](#programowanie-rozproszone)
+  - [Inżynieria oprogramowania](#inżynieria-oprogramowania)
   - [Testowanie](#testowanie)
   - [Narzędzia](#narzędzia)
 
@@ -108,7 +108,7 @@ SUMA = n
 
 - Szczegóły oceniania w [Regulamin zaliczania laboratorium](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=102579)
 - Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
-- data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
+- data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć parzyste/nieparzyste`
 - zadania postawione w **wersji roboczej** nie będą traktowane jako skutecznie zgłoszone
 
 ### ZADANIE Tworzenie repozytorium
@@ -163,17 +163,8 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ## Materiały pomocnicze
 
-### Programowanie rozproszone
+### Inżynieria oprogramowania
 
-- Udemy kurs
-- ResearchGate
-- MPostol na GitHub
-- Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
-- Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
-  - Postół M. (2020) [Object-Oriented Internet Reactive Interoperability](https://www.researchgate.net/publication/341882427_Object-Oriented_Internet_Reactive_Interoperability), presentation, DOI: 10.13140/RG.2.2.33984.56323
-- Mariusz Postol, [Machine to Machine Semantic-Data Based Communication: Comprehensive Survey](https://www.researchgate.net/publication/341165347_Machine_to_Machine_Semantic-Data_Based_Communication_Comprehensive_Survey) chapter in book [Computer Game Innovations 2018](https://www.researchgate.net/publication/335524620_Computer_Game_Innovations_2018), Publisher: Lodz University of Technology Press; ISBN: 978-83-7283-999-2 (open access)
-- [OPC UA Makes Reactive Object Oriented Internet Possible][wordpress.ReactiveOOI] (open access)
-- [IoT versus SCADA/DCS Data Acquisition Patterns][wordpress.IoTVersus] (open access)
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
   - Dane proste
   - Dane złożone
@@ -182,13 +173,13 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
   - Dane Graficzne
   - Dane strumieniowe (XML, JSON)
   - Bazy danych
-- [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
+- [MPostol na GitHub](https://github.com/mpostol?tab=projects)
 - [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
+- [MPostol na Udemy kurs](https://www.udemy.com/user/mariusz-postol/)
+- [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
   - C# in Practice - set of C# examples targeting education purpose
-- [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
 - [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
-- [Semantic-Data Processing Architecture](https://commsvr.gitbook.io/ooi/semantic-data-processing/semanticdata)
-- [Przykładowa implementacja repliki procesu - symulator boilerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
+- [MPostol na ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
 
 ### Testowanie
 
