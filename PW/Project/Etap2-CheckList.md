@@ -1,14 +1,21 @@
 # Etap 2 Checklist
 
-- [ ] text is in C# and use .NET
-- [ ] build succeeded
-- [ ] all UT are green
-- [ ] layers are clearly stated using language terms only
-- [ ] `Data` API is abstract and contains object model representing process data
-- [ ] prove that the data integration is implemented.
-- [ ] `Logic` uses only the abstract `Data` layer API
-- [ ] Communication between the client and the server should be made using the `Web Socket`
-- [ ] reactive and interactive communication are used
-- [ ] Unit Test - layers are tested independently using abstract API
-- [ ] Dependency injection (additional framework is not required)
-- [ ] Mock is used for testing purpose (expected but not required)
+- [ ] **Starting point**
+  - [ ] all UT are green
+  - [ ] the program behaves as expected (intermediate approval test)
+- [ ] **Data Layer**
+  - [ ] responsibility of this layer is to represent boundaries of the movement rectangle and balls
+  - [ ] balls representation are independent and self-contained (no timer required)
+  - [ ] balls implementation uses parallel programming if applicable (depends on the run time platform)
+- [ ] **Logic Layer**
+  - [ ] responsibility of this layer is to manage movement rectangle boundaries and balls interaction (collisions)
+  - [ ] prove that the protection  of data integration is implemented
+  - [ ] `Logic` uses only the abstract `Data` layer API
+- [ ] **Presentation Layer (mvvm)**
+  - [ ] responsibility of this layer is to manage the graphical user interface (GUI)
+  - [ ] user => GUI interoperability must be implemented using interactive programming only
+  - [ ] GUI => the user interoperability must be implemented using reactive programming only (timer is not allowed)
+  - [ ] interoperability of the GUI and underlying layers must be synchronized
+- [ ] **Testing**
+  - [ ] Unit Test - layers are tested independently using dependency injection (additional framework is not required)
+  - [ ] Mock may be used for testing purpose (expected but not required)

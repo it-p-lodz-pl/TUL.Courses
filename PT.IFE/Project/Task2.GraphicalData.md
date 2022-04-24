@@ -57,9 +57,9 @@ The interface besides displaying the data must allow for its editing at any leve
 
 ## Guidelines for implementation
 
-The implementation of the task should take into account the recommendations defined by the programmers of Microsoft (Patterns & Practices), as well as good software development practices. More information on this subject can be found in the Suplementary materials section. In particular it should:
+The implementation of the task should take into account the recommendations defined by the programmers of Microsoft (Patterns & Practices), as well as good software development practices. More information on this subject can be found in the Supplementary materials section. In particular it should:
 
-- Keep transparency of code implementation and segregation, i.a. by using the `Models`, `Views` and ViewModel folders.
+- Keep transparency of code implementation and segregation, e.g. by using the `Models`, `Views` and ViewModel folders.
 
 *Database* operations, as potentially time-consuming, should not be executed in a way that would block a GUI which could cause a lack of interaction with the user. Hence, it is recommended to use asynchronous command execution, for example by using the `Task` class (i.e. *Task-based Asynchronous Pattern* for read and write operations in the database. The following example shows how this problem can be solved.
 
@@ -74,10 +74,10 @@ void LongOperation() {
 ``` C#
 // Implementation of ICommand
 void Execute() {
-  // zle
+  // wrong
   LongOperation();
 
-  // dobrze
+  // correct
   Task.Run(() => {
     LongOperation();
   });

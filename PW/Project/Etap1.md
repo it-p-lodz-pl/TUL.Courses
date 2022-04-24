@@ -19,9 +19,9 @@ Celem tego etapu jest praktyczne zastosowanie:
 
 ## Opis zadania
 
-W tym etapie kule poruszają się po ograniczonej płaszczyźnie, ale nie oddziaływają między sabą i ze ściankami ograniczającymi. Kule poruszają się według trajektorii określonej przez generator pseudolosowy, tzn. jedynym warunkiem na określenie ich następnego położenia jest to, aby nadal znajdowały się wewnątrz ograniczonej płaszczyzny. Na ekranie kula może być wizualizowana jako okrąg. Ruch powinien byc płynny. Należy umożliwić wprowadzenie przez użytkownika początkowej liczby kul poprzez umieszczenie odpowiednich kontrolek na ekranie (GUI). Początkowe położenie kul na płaszczyźnie jest losowe.
+W tym etapie kule poruszają się po ograniczonej płaszczyźnie, ale nie oddziaływają między sambą i ze ściankami ograniczającymi. Kule poruszają się według trajektorii określonej przez generator pseudolosowy, tzn. jedynym warunkiem na określenie ich następnego położenia jest to, aby nadal znajdowały się wewnątrz ograniczonej płaszczyzny. Na ekranie kula może być wizualizowana jako okrąg. Ruch powinien być płynny. Należy umożliwić wprowadzenie przez użytkownika początkowej liczby kul poprzez umieszczenie odpowiednich kontrolek na ekranie (GUI). Początkowe położenie kul na płaszczyźnie jest losowe.
 
-Opracować program z wykorzystaniem technologi .NET, który będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`, więc w architekturze programu należy **wyraźnie** wydzielić następujące warstwy:
+Opracować program z wykorzystaniem technologii .NET, który będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`, więc w architekturze programu należy **wyraźnie** wydzielić następujące warstwy:
 
 - `Dane` - zarządzanie danymi
 - `Logika` - usługi realizujące funkcjonalność dedykowaną dla wybranego procesu biznesowego
@@ -67,7 +67,7 @@ Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (imple
 Dodatkowe informacje ułatwiające wykonanie zadania:
 
 - Warstwy `Model`, `ViewModel`, `Dane` i `Logika` powinna być zrealizowana w technologii `.NET Standard`.
-- Warstwę `View` powinna byc zrealizowana w technologii `WPF`.
+- Warstwę `View` powinna być zrealizowana w technologii `WPF`.
 - Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie.
 - Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne.
 - Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`.
