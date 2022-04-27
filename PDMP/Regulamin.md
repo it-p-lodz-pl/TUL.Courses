@@ -1,18 +1,15 @@
-# Komunikacja
+# Zasady współdziałania z promotorem
 
-1. Oficjalnie do komunikacji używamy `WIKAMP` lub `ZIMBRA`
+## Komunikacja
+
+1. Oficjalnie do komunikacji używamy `WIKAMP` lub pocztę uczelnianą (mariusz.postol@p.lodz.pl)
 2. Kroki milowe w tworzeniu oprogramowania zgłaszanie w module [..]. Do zgłoszenia trzeba dołączyć raport jako tekst zwrotny i załączyć plik logu potwierdzający realizację wybranej funkcjonalności  
-2. Kroki milowe 
 
-## Nazwy dokumentów #
+## Nazwy dokumentów
 
 Bardzo poproszę, aby wszystkie dokumenty zgłaszane do recenzji miały nazwa utworzone wg następujących formatów:
 
-### Praca dyplomowa:
-
-Nazwa dokumentu musi być zgodna ze składnią:
-
-`DyplomNazwaPliku = AaliasTenatu"."Autor"."Wersja` 
+`DyplomNazwaPliku = AaliasTenatu"."Autor"."Wersja`
 
 
 - `AaliasTenatu`: krótki max 8 znaków skrót nazwy, który powinien być wykorzystywany;
@@ -23,6 +20,11 @@ Nazwa dokumentu musi być zgodna ze składnią:
 
 > Od momentu powstania dokument pracy może jedynie zmieniać element `Wersja` i wolno zgłaszać jedynie pojedyncze dokumenty - aktualną wersję. Poprzednie są archiwizowane na `Wikamp` i zawsze do nich można wrócić.
 
+## Dokument końcowy
+
+1. Wersjonowanie nazwy pliku pracy
+2. Format dokumentu
+
 ### Dokumenty z danymi diagnostycznym (plik log'u)
 
 Nazwa dokumentu musi być zgodna ze składnią:
@@ -32,13 +34,7 @@ Nazwa dokumentu musi być zgodna ze składnią:
 - `AssemblyName` - nazwa wpisana do projektu VS
 - `Wersja` - j.w.
 
-# Praca nad kodem #
+## Praca nad kodem
 
 1. Wątki (ang. Issue) zamyka osoba zgłaszająca. 
 2. Po zakończeniu prac na wątkiem lub konieczność uzyskania informacji zwrotnej wątek musi być przypisany do promotora. 
-
-# Praca nad pracą #
-
-1. Wersjonowanie nazwy pliku pracy
-2. Format dokumentu 
-
