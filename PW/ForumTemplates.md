@@ -19,6 +19,7 @@
 - [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
 - [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
   - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
+  - [Lista Kontrolna Projekt Etap 2](#lista-kontrolna-projekt-etap-2)
   - [Przypominam o terminie zgłoszenia](#przypominam-o-terminie-zgłoszenia)
 - [Podsumowanie punktów za aktywność](#podsumowanie-punktów-za-aktywność)
 - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
@@ -141,6 +142,10 @@ Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1](https://a.b.c), kt
 ### Informacja o publikacji Projekt - zadanie etap 2
 
 Waśnie opublikowałem [Projekt - zadanie etap 2](https://a.b.c). To fakultatywne zadanie pozwoli zbliżyć się do rozwiązani wymaganego do zaliczenia przedmiotu, więc zachęcam to jego realizacji i przejścia procedury zaliczającej. Szczegóły w opisie. Na najbliższych zajęciach w czwartek postaram się omówić jego treść.
+
+### Lista Kontrolna Projekt Etap 2
+
+Nie wiem czy wszyscy odnotowali, że opublikowałem listę kontrolną do kolejnego etapu projektu.  Na razie opublikowałem ja na [Teams](https://teams.microsoft.com/l/message/19:PIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1@thread.tacv2/1650796807949?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&parentMessageId=1650796807949&teamName=22-Programowanie%20Wsp%C3%B3%C5%82bie%C5%BCne&channelName=General&createdTime=1650796807949) i zachęcam do dyskusji.
 
 ### Przypominam o terminie zgłoszenia
 
