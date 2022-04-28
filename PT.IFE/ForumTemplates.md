@@ -15,8 +15,8 @@
 - [I have just published reviewed last seminar chat activity (Q/A)](#i-have-just-published-reviewed-last-seminar-chat-activity-qa)
   - [NOTE](#note)
   - [How to improve your correctness](#how-to-improve-your-correctness)
-- [Project](#project)
-- [Project Grading Process - Additional Explanation](#project-grading-process---additional-explanation)
+- [Lab announcements](#lab-announcements)
+  - [Project Grading Process - Additional Explanation](#project-grading-process---additional-explanation)
   - [Lab Time Slot Reservation](#lab-time-slot-reservation)
 - [Repository Creation Task](#repository-creation-task)
 - [Final grades](#final-grades)
@@ -134,9 +134,9 @@ Let me inform you that I have just published the last lecture outcomes. This tim
 2. Use an unambiguous ("measurable" ) description that allows the creation of a condition to distinguish if something is true or not, e.g. how to distinguish if two items are tightly or loosely coupled.
 3. Take care to distinguish the software life cycles, i.e. talk about classes in the context of software development, talk about objects (instances of the classes) in the context of program execution.
 
-## Project
+## Lab announcements
 
-## Project Grading Process - Additional Explanation
+### Project Grading Process - Additional Explanation
 
 From the emails, I got the topic seems not clear, so again. Grading is possible only during regular lessons (lessons in timetable). Consultancy as the name says is to consult your problems, but not for grading your work. I would like to recall you that submission for grading is recognized as a declaration of finishing prototyping and readiness to defend your solution in front of the lab group. Therefore the submission data must be letter then last modification in your repository for the selected tag. In case you need to improve the code after submission you must ask me by email to revert the submission to the working status (that allows modifications of your submission) and another attempt. The sequence of grading is determined by the submission date - first submissions are first graded - it is like a FIFO scenario.
 

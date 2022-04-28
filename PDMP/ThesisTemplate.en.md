@@ -18,7 +18,9 @@
 
 The document contains guidelines for writing a thesis. This is only a template and, in justified cases, you can adjust it according to your own needs.
 
-I emphasize that the work will be checked in the context of possible plagiarism.
+I emphasize that your outcome will be checked in the context of possible plagiarism.
+
+The document was prepared by Mariusz Postół Ph.D. Eng. (<https://orcid.org/0000-0002-9669-0565>) and is maintained in the GitHub repository at: [`.\PDMP\ThesisTemplate.en.md`](https://github.com/it-p-lodz-pl/TUL.Curses/blob/master/PDMP/ThesisTemplate.en.md). Any contribution is welcome. Follow the rules of the repository.
 
 ## 1. Title page
 
@@ -54,7 +56,7 @@ Here, we describe as far as possible all the suggestions that will allow you to 
 **Examples of Chapter Contents**:
 
 - domain model - UML drawing showing the most important elements of the solution and allowing to define of basic terms
-- selected technologies - list the technologies, patterns, principles, etc. that are to be used to solve the problem of concern
+- selected technologies - list the technologies, patterns, principles, etc. that are to be used to solve the problem in concern
 - Thesis  - what the author wants to show
 
 ### 2.3. Scope od Project
@@ -69,7 +71,7 @@ In this chapter, use impersonal language or stress that the outcome is a contrib
 - relationships between components
 - applied unit tests
 - diagnostic functionality - implemented monitoring functions of the behavior
-- analysis of diagnostic data stored gathered during prototyping
+- analysis of diagnostic data gathered during prototyping
 - etc.
 
 ## 3. Research environment and tools
@@ -88,10 +90,9 @@ Here we describe our own solution in detail.
 
 ## 5. Conclusion
 
-- Provide a summary that:
+- Provide a summary that proves the thesis:
   - the goal was achieved,
-  - proof of the theses
-  - the scope of the proposed works was accomplished
+  - the scope of the proposed work was accomplished
 - Describe what next
   - describe how to improve the proposed solution
   - describe how to commercialize the proposed solution
@@ -99,7 +100,7 @@ Here we describe our own solution in detail.
 
 ## 6. References
 
-List of academic publications used as reference points and containing supplementary materials used by the author. It is important that the reference to the literature should contain information allowing to reach the indicated version of the publication at a later date. For example, providing the URL of a website and the date of access to it is not sufficient to reopen the same website later. Avoid referring to the marketing publications and not reviewed publications.
+List of academic publications used as reference points and containing supplementary materials used by the author. It is important that the reference to the literature should contain information allowing to reach the indicated version of the publication at a later date. For example, providing the URL of a website and the date of access to it is not sufficient to reopen the same website later. Avoid referring to the **marketing publications and not reviewed publications**.
 
 ## 7. Appendixes
 
