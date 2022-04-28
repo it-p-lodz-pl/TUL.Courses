@@ -15,11 +15,13 @@
 - [I have just published reviewed last seminar chat activity (Q/A)](#i-have-just-published-reviewed-last-seminar-chat-activity-qa)
   - [NOTE](#note)
   - [How to improve your correctness](#how-to-improve-your-correctness)
-- [Lab Time Slot Reservation](#lab-time-slot-reservation)
+- [Project](#project)
+- [Project Grading Process - Additional Explanation](#project-grading-process---additional-explanation)
+  - [Lab Time Slot Reservation](#lab-time-slot-reservation)
 - [Repository Creation Task](#repository-creation-task)
-- [Activity points final summary](#activity-points-final-summary)
 - [Final grades](#final-grades)
-- [Good luck](#good-luck)
+  - [Activity points final summary](#activity-points-final-summary)
+  - [Final grades published](#final-grades-published)
 
 ## Seminar invitation
 
@@ -132,7 +134,15 @@ Let me inform you that I have just published the last lecture outcomes. This tim
 2. Use an unambiguous ("measurable" ) description that allows the creation of a condition to distinguish if something is true or not, e.g. how to distinguish if two items are tightly or loosely coupled.
 3. Take care to distinguish the software life cycles, i.e. talk about classes in the context of software development, talk about objects (instances of the classes) in the context of program execution.
 
-## Lab Time Slot Reservation
+## Project
+
+## Project Grading Process - Additional Explanation
+
+From the emails, I got the topic seems not clear, so again. Grading is possible only during regular lessons (lessons in timetable). Consultancy as the name says is to consult your problems, but not for grading your work. I would like to recall you that submission for grading is recognized as a declaration of finishing prototyping and readiness to defend your solution in front of the lab group. Therefore the submission data must be letter then last modification in your repository for the selected tag. In case you need to improve the code after submission you must ask me by email to revert the submission to the working status (that allows modifications of your submission) and another attempt. The sequence of grading is determined by the submission date - first submissions are first graded - it is like a FIFO scenario.
+
+Because we are using tags as a snapshot of submitted for grading work there is no need to wait for grading to commence work on the next task. I expect that the work is conducted simultaneously if needed. In other words, the late grading is not an excuse to postpone the submission of the next task.
+
+### Lab Time Slot Reservation
 
 I would like to invite you to a remote Laboratory class as part of the course **Programming Technologies**. Laboratory classes are conducted on the Teams platform.
 
@@ -146,7 +156,9 @@ According to the curse rules all group members have to use the personal GitHub r
 
 - **NOTE: It doesn't contribute to the final curse grade but failure to report the completion of the task up to the 6th week of classes is considered a resignation from completing the course**.
 
-## Activity points final summary
+## Final grades
+
+### Activity points final summary
 
 It was the last opportunity to gather activity points. Provide the total in the online text window using the following template:
 
@@ -154,7 +166,7 @@ It was the last opportunity to gather activity points. Provide the total in the 
 
 and submit the task as soon as possible but not later than Sunday, 27 June 2021, 12:00 AM.
 
-## Final grades
+### Final grades published
 
 Hi All,
 
@@ -174,9 +186,9 @@ To be in touch please join the Gitter chat
 
 Contact me in any case you will have questions.
 
-Thank you very much for your engagement. I believe the effort will be rewarded in your real life. 
+Thank you very much for your engagement. I believe the effort will be rewarded in your real life.
 
-## Good luck
+**Good luck**:
 
 - Mariusz Postół Ph. D.
 - Institute of Information Technology
