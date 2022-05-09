@@ -20,8 +20,8 @@
 - [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
   - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
   - [Lista Kontrolna Projekt Etap 2](#lista-kontrolna-projekt-etap-2)
-  - [Przypominam o terminie zgłoszenia](#przypominam-o-terminie-zgłoszenia)
-- [Podsumowanie punktów za aktywność](#podsumowanie-punktów-za-aktywność)
+- [Repozytorium TP](#repozytorium-tp)
+  - [Nowe wpisy w zakładce 'Discussions'](#nowe-wpisy-w-zakładce-discussions)
 - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
 - [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
 - [Wakacje czas zacząć](#wakacje-czas-zacząć)
@@ -147,21 +147,17 @@ Waśnie opublikowałem [Projekt - zadanie etap 2](https://a.b.c). To fakultatywn
 
 Nie wiem czy wszyscy odnotowali, że opublikowałem listę kontrolną do kolejnego etapu projektu.  Na razie opublikowałem ja na [Teams](https://teams.microsoft.com/l/message/19:PIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1@thread.tacv2/1650796807949?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&parentMessageId=1650796807949&teamName=22-Programowanie%20Wsp%C3%B3%C5%82bie%C5%BCne&channelName=General&createdTime=1650796807949) i zachęcam do dyskusji.
 
-### Przypominam o terminie zgłoszenia
+## Repozytorium TP
 
-Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://ftims.edu.p.lodz.pl/mod/reservation/view.php?id=75159). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
+### Nowe wpisy w zakładce 'Discussions'
 
-## Podsumowanie punktów za aktywność
+Zgodnie z obietnicą, aby wspierać podejście "zaliczenie bez spiny", cały czas pracuję nad przykładami, które ułatwią - mam nadzieję - realizację projektu. Aktualnie przykłady i ogólny opis znajdziecie w folderze 'ConcurrentProgramming` repozytorium [Tp](https://github.com/mpostol/TP). W zakładce 'Discussions' umieściłem też nowe wpisy związane z porządkowaniem terminologii i mam prośbę o ewentualne komentarze, propozycje. Szczególnie cenne będą przykłady programów lub dostępnych publikacji, do których zaproponowane krótkie definicje/opisy nie pasują. Inaczej, poproszę o konstruktywną dyskusję. Jeśli ktoś ma swój temat wymagający wyjaśnienia to, proszę go zgłosić. Proszę pamiętać, że repozytorium jest publiczne i ma licznych użytkowników/studentów \([np. udemy.com](https://www.udemy.com/user/mariusz-postol/)\) z całego świat, więc poproszę o wpisy w języku en. Niech zachętą (motywacją) do podjęcia współdziałania będzie to, że ślad waszego udziału pozostanie w repozytorium do końca świata i można się będzie do niego odwołać jako praktyczne doświadczenie w swoim CV.
 
-Przypominam o konieczności podsumowania punktów otrzymanych za aktywność. Proszę podsumować punkty i ich sumę wpisać w pole tekstowe w formacie
+Prace trwają i trwać będą, więc jeśli chcesz być na bieżąco, zachęcam do wciśnięcia klawisza `Watch`. Jeśli treści były dla ciebie przydatne, zachęcam do wciśnięcia klawisza `Starred`. Jeśli masz pomysł na zamiany w treści przykładów, to postępuj zgodnie z: (a)`Fork`, (b)dokonaj zmian, (c) zaproponuj zamiany przez pr albo dokonaj wpisu w dyskusji. Jednak wcześniej poproszę o kontakt w celu omówienia propozycji i sposobu jej wdrożenia. Propozycje muszą mieć dydaktyczny charakter.
 
-```TXT
+Przypominam, że jako studenci tego semestru macie prawo to korzystania z moich konsultacji - to nie będzie trwało wiecznie 😁 (21-06-2022 już wkrótce). 
 
-SUMA = n
-
-```
-
-Po wpisaniu wszystkich punktów proszę zgłosić zadanie do sprawdzenia.
+W kontakcie.
 
 ## Rozliczenia czas zacząć - terminy obligatoryjne
 
