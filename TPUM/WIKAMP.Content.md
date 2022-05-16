@@ -275,6 +275,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [Address Space Model Designer (ASMD)](https://github.com/mpostol/ASMD#-address-space-model-designer-asmd)
 - [Address Space Model Designer OnLine Help](https://commsvr-com.github.io/Documentation/ModelDesigner/html/a2d55988-b59a-4a87-95b9-933f6bbdf5bd.htm)
 - [Address Space Prototyping Tool (asp.exe)](https://commsvr.gitbook.io/ooi/semantic-data-processing/addressspacecompliancetesttool)
+- [OPC UA Information Model Compiler](https://github.com/mpostol/UA-ModelCompiler#opc-ua-information-model-compiler-)
 - [Walk-through ReferenceApplication](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/ReferenceApplication#walk-through-referenceapplication)
 - [XML => YAML](https://codebeautify.org/xml-to-yaml#)
 - [JSON => YAML,XML, CSV](https://jsonformatter.org/)
