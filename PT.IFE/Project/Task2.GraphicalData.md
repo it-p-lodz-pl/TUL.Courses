@@ -1,5 +1,5 @@
 
-# Task 2 – Graphical Data Description
+# Task 2 – Graphical and structural Data
 
 ## Aims
 
@@ -26,13 +26,14 @@ The following layers should be clearly identified (they are described in detail 
 
 ### Data layer
 
-As the process data repository the SQL database should be used and the types responsible for interaction with this database should be defined using LINQ to SQL. Where necessary, the functionality offered by these types should be extended.
+- As the process data repository the SQL database should be used and the types responsible for interaction with this database should be defined using LINQ to SQL. 
+- Where necessary, the functionality offered by these types should be extended.
+- This layer should also provide the public API and hide the details of the implementation, e.g. the need to create a `DataContext`
 
 ### Services layer
 
 - Classes responsible for processing of the data stored in the database must be implemented as a separate layer
 - During the implementation of services it is necessary to provide functionality that allows to create, read, update and delete the entities (in short `CRUD`) from the database
-- This layer should also provide the public API and hide the details of the implementation, e.g. the need to create a `DataContext`
 - This layer must be implemented as a separate project
 
 ### Presentation layer
