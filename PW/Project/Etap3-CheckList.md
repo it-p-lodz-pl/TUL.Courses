@@ -1,16 +1,26 @@
-# Projekt Aplikacja Mobilna List Kontrolna
+# Project Stage 3 Checklist
 
-- [ ] program jest w .NET
-- [ ] program się kompiluje
-- [ ] testy jednostkowe na zielono
-- [ ] można utworzyć jednocześnie dwie instancje programu (dwa procesy)
-- [ ] instancje serwera i klienta współdziałają (test integracyjny)
-- [ ] Oba programy maja wymagane warstwy Prezentacja, Logika, Dane
-- [ ] Programy komunikują się z wykorzystaniem WebSocket
-- [ ] Oba programy korzystają ze wspólnego modelu obiektowego
-- [ ] Wykorzystano współdziałanie interaktywne
-- [ ] Wykorzystano współdziałanie reaktywne (samorzutne/subskrypcja) z wykorzystaniem mechanizmu subskrypcji zrealizowanej poprzez implementację IObservable
-- [ ] Wykorzystano serializacji z wykorzystaniem jednej ze składni składni `JSON`, `YAML`, `XML`
-- [ ] wydzielono sekcję krytyczną i zabezpieczono w niej spójność danych
-- [ ] Opracowano model wymiany danych z wykorzystaniem OPC UA
-- [ ] Harmonizacja modeli - wygenerowano ekwiwalentny model i porównano go z napisanym ręcznie
+- [ ] **Starting point**
+  - [ ] all UT are green
+  - [ ] the program behaves as expected (intermediate approval test)
+- [ ] **Data Layer**
+  - [ ] responsibility of this layer is
+    - [ ] to represent boundaries of the movement rectangle if necessary
+    - [ ] implement balls behavior as self-contained independent entities
+    - [ ] save diagnostic data to a file
+  - [ ] protect balls velocity against any influence from other balls and the environment behavior
+  - [ ] balls implementation uses parallel programming if applicable (depends on the run time platform)
+  - [ ] prove that the diagnostic logging doesn't have impact on the balls behavior
+- [ ] **Logic Layer**
+  - [ ] responsibility of this layer is to manage movement rectangle boundaries and balls interaction (collisions)
+  - [ ] prove that the protection of data (balls position on abstract table during collisions detection) integration is implemented
+  - [ ] `Logic` uses only the abstract `Data` layer API
+- [ ] **Presentation Layer (mvvm)**
+  - [ ] responsibility of this layer is to manage the graphical user interface (GUI)
+  - [ ] user => GUI interoperability must be implemented using interactive programming only
+  - [ ] GUI => the user interoperability must be implemented using reactive programming only (timer is not allowed)
+  - [ ] interoperability of the GUI and underlying layers must be synchronized
+  - [ ] prove that the protection of data (balls position on the screen) integration is implemented
+- [ ] **Testing**
+  - [ ] Unit Test - layers are tested independently using dependency injection (additional framework is not required)
+  - [ ] Mock may be used for testing purpose (expected but not required)

@@ -1,4 +1,4 @@
-# Etap 2 Checklist
+# Project Stage 2 Checklist
 
 - [ ] **Starting point**
   - [ ] all UT are green
