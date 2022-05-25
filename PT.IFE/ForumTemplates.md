@@ -7,18 +7,19 @@
   - [Agenda](#agenda)
   - [Instruction for visitors](#instruction-for-visitors)
   - [Version 2](#version-2)
-- [Enrolment message on forum](#enrolment-message-on-forum)
-- [Late enrolment](#late-enrolment)
-- [Forum](#forum)
-- [Task 1 Check list publication](#task-1-check-list-publication)
-- [Lab - Alternative Path](#lab---alternative-path)
-- [I have just published reviewed last seminar chat activity (Q/A)](#i-have-just-published-reviewed-last-seminar-chat-activity-qa)
-  - [NOTE](#note)
-  - [How to improve your correctness](#how-to-improve-your-correctness)
+- [Enrolment](#enrolment)
+  - [Invitation](#invitation)
+  - [Late enrolment](#late-enrolment)
+  - [Late enrollment schedule change](#late-enrollment-schedule-change)
 - [Lab announcements](#lab-announcements)
+  - [# Task 0 Check list Create Repository](#-task-0-check-list-create-repository)
+  - [Task 1 Check list publication](#task-1-check-list-publication)
+  - [Lab - Alternative Path](#lab---alternative-path)
+  - [I have just published reviewed last seminar chat activity (Q/A)](#i-have-just-published-reviewed-last-seminar-chat-activity-qa)
+    - [NOTE](#note)
+    - [How to improve your correctness](#how-to-improve-your-correctness)
   - [Project Grading Process - Additional Explanation](#project-grading-process---additional-explanation)
   - [Lab Time Slot Reservation](#lab-time-slot-reservation)
-- [Repository Creation Task](#repository-creation-task)
 - [Final grades](#final-grades)
   - [Activity points final summary](#activity-points-final-summary)
   - [Final grades published](#final-grades-published)
@@ -56,7 +57,9 @@ I would like to invite you to a remote project classes as part of the course **P
 
 - [14:45 Monday 1 March 2021Lecture class invitation](https://ife.edu.p.lodz.pl/mod/forum/discuss.php?d=3425#p4895)
 
-## Enrolment message on forum
+## Enrolment
+
+### Invitation
 
 Welcome to the Programming Technologies course!
 
@@ -70,7 +73,7 @@ I am open to any questions or proposals you may have. Contact me on Teams or by 
 
 Good luck!!
 
-## Late enrolment
+### Late enrolment
 
 🤝🏻Hello,
 
@@ -88,7 +91,7 @@ In case of problem or questions, you may have I can organize a consultancy meeti
 
 Good luck and keep me informed.
 
-## Forum
+### Late enrollment schedule change
 
 I have been asked by the University Authority to harmonize the schedule with the current situation, and especially the late enrolment of some course members. I agree with that so I decided to postpone the deadline for Task 1 from lesson 5 (10-11-2020) to lesson 6 (17-11-2020).
 
@@ -98,7 +101,15 @@ During the next laboratory, we will repeat the same agenda as for lesson 4, and 
 
 Contact me directly in any case questions or proposals you may have.
 
-## Task 1 Check list publication
+## Lab announcements
+
+### # Task 0 Check list Create Repository
+
+According to the curse rules all group members have to use the personal GitHub repository to share the source code. One repository per working group (a pair) is expected but **each course participant must complete this task**. The task evaluation doesn't contribute to the final course grade. Read carefully the description of the task [Create Repository](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=20097). The description contains a link to a video recorded already to provide a basic introduction. Submit the task as soon as possible.
+
+- **NOTE: It doesn't contribute to the final curse grade but failure to report the completion of the task up to the 6th week of classes is considered a resignation from completing the course**.
+
+### Task 1 Check list publication
 
 As I did promise today I have just published the file `Task 1 Check list.md` to help you apply self-assessment. Copy the content of this file to a new GitHub issue to get a list of tasks prefixed by checkboxes. You can use them to control the scope and progress of your work. Add an issue like that before the final code assessment. 
 BTW; let stress again. To accomplish Task 1 it is not required
@@ -108,7 +119,7 @@ BTW; let stress again. To accomplish Task 1 it is not required
 
 Anyway, using any external stuff is not required but possible. There is only one rule: if you are using something additional you must be prepared to explain how it works. Let me stress all requirements and all topics on the checklist are invariable.
 
-## Lab - Alternative Path
+### Lab - Alternative Path
 
 Referring to my promise regarding the possibility of implementing a more ambitious project, instead of task 2, I have a question:
 
@@ -118,29 +129,31 @@ I will ask for information as soon as possible because the task needs to be prep
 
 Contact me by email or on the Teams platform.
 
-## I have just published reviewed last seminar chat activity (Q/A)
+### I have just published reviewed last seminar chat activity (Q/A)
 
 Let me inform you that I have just published the last lecture outcomes. This time I have left more answers associated with one question, but your activity for this lecture shall not be considered to report activity points. Take it easy. The next ones will be more serious.
 
-### NOTE
+#### NOTE
 
 1. The list contains just acceptable answers. Most of them are not suitable to pass the final test. The list reflects your activity but not the correctness of your answers.
 1. During your workout assessment, you will have to prove that something is true without any doubts using only terms defined by the programming language (usually any programming language).
 1. Sometimes I may be wrong, so if you believe that your answer was correct but has been removed from the list don't hesitate and schedule a meeting with me to get more and review your answers.
 
-### How to improve your correctness
+#### How to improve your correctness
 
 1. Use only terms defined by the language (usually any programming language), e.g. set of methods/statements versus set of functionality, program execution versus computation, etc.
 2. Use an unambiguous ("measurable" ) description that allows the creation of a condition to distinguish if something is true or not, e.g. how to distinguish if two items are tightly or loosely coupled.
 3. Take care to distinguish the software life cycles, i.e. talk about classes in the context of software development, talk about objects (instances of the classes) in the context of program execution.
 
-## Lab announcements
-
 ### Project Grading Process - Additional Explanation
 
-From the emails, I got the topic seems not clear, so again. Grading is possible only during regular lessons (lessons in timetable). Consultancy as the name says is to consult your problems, but not for grading your work. I would like to recall you that submission for grading is recognized as a declaration of finishing prototyping and readiness to defend your solution in front of the lab group. Therefore the submission data must be letter then last modification in your repository for the selected tag. In case you need to improve the code after submission you must ask me by email to revert the submission to the working status (that allows modifications of your submission) and another attempt. The sequence of grading is determined by the submission date - first submissions are first graded - it is like a FIFO scenario.
+From the emails, I have got, it seems to me that the topic is not clear for all of you, so again. Grading is possible only during regular lessons (lessons in timetable). Consultancy as the name says is to consult your problems, but not for grading your work. I would like to recall you that submission for grading is recognized as a declaration of finishing prototyping and readiness to defend your solution in front of the lab group. Therefore the submission data must be letter then last modification in your repository for the selected tag. In case you need to improve the code after submission you must ask me by email to revert the submission to the working status (that allows modifications of your submission) and another attempt. The sequence of grading is determined by the submission date - first submissions are first graded - it is like a FIFO scenario.
 
 Because we are using tags as a snapshot of submitted for grading work there is no need to wait for grading to commence work on the next task. I expect that the work is conducted simultaneously if needed. In other words, the late grading is not an excuse to postpone the submission of the next task.
+
+Following the goal of the classes, I am using the grading process to explain in practice selected topics covered by the course scope focusing on the abstract problems but embedded in the concrete development. Sometimes it takes time to get your correct answers to prove that you understand it. I try to organize the discussion around the published checklist but details are in the detailed description of the lab tasks. Let me stress: to pass ALL REQUIREMENTS MUST BE ACCOMPLISHED. It doesn't mean that I am able to check all requirements and point out all problems. If you know about any inconsistency with the requirements in your program based on the discussion you are obliged to ask me for reverting your submission to fix the problem in advance, but first, prove using the checklist that everything is as expected before submitting it for grading. It will give you an additional opportunity to present your solutions in front of the group. I would like also to engage all of you to ask questions to the team presenting the solution in concern.
+
+Good luck
 
 ### Lab Time Slot Reservation
 
@@ -149,12 +162,6 @@ I would like to invite you to a remote Laboratory class as part of the course **
 Please book a time-slot for the classes using the appropriate module `Lab 04 Reservation`. Our goal is to check the progress of your work and the compatibility of the design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS\Tools\Create GUID`.
 
 Let me stress, your repository must have the `README.md` file prepared according to the template `GitHub README.md template file` published on WIKAMP. Place the README.md file in the main directory of the repository. A GUID is required for identification. This GUID can be generated using `VS\Tools\Create GUID`. Don't use example GUIDs embedded in the template.
-
-## Repository Creation Task
-
-According to the curse rules all group members have to use the personal GitHub repository to share the source code. One repository per working group (a pair) is expected but **each course participant must complete this task**. The task evaluation doesn't contribute to the final course grade. Read carefully the description of the task [Create Repository](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=20097). The description contains a link to a video recorded already to provide a basic introduction. Submit the task as soon as possible.
-
-- **NOTE: It doesn't contribute to the final curse grade but failure to report the completion of the task up to the 6th week of classes is considered a resignation from completing the course**.
 
 ## Final grades
 
