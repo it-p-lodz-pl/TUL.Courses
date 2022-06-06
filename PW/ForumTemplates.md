@@ -16,16 +16,20 @@
 - [Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**](#lab-zaproszenie-na-zajęcia-projektowe-w-dniu-date-godz-czas)
 - [Wybór grupy projektowej](#wybór-grupy-projektowej)
 - [Aktualizacja listy uczestników kursu](#aktualizacja-listy-uczestników-kursu)
-- [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
-- [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
+- [Projekt](#projekt)
+  - [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
+  - [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
   - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
-  - [Lista Kontrolna Projekt Etap 2](#lista-kontrolna-projekt-etap-2)
-  - [Lista Kontrolna Projekt Etap 3](#lista-kontrolna-projekt-etap-3)
+  - [Projekt Etap 2 Lista Kontrolna](#projekt-etap-2-lista-kontrolna)
+  - [Projekt Etap 3](#projekt-etap-3)
+    - [Lista Kontrolna](#lista-kontrolna)
+    - [Komentarze](#komentarze)
 - [Repozytorium TP](#repozytorium-tp)
   - [Nowe wpisy w zakładce 'Discussions'](#nowe-wpisy-w-zakładce-discussions)
-- [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
-- [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
-- [Wakacje czas zacząć](#wakacje-czas-zacząć)
+- [Koniec zajęć](#koniec-zajęć)
+  - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
+  - [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
+  - [Wakacje czas zacząć](#wakacje-czas-zacząć)
 
 ## Zaproszenie na zajęcia projektowe
 
@@ -130,13 +134,15 @@ Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestni
 Pozdrawiam,
 W kontakcie
 
-## Projekt – cel, zakres, organizacja
+## Projekt
+
+### Projekt – cel, zakres, organizacja
 
 Uporządkowałem zadania, które należy wykonać w trakcie zajęć projektowych. Planuję omówić je na najbliższych zajęciach projektowych w dniu 15-03-2021 (tydzień 3). Czekam na wasze opinie, pytania, wątpliwości i konstruktywne propozycje do 18-03-21. Do tego terminu nie będę niczego modyfikował. Ewentualne poprawki mam zamiar wprowadzić przed kolejnymi zajęciami 22-03-2021 (tydzień 4). Jednak nie przewiduję fundamentalnych zmian, więc można rozpocząć prace projektowe niezwłocznie.
 
 Wszelkie opinie, pytania, wątpliwości i konstruktywne propozycje proszę zgłaszać wszelkimi dostępnymi środkami komunikacji.
 
-## Oddanie Projekt Etap 1
+### Oddanie Projekt Etap 1
 
 Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1](https://a.b.c), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://a.b.c). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
 
@@ -144,11 +150,13 @@ Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1](https://a.b.c), kt
 
 Waśnie opublikowałem [Projekt - zadanie etap 2](https://a.b.c). To fakultatywne zadanie pozwoli zbliżyć się do rozwiązani wymaganego do zaliczenia przedmiotu, więc zachęcam to jego realizacji i przejścia procedury zaliczającej. Szczegóły w opisie. Na najbliższych zajęciach w czwartek postaram się omówić jego treść.
 
-### Lista Kontrolna Projekt Etap 2
+### Projekt Etap 2 Lista Kontrolna
 
 Nie wiem czy wszyscy odnotowali, że opublikowałem listę kontrolną do kolejnego etapu projektu.  Na razie opublikowałem ja na [Teams](https://teams.microsoft.com/l/message/19:PIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1@thread.tacv2/1650796807949?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&parentMessageId=1650796807949&teamName=22-Programowanie%20Wsp%C3%B3%C5%82bie%C5%BCne&channelName=General&createdTime=1650796807949) i zachęcam do dyskusji.
 
-### Lista Kontrolna Projekt Etap 3
+### Projekt Etap 3
+
+#### Lista Kontrolna
 
 Opublikowałem listę kontrolną do etapu 3 projektu. Na razie opublikowałem ja na [Teams](https://teams.microsoft.com/l/message/19:PIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1@thread.tacv2/1653232588316?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&parentMessageId=1653232588316&teamName=22-Programowanie%20Wsp%C3%B3%C5%82bie%C5%BCne&channelName=General&createdTime=1653232588316) i zachęcam do dyskusji. Na Wikamp będzie opublikowana 26-05-2022, więc dyskusję kończymy 25-05-2022 o 24:00. Generalnie zmiany obejmują konieczność: 
 
@@ -159,6 +167,29 @@ Celem etapu 2 jest zrozumieć, natomiast celem etapu 3 jest wykazanie, że się 
 
 Meldujcie o sukcesach 😁.
 
+#### Komentarze
+
+Dostałem od Wiktor Pawlak propozycje dotyczące powyższej listy, ale nie tylko. Podzielę je na następujące grupy:
+
+1. Zdefiniowania wybranych terminów
+   - Sequential programming ()
+   - Concurrent programming
+     - implement balls behavior as self-contained independent entities
+     - prove that the diagnostic logging doesn't have impact on the balls behavior
+   - Parallel programming
+     - balls implementation uses parallel programming if applicable (depends on the run time platform)
+   - Real-time programming
+     - protect balls velocity against any influence from other balls and the environment behavior
+     - prove that the diagnostic logging doesn't have impact on the balls behavior
+   - Critical section
+     - implement balls behavior as self-contained independent entities
+     - prove that the protection of data (balls position on abstract table during collisions detection) integration is implemented
+2. Dodatkowe wyjaśnienia
+   - self-contained independent entities
+   - task\process\thread\job
+   - Data integrity
+
+Dajcie znać jeśli o czymś zapomniałem, albo coś trzeba dodać.
 
 ## Repozytorium TP
 
@@ -172,7 +203,9 @@ Przypominam, że jako studenci tego semestru macie prawo to korzystania z moich 
 
 W kontakcie.
 
-## Rozliczenia czas zacząć - terminy obligatoryjne
+## Koniec zajęć
+
+### Rozliczenia czas zacząć - terminy obligatoryjne
 
 Zbliżamy się do zakończenia przygody intelektualnej nazwanej: `Programowanie urządzeń mobilnych`. Wszystkie zajęcia mamy za sobą i pora zweryfikować stan posiadania w dzienniku ocen (WIKAMP), który właśnie uporządkowałem. Na wszelkie reklamacje czekam do piątku 18-09-2020 godz 24:00. Po tym terminie reklamacje będą rozpatrywane wyłącznie na pisemny wniosek zawierający rozsądne uzasadnienie wskazujące na przyczynę obiektywną.
 
@@ -187,7 +220,7 @@ Ostateczny termin złożenia pracy dyplomowej w semestrze letnim – 16.09.2020 
 - 29.09.2020 r. – godz. 12:00 Koniec sprawdzania ocen i wprowadzania zmian ocen w ZSID
 - 29.09.2020 r. – godz.14:00 Ostateczny termin dostarczenia protokołów do dziekanatów lub akceptacji zmian w protokołach
 
-## Oceny końcowe wystawione
+### Oceny końcowe wystawione
 
 Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach przedmiotu. Wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
 
@@ -199,7 +232,7 @@ Jeszcze raz dziękuję za udział w przedmiocie.
 
 Powodzenia i w zdrowotności
 
-## Wakacje czas zacząć
+### Wakacje czas zacząć
 
 Wczoraj była ostatnia szansa zaliczenia kolokwium w trybie przewidzianym regulaminem przedmiotu. W ten oto sposób weszliśmy w okres wakacyjny. Zgodnie z obietnicą po wakacjach zorganizuję jeszcze dwa dodatkowe terminy zaliczeń kolokwium i laboratorium. W okresie wakacji jestem do Waszej dyspozycji, więc można próbować umówić się na konsultacje zdalne. Zachęcam i jeśli tylko będę dostępny poprzez Internet propozycję zaakceptuję. Używajcie asystenta planowania w kalendarzu Teams.
 

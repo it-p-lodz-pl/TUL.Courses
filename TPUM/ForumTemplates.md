@@ -1,38 +1,45 @@
 # Forum Templates <!-- omit in toc -->
 
-**Table of Contents**:
+## Table of Contents <!-- omit in toc -->
 
-- [Zaproszenie do zespołu na platformie MS TEAMS](#zaproszenie-do-zespołu-na-platformie-ms-teams)
-- [Kick-off meeting](#kick-off-meeting)
-  - [Cel](#cel)
-  - [Agenda](#agenda)
-  - [Współdziałanie](#współdziałanie)
-- [Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**](#lab-zaproszenie-na-zajęcia-projektowe-w-dniu-date-godz-czas)
-- [Zaproszenie na wykład](#zaproszenie-na-wykład)
-  - [`Zapraszam na seminarium środa 5 maja 2021 11:45`](#zapraszam-na-seminarium-środa-5-maja-2021-1145)
-  - [Seminarium Agenda](#seminarium-agenda)
-  - [Instrukcja dla uczestnika](#instrukcja-dla-uczestnika)
-- [Zaproszenie - Praca w parach - projekt W02](#zaproszenie---praca-w-parach---projekt-w02)
-- [Seminarium XX - Raport aktywności został opublikowany](#seminarium-xx---raport-aktywności-został-opublikowany)
-- [Podział na dwu osobowe zespoły robocze](#podział-na-dwu-osobowe-zespoły-robocze)
-- [Zadanie Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
-- [Aktualizacja listy uczestników kursu](#aktualizacja-listy-uczestników-kursu)
-- [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
-- [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
+- [Organizacja](#organizacja)
+  - [Zaproszenie do zespołu na platformie MS TEAMS](#zaproszenie-do-zespołu-na-platformie-ms-teams)
+  - [Kick-off meeting](#kick-off-meeting)
+    - [Cel](#cel)
+    - [Agenda](#agenda)
+    - [Współdziałanie](#współdziałanie)
+  - [Aktualizacja listy uczestników kursu](#aktualizacja-listy-uczestników-kursu)
+- [Seminarium](#seminarium)
+  - [`Zapraszam na seminarium w dniu <data/godzina>`](#zapraszam-na-seminarium-w-dniu-datagodzina)
+    - [Seminarium Agenda](#seminarium-agenda)
+    - [Instrukcja dla uczestnika](#instrukcja-dla-uczestnika)
+  - [Seminarium XX - Raport aktywności został opublikowany](#seminarium-xx---raport-aktywności-został-opublikowany)
+- [Projekt](#projekt)
+  - [Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**](#lab-zaproszenie-na-zajęcia-projektowe-w-dniu-date-godz-czas)
+  - [Zaproszenie - Praca w parach - projekt W02](#zaproszenie---praca-w-parach---projekt-w02)
+  - [Podział na dwu osobowe zespoły robocze](#podział-na-dwu-osobowe-zespoły-robocze)
+  - [Zadanie Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
+  - [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
+  - [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
   - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
   - [Przypominam o terminie zgłoszenia](#przypominam-o-terminie-zgłoszenia)
-- [Podsumowanie punktów za aktywność](#podsumowanie-punktów-za-aktywność)
-- [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
-- [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
-- [Wakacje czas zacząć](#wakacje-czas-zacząć)
+- [Zakończenie](#zakończenie)
+  - [Dodatkowa możliwość zdobycia punktów za aktywność](#dodatkowa-możliwość-zdobycia-punktów-za-aktywność)
+  - [Podsumowanie punktów za aktywność](#podsumowanie-punktów-za-aktywność)
+  - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
+  - [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
+  - [Wakacje czas zacząć](#wakacje-czas-zacząć)
 
-## Zaproszenie do zespołu na platformie MS TEAMS
+
+## Organizacja
+
+### Zaproszenie do zespołu na platformie MS TEAMS
 
 Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na odległość na platformie TEAMS. W tym celu na TEAMS utworzony został zespół. Link do zespołu jest dostępny na głównej stronie kursu. Proszę się również zarejestrować z wyprzedzeniem.
 
 Proszę również o przekazanie wszystkim potencjalnym zainteresowanym o możliwości dołączeniem do kursu korzystając z  klucza : **TPUM**. Kurs można znaleźć tu: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/view.php?id=1816). Wybór kursu jao zajęcia fakultatywne wymaga spełnienia kilku warunków, a w tym zapewnienia, że zajęcia  nie kolidują z innymi. Ja mogę jedynie zapewnić, że dołożę wszelkich starań, aby te przeszkody zneutralizować - proszę być ze mną w kontakcie.
 
-## Kick-off meeting
+### Kick-off meeting
 
 Witam na kursie Programowanie Urządzeń Mobilnych. Zajęcia zostaną zrealizowane za pośrednictwem WEBINAR:
 
@@ -48,20 +55,20 @@ Szczegóły poniżej.
 
 [Meeting]:a.b.c.com
 
-### Cel
+#### Cel
 
 - czego się nauczymy ?
 - jak to zaliczyć ?
 - jak zorganizować pracę ?
 
-### Agenda
+#### Agenda
 
 - Programowanie urządzeń mobilnych - wstęp
 - Zawartość WIKAMP
 - Warunki zaliczenia przedmiotu
 - Projekt
 
-### Współdziałanie
+#### Współdziałanie
 
 - Harmonogram
 - Narzędzia
@@ -79,13 +86,18 @@ Uprzejmie proszę o przekazanie wszystkim zainteresowanym informacji o możliwo�
 URL: [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/search.php?q=TPUM&areaids=core_course-course)
 Klucz: **TPUM**
 
-## Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**
+### Aktualizacja listy uczestników kursu
 
-Zajęcia w dniu **\<date\>** zostaną zrealizowane za pośrednictwem zespołu na Teams. Link do zespołu jest dostępny na głównej stronie kursu Jest tam zdefiniowany termin. Osoby, które planują w tych zajęciach brać udział, proszę o akceptacje terminu - dopisanie się do listy.
+Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestników kursu na WIKAMP z listą uczestników kursu, którą dostałem z Dziekanatu. Ponieważ te listy trochę się różnią, więc mam zamiar dokonać ręcznie odpowiednich korekt na WIKAMP. Nie jestem pewien, czy osoby ręcznie wypisane dostaną informację z automatu po wypisaniu, więc aby zapobiec przypadkowemu wypisaniu po zakończeniu wyślę kolejną informację jeszcze dziś, tj. 23-02-20. Proszę sprawdzić i ewentualnie zaktualizować swój zapis do przedmiotu, jeśli wypisanie zostało dokonane pochopnie. Jeśli ktoś dziś nie dostanie kolejnego mail, że skończyłem synchronizować listy, proszę o dokonanie samodzielnego zapisu po raz kolejny lub informację via email do mnie. Poniższy link powinien umożliwić ponowny zapis.
 
-## Zaproszenie na wykład
+[Ponowny zapis](https://ftims.edu.p.lodz.pl/course/search.php?search=TPUM)
 
-### `Zapraszam na seminarium środa 5 maja 2021 11:45`
+Pozdrawiam,
+W kontakcie
+
+## Seminarium
+
+### `Zapraszam na seminarium w dniu <data/godzina>`
 
 Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urządzeń mobilnych (PUM)**. Szczegóły poniżej.
 
@@ -97,12 +109,12 @@ Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urząd
 | PIN do aplikacji mobilnej |           ---------           |
 | Link dla uczestników      | [Wejdź jako uczestnik](a.b.c) |
 
-### Seminarium Agenda
+#### Seminarium Agenda
 
 - Temat 1
 - Temat 2
 
-### Instrukcja dla uczestnika
+#### Instrukcja dla uczestnika
 
 1. Aby wejść do pokoju webinariowego należy kliknąć link: "Wejdź jako uczestnik" znajdujący w tabelce powyżej. Następnie należy wpisać swój email politechniczny oraz podać hasło podane w tabeli.
 1. Prosimy nie wpisywać hasła do poczty. Obowiązujące hasło zostało podane w tabeli.
@@ -110,17 +122,23 @@ Zaproszenie na zajęcia zdalne w ramach kursu **Technologie programowania urząd
 1. W pokoju jest aktualnie uruchomiona poczekalnia która pozwala zweryfikować czy Państwa komputer spełnia wymogi platformy webinariów.
 1. Zalecamy, aby osoby uczestniczące w szkoleniu nie znajdowały się w jednym pomieszczeniu oraz jeśli to możliwe, stosowały słuchawki aby nie zakłócać sobie wzajemnie pracy.
   
-## Zaproszenie - Praca w parach - projekt W02
-
-Czekam na woluntariusz(kę)/(a), z którą popracujemy w parach. Wymagania: podstawowe umiejętności w zakresie "klikolandii" VS. Można zarobić 10 pkt. z aktywności.
-
-## Seminarium XX - Raport aktywności został opublikowany
+### Seminarium XX - Raport aktywności został opublikowany
 
 Zgodnie z obietnicą opublikowałem na stronie kursu plik aktywności z ostatniego seminarium. Niestety z powodów technicznych rezultaty Waszej aktywności opublikowałem z pewnym opóźnienie, za co przeprasza. W przyszłości proszę dać mi znać jeśli plik aktywności nie będzie opublikowany do czwartku w tygodniu, w którym mamy seminarium.
 
 Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) bezzwłocznie, ale nie później niż do następnego wykładu. Ponieważ są to pierwsze zajęcia, punkty za aktywność nie stanowią składowej oceny końcowej.
 
-## Podział na dwu osobowe zespoły robocze
+## Projekt
+
+### Lab zaproszenie na zajęcia projektowe w dniu **\<date\>** godz. **\<czas\>**
+
+Zajęcia w dniu **\<date\>** zostaną zrealizowane za pośrednictwem zespołu na Teams. Link do zespołu jest dostępny na głównej stronie kursu Jest tam zdefiniowany termin. Osoby, które planują w tych zajęciach brać udział, proszę o akceptacje terminu - dopisanie się do listy.
+
+### Zaproszenie - Praca w parach - projekt W02
+
+Czekam na woluntariusz(kę)/(a), z którą popracujemy w parach. Wymagania: podstawowe umiejętności w zakresie "klikolandii" VS. Można zarobić 10 pkt. z aktywności.
+
+### Podział na dwu osobowe zespoły robocze
 
 Przypominam, że każdy uczestnik kursu musi być członkiem 1 lub 2 osobowego zespołu. Korzystając z modułu [Przydział do zespołu](https://ftims.edu.p.lodz.pl/mod/choicegroup/view.php?id=103711) można dokonać wyboru zespołu. Z powodu pomyłki w konfiguracji moduł ten był zablokowany do tej pory. Bardzo proszę o możliwie szybkie uzupełnienie wyboru, co pozwoli uzyskać dostęp do innych modułów opublikowanych w przedmiocie.
 
@@ -130,7 +148,7 @@ Jeśli ktoś nadal szuka pary do zespołu, to proszę o tym nadmienić w odpowie
 
 **UWAGA:** Ta aktywność zostanie zamknięta przed trzecimi zajęciami.
 
-## Zadanie Tworzenie repozytorium
+### Zadanie Tworzenie repozytorium
 
 Przypominam, że wszyscy muszą ukończyć zadanie jak w tytule. Szczegóły oddania i zaliczenia zadania na stronie WIKAMP. Przed przesłaniem do oceny należy:
 
@@ -152,22 +170,13 @@ Przypominam, że utworzyłem filmik z instrukcją opisującą jak utworzyć repo
 
 - [Video jest dostępne](https://youtu.be/uANd4kfWfVA)
 
-## Aktualizacja listy uczestników kursu
-
-Zgodnie z wcześniejsza zapowiedzią mam zamiar zsynchronizować listę uczestników kursu na WIKAMP z listą uczestników kursu, którą dostałem z Dziekanatu. Ponieważ te listy trochę się różnią, więc mam zamiar dokonać ręcznie odpowiednich korekt na WIKAMP. Nie jestem pewien, czy osoby ręcznie wypisane dostaną informację z automatu po wypisaniu, więc aby zapobiec przypadkowemu wypisaniu po zakończeniu wyślę kolejną informację jeszcze dziś, tj. 23-02-20. Proszę sprawdzić i ewentualnie zaktualizować swój zapis do przedmiotu, jeśli wypisanie zostało dokonane pochopnie. Jeśli ktoś dziś nie dostanie kolejnego mail, że skończyłem synchronizować listy, proszę o dokonanie samodzielnego zapisu po raz kolejny lub informację via email do mnie. Poniższy link powinien umożliwić ponowny zapis.
-
-[Ponowny zapis](https://ftims.edu.p.lodz.pl/course/search.php?search=TPUM)
-
-Pozdrawiam,
-W kontakcie
-
-## Projekt – cel, zakres, organizacja
+### Projekt – cel, zakres, organizacja
 
 Uporządkowałem zadania, które należy wykonać w trakcie zajęć projektowych. Planuję omówić je na najbliższych zajęciach projektowych w dniu 15-03-2021 (tydzień 3). Czekam na wasze opinie, pytania, wątpliwości i konstruktywne propozycje do 18-03-21. Do tego terminu nie będę niczego modyfikował. Ewentualne poprawki mam zamiar wprowadzić przed kolejnymi zajęciami 22-03-2021 (tydzień 4). Jednak nie przewiduję fundamentalnych zmian, więc można rozpocząć prace projektowe niezwłocznie.
 
 Wszelkie opinie, pytania, wątpliwości i konstruktywne propozycje proszę zgłaszać wszelkimi dostępnymi środkami komunikacji.
 
-## Oddanie Projekt Etap 1
+### Oddanie Projekt Etap 1
 
 Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1 - interaktywna/reaktywne programowanie](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://ftims.edu.p.lodz.pl/mod/reservation/view.php?id=75159). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
 
@@ -179,7 +188,23 @@ Waśnie opublikowałem [Projekt - zadanie etap 2 - interaktywna/reaktywna komuni
 
 Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1 - interaktywna/reaktywne programowanie](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://ftims.edu.p.lodz.pl/mod/reservation/view.php?id=75159). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
 
-## Podsumowanie punktów za aktywność
+## Zakończenie
+
+### Dodatkowa możliwość zdobycia punktów za aktywność
+
+Przypominam, że jednym ze składników oceny końcowej są punkty uzyskane za aktywność - szczegóły w regulaminie przedmiotu. Zgodnie z wcześniejszymi ustaleniami typowo są dwie formy aktywności, a mianowicie:
+
+1. odpowiedzi na pytania w trakcie seminarium
+2. aktywne współdziałanie przy tworzeniu przykładów dla przedmiotu
+
+Z uwagi na zbliżający się koniec semestru, aktywność opisana w p 1. będzie wkrótce niedostępna. Możliwość zdobywania punktów za aktywność opisaną w p 2. będzie dostępna do 21-08-2022. Dodatkowo za aktywność można również uzyskać do 20 punktów w tej edycji przedmiotu za realizację następujących projektów:
+
+- [.NET application portability using containerization](https://tulodz.sharepoint.com/:b:/r/sites/22-TechnologieProgramowaniaUrzdzeMobilnych/Shared%20Documents/General/AppPortabilityContainerization.pdf?csf=1&web=1&e=mUdmPW)
+- [.NET standard deliverables portability using cloud services](https://tulodz.sharepoint.com/:b:/r/sites/22-TechnologieProgramowaniaUrzdzeMobilnych/Shared%20Documents/General/AppPortabilityWebApp.pdf?csf=1&web=1&e=mHU5iH)
+
+Szczegóły w podlinkowanych dokumentach. Co warto podkreślić, jeden z tematów dotyczy przetwarzania w chmurze. Ta możliwość jest dostępna tylko dla studentów, którzy zaliczyli już projekt. Projekt może być przydzielony tylko jednemu studentowi niezależnie od przedmiotu (projekty są oferowane również na innych moich przedmiotach).
+
+### Podsumowanie punktów za aktywność
 
 Przypominam o konieczności podsumowania punktów otrzymanych za aktywność. Proszę podsumować punkty i ich sumę wpisać w pole tekstowe w formacie
 
@@ -191,7 +216,7 @@ SUMA = n
 
 Po wpisaniu wszystkich punktów proszę zgłosić zadanie do sprawdzenia.
 
-## Rozliczenia czas zacząć - terminy obligatoryjne
+### Rozliczenia czas zacząć - terminy obligatoryjne
 
 Zbliżamy się do zakończenia przygody intelektualnej nazwanej: `Programowanie urządzeń mobilnych`. Wszystkie zajęcia mamy za sobą i pora zweryfikować stan posiadania w dzienniku ocen (WIKAMP), który właśnie uporządkowałem. Na wszelkie reklamacje czekam do piątku 18-09-2020 godz 24:00. Po tym terminie reklamacje będą rozpatrywane wyłącznie na pisemny wniosek zawierający rozsądne uzasadnienie wskazujące na przyczynę obiektywną.
 
@@ -206,7 +231,7 @@ Ostateczny termin złożenia pracy dyplomowej w semestrze letnim – 16.09.2020 
 - 29.09.2020 r. – godz. 12:00 Koniec sprawdzania ocen i wprowadzania zmian ocen w ZSID
 - 29.09.2020 r. – godz.14:00 Ostateczny termin dostarczenia protokołów do dziekanatów lub akceptacji zmian w protokołach
 
-## Oceny końcowe wystawione
+### Oceny końcowe wystawione
 
 Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
 
@@ -218,7 +243,7 @@ Jeszcze raz dziękuję za udział w przedmiocie.
 
 Powodzenia i w zdrowotności
 
-## Wakacje czas zacząć
+### Wakacje czas zacząć
 
 Wczoraj była ostatnia szansa zaliczenia kolokwium w trybie przewidzianym regulaminem przedmiotu. W ten oto sposób weszliśmy w okres wakacyjny. Zgodnie z obietnicą po wakacjach zorganizuję jeszcze dwa dodatkowe terminy zaliczeń kolokwium i laboratorium. W okresie wakacji jestem do Waszej dyspozycji, więc można próbować umówić się na konsultacje zdalne. Zachęcam i jeśli tylko będę dostępny poprzez Internet propozycję zaakceptuję. Używajcie asystenta planowania w kalendarzu Teams.
 

@@ -21,6 +21,7 @@
   - [Project Grading Process - Additional Explanation](#project-grading-process---additional-explanation)
   - [Lab Time Slot Reservation](#lab-time-slot-reservation)
 - [Final grades](#final-grades)
+  - [Additional opportunity to earn points for activity](#additional-opportunity-to-earn-points-for-activity)
   - [Activity points final summary](#activity-points-final-summary)
   - [Final grades published](#final-grades-published)
 
@@ -164,6 +165,20 @@ Please book a time-slot for the classes using the appropriate module `Lab 04 Res
 Let me stress, your repository must have the `README.md` file prepared according to the template `GitHub README.md template file` published on WIKAMP. Place the README.md file in the main directory of the repository. A GUID is required for identification. This GUID can be generated using `VS\Tools\Create GUID`. Don't use example GUIDs embedded in the template.
 
 ## Final grades
+
+### Additional opportunity to earn points for activity
+
+I would like to remind you that one of the components of the final grade is the scores obtained for the activity - details in the "Assessment – grading scale". Typically,  there are two forms of activity, namely:
+
+1. answers to questions during the seminar
+2. active contribution in creating examples for the course
+
+Due to the upcoming end of the semester, the activity described in (1) will soon be unavailable. The possibility of earning points for the activities described in item 2 will be available until August 21, 2022. Additionally, during this edition of the course  you can also get up to 20 activity points for your contribution to the following projects:
+
+- [.NET application portability using containerization](https://tulodz.sharepoint.com/:b:/r/sites/22-ProgrammingTechnologies/Shared%20Documents/General/AppPortabilityContainerization.pdf?csf=1&web=1&e=TIwyyB)
+- [.NET standard deliverables portability using cloud services](https://tulodz.sharepoint.com/:b:/r/sites/22-ProgrammingTechnologies/Shared%20Documents/General/AppPortabilityWebApp.pdf?csf=1&web=1&e=8ttq1S)
+
+Check out the documents listed above to get details. This opportunity is only available to students who have already passed (are graded) the project. Each project can only be assigned to one person, regardless of the course (projects are also offered in my other courses) - ask about availability and book ASAP.
 
 ### Activity points final summary
 
