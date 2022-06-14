@@ -702,7 +702,7 @@ class UsingIDisposable: IDisposable
     <answer fraction="0" format="moodle_auto_format">
       <text>false</text>
       <feedback format="markdown">
-        <text>Unfortunately, this sentence is correct.</text>
+        <text>Unfortunately, this sentence is not correct.</text>
       </feedback>
     </answer>
   </question>
@@ -710,7 +710,7 @@ class UsingIDisposable: IDisposable
 <!-- question: 22013  -->
   <question type="truefalse">
     <name>
-      <text>Extension Method vs Iinheritance.</text>
+      <text>Extension Method vs Inheritance.</text>
     </name>
     <questiontext format="markdown">
       <text>Extension methods are especially useful in situations when you need to implement abstract methods in a type that we do not have access to, for example, the type is defined in the .NET library.</text>

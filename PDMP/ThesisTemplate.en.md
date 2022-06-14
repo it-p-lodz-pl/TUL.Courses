@@ -29,8 +29,8 @@ The format and content of the cover page should be prepared in accordance with t
 The minimum information for a cover page is:
 
 - Title
-- Author
-- Date
+- Author Name and Surname
+- Release date and version
 - Supervisor, Assistant supervisors, Consultants, Mentors, etc.
 - Name of the university unit in charge
 
