@@ -412,7 +412,7 @@ Funkcja skrótu generuje wartość, która powinna być różna dla różnych st
 
 Wartość wybranej funkcji skrótu jest ciągiem bitów o ścisłe określonej długości.
 
-### Klucz sesji - procedura 
+### Klucz sesji - procedura
 
 Aby wykorzystać kryptografię asymetryczną do bezpiecznego uzgodnienia klucza sesji, partnerzy powinni:
 
