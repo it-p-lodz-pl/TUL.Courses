@@ -1,0 +1,2178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Domyślna dla: TPUM/Sprawdzian #1</text>
+    </category>
+    <info format="markdown">
+      <text>Test dla Sprawdzian #1</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Domyślna dla: TPUM/Sprawdzian #1/Za 1 punkt.</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 198504  -->
+  <question type="gapselect">
+    <name>
+      <text>Kontekst semantyczny</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Kontekst semantyczny to wspólne uzgodnienie [[1]], [[3]] i [[5]] obowiązujących przy wymienianie strumieni bitów.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>alfabetu</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>kodowania </text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>składni</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>protokołu komunikacyjnego</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>semantyki</text>
+      <group>3</group>
+    </selectoption>
+    <selectoption>
+      <text>języka, np. XML, HTML</text>
+      <group>3</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198502  -->
+  <question type="gapselect">
+    <name>
+      <text>M2M Communication</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Komunikacja maszyn (ang. Machine to Machine (M2M)) to taka, która zapewnia, że maszyny współpracują ze sobą [[1]]  ingerencji człowieka (użytkownika). Typowym przekładem takiej komunikacji jest [[3]].</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>bez możliwości</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>bez konieczności </text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>współdziałanie robotów</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>zdalne monitorowanie stanu zdrowia</text>
+      <group>2</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198555  -->
+  <question type="multichoice">
+    <name>
+      <text>Service Oriented Architecture (SOA)</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Service Oriented Architecture (SOA) - zaznacz wszystkie poprawne i wyczerpujące definicje.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="markdown">
+      <text>paradygmat definiowania kontekstu semantycznego, pozwalającego na współdziałania programów stworzonych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>standard komunikacyjny pozwalający zagwarantować współdziałanie programów stworzonych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>protokół komunikacyjny w warstwie aplikacji, który pozwala zagwarantować współdziałanie programów stworzonych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>zestaw norm zwanych WebService i oznaczanych WS*, który pozwala zagwarantować współdziałanie programów stworzonych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198501  -->
+  <question type="truefalse">
+    <name>
+      <text>Aplikacja rozproszona</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Jeśli program skonsolidowany (tzn. przeznaczony do realizacji jako jeden proces współczesnego systemu operacyjnego), chcemy podziwić na kilka części i wykonywać te części niezależnie, jako spójna aplikacja rozproszona, to architekturę każdego z programów składowych należy zaprojektować zgodnie z ogólnymi zasadami architektury warstwowej ponownie dokonując dystrybucji funkcjonalności do poszczególnych części aplikacji.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198497  -->
+  <question type="truefalse">
+    <name>
+      <text>Dane mobilne</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Dane mobilne, to dane o charakterze zdarzenia, które pojawiają sie w nieprzedziwnych miejscach sieci komputerowej i nieprzewidzianych chwilach czasowych. Często kojarzone są z miejscem geograficznym i czasem wystąpienia przed przesłąniem ich do miejsca, gdzie mają yć dalej przetwarzane.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198489  -->
+  <question type="truefalse">
+    <name>
+      <text>Dane składnia vs semantyka</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Dana to znakowa reprezentacja informacji. Aby ta reprezentacja była wzajemnie jednoznaczna musimy zdefiniować: alfabet, czyli zbiór dopuszczalnych znaków, (b) składnię, czyli zbiór reguł określających znaczenie poprawnych ciągów znaków, (c) semantykę, czyli zbiór reguł określających, jak budować poprawne ciągi znaków.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198503  -->
+  <question type="truefalse">
+    <name>
+      <text>Kontekst bezpieczeństwa</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Kontekst bezpieczeństwa to wspólna definicja algorytmów bezpieczeństwa i ich parametrów.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198498  -->
+  <question type="truefalse">
+    <name>
+      <text>Urządzenia mobilne</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Urządzenia mobilne często są używane w trudnych warunkach środowiskowych, np. wibracje, przeciążenia, wilgotność, zadymienie, itd. W takich warunkach korzystanie z graficznego interfejsu użytkownika może być utrudnione. To typowe wyzwanie dla współczesnej inżynierii oprogramowania.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198507  -->
+  <question type="truefalse">
+    <name>
+      <text>WebSocket</text>
+    </name>
+    <questiontext format="markdown">
+      <text>WebSocket to protokół komunikacyjny bezpołączeniowy.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198500  -->
+  <question type="truefalse">
+    <name>
+      <text>Wykorzystanie GPS</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Czy wykorzystanie odbiornika GPS (ang. Global Positioning System), który służy do lokalizacji geograficznej, w urządzeniu komputerowym, czyni je urządzeniem mobilnym ?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Domyślna dla: TPUM/Sprawdzian #1/Za 5 punktów</text>
+    </category>
+    <info format="markdown">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 198554  -->
+  <question type="gapselect">
+    <name>
+      <text>Informatyka</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Informatyka to dziedzina zajmująca się automatyzacją procesów przetwarzania [[1]]. Aby opisać proces przetwarzania [[1]], niezbędny jest [[2]], który określa sekwencję operacji, jakie mają być wykonane w celu przetworzenia zbioru [[1]] wejściowej w zbiór [[1]] wynikowej. Problem w tym, że oba są pojęciami abstrakcyjnymi – to rodzaj wiedzy o tym, co i jak przetwarzać. W konsekwencji nie mogą być bezpośrednio wykorzystane przez współczesne materialne maszyny zbudowane z wykorzystaniem praw i zjawisk znanych w fizyce. Aby je zmaterializować (zaimplementować) wykorzystuje się [[4]] do ich reprezentowania. [[4]] pozwala na formalne opisanie informacji i algorytmu w postaci programu. Podstawą materializacji jest alfabet, który jest ciągiem znaków alfanumerycznych reprezentowanych w środowisku współczesnej maszyny przetwarzającej, jako skończony ciąg bitów. Po kompilacji program może być uruchomiony z wykorzystaniem wybranego środowiska wykonawczego, co oznacza utworzenie [[5]]. [[5]] to zbiór wątków, z których każdy odpowiada za realizację sekwencji instrukcji opisanych w programie z wykorzystaniem [[3]], które tworzone są w trakcie realizacji wątku. Warunkiem utworzenia [[5]] jest nadanie mu [[6]]  dziedziczon(ej)/(ego) po sesji, jeśli program uruchamiany jest przez użytkownika w ramach istniejącej sesji lub skonfigurowan(a)/(ny), jeśli program (usługa) uruchomiany jest przez system operacyjny lub w imieniu innego użytkownika. [[6]] [[5]] jest wykorzystywana do autoryzacji operacji, których wykonania [[5]] może żądać od otoczenia, przykładowo systemu operacyjnego. Autoryzacja to operacja sprawdzenia, czy [[5]] ma [[10]] do wykonania żądanej operacji.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>5.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>Informacja</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Algorytm</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Dane</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Język programowania</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Proces</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Tożsamość</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Dokument</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Plik</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Wiedza</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Uprawnienia</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Podpis cyfrowy</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Skrypt</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Zadanie</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Oczekiwane działanie</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Nazwa</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Tekst</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198495  -->
+  <question type="gapselect">
+    <name>
+      <text>Rodzaje danych</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Dane [[1]] to takie, w których nie możemy wyróżnić części składowych. W konsekwencji praktycznie wszystkie [[2]] na danych prostych dotyczą ich [[3]] jako pewnej całości. Natomiast, w danych [[4]] możemy wyróżnić ich składowe. Wyróżnienie to jest realizowane przez operację [[5]], która dla danych złożonych musi być zdefiniowana. Przykładami danych złożonych jest tablica, struktura, itp. Ich wewnętrzna struktura, więc wzajemne powiązanie elementów skłądowych jest narzucone i nie może być swobodnie zmieniane. Natomiast, dane [[8]] charakteryzują się tym, że relacje pomiędzy elementami mogą być swobodnie implementowane. W konsekwencji w miejsce operacji selektora mamy operację [[9]] wykorzystującą referencje pomiędzy obiektami.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>5.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>proste</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>operacje</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>wartość</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>złożone</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>selektora</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>tablica</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>struktura</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>strukturalne</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>przeglądania (ang. browse)</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>drzewo</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>liczba zmiennopozycyjna</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>informacja</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>indeksowanie</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>graf</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198492  -->
+  <question type="gapselect">
+    <name>
+      <text>Warstwowa architektura aplikacji</text>
+    </name>
+    <questiontext format="markdown">
+      <text>[[1]] jest rodzajem abstrakcji pozwalającym na projektowanie [[3]] programu reprezentującej hierarchię zależności elementów składowych programu należących do [[1]]. W tej [[3]] [[1]] łączą relacje zależności w taki sposób, że każda [[1]] z wyjątkiem najniższej jest zależna wyłącznie od [[1]] niższych. [[1]] najniższa nie jest uzależniona od istnienia żadnej innej [[1]]. Analogicznie od [[1]] najwyższej nie jest uzależniona żadna inna [[1]]. Zależność w kontekście programu oznacza wykorzystanie [[5]] eksponowanych przez inną [[1]]. Wszystkie [[5]] eksponowane przez [[1]] tworzą [[8]] dla [[1]]. [[7]] [[8]] [[10]] być abstrakcyjne by ukryć szczegóły implementacyjne [[1]].</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>5.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>Warstwa</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Klasa</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Architektura</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Struktura</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Definicja</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Implementacja</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Deklaracja</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>API</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>mogą</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>powinny</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198496  -->
+  <question type="matching">
+    <name>
+      <text>Współdziałanie</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Dopasuj terminy do odpowiednich opisów. Nie wszystkie terminy mają opis i mogą być wykorzystane w dopasowaniu.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="markdown">
+      <text>- Wykonywanie operacji jako efekt zdarzeń niedeterministycznych
+- Brak współdzielonych zasobów</text>
+      <answer>
+        <text>Programowanie asynchroniczne</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>- Sekwencja operacji jest efektem zdarzeń niedeterministycznych
+- Współdzielone zasoby</text>
+      <answer>
+        <text>Programowanie współbieżne</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>- Jednoczesne wykonywanie różnych operacji programu</text>
+      <answer>
+        <text>Programowanie równoległe</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>- Konieczność uwzględnienia czasu jako czynnika determinującego poprawność programu</text>
+      <answer>
+        <text>Programowanie czasu rzeczywistego</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Programowanie sekwencyjne</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Programowanie dynamiczne</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Programowanie obiektowe</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Programowanie funkcyjne</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 198493  -->
+  <question type="multichoice">
+    <name>
+      <text>Architektura aplikacji</text>
+    </name>
+    <questiontext format="markdown">
+      <text>W celu ułatwienia pracy zespołowej i testowania zwykle w architektura programu wyróżnia się możliwie niezależne warstwy o dedykowanych funkcjach zależnych od wybranego modelu. W trakcie zajęć odwoływaliśmy się do modeli:
+
+- Prezentacja, logika, dane
+- Widok, model widoku i model (MVVM)
+
+Jakie koncepcje, konstrukcje językowe i technologie można wykorzystać w realizacji takiego podejścia:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>5.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="markdown">
+      <text>Abstrakcja (Interfejs, klasa abstrakcyjna), która pozwala ukryć nieistotne szczegóły warstwy</text>
+      <feedback format="markdown">
+        <text>To jest dobra odpowiedz, faktycznie abstrakcja ułatwia zastosowanie architektury warstwowej</text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>Kompilacja rozłączna, która pozwala tworzyć osobne niezależnie opracowywane i testowane komponenty.</text>
+      <feedback format="html">
+        <text>To oczywiście poprawna odpowiedź. Kompilacja rozłączna jest podstawowym narzędziem do implementacji warstw i zapewnienia niezależności warstwy od jej użytkownika.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>Refleksja, która umożliwia dostęp do metadanych programu (warstwy) i używanie warstwy bez bezpośredniego dostępu do definicji oferowanej funkcjonalności na jej granicy.</text>
+      <feedback format="markdown">
+        <text>O ile refleksja może się przydać w niektórych szczególnych przypadkach do implementacji warstw, to nie jest to technologia bazowa dla tej koncepcji. W związku z tym odpowiedzi tej nie można uznać za poprawną.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>Polimorfizm, który pozwala zaimplementować wybraną funkcjonalność na kilka różnych sposobów w  warstwie.</text>
+      <feedback format="markdown">
+        <text>Jest to zła odpowiedź. Polimorfizm, jak zaznaczono w odpowiedzi, wpływa na realizację funkcjonalności, a nie na to, co jest oferowane w zakresie funkcjonalności.</text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>Zbiory typów, które możemy grupować w przestrzenie nazw i ograniczać ich uzależnienie od typów znajdujących się w warstwie poniżej.</text>
+      <feedback format="markdown">
+        <text>To poprawna odpowiedź.</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198505  -->
+  <question type="multichoice">
+    <name>
+      <text>Komunikacja klient/serwer</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Zaznacz wszystkie poprawne i wyczerpujące stwierdzenia opisujące komunikację klient/serwer</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>5.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="markdown">
+      <text>tworzy ścisły związek pomiędzy parą programów realizowanych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>tworzy luźny związek pomiędzy parą programów realizowanych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>wymaga zastosowania protokołu połączeniowego to utworzenia połączenia</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="markdown">
+      <text>tworzy sesję po połączeniu, która odpowiada za zarządzanie stanem współdziałania</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>automatycznie tworzy kontekst semantyczny zapewniający współdziałanie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198506  -->
+  <question type="multichoice">
+    <name>
+      <text>Komunikacja publisher/subscriber</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Zaznacz wszystkie poprawne i wyczerpujące stwierdzenia opisujące komunikację publisher/subscriber.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="-16.66667" format="markdown">
+      <text>tworzy ścisły związek pomiędzy parą programów realizowanych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>tworzy luźny związek pomiędzy parą programów realizowanych niezależnie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.66667" format="html">
+      <text>wymaga zastosowania protokołu bezpołączeniowego do zapewnienia wymiany danych</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.66667" format="markdown">
+      <text>subskrypcja tworzy kontekst zapewniający komunikację dwukierunkową</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.66667" format="html">
+      <text>tworzy sesję po połączeniu, która odpowiada za zarządzanie stanem współdziałania</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.66667" format="markdown">
+      <text>automatycznie tworzy kontekst semantyczny zapewniający współdziałanie</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.66667" format="markdown">
+      <text>automatycznie tworzy kontekst bezpieczeństwa zapewniający ochronę danych przed wykorzystaniem w sposób nieupoważniany</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>subskryber nie może określić źródła pochodzenia otrzymywanych danych</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>publisher nie może swobodnie wybierać do kogo dane mają być wysłane</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198494  -->
+  <question type="multichoice">
+    <name>
+      <text>Warstwa Programu</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Wybierz **poprawne i kompletne** sformułowania dotyczące tworzenia aplikacji warstwowej. Warstwa w programie to:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="markdown">
+      <text>określony zbiór typów odwołujących się wyłącznie do warstwy poniżej.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>określony zbiór typów odwołujących się do kilku warstw</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="markdown">
+      <text>zbiór typów nazwany z wykorzystaniem przestrzeni nazw</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="markdown">
+      <text>określony zbiór funkcji</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="markdown">
+      <text>określony zbiór obiektów</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Domyślna dla: TPUM/Sprawdzian #2</text>
+    </category>
+    <info format="markdown">
+      <text>Test dla Sprawdzian \#2</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 198945  -->
+  <question type="gapselect">
+    <name>
+      <text>Komunikacja M2M</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Dla komunikacji typu maszyna - maszyna (ang. Machine to Machine communication (M2M)) cechą wyróżniającą jest [[1]].</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text> brak interakcji z człowiekiem</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>odpowiedni interfejs graficzny użytkownika</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198953  -->
+  <question type="gapselect">
+    <name>
+      <text>Metadane</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Pisząc program w C# do opisu danych używamy metadanych, którymi są  [[1]]</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>typy</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>komentarze</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>dokumentacja</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198950  -->
+  <question type="gapselect">
+    <name>
+      <text>Object-Oriented Internet</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Object Oriented Internet to [[2]]</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>to protokół komunikacyjny</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>to paradygmat tworzenia aplikacji rozproszonych</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 198952  -->
+  <question type="matching">
+    <name>
+      <text>Aplikacja interaktywna/reaktywna</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Aplikacja interaktywna/reaktywna - dopasuj</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="markdown">
+      <text>rozproszona aplikacja interaktywna</text>
+      <answer>
+        <text>bazuje na współdziałaniu client/server i tworzonej przez nich sesji niezbędnej do późniejszej wymiany danych</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>rozproszona aplikacja reaktywna</text>
+      <answer>
+        <text>bazuje na współdziałaniu systemów operacyjnych</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>bazuje na współdziałaniu procesów z wykorzystaniem protokołu WebSocket</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>bazuje na współdziałaniu procesów z wykorzystaniem protokołu WebSocket</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 198906  -->
+  <question type="matching">
+    <name>
+      <text>Pytanie o zrozumienie treści zadania</text>
+    </name>
+    <questiontext format="markdown">
+      <text>W treści zadania projektowego `projekt aplikacja mobilna` jest wymaganie:
+
+```TXT
+Opracować model danych z wykorzystaniem standardu OPC Unified Architecture i harmonizować używany model obiektowy z modelem wygenerowanym automatycznie przez wybrane narzędzie
+```
+
+Wybierz co oznaczają poszczególne frazy:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>3.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="markdown">
+      <text>używany model obiektowy</text>
+      <answer>
+        <text>zbiór typów reprezentujących używane dane</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>opracować model danych</text>
+      <answer>
+        <text>zdefiniować ekwiwalentne typy</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>harmonizować używany model obiektowy z modelem wygenerowanym automatycznie</text>
+      <answer>
+        <text>porównać wygenerowane definicje w C# z własnym kodem i umieć wyjaśnić różnice</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>zbiór obiektów utworzonych przez instancję programu</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>kontekst przetwarzania danych</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>zdefiniować ekwiwalentny kontekst</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 198951  -->
+  <question type="matching">
+    <name>
+      <text>Web Service (WS*)</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Web Service (WS*) to technologia komunikacyjna znormalizowana przez konsorcjum W3C w które (dopasuj)</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="markdown">
+      <text>XML</text>
+      <answer>
+        <text>jest używany do zapisu danych</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>WSDL</text>
+      <answer>
+        <text>jest używany do definiowania usług zdalnych</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>SOAP</text>
+      <answer>
+        <text>jest protokołem komunikacyjnym pozwalającym na zdalne operowanie na obiektach</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>UDDI</text>
+      <answer>
+        <text>jest katalogiem pozwalającym na znajdowanie definicji usług</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 198949  -->
+  <question type="multichoice">
+    <name>
+      <text>REST czym jest</text>
+    </name>
+    <questiontext format="markdown">
+      <text>REST - wybierz prawidłową odpowiedź</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="markdown">
+      <text>To protokół komunikacyjny</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>To technologia programowania</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="markdown">
+      <text>To koncepcja wykorzystania protokołu HTTP do pozyskiwania danych z serwera</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>To technologia bazująca na wykorzystaniu koncepcji sesji tworzonej przez klient/serwer</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="markdown">
+      <text>To koncepcja komunikacji pozwalająca zdefiniować kontekst semantyczny dla aplikacji rozproszonych</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198907  -->
+  <question type="truefalse">
+    <name>
+      <text>Co to jest aplikacja rozproszona #1</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Aplikacja rozproszona to zbiór procesów wspólnie realizujących wybrane zadania, aby zrealizować wspólny cel.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198908  -->
+  <question type="truefalse">
+    <name>
+      <text>Co to jest aplikacja rozproszona #2</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Aplikacja rozproszona to zbiór procesów komunikujących się wyłącznie poprzez sieć komputerową, które wspólnie realizują wybrane zadania, aby osiągnąć wspólny cel.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198510  -->
+  <question type="truefalse">
+    <name>
+      <text>HTTP</text>
+    </name>
+    <questiontext format="markdown">
+      <text>HTTP to protokół komunikacyjny bezpołączeniowy.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198511  -->
+  <question type="truefalse">
+    <name>
+      <text>HTTP Sesja</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Protokół HTTP jest bezpołączeniowy i w związku z tym jego zastosowanie uniemożliwia utworzenie sesji.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198954  -->
+  <question type="truefalse">
+    <name>
+      <text>Kontekst semantyczny</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Kontekst semantyczny to uzgodnienie pomiędzy komunikującymi się procesami alfabetu, składni i semantyki przesyłanych pomiędzy nimi danych.</text>
+    </questiontext>
+    <generalfeedback format="markdown">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198957  -->
+  <question type="truefalse">
+    <name>
+      <text>Przetwarzanie w chmurze</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Przetwarzanie w chmurze to subskrypcja usług informatycznych.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198508  -->
+  <question type="truefalse">
+    <name>
+      <text>REST</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>REST to protokół komunikacyjny bezpołączeniowy.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198509  -->
+  <question type="truefalse">
+    <name>
+      <text>REST - komunikacja reaktywna</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Komunikacja klient/serwer z wykorzystaniem REST to typowy przykład komunikacji interaktywnej synchronicznej.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198948  -->
+  <question type="truefalse">
+    <name>
+      <text>REST to protokół</text>
+    </name>
+    <questiontext format="markdown">
+      <text>REST jest protokołem komunikacyjnym.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198946  -->
+  <question type="truefalse">
+    <name>
+      <text>Serializacja/deserializacja</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Serializacja/deserializacja jest przydatna do budowy aplikacji rozproszonych, ale da się ją wyeliminować.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198955  -->
+  <question type="truefalse">
+    <name>
+      <text>Uzgodnienie kontekstu semantycznego (code first)</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Jedną z metod uzgodnienia kontekstu semantycznego jest współużytkowanie tych samych definicji typów pod warunkiem, że programy tworzące aplikację rozproszoną są napisane w tym samym języku.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198956  -->
+  <question type="truefalse">
+    <name>
+      <text>Uzgodnienie kontekstu semantycznego (DSL)</text>
+    </name>
+    <questiontext format="markdown">
+      <text>W przypadku, gdy programy tworzące aplikację rozproszoną są napisane w różnych językach programowania, kontekst semantyczny można utworzyć stosując Domain Specyfic Language do definicji typów wymienianych danych.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198905  -->
+  <question type="truefalse">
+    <name>
+      <text>WebSocket bezpołączeniowy</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Czy WebSocket to protokół komunikacyjny, który nie tworzy sesji?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198947  -->
+  <question type="truefalse">
+    <name>
+      <text>Wykorzystanie obiektów do komunikacji</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Aplikacja rozproszona wymaga wymiany danych pomiędzy poszczególnymi procesami ją tworzącymi.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Domyślna dla: TPUM/Sprawdzian #3 Bezpieczeństwo</text>
+    </category>
+    <info format="markdown">
+      <text>Pytania dotyczące wykładu \#6 Bezpieczeństwo</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 201910  -->
+  <question type="gapselect">
+    <name>
+      <text>Klucz sesji - procedura</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Aby wykorzystać kryptografię asymetryczną do bezpiecznego uzgodnienia klucza sesji, partnerzy powinni:
+
+- Zaszyfrować [[1]] wybranym [[2]]
+- Przesłać szyfrogram do ostatecznego miejsca przeznaczenia
+- Deszyfrować [[1]] odpowiednim [[3]]</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>4.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>0</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>klucz  symetryczny</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>klucz  publiczny</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>klucz  prywatny</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>skrót</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>tekst</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>strumień</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 201828  -->
+  <question type="gapselect">
+    <name>
+      <text>Składowe bezpieczeństwa</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Poprawa bezpieczeństwa polega na:
+
+- zastosowaniu odpowiedniej [[1]], która narzucają odpowiedni sposób prowadzenia działań
+- zastosowaniu odpowiedniej [[2]], która określa odpowiednie środki techniczne</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>procedura</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>technologia</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>Klucz</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>funkcja mieszania</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>algorytm szyfrowania</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 201799  -->
+  <question type="gapselect">
+    <name>
+      <text>Szyfrowanie danych</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Szyfrowanie [[1]] polega na zastąpieniu [[2]] strumieniem [[3]], w którym przestają obowiązywać pierwotne [[4]] To powoduje, że, w konsekwencji do takiego strumienia nie można zastosować [[5]] a więc przypisania reprezentowanej [[6]].</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>danych </text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>strumień bitów</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>ekwiwalentny</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>reguły składniowe</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>reguły semantyczne</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>informacji</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>tekst</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>alfabet</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>przypadkowy</text>
+      <group>1</group>
+    </selectoption>
+  </question>
+
+<!-- question: 201778  -->
+  <question type="multichoice">
+    <name>
+      <text>Niewyrzekanie się</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Niewyrzekanie się to</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Twoja odpowiedź jest poprawna.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Twoja odpowiedź jest częściowo poprawna.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Twoja odpowiedź jest niepoprawna.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="markdown">
+      <text>ochrona danych przed modyfikacją</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ochrona danych przed niepowołanym dostępem</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>zagwarantowanie niekwestionowanego autorstwa</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 201863  -->
+  <question type="shortanswer">
+    <name>
+      <text>Funkcja skrótu</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Funkcja skrótu generuje wartość, która powinna być różna dla różnych strumieni bitów. W przypadku, gdy generowana jest taka sam wartość mówimy o:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>koliz*</text>
+      <feedback format="markdown">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 201867  -->
+  <question type="truefalse">
+    <name>
+      <text>Funkcja skrótu - wartość</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Wartość wybranej funkcji skrótu jest ciągiem bitów o ścisłe określonej długości.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 201808  -->
+  <question type="truefalse">
+    <name>
+      <text>Integralność danych</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Zapewnienie integralności danych chroni reprezentowaną prze nie informację przed dostępem osób postronnych.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 201858  -->
+  <question type="truefalse">
+    <name>
+      <text>Podpis cyfrowy</text>
+    </name>
+    <questiontext format="markdown">
+      <text>W kryptografii asymetrycznej wejście w posiadanie klucza, służącego do sprawdzania podpisu cyfrowego, przez osoby postronne należy uważać za naruszenie kontekstu bezpieczeństwa.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 201894  -->
+  <question type="truefalse">
+    <name>
+      <text>Podpis cyfrowy - definicja</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Podpis cyfrowy wybranego ciągu bitów to zaszyfrowana kluczem prywatnym wartość skrótu dla tego ciągu.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 201841  -->
+  <question type="truefalse">
+    <name>
+      <text>Składanie bezpieczeństwa p2p</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Jeśli dane są retransmitowane przez wile węzłów sieci komputerowej, to bezpieczne połączenie pomiędzy poszczególnymi węzłami (zwane bezpieczeństwem p2p) jest wystarczające do zagwarantowania bezpieczeństwa pomiędzy ich źródłem a ostatecznym odbiorcą (zwane bezpieczeństwem end-to-end).</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 201848  -->
+  <question type="truefalse">
+    <name>
+      <text>Szyfrowanie symetryczne</text>
+    </name>
+    <questiontext format="markdown">
+      <text>W kryptografii symetrycznej do szyfrowania i deszyfrowania używa się identycznych kluczy, które muszą być w posiadaniu nadawcy i odbiorcy danych.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

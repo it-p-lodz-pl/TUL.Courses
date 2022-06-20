@@ -124,7 +124,7 @@ Jakie koncepcje, konstrukcje językowe i technologie można wykorzystać w reali
 
 Wybierz **poprawne i kompletne** sformułowania dotyczące tworzenia aplikacji warstwowej. Warstwa w programie to:
 
-- określony zbiór typów odwołujących się wyłącznie do innej warstwy
+- określony zbiór typów odwołujących się wyłącznie do warstwy poniżej
 - określony zbiór typów odwołujących się do kilku warstw
 - zbiór typów nazwany z wykorzystaniem przestrzeni nazw
 - określony zbiór funkcji
