@@ -22,7 +22,7 @@
   - [Lab Time Slot Reservation](#lab-time-slot-reservation)
 - [Final grades](#final-grades)
   - [Additional opportunity to earn points for activity](#additional-opportunity-to-earn-points-for-activity)
-  - [Activity points final summary](#activity-points-final-summary)
+  - [I have just published the last seminar activity](#i-have-just-published-the-last-seminar-activity)
   - [Final grades published](#final-grades-published)
 
 ## Seminar invitation
@@ -180,13 +180,15 @@ Due to the upcoming end of the semester, the activity described in (1) will soon
 
 Check out the documents listed above to get details. This opportunity is only available to students who have already passed (are graded) the project. Each project can only be assigned to one person, regardless of the course (projects are also offered in my other courses) - ask about availability and book ASAP.
 
-### Activity points final summary
+### I have just published the last seminar activity
 
-It was the last opportunity to gather activity points. Provide the total in the online text window using the following template:
+Let me inform you that I have just published the last seminar outcomes. Review the file and report your result using `Seminar activity` - each answer = 1 pts. Report your scores using comments. Your achievements must be reported before the next lesson.
+
+It was the last opportunity to gather activity points during the seminar. Provide the total in the online text window using the following template:
 
 `Total= <scores>`
 
-and submit the task as soon as possible but not later than Sunday, 27 June 2021, 12:00 AM.
+and submit the task as soon as possible but no later than Sunday, 03 July 2022.
 
 ### Final grades published
 
