@@ -194,23 +194,29 @@ and submit the task as soon as possible but no later than Sunday, 03 July 2022.
 
 Hi All,
 
-We are approaching the end of the semester so it is time to finalize your grading process. I have just updated the grades so I will appreciate checking your reports up to **dd-mm-yy**.
+We are approaching the end of the semester so it is time to finalize your grading process. I have just updated the grades so I will appreciate checking your results as soon as possible.
 
-Let me recall that there is the seminar example code. Have a look at
+If you want to improve your test scores the last possibility to solve the test will be tomorrow this year (the last day of the assessment period before the vacation break), i.e. on 06-07-2022 at 16:45. Let me recall that the final grade for the test is calculated as the average of all attempts scores, so it is possible to decrease and increase the final result.  Anyway, you are welcome to participate once more.
+
+After the test, I will generate the final report and any modification of the grades will be almost impossible.
+
+Again, let me recall that there is the seminar example code. Have a look at
 
 - [https://github.com/mpostol/TP](https://github.com/mpostol/TP)
 
-The lecture recordings are here:
+To be in touch please start watching the repository.
+
+The lecture recordings are available here:
 
 - [youtube.com](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)
 
-To be in touch please join the Gitter chat
+Because based on this course I am going to publish a course on udemy.com you can subscribe to an existing free course to follow any of my publishing activities by joining the community at:
 
-- [https://gitter.im/mpostol/TP](https://gitter.im/mpostol/TP)
+[https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
 
 Contact me in any case you will have questions.
 
-Thank you very much for your engagement. I believe the effort will be rewarded in your real life.
+Thank you very much for your engagement and participation. I believe the effort will be rewarded and will make your real life easier.
 
 **Good luck**:
 
