@@ -24,6 +24,7 @@
   - [Additional opportunity to earn points for activity](#additional-opportunity-to-earn-points-for-activity)
   - [I have just published the last seminar activity](#i-have-just-published-the-last-seminar-activity)
   - [Final grades published](#final-grades-published)
+  - [The end of the semester is approaching](#the-end-of-the-semester-is-approaching)
 
 ## Seminar invitation
 
@@ -86,7 +87,7 @@ It is possible to enroll in the course as an Erasmus student, but it is late enr
 1. Read carefully the documents provided on this page and join the appropriate project group using the module Laboratory group selection. You may advertise your willingness to find someone to make a team using the entry on Teams at: [Pairs selection](https://teams.microsoft.com/l/message/19:AUB8jKBn0SgWb7LuqrHCc6otW_wehGEOQ9F80Bpt1uU1@thread.tacv2/1646841286339?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=671706ef-d5ee-40b7-8bdb-0346cf339d2a&parentMessageId=1646841286339&teamName=22-Programming%20Technologies&channelName=General&createdTime=1646841286339).
 1. It is possible to adjust deadlines for you in advance - send me a proposal to follow up provided you need to modify them, otherwise let me keep them intact. It must be done in advance.
 1. Please join the current team on Teams: 22-Programming. Instruction is at the top of the course working space.
-1. You must accomplish the task 0 – read carefully assessment rules. Again, because of your late enrollment I can consider your proposal to change the schedule for you, but I must get your proposal ASAP. 
+1. You must accomplish the task 0 – read carefully assessment rules. Again, because of your late enrollment I can consider your proposal to change the schedule for you, but I must get your proposal ASAP.
 
 In case of problem or questions, you may have I can organize a consultancy meeting 😊 on Teams.
 
@@ -112,7 +113,7 @@ According to the curse rules all group members have to use the personal GitHub r
 
 ### Task 1 Check list publication
 
-As I did promise today I have just published the file `Task 1 Check list.md` to help you apply self-assessment. Copy the content of this file to a new GitHub issue to get a list of tasks prefixed by checkboxes. You can use them to control the scope and progress of your work. Add an issue like that before the final code assessment. 
+As I did promise today I have just published the file `Task 1 Check list.md` to help you apply self-assessment. Copy the content of this file to a new GitHub issue to get a list of tasks prefixed by checkboxes. You can use them to control the scope and progress of your work. Add an issue like that before the final code assessment.
 BTW; let stress again. To accomplish Task 1 it is not required
 
 - to use external data sources, as files, databases, etc.
@@ -217,6 +218,35 @@ Because based on this course I am going to publish a course on udemy.com you can
 Contact me in any case you will have questions.
 
 Thank you very much for your engagement and participation. I believe the effort will be rewarded and will make your real life easier.
+
+**Good luck**:
+
+- Mariusz Postół Ph. D.
+- Institute of Information Technology
+- Technical University of Lodz
+- Email: mariusz.postol@p.lodz.pl
+
+### The end of the semester is approaching
+
+Hello Students,
+
+We are approaching the end of the semester so it is time to finalize your grading process. Before the vacation, I updated the grades so I will appreciate checking your results as soon as possible.
+
+Again, let me recall that there is an example code. Have a look at
+
+- [https://github.com/mpostol/TP](https://github.com/mpostol/TP)
+
+To be in touch please start watching the repository.
+
+Based on the classes I am going to publish a video course. Check out the introduction to get more:
+
+[https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
+
+Let me inform you that working on a new course titled "Information Computation" I have just added a [new lesson on Object-oriented programming](https://github.com/mpostol/TP/discussions/263).
+
+Thank you very much for your engagement and participation. I believe that the effort will be rewarded and will make your real life easier.
+
+Contact me in any case you will have questions.
 
 **Good luck**:
 
