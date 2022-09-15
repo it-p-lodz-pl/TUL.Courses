@@ -29,6 +29,7 @@
   - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
   - [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
   - [Wakacje czas zacząć](#wakacje-czas-zacząć)
+  - [Koniec semestru](#koniec-semestru)
 
 
 ## Organizacja
@@ -276,3 +277,21 @@ Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani
 
 [wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
 [wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
+
+### Koniec semestru
+
+Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Jeszcze pred wakacjami wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
+
+Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP.
+
+Przypominam również o możliwości współpracy w ramach projektu open source [Object-Oriented Internet](https://github.com/mpostol/OPC-UA-OOI) - jest tam kilka tematów nadających się na prace mgr. Wszystkich zainteresowanych proszę o kontakt poprzez email lub Teams.
+
+Ponieważ na podstawie tego kursu zamierzam opublikować kurs na udemy.com, możesz zapisać się do istniejącego bezpłatnego kursu, aby śledzić moje działania wydawnicze, dołączając do społeczności pod adresem:
+
+[https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
+
+Pragnę poinformować, że pracując nad nowym kursem zatytułowanym "Information Computation" właśnie dodałem [nową lekcję na temat programowania obiektowego](https://github.com/mpostol/TP/discussions/263). Mam wrażenie, że dla niektórych to nadal brakująca i bardzo potrzebna wiedza. W pliku `README` jest dość szczegółowy opis przykładów.
+
+Jeszcze raz dziękuję za udział w przedmiocie.
+
+Powodzenia!
