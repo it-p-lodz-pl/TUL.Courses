@@ -30,6 +30,7 @@
   - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
   - [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
   - [Wakacje czas zacząć](#wakacje-czas-zacząć)
+  - [Koniec semestru](#koniec-semestru)
 
 ## Zaproszenie na zajęcia projektowe
 
@@ -246,5 +247,23 @@ Ci, którzy potrzebują uzupełnić braki, mają możliwość skorzystania z nag
 
 Życzę Wam i sobie zdrowych, pogodnych i bezpiecznych wakacji - trochę normalności w dobie nienormalności.
 
-[wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
-[wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
+- [wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
+- [wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
+
+### Koniec semestru
+
+Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach PW. Jeszcze pred wakacjami wystawiłem oceny cząstkowe, więc proszę sprawdzić czy zostały poprawnie uwzględnione w ocenie końcowej. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
+
+Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP.
+
+Przypominam również o możliwości współpracy w ramach projektu open source [Object-Oriented Internet](https://github.com/mpostol/OPC-UA-OOI) - jest tam kilka tematów nadających się na prace dyplomowe. Wszystkich zainteresowanych proszę o kontakt poprzez email lub Teams.
+
+Na podstawie naszych zajęć zamierzam opublikować kurs wideo. Zapraszam do obejrzenia wprowadzenia, aby dowiedzieć się więcej:
+
+[https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
+
+Pragnę również poinformować, że pracując nad nowym kursem zatytułowanym "Information Computation" właśnie dodałem [nową lekcję na temat programowania obiektowego](https://github.com/mpostol/TP/discussions/263). Mam wrażenie, że dla niektórych to nadal brakująca i bardzo potrzebna wiedza. W pliku `README` jest dość szczegółowy opis przykładów.
+
+Jeszcze raz dziękuję za udział w przedmiocie.
+
+Powodzenia!
