@@ -1,16 +1,16 @@
 # 1. Programowanie urządzeń mobilnych
 
-## 1.1. Wersja folmularz (R)
+## 1.1. Wersja formularza (R)
 
 2020 ~~| 1990 ~~
 
 ## 1.2. Kod przedmiotu (R)
 
-0769123030
+0769141023
 
 ## 1.3. Liczba punktów ECTS (R)
 
-4
+5
 
 ## 1.4. Nazwa (R)
 
@@ -37,6 +37,7 @@ Instytut Informatyki
 | Inne  |         20         |   X    |   0    |
 | Proj. |         30         |   X    |   40   |
 | Wykl. |         15         |   X    |   60   |
+| Suma  |         90         |        |        |
 
 ## 1.8. Kierownik Przedmiotu (R)
 
@@ -48,11 +49,11 @@ dr inż. Mariusz Postół
 
 ### 1.10.1. PL
 
-Podstawy programowania w dowolnym języku programowania. Umiejętności nabyte na przedmiotach: Podstawy programowania - 07 67 1030 17, Programowanie komponentowe - 07 67 4010 17, Programowanie obiektowe - 07 67 3010 17, Algorytmy i struktury danych - 07 67 1010 17.
+Podstawy programowania w dowolnym języku programowania. Umiejętności nabyte na przedmiotach: Podstawy programowania, Programowanie komponentowe, - Programowanie obiektowe, Algorytmy i struktury danych, Podstawy sieci komputerowych
 
 ### 1.10.2. EN
 
-Fundamentals of programming in any programming language. Skills acquired on other courses: Fundamentals of Programming - 07 67 1030 17, Component Programming - 07 67 4010 17, Object Oriented Programming - 07 67 3010 17, Algorithms and Data Structures - 07 67 1010 17.
+Fundamentals of programming in any programming language. Skills acquired in other courses: Fundamentals of Programming, Component Programming, Object Oriented Programming, Algorithms and Data Structures, Fundamentals of Computer Networks
 
 ## 1.11. Efekty uczenia
 
@@ -62,7 +63,7 @@ Fundamentals of programming in any programming language. Skills acquired on othe
 1. 224037 Student potrafi opisać działanie popularnych systemów mobilnych
 1. 224038 Student potrafi analizować kod aplikacji
 1. 224039 Student potrafi wykorzystywać nowoczesne technologie w projektowaniu aplikacji mobilnych
- 
+
 ### 1.11.2. EN
 
 1. 224040 Student is able to design applications for mobile systems
@@ -74,62 +75,114 @@ Fundamentals of programming in any programming language. Skills acquired on othe
 
 ### 1.12.1. PL
 
-1. test pisemny, odpowiedź ustna, projekt, obserwacja 
-2. test pisemny, odpowiedź ustna, projekt, obserwacja 
-3. odpowiedź ustna, projekt, obserwacja 
+1. test pisemny, projekt, obserwacja
+2. test pisemny, projekt, obserwacja
+3. odpowiedź ustna, projekt, obserwacja
 4. odpowiedź ustna, projekt
 
 ### 1.12.2. EN
 
-1. written test, oral response, project, observation 
-2. written test, oral response, project, observation 
-3. oral response, project, observation 
+1. written test, project, observation
+2. written test, project, observation
+3. oral response, project, observation
 4. oral response, project
- 
+
 ## 1.13. Formy i warunki zaliczenia
 
 ### 1.13.1. PL
 
+Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
+
+- **Wykład** ( <= 60 punktów):
+  - Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów
+  - Aktywności na wykładzie – maksymalnie 20 punktów
+- **Projekt** ( <= 40 punktów):
+  - oceniana jest realizacja 3 etapów projektu zgodnie z harmonogramem
+
 ### 1.13.2. EN
+
+- **Lecture** ( <= 60 points):
+  - Written test at the end of the semester - maximum 40 points
+  - Activities during the lecture - maximum 20 points
+- **Project** ( <= 40 points):
+  - the implementation of the 3 stages of the project in accordance with the schedule is being assessed
 
 ## 1.14. Szczegółowe treści
 
 ### 1.14.1. PL
 
-Systemy operacyjne dla urządzeń mobilnych Rodzaje aplikacji mobilnych Budowa interfejsu użytkownika dla urządzeń mobilnych Budowa aplikacji mobilnych dla serwisów chmurowych Użycie Web services Monetyzacja Model Mobile backend as a service
+1. Wprowadzenie
+2. Systemy scentralizowane
+3. Systemy rozproszone
+4. Współdziałanie
+5. Normalizacja - standaryzacja
+6. Przetwarzanie w chmurze
+7. Bezpieczeństwo
 
 ### 1.14.2. EN
 
-Operating systems for mobile devices Types of mobile applications Building a user interface for mobile devices Building mobile applications for cloud services Use of Web services Monetization Mobile backend as a service model
+1. Introduction
+2. Centralized systems
+3. Distributed systems
+4. Interaction
+5. Normalization - standardization
+6. Cloud computing
+7. Security
 
 ## 1.15. Literatura
 
-1. 135893 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter), Steve Krug, ISBN-10: 0321965515, 2014
-2. 135894 Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps, Theresa Neil, 2014
-3. 135895 Mobile Usability, Jakob Nielsen and Raluca Budiu, 2012
-4. 135896 Mobile HTML5: Using the Latest Today, Estelle Weyl, ISBN-10: 1449311415, 2015
+1. *C# 6.0. Kompletny przewodnik dla praktyków. Wydanie V*; Mark Michaelis, Eric Lippert; Wydawnictwo: Helion; 2016
+2. *Współbieżność w języku C#. Receptury*; STEPHEN CLEARY; Wydawnictwo: Helion; 20172
+3. *Dependency Injection in .NET*; Mark Seemann; Manning Publications; 2011
+4. [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
+5. Mariusz Postol, [Machine to Machine Semantic-Data Based Communication: Comprehensive Survey](https://www.researchgate.net/publication/341165347_Machine_to_Machine_Semantic-Data_Based_Communication_Comprehensive_Survey) chapter in book [Computer Game Innovations 2018](https://www.researchgate.net/publication/335524620_Computer_Game_Innovations_2018), Publisher: Lodz University of Technology Press; ISBN: 978-83-7283-999-2 (open access)
+
+- Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
+- Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
+  - Postół M. (2020) [Object-Oriented Internet Reactive Interoperability](https://www.researchgate.net/publication/341882427_Object-Oriented_Internet_Reactive_Interoperability), presentation, DOI: 10.13140/RG.2.2.33984.56323
+- [OPC UA Makes Reactive Object Oriented Internet Possible][wordpress.ReactiveOOI] (open access)
+- [IoT versus SCADA/DCS Data Acquisition Patterns][wordpress.IoTVersus] (open access)
+- [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
+- [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
+  - C# in Practice - set of C# examples targeting education purpose
+- [Mariusz Postol. OPC UA Information Model Deployment. 2016. Version 1.2][CAS.OPCUAIMD] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2586616.svg)](https://doi.org/10.5281/zenodo.2586616)
+- [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
+- [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
+- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
+- [Semantic-Data Processing Architecture](https://commsvr.gitbook.io/ooi/semantic-data-processing/semanticdata)
+- [Przykładowa implementacja repliki procesu - symulator boilerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
+
+[wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
+[wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
+[CAS.OPCUAIMD]: https://www.researchgate.net/publication/331565040_OPC_UA_INFORMATION_MODEL_DEPLOYMENT 
+
 
 ## 1.16. Literatura Uzupełniająca
 
-1. 135897 Corona SDK Mobile Game Development Beginners Guide - Second EditionMar by Michelle M. Fernandez 2015
-2. 135898 A Beginner's Guide to Web and Mobile Games with Unity by Patrick Felicia 2017
-3. 135899 Build Mobile Websites and Apps for Smart Devices, Earle Castledine, ISBN-10: 0987090844, 2011
+1. *Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku*; Erich Gamma; Helion; 2017
+2. *Oprogramowanie łatwe w utrzymaniu. Pisz kod podatny na przyszłe zmiany*; JOOST VISSER; Wydawnictwo: Helion; 2016
+3. *Reactive Programming for .NET Developers*; Antonio Esposito; Michael Ciceri; Packt Publishing; 2016
+4. *Entity Framework Core Cookbook - Second Edition*; Ricardo Peres; Packt Publishing; 2016 
 
 ## 1.17. Bilans Godzin (R)
 
 |  Opis (PL)   | Opis (EN) | Bilans godzin |
 | :----------: | :-------: | :-----------: |
-|    Wykład    |  Lecture  |      15       |
+|    Wykład    |  Lecture  |      25       |
 |   Projekt    |  Project  |      30       |
-|     Inne     |   Other   |      20       |
+|     Inne     |   Other   |      35       |
 | Praca własna |   work    |      20       |
-|     SUMA     |           |      85       |
+|     SUMA     |           |      110      |
 
 ## 1.18. Uwagi własne publikowane
 
 ### 1.18.1. PL
 
+Kurs i szczegóły są dostępne również na WIKAMPie dla anonimowych użytkowników: <https://ftims.edu.p.lodz.pl/course/view.php?id=1816>
+
 ### 1.18.2. EN
+
+Course and details are available also on WIKAMP for anonymous users:  <https://ftims.edu.p.lodz.pl/course/view.php?id=1816>
 
 ## 1.19. Uwagi własne prywatne
 

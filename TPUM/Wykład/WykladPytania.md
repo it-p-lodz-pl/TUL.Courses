@@ -1,7 +1,7 @@
 # Wykład pytania
 
 - [Wykład pytania](#wykład-pytania)
-  - [Wykład \#1 Wprowadzenie](#wykład-1-wprowadzenie)
+  - [Wykład #1 Wprowadzenie](#wykład-1-wprowadzenie)
     - [Dane składnia vs semantyka (tak/nie)](#dane-składnia-vs-semantyka-taknie)
     - [Informatyka](#informatyka)
     - [Warstwowa architektura aplikacji (wybór brakujących słów)](#warstwowa-architektura-aplikacji-wybór-brakujących-słów)
@@ -16,19 +16,19 @@
     - [Wykorzystanie GPS (tak/nie)](#wykorzystanie-gps-taknie)
     - [Aplikacja rozproszona](#aplikacja-rozproszona)
     - [M2M Communication](#m2m-communication)
-  - [Wykład \#2 Architektura](#wykład-2-architektura)
+  - [Wykład #2 Architektura](#wykład-2-architektura)
     - [Kontekst bezpieczeństwa (tak/nie)](#kontekst-bezpieczeństwa-taknie)
     - [Kontekst semantyczny](#kontekst-semantyczny)
     - [Komunikacja klient/serwer](#komunikacja-klientserwer)
     - [Komunikacja publisher/subscriber](#komunikacja-publishersubscriber)
-  - [Wykład \#3 Protokoły](#wykład-3-protokoły)
+  - [Wykład #3 Protokoły](#wykład-3-protokoły)
     - [WebSocket bezpołączeniowy](#websocket-bezpołączeniowy)
     - [WebSocket a komunikacja reaktywna](#websocket-a-komunikacja-reaktywna)
     - [REST](#rest)
     - [REST - komunikacja reaktywna](#rest---komunikacja-reaktywna)
     - [HTTP](#http)
     - [HTTP Sesja](#http-sesja)
-  - [Wykład \#4 Semantyka danych - interoperacyjność](#wykład-4-semantyka-danych---interoperacyjność)
+  - [Wykład #4 Semantyka danych - interoperacyjność](#wykład-4-semantyka-danych---interoperacyjność)
     - [Pytanie o zrozumienie treści zadania](#pytanie-o-zrozumienie-treści-zadania)
     - [Co to jest aplikacja rozproszona #1](#co-to-jest-aplikacja-rozproszona-1)
     - [Co to jest aplikacja rozproszona #2](#co-to-jest-aplikacja-rozproszona-2)
@@ -38,15 +38,15 @@
     - [REST to protokół](#rest-to-protokół)
     - [REST czym jest](#rest-czym-jest)
     - [Object Oriented Internet](#object-oriented-internet)
-    - [Web Service (WS*)](#web-service-ws)
+    - [Web Service (WS\*)](#web-service-ws)
     - [Aplikacja interaktywna/reaktywna](#aplikacja-interaktywnareaktywna)
     - [Metadane](#metadane)
-  - [Wykład \#5 Przetwarzanie w chmurze](#wykład-5-przetwarzanie-w-chmurze)
+  - [Wykład #5 Przetwarzanie w chmurze](#wykład-5-przetwarzanie-w-chmurze)
   - [Kontekst semantyczny (tak/nie)](#kontekst-semantyczny-taknie)
   - [Uzgodnienie kontekstu semantycznego (code first)](#uzgodnienie-kontekstu-semantycznego-code-first)
   - [Uzgodnienie kontekstu semantycznego (DSL)](#uzgodnienie-kontekstu-semantycznego-dsl)
     - [Przetwarzanie w chmurze (tak/nie)](#przetwarzanie-w-chmurze-taknie)
-  - [Wykład \#6 Bezpieczeństwo komunikacji](#wykład-6-bezpieczeństwo-komunikacji)
+  - [Wykład #6 Bezpieczeństwo komunikacji](#wykład-6-bezpieczeństwo-komunikacji)
     - [Niewyrzekanie się](#niewyrzekanie-się)
     - [Szyfrowanie danych](#szyfrowanie-danych)
     - [Integralność danych](#integralność-danych)
@@ -65,7 +65,7 @@
 
 Dana to znakowa reprezentacja informacji. Aby ta reprezentacja była wzajemnie jednoznaczna musimy zdefiniować: alfabet, czyli zbiór dopuszczalnych znaków, (b) składnię, czyli zbiór reguł określających znaczenie poprawnych ciągów znaków, (c) semantykę, czyli zbiór reguł określających, jak budować poprawne ciągi znaków.
 
-- fałśz
+- fałsz
 
 ### Informatyka
 

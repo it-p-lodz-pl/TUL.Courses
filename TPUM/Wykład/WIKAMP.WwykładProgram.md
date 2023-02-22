@@ -132,7 +132,6 @@
   - komunikacja maszyn
   - produkcja przez rożnych producentów
 
-
 ### Architektura - programowanie rozproszone
 
 Programowanie rozproszone
@@ -221,7 +220,7 @@ Cyber Physical Systems
 - Podstawowe operacje na ekranie pisz, czytaj, wykonaj,
 - aplikacja na żądanie - aplikacja mobilna wirtualny procesor język programowania
 - HTTP jest bezpołączeniowy czy implementuje klient serwer
-- czy mvvm to podwarstwy prezentacji 
+- czy mvvm to podwarstwy prezentacji
 - różnica pomiędzy danymi a modelem w mvvm
 - ograniczenia w komunikacji klient sewer
   - dynamiczny adres
@@ -230,11 +229,10 @@ Cyber Physical Systems
   - pulling - co to jest
 - czy podział aplikacje na dwie czyści burzy koncepcje warstw
 - standaryzacja
-  - papierowa - organizacje 
+  - papierowa - organizacje
   - de facto - firmowa
   - de facto - open source
 - Internet - co to jest
 - REST - co to jest, czy to jest standard - czy jest
-- WEBSOCKET podejście reaktywne, interaktywne, a asynchroniczne, sesja 
+- WEBSOCKET podejście reaktywne, interaktywne, a asynchroniczne, sesja
 - kiedy ciąg bitów jest tekstem
-

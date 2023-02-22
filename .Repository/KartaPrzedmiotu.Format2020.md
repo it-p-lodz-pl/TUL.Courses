@@ -26,6 +26,12 @@ Instytut Informatyki
 
 ## 1.7. Formy zajęć i liczba godzin w semestrze (R)
 
+| Forma | Godziny kontaktowe | Zdalne | Udział |
+| :---: | :----------------: | :----: | :----: |
+| Inne  |         B1         |   C1   |        |
+| Proj. |         B2         |   C2   |        |
+| Wykl. |         B3         |   C3   |        |
+
 ## 1.8. Kierownik Przedmiotu (R)
 
 dr inż. Mariusz Postół

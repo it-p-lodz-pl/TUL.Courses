@@ -31,7 +31,6 @@
   - [Wakacje czas zacząć](#wakacje-czas-zacząć)
   - [Koniec semestru](#koniec-semestru)
 
-
 ## Organizacja
 
 ### Zaproszenie do zespołu na platformie MS TEAMS
@@ -143,7 +142,7 @@ Czekam na woluntariusz(kę)/(a), z którą popracujemy w parach. Wymagania: pods
 
 Przypominam, że każdy uczestnik kursu musi być członkiem 1 lub 2 osobowego zespołu. Korzystając z modułu [Przydział do zespołu](https://ftims.edu.p.lodz.pl/mod/choicegroup/view.php?id=103711) można dokonać wyboru zespołu. Z powodu pomyłki w konfiguracji moduł ten był zablokowany do tej pory. Bardzo proszę o możliwie szybkie uzupełnienie wyboru, co pozwoli uzyskać dostęp do innych modułów opublikowanych w przedmiocie.
 
-Proszę niezwłocznie informować o wszelkich nieprawidłowościach pracy infrastruktury. Preferowany sposób informowania to odpowiedz do tego wątku. 
+Proszę niezwłocznie informować o wszelkich nieprawidłowościach pracy infrastruktury. Preferowany sposób informowania to odpowiedz do tego wątku.
 
 Jeśli ktoś nadal szuka pary do zespołu, to proszę o tym nadmienić w odpowiedzi do tego wątku. Natomiast, wszelkie propozycje proszę współpracy proszę kierować na prywatny czat.  
 
@@ -280,7 +279,7 @@ Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani
 
 ### Koniec semestru
 
-Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Jeszcze pred wakacjami wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
+Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Jeszcze przed wakacjami wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
 
 Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP.
 
