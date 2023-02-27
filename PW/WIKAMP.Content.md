@@ -10,10 +10,6 @@
   - [Podział roku akademickiego (Link)](#podział-roku-akademickiego-link)
   - [Kalendarz zajęć parzyste/nieparzyste (plik)](#kalendarz-zajęć-parzystenieparzyste-plik)
 - [Wykład](#wykład)
-  - [Streszczenie](#streszczenie)
-  - [Tematyka](#tematyka)
-  - [Seminarium aktywność](#seminarium-aktywność)
-  - [Kolokwium](#kolokwium)
 - [Projekt](#projekt)
   - [ZADANIE Tworzenie repozytorium](#zadanie-tworzenie-repozytorium)
     - [GitHub README.md template file](#github-readmemd-template-file)
@@ -32,9 +28,11 @@
 
 ## Programowanie współbieżne
 
-Proszę przekazać wszystkim zainteresowanym klucz do samodzielnego zapisu: **TPW**.
+Proszę przekazać wszystkim zainteresowanym klucz do samodzielnego zapisu: **TPW** do przedmiotu na WIKAMP'ie.
 
-Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na odległość na platformie TEAMS. W tym celu na TEAMS utworzony został zespół: [22-Programowanie Współbieżne](https://teams.microsoft.com/l/team/19%3aPIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1%40thread.tacv2/conversations?groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb). Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `3iouqb5`.
+Po zapisaniu do przedmiotu na WIKAMP'ie proszę niezwłocznie wybrać grupę projektową korzystając z modułu [Wybór grupy projektowej](https://ftims.edu.p.lodz.pl/mod/choicegroup/view.php?id=104421) w sekcji **Projekt**.
+
+Zajęcia projektowe są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TEAMS utworzony został zespół: [23-Programowanie Współbieżne](https://teams.microsoft.com/l/team/19%3azGScUjYf1dDRGsml_SDXjuYWI0TfmB89AlgII7xt6hg1%40thread.tacv2/conversations?groupId=b30cc295-927e-4110-8e79-d5caa709a543&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb). Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `9sbpve5`.
 
 ### Ogłoszenia
 
@@ -58,39 +56,7 @@ Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na
 
 ## Wykład
 
-### Streszczenie
-
-| Zajęcia | Tydzień  | Tytuł                                                    |      Data      | Link dla uczestnika  |  Hasło   |
-| :-----: | :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
-|  _____  | ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
-|    1    |    3     |                                                          |                |                      |          |
-|    2    |    4     |                                                          |                |                      |          |
-|    3    |    5     |                                                          |                |                      |          |
-|    4    |    7     |                                                          |                |                      |          |
-|    5    |    9     |                                                          |                |                      |          |
-|    6    |    11    |                                                          |                |                      |          |
-|    7    |    13    |                                                          |                |                      |          |
-|    8    |    15    |                                                          |                |                      |          |
-
-- `Link dla uczestnika`  oraz `Hasło` zostaną podane jak tylko będą dostępne (zwykle w dniu poprzedzającym zajęcia)
-
-### Tematyka
-
-`TPUM\WwykładProgram.md`
-
-### Seminarium aktywność
-
-Zdobyte punkt proszę  wpisywać w kolejne komentarze niezwłocznie, ale nie później niż do następnych zajęć.
-
-Po ostatnich zajęciach proszę podsumować punkty i ich sumę wpisać w pole tekstowe w poniższym formacie i przesłać zadanie do oceny.
-
-```TXT
-
-SUMA = n
-
-```
-
-### Kolokwium
+> Patrz WIKAMP; opracował Marcin Cegielski.
 
 ## Projekt
 
@@ -173,12 +139,12 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
   - Dane Graficzne
   - Dane strumieniowe (XML, JSON)
   - Bazy danych
-- [MPostol na GitHub](https://github.com/mpostol?tab=projects)
+- [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt)
+- [MPostol na GitHub](https://github.com/mpostol)
 - [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
-- [MPostol na Udemy kurs](https://www.udemy.com/user/mariusz-postol/)
-- [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
   - C# in Practice - set of C# examples targeting education purpose
-- [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
+- [MPostol na Udemy profil](https://www.udemy.com/user/mariusz-postol/)
+- [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
 - [MPostol na ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
 
 ### Testowanie
@@ -195,6 +161,3 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [XML => YAML](https://codebeautify.org/xml-to-yaml#)
 - [JSON => YAML,XML, CSV](https://jsonformatter.org/)
 - [json editor online/](https://jsoneditoronline.org/)
-
-[wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
-[wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
