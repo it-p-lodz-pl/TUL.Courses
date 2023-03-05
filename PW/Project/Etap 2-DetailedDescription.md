@@ -10,7 +10,8 @@ Ten etap służy również do zaimplementowania tych wymagań, które w poprzedn
 
 Celem tego etapu jest praktyczne zastosowanie:
 
-- architektury warstwowej
+- jednokierunkowej architektury warstwowej
+- dwukierunkowej komunikacji warstw
 - implementacji koncepcji sekcji krytycznej
 - testowania jednostkowego i integracyjnego
 - wstrzykiwania zależności (ang. Dependency Injection) (opcja)
@@ -37,15 +38,14 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 
 - Warstwa `Logika` powinna reprezentować wszystkie operacje realizowane w procesie implementacji zderzeń i informować warstwę `Model` o aktualnym położeniu kul
 - Warstwa `Dane` odpowiada za parametry kul (waga i średnica) i ruch kul
-- Proszę pamiętać, że `Dane` + `Logika` mogą zawierać sekcje krytyczne, a w konsekwencji rozwiązanie musi być odporne na zdarzenia jednoczesne
-- do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności
+- Proszę pamiętać, że `Dane` + `Logika` mogą zawierać sekcje krytyczne, a w konsekwencji rozwiązanie musi być odporne na zdarzenia współbieżne
 - do wykrywania zderzeń proszę rozważyć możliwość wykorzystania drzewa binarnego
 - pomocne będzie odprzęgnięcie warstw na potrzeby testowania używając abstrakcyjnego API, DI lub MOCK
 - do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności (DI)
 
 ## Zaliczenie
 
- W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu należy wykazać, że zostały zrealizowane punkty z listy kontrolnej zamieszczonej w osobnym pliku. W celu uniknięcia niespodzianek, przed oddaniem pracy do sprawdzenia, należy ten plik dodać do repozytorium i upewnić się samemu, ze wszystkie punkty listy kontrolnej zostały zrealizowane.
+W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu należy wykazać, że zostały zrealizowane punkty z listy kontrolnej zamieszczonej w osobnym pliku. W celu uniknięcia niespodzianek, przed oddaniem pracy do sprawdzenia, należy ten plik dodać do repozytorium jako issue i upewnić się samemu, ze wszystkie punkty listy kontrolnej zostały zrealizowane. Po upewnieniu się zamknąć issue. Utworzyć kolejne z tą samą listą kontrolną dla prowadzącego na potrzeby zaliczenia.
 
 ## Lista źródeł
 
