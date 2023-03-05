@@ -1,7 +1,5 @@
 # Projekt Etap 1 - szczegółowy opis
 
-## programowania interaktywne/reaktywne, IoC (ang. inversion of control)
-
 ## Cel
 
 To trzy etapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na  prostokątnej płaszczyźnie ograniczonej ścianami bocznymi.
@@ -31,7 +29,7 @@ Bardziej szczegółowo warstwy te opisano w rozdziale **Architektura**.
 
 Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane niezależnie z wykorzystaniem testów jednostkowych. Aby to było możliwe API warstwy `Dane` i `Logika` musi być zrealizowany jako wyraźnie wydzielone definicje abstrakcyjne.
 
-**UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania końcowej funkcjonalności, która opisana jest w kolejnych etapach
+**UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania końcowej funkcjonalności, która opisana jest w kolejnych etapach.
 
 ### Architektura
 
@@ -47,14 +45,14 @@ W tym etapie nie ma ograniczeń co do funkcjonalności tej warstwy, a w szczegó
 #### Warstwa `Prezentacja` - graficzny interfejs użytkownika (GUI)
 
 - Ta warstwa jest odpowiedzialna za inicjację programu (bootstrap) i jego zakończenie
-- Utworzyć okno główne aplikacji zawijające potrzebne kontrolki do monitorowania i sterowania procesem (współdziałanie interaktywne)
-- utworzyć w tym oknie ograniczona ścinami przestrzeń, w której poruszają się kule (współdziałanie reaktywne)
+- Utworzyć okno główne aplikacji zawierające  potrzebne kontrolki do monitorowania i sterowania procesem (współdziałanie interaktywne)
+- utworzyć w tym oknie ograniczoną ścinami przestrzeń, w której poruszają się kule (współdziałanie reaktywne)
 - zaprojektować interfejs graficzny wykorzystując język XAML
-- Wykorzystać API warstwy **Logika** do wizualizacji i sterowania procesem
+- Wykorzystać API warstwy **Logika** do wizualizacji i sterowania (np. zakończenie)
 
 Warstwa ta musi być zaimplementowana zgodnie ze wzorcem `Model-View-ViewModel` (`MVVM`). Oznacza to, że należy w niej wydzielić następujące warstwy wewnętrzne:
 
-- `View`: zawiera zestaw kontrolek bezpośrednio zapewniający interakcję pomiędzy użytkownikiem i programem oraz zaprojektowany z wykorzystaniem języka XAML (`*.xaml`).
+- `View`: zawiera zestaw kontrolek bezpośrednio zapewniający interakcję pomiędzy użytkownikiem i programem. Warstwę zaprojektować z wykorzystaniem języka XAML (`*.xaml`).
 - `ViewModel`: implementuje zachowanie się interfejsu użytkownika tak, aby wyświetlać aktualne dane i realizować polecenia użytkownika w zależności od stanu GUI. Warstwa odpowiedzialna za powiązanie kontrolek z API oferowanym przez warstwę `Model`
 - `Model`: odpowiedzialna za przechowywanie danych wyłącznie na potrzeby interfejsu użytkownika (GUI) i realizację operacji na danych z wykorzystaniem funkcjonalności oferowanej przez warstwę opisaną w **Warstwa `Logika`**,
 
@@ -68,7 +66,7 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 
 - Warstwy `Model`, `ViewModel`, `Dane` i `Logika` powinna być zrealizowana w technologii `.NET Standard`.
 - Warstwę `View` powinna być zrealizowana w technologii `WPF`.
-- Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie.
+- Warstwa `Logika` powinna reprezentować wszystkie operacje realizowane w wybranym procesie.
 - Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne.
 - Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`.
 - Warstwy powinny być luźno powiązane na potrzeby testowania używając DI lub MOCK.
@@ -78,7 +76,7 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 
 ## Zaliczenie
 
-W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu należy wykazać, że zostały zrealizowane punkty z listy kontrolnej zamieszczonej w osobnym pliku. Przed oddaniem pracy do sprawdzenia, należy ten plik dodać do repozytorium i upewnić sie samemu, ze wszystkie punkty listy kontrolnej zostały zrealizowane.
+W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu należy wykazać, że zostały zrealizowane punkty z listy kontrolnej zamieszczonej w osobnym pliku. Przed oddaniem pracy do oceny, należy ten plik dodać jako issue i upewnić się samemu, że wszystkie punkty listy kontrolnej zostały zrealizowane. Po upewnieniu się zamknąć issue. Utworzyć kolejne z tą samą listą kontrolna dla prowadzącego na potrzeby zaliczenia.
 
 ## Lista źródeł
 
