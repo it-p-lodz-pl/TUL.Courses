@@ -16,4 +16,4 @@ Jeśli mam listę kulek w tej warstwie, to czy żeby spełnić wymagania wystarc
 
 - "prove that the protection of data integration is implemented"
 
-Co oznacza integracja danych i jak ją chronic?
+Co oznacza integracja danych i jak ją chronić?
