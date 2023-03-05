@@ -11,14 +11,14 @@ Ten etap służy również do zaimplementowania tych wymagań, które w poprzedn
 Celem tego etapu jest praktyczne zastosowanie:
 
 - implementacji koncepcji programowania czasu rzeczywistego,
-- potwierdzenia wykorzystania programowania równoległego,
+- potwierdzenia wykorzystania programowania współbieżnego,
 - testowania jednostkowego i integracyjnego,
 - wstrzykiwania zależności (ang. Dependency Injection) (opcja)
 - wykorzystanie techniki MOCK (opcja)
 
 ## Opis zadania
 
-W tym etapie należy wykorzystać uprzednio stworzoną aplikację, w której dodatkowo należ wbudować elementy programowania czasu rzeczywistego, a więc zaimplementować takie  algorytmy, które będą wymagały wykorzystania czynnika czasu. Przykładowo może to być mechanizm logowania do pliku danych diagnostycznych o zachowaniu się kul. W takim przykładzie należy uwzględnić możliwość chwilowego braku odpowiedniej przepustowości kanałów zapisu do pliku. Dane diagnostyczne do zapisu powinny byc przygotowane z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML.
+W tym etapie należy wykorzystać uprzednio stworzoną aplikację, w której dodatkowo należ wbudować elementy programowania czasu rzeczywistego, a więc zaimplementować takie algorytmy, które będą wymagały wykorzystania czynnika czasu. Przykładowo może to być mechanizm logowania do pliku danych diagnostycznych o zachowaniu się kul. W takim przykładzie należy uwzględnić możliwość chwilowego braku odpowiedniej przepustowości kanałów zapisu do pliku. Dane diagnostyczne do zapisu powinny byc przygotowane z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML.
 
 Program będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`. Bardziej szczegółowo warstwy opisano w rozdziale **Architektura** opisu do zadania `Projekt Etap 1`.
 
@@ -29,7 +29,7 @@ Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane niezależnie z
 Dodatkowe informacje ułatwiające wykonanie zadania:
 
 - Proszę zwrócić uwagę na konieczność zastosowania technologi programowania reaktywnego dla wybranych scenariuszy.
-- Niezbędna jest umiejętność wytłumaczenia czym różni się programowanie reaktywne od interaktywnego, synchroniczne od asynchronicznego i czasu rzeczywistego.
+- Niezbędna jest umiejętność wytłumaczenia czym różni się programowanie sekwencyjne od współbieżnego, reaktywne od interaktywnego, synchroniczne od asynchronicznego i co to jest programowanie czasu rzeczywistego.
 - Ważne jest, aby współdzielone dane były chronione sekcją krytyczną.
 - Prawidłowa implementacja sekcji krytycznej, zapobieganie zjawisku wyścigu i poprawna synchronizacja współbieżnych wątków są krytyczne dla programowania czasu rzeczywistego.
 - Pomocne w implementacji testów jednostkowych w miejsce testów integracyjnych jest wstrzykiwanie zależności i koncepcja MOCK.
