@@ -5,7 +5,7 @@
 - [General (section)](#general-section)
   - [Forum (Resource)](#forum-resource)
   - [Assessment – grading scale (page)](#assessment--grading-scale-page)
-  - [Calendar odd/even weeks for 2020 WinterFile (URL)](#calendar-oddeven-weeks-for-2020-winterfile-url)
+  - [Calendar odd/even weeks for the 22/23 Summer Semester (file)](#calendar-oddeven-weeks-for-the-2223-summer-semester-file)
 - [Seminar (Section)](#seminar-section)
   - [Seminar Timetable (Summary)](#seminar-timetable-summary)
   - [Table of topicsPage (Page)](#table-of-topicspage-page)
@@ -18,21 +18,25 @@
 - [Project (Section)](#project-section)
   - [Project deadlines and scores](#project-deadlines-and-scores)
   - [Project group selection (group selection)](#project-group-selection-group-selection)
-  - [Timetable (???) ✍🏻](#timetable--)
+  - [Timetable (page)](#timetable-page)
 - [Activity](#activity)
 - [`Recordings 2021 Summer` (section)](#recordings-2021-summer-section)
-- [Section `References`](#section-references)
+- [References (section)](#references-section)
   - [Online](#online)
   - [Books examples](#books-examples)
-- [Internal](#internal)
+- [Internal (section)](#internal-section)
 
 ## General (section)
 
 **General (General summary)**:
 
-All classes are conducted remotely. Project classes are conducted on the Teams platform. Please join the current team on Teams:
+The classes are conducted at the TUL premise. Please join the curse at WIKAMP using `PT` key but also the team:  
 
-- [21-Programming Technologies (PT) 2021 Summer](https://teams.microsoft.com/l/team/19%3a03bcf14941ef4c3aa956653bea3ce36b%40thread.tacv2/conversations?groupId=29e0c6e8-23fe-4380-a8b4-499e3af79359&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+- [23-Programming Technologies](https://teams.microsoft.com/l/team/19%3aFMPYJNeTBSVjhbJFkLDlZNjpmD2lR9sRlW6cKFCV3Iw1%40thread.tacv2/conversations?groupId=67683364-0df5-4344-8205-fae9214d1673&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+
+was created on the TEAMS platform. Please join it using the key: `vg28q9a`.
+
+Afterward, using the [Project Group Selection](https://ife.edu.p.lodz.pl/mod/choicegroup/view.php?id=11193) module you must make an appropriate selection according to your schedule. Read the module description to get details.
 
 ### Forum (Resource)
 
@@ -40,34 +44,36 @@ All classes are conducted remotely. Project classes are conducted on the Teams p
 
 - `PT.IFE\AssessmentRules.md`
 
-### Calendar odd/even weeks for 2020 WinterFile (URL)
+### Calendar odd/even weeks for the 22/23 Summer Semester (file)
 
 ## Seminar (Section)
 
 ### Seminar Timetable (Summary)
 
-| Week/Lesson | Main Topic                                               |      Date      |       Location       | Password |
-| :---------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
-|  ________   | ________________________________________________________ | ______________ | ____________________ | ________ |
-|      1      | Introduction                                             |                |                      |          |
-|      2      | Data semantics                                           |                |                      |          |
-|      3      | Data semantics                                           |                |                      |          |
-|      4      | Data streams                                             |                |                      |          |
-|      5      | Data streams                                             |                |                      |          |
-|      6      | Functional programming basics                            |                |                      |          |
-|      7      | Functional programming basics                            |                |                      |          |
-|      8      | Structural data                                          |                |                      |          |
-|      9      | Structural data                                          |                |                      |          |
-|     10      | Structural data                                          |                |                      |          |
-|     11      | Structural data                                          |                |                      |          |
-|     13      | Graphical data                                           |                |                      |          |
-|     13      | Graphical data                                           |                |                      |          |
-|     14      | Preparation for the test - repeating the material        |                |                      |          |
-|     15      | Test                                                     |                |                      |          |
+| Week/Lesson | Main Topic                                               |
+| :---------: | :------------------------------------------------------- |
+|  ________   | ________________________________________________________ |
+|      1      | Introduction                                             |
+|      2      | Data semantics                                           |
+|      3      | Data semantics                                           |
+|      4      | Data streams                                             |
+|      5      | Data streams                                             |
+|      6      | Functional programming basics                            |
+|      7      | Functional programming basics                            |
+|      8      | Structural data                                          |
+|      9      | Structural data                                          |
+|     10      | Structural data                                          |
+|     11      | Structural data                                          |
+|     13      | Graphical data                                           |
+|     13      | Graphical data                                           |
+|     14      | Preparation for the test - repeating the material        |
+|     15      | Test                                                     |
 
 - Information on the organization of the examination period will be provided on the course forum
 
 ### Table of topicsPage (Page)
+
+- `PT.IFE\Lecture\TableOfTopics.md`
 
 ### Seminar activity Assignment (Task)
 
@@ -139,23 +145,26 @@ All participants must be a member of one laboratory group. Use this module to se
 Table: List of available classes groups
 |  Name   | Description                                      |
 | :-----: | ------------------------------------------------ |
-| 2021.12 | Project class starting **Tuesday at 12:15**.     |
-| 2021.14 | Laboratory class starting  **Tuesday at 14:00**. |
-| 2021.15 | Laboratory class starting **Tuesday at 15:45**.  |
+| 2023 12 | Project class starting **Tuesday at 12:15**.     |
+| 2023 14 | Laboratory class starting  **Tuesday at 14:00**. |
+| 2023 15 | Laboratory class starting **Tuesday at 15:45**.  |
 
-### Timetable (???) ✍🏻
+### Timetable (page) 
 
-- Week \#01
-  - About the curse
-  - Prerequisites
-- Week \#02 - \#03 (help needed - there will be a reward !!)
-  - Introduction to the development environment
-  - Programming in pairs, Test Driven Development, Dependency Injection
-- Week \#04 - \#05
-  - Q/A: Task 1 and Task 2 detailed description
-  - Environment compatibility
-- Week \#06..09 - Task 1
-- Week \#10..15 - Task 2
+| Week  | Topics                                                                                                                       |
+| :---: | ---------------------------------------------------------------------------------------------------------------------------- |
+|  01   | About the curse, Prerequisites, goal, scope, tools, passing the course (credits), WIKAMP                                     |
+| 02-03 | development environment, programming in pairs, Test-Driven Development, Unit Tests, Dependency Injection                     |
+|       | Introduction to tasks, requirements, checklist, questions, and answers (Q/A), Control of work progress                       |
+| 04-06 | [Projekt Task 0][TworzenieRepozytorium]; assessment of reported work, questions, and answers (Q/A), Control of work progress |
+| 07-10 | [Projekt Task 1][Etap1] assessment of reported work, questions, and answers (Q/A), Control of work progress                  |
+| 11-15 | [Projekt Task 2][Etap2] assessment of reported work, questions, and answers (Q/A), Control of work progress                  |
+
+[TworzenieRepozytorium]:https://ife.edu.p.lodz.pl/mod/assign/view.php?id=20097
+[Etap1]:https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10882
+[Etap2]:https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10887
+
+**Comments:**: `Control of work progress` classes are carried out as an alternative to getting credit. During the classes, we answer the following questions:
 
 ## Activity
 
@@ -168,14 +177,19 @@ This section contains:
 - Video recordings of the selected classes.
 - activity - files with the corrected Q/A dialog on chat
 
-## Section `References`
+## References (section)
 
 ### Online
 
+- [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
 - [csharp (C#) Teaching of Programming (TP)](https://github.com/mpostol/TP#csharp-c-teaching-of-programming-tp-)
+  - C# in Practice - set of C# examples targeting education purpose
+- [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt)
 - [Programming Technologies 2021; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbyWXRTAe9m-ABP9YWmpLvUk)
 - [Programming Technologies 2020; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)
-- [mpostol gists](https://gist.github.com/mpostol)
+- [MPostol na GitHub](https://github.com/mpostol)
+- [MPostol na Udemy profil](https://www.udemy.com/user/mariusz-postol/)
+- [MPostol na ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
 - [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
 - [What is .NET? [1 of 8]](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
 - [C# documentation](https://docs.microsoft.com/dotnet/csharp/)
@@ -183,9 +197,8 @@ This section contains:
 
 ### Books examples
 
-- [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
 - Ch. Nagel, Professional C# 6 and .NET Core 1.0, 2016.
 - M. Michaelis, E. Lippert, Essential C# 6.0, 2015.
 - J. Hilyard, S. Teilhet, C# 6.0 Cookbook, 2015.
 
-## Internal
+## Internal (section)
