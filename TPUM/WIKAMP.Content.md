@@ -1,97 +1,91 @@
 # WIKAMP zawartość <!-- omit in toc -->
 
-**Table of Contents**:
+## Table of Contents <!-- omit in toc -->
 
-- [Ogólne](#ogólne)
-  - [Forum (moduł)](#forum-moduł)
-  - [Rozkład roku akademickiego (Link)](#rozkład-roku-akademickiego-link)
-  - [Kalendarz zajęć parzyste/nieparzyste](#kalendarz-zajęć-parzystenieparzyste)
-  - [Karta Przedmiotu](#karta-przedmiotu)
-  - [Karta Warunków Realizacji Przedmiotu](#karta-warunków-realizacji-przedmiotu)
-  - [Regulamin zaliczenia przedmiotu](#regulamin-zaliczenia-przedmiotu)
-- [Wykład](#wykład)
-  - [Streszczenie](#streszczenie)
-  - [Tematyka](#tematyka)
-  - [Aktywność](#aktywność)
-  - [Raporty aktywności (folder)](#raporty-aktywności-folder)
-  - [Seminarium aktywność](#seminarium-aktywność)
-  - [Kolokwium (test)](#kolokwium-test)
-- [Projekt](#projekt)
-  - [Podsumowanie](#podsumowanie)
-  - [Regulamin zaliczania projektu (Strona)](#regulamin-zaliczania-projektu-strona)
-  - [Przydział do zespołu (wybór grupy)](#przydział-do-zespołu-wybór-grupy)
-  - [Wybór grupy projektowej (wybór grupy)](#wybór-grupy-projektowej-wybór-grupy)
-  - [Projekt Etap 0 - Tworzenie repozytorium](#projekt-etap-0---tworzenie-repozytorium)
-    - [Projekt Etap 0 - Opis (Strona)](#projekt-etap-0---opis-strona)
-    - [Projekt Etap 0 - lista kontrolna (Plik)](#projekt-etap-0---lista-kontrolna-plik)
-  - [Projekt Etap 1-interaktywna/reaktywne programowanie](#projekt-etap-1-interaktywnareaktywne-programowanie)
-    - [Projekt Etap 1 - Opis (strona)](#projekt-etap-1---opis-strona)
-    - [Projekt-Etap 1 - Lista kontrolna (strona)](#projekt-etap-1---lista-kontrolna-strona)
-  - [Projekt-Etap 2 - interaktywna/reaktywna komunikacja](#projekt-etap-2---interaktywnareaktywna-komunikacja)
-    - [Projekt Etap 2 - Opis (strona)](#projekt-etap-2---opis-strona)
-    - [Projekt-Etap 2 - Lista kontrolna (strona)](#projekt-etap-2---lista-kontrolna-strona)
-  - [Projekt-Etap 3-aplikacja mobilna (rozproszona)](#projekt-etap-3-aplikacja-mobilna-rozproszona)
-    - [Projekt-Etap 3 - Opis (strona)](#projekt-etap-3---opis-strona)
-    - [Projekt-Etap 3 - Lista kontrolna (strona)](#projekt-etap-3---lista-kontrolna-strona)
-- [Zarejestrowane zajęcia (yyyy)](#zarejestrowane-zajęcia-yyyy)
-  - [Streszczenie - zarejestrowane zajęcia](#streszczenie---zarejestrowane-zajęcia)
-    - [Opis lekcji zdalnej (strona)](#opis-lekcji-zdalnej-strona)
-  - [Aktywność - Q/A podsumowanie (folder)](#aktywność---qa-podsumowanie-folder)
-  - [Aktywność zasady (strona)](#aktywność-zasady-strona)
-- [Materiały pomocnicze](#materiały-pomocnicze)
-  - [Programowanie rozproszone](#programowanie-rozproszone)
-  - [Testowanie](#testowanie)
-- [Narzędzia](#narzędzia)
+- [1. Ogólne](#1-ogólne)
+  - [1.1. Forum (moduł)](#11-forum-moduł)
+  - [1.2. Rozkład roku akademickiego (Link)](#12-rozkład-roku-akademickiego-link)
+  - [1.3. Kalendarz zajęć parzyste/nieparzyste (plik)](#13-kalendarz-zajęć-parzystenieparzyste-plik)
+  - [1.4. Karta Przedmiotu (link)](#14-karta-przedmiotu-link)
+  - [1.5. Karta Warunków Realizacji Przedmiotu](#15-karta-warunków-realizacji-przedmiotu)
+  - [1.6. Regulamin zaliczenia przedmiotu](#16-regulamin-zaliczenia-przedmiotu)
+- [2. Wykład (sekcja)](#2-wykład-sekcja)
+  - [2.1. Streszczenie](#21-streszczenie)
+  - [2.2. Tematyka](#22-tematyka)
+  - [2.3. Aktywność](#23-aktywność)
+  - [2.4. Raporty aktywności (folder)](#24-raporty-aktywności-folder)
+  - [2.5. Seminarium aktywność](#25-seminarium-aktywność)
+  - [2.6. Kolokwium (test)](#26-kolokwium-test)
+- [3. Projekt](#3-projekt)
+  - [3.1. Podsumowanie](#31-podsumowanie)
+  - [3.2. Regulamin zaliczania projektu (Strona)](#32-regulamin-zaliczania-projektu-strona)
+  - [3.3. Przydział do zespołu (wybór grupy)](#33-przydział-do-zespołu-wybór-grupy)
+  - [3.4. Wybór grupy projektowej (wybór grupy)](#34-wybór-grupy-projektowej-wybór-grupy)
+  - [3.5. Projekt Etap 0 - Tworzenie repozytorium](#35-projekt-etap-0---tworzenie-repozytorium)
+    - [3.5.1. Projekt Etap 0 - Opis (Strona)](#351-projekt-etap-0---opis-strona)
+    - [3.5.2. Projekt Etap 0 - lista kontrolna (Plik)](#352-projekt-etap-0---lista-kontrolna-plik)
+  - [3.6. Projekt Etap 1-interaktywna/reaktywne programowanie](#36-projekt-etap-1-interaktywnareaktywne-programowanie)
+    - [3.6.1. Projekt Etap 1 - Opis (strona)](#361-projekt-etap-1---opis-strona)
+    - [3.6.2. Projekt-Etap 1 - Lista kontrolna (strona)](#362-projekt-etap-1---lista-kontrolna-strona)
+  - [3.7. Projekt-Etap 2 - interaktywna/reaktywna komunikacja](#37-projekt-etap-2---interaktywnareaktywna-komunikacja)
+    - [3.7.1. Projekt Etap 2 - Opis (strona)](#371-projekt-etap-2---opis-strona)
+    - [3.7.2. Projekt-Etap 2 - Lista kontrolna (strona)](#372-projekt-etap-2---lista-kontrolna-strona)
+  - [3.8. Projekt-Etap 3-aplikacja mobilna (rozproszona)](#38-projekt-etap-3-aplikacja-mobilna-rozproszona)
+    - [3.8.1. Projekt-Etap 3 - Opis (strona)](#381-projekt-etap-3---opis-strona)
+    - [3.8.2. Projekt-Etap 3 - Lista kontrolna (strona)](#382-projekt-etap-3---lista-kontrolna-strona)
+- [4. Zarejestrowane zajęcia (yyyy)](#4-zarejestrowane-zajęcia-yyyy)
+  - [4.1. Streszczenie - zarejestrowane zajęcia](#41-streszczenie---zarejestrowane-zajęcia)
+    - [4.1.1. Opis lekcji zdalnej (strona)](#411-opis-lekcji-zdalnej-strona)
+  - [4.2. Aktywność - Q/A podsumowanie (folder)](#42-aktywność---qa-podsumowanie-folder)
+  - [4.3. Aktywność zasady (strona)](#43-aktywność-zasady-strona)
+- [5. Materiały pomocnicze](#5-materiały-pomocnicze)
+  - [5.1. Programowanie rozproszone](#51-programowanie-rozproszone)
+  - [5.2. Testowanie](#52-testowanie)
+- [6. Narzędzia](#6-narzędzia)
 
-## Ogólne
+## 1. Ogólne
 
 Proszę przekazać wszystkim zainteresowanym, ze można się samodzielnie zapisać na przedmiot [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/view.php?id=1816) prowadzony na WIKAMP. Klucz do samodzielnego zapisu: `TPUM`.
 
-Zajęcia projektowe są prowadzone z wykorzystaniem metod i narzędzi uczenia na odległość na platformie TEAMS. W tym celu na TEAMS utworzony został zespół: [22-Technologie Programowania Urządzeń Mobilnych](https://teams.microsoft.com/l/team/19%3aTiVnS1IG-xY2EiP-jW68ii_tEYAF5pOQuvv8cgy6_fM1%40thread.tacv2/conversations?groupId=2c948f15-6072-4ea9-850c-829ef8283285&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+Zajęcia są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TEAMS utworzony został zespół: [23-Technologie Programowania Urządzeń Mobilnych](https://teams.microsoft.com/l/team/19%3a1YvYKdXxJ7VY0WMWl8YhMCiYt-btb9bX1mL_EMYRwmc1%40thread.tacv2/conversations?groupId=e740f90e-5ea5-459f-bdf7-95ae2454e3d3&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb). Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `k8gh9xk`. Sposób wykorzystania tego zespołu uzgodnimy na zajęciach.
 
-Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `317cyom`. 
+### 1.1. Forum (moduł)
 
-### Forum (moduł)
+### 1.2. Rozkład roku akademickiego (Link)
 
-### Rozkład roku akademickiego (Link)
+### 1.3. Kalendarz zajęć parzyste/nieparzyste (plik)
 
-### Kalendarz zajęć parzyste/nieparzyste
+### 1.4. Karta Przedmiotu (link)
 
-### Karta Przedmiotu
-
-- [Programowanie urządzeń mobilnych; 07 69 1230 19](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=pl&idPrzedmiotu=172860&pkId=1149&s=1&t=1&j=0&w=informatyka%20stosowana%20%22Opis%20Przedmiotu%22)
-
-### Karta Warunków Realizacji Przedmiotu
+### 1.5. Karta Warunków Realizacji Przedmiotu
 
 - `TPUM\KartaWarunkówRealizacjiPrzedmiotu.md`
 
-### Regulamin zaliczenia przedmiotu
+### 1.6. Regulamin zaliczenia przedmiotu
 
 - `TPUM\RegulaminZaliczaniaPrzedmiotu.md`
 
-## Wykład
+## 2. Wykład (sekcja)
 
-### Streszczenie
+### 2.1. Streszczenie
 
-| Zajęcia | Tydzień  | Tytuł                                                    |      Data      | Link dla uczestnika  |  Hasło   |
-| :-----: | :------: | :------------------------------------------------------- | :------------: | :------------------: | :------: |
-|  _____  | ________ | ________________________________________________________ | ______________ | ____________________ | ________ |
-|    1    |    2     | Wprowadzenie                                             |                |                      |          |
-|    2    |    4     | Systemy scentralizowane                                  |                |                      |          |
-|    3    |    6     | Systemów rozproszone                                     |                |                      |          |
-|    4    |    8     | Współdziałanie                                           |                |                      |          |
-|    5    |    10    | Normalizacja - standaryzacja                             |                |                      |          |
-|    6    |    12    | Przetwarzanie w chmurze                                  |                |                      |          |
-|    7    |    14    | Bezpieczeństwo                                           |                |                      |          |
-|    8    |    15    | Test                                                     |                |                      |          |
+| Zajęcia | Tydzień  | Tytuł                                                    |
+| :-----: | :------: | :------------------------------------------------------- |
+|  _____  | ________ | ________________________________________________________ |
+|  1, 2   |    1     | Wprowadzenie                                             |
+|  3, 4   |    2     | Systemy scentralizowane                                  |
+|  5, 6   |    3     | Systemów rozproszone                                     |
+|  7, 8   |    4     | Współdziałanie                                           |
+|  9, 10  |    5     | Normalizacja - standaryzacja                             |
+| 11, 12  |    6     | Przetwarzanie w chmurze                                  |
+| 13, 14  |    7     | Bezpieczeństwo                                           |
+|   15    |    8     | Test                                                     |
 
-- `Link dla uczestnika`  oraz `Hasło` zostaną podane jak tylko będą dostępne (zwykle w dniu poprzedzającym zajęcia)
-
-### Tematyka
+### 2.2. Tematyka
 
 `TPUM\WwykładProgram.md`
 
-### Aktywność
+### 2.3. Aktywność
 
 Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Punkty te doliczane są do oceny końcowej.
 
@@ -99,9 +93,9 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
 - **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
 
-### Raporty aktywności (folder)
+### 2.4. Raporty aktywności (folder)
 
-### Seminarium aktywność
+### 2.5. Seminarium aktywność
 
 Zdobyte punkt proszę  wpisywać w kolejne komentarze niezwłocznie, ale nie później niż do następnych zajęć.
 
@@ -113,19 +107,19 @@ SUMA = n
 
 ```
 
-### Kolokwium (test)
+### 2.6. Kolokwium (test)
 
-## Projekt
+## 3. Projekt
 
-### Podsumowanie
+### 3.1. Podsumowanie
 
 | Zadanie            |     Termin oddania (nr tygodnia)      | Ocena (punkty) |
 | ------------------ | :-----------------------------------: | :------------: |
 | __________________ | _____________________________________ |  ____________  |
-| Projekt-Etap 0     |                   4                   |   04, 03, 02   |
-| Projekt-Etap 1     |                   7                   |   12, 09, 06   |
-| Projekt-Etap 2     |                  10                   |   12, 09, 06   |
-| Projekt Etap 3     |                  13                   |   12, 09, 06   |
+| Projekt-Etap 0     |             3 (16.03.23)              |   04, 03, 02   |
+| Projekt-Etap 1     |             4 (23.03.23)              |   12, 09, 06   |
+| Projekt-Etap 2     |             5 (30.03.23)              |   12, 09, 06   |
+| Projekt Etap 3     |             6 (13.04.23)              |   12, 09, 06   |
 |                    |                                       | _____________  |
 | Razem projekt      |                                       |     <= 40      |
 
@@ -134,33 +128,32 @@ SUMA = n
 - Szczegóły oceniania opisano w [Regulamin zaliczania projektu](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=70785)
 - Wykonanie zadania trzeba zgłosić do 24:00 w dniu poprzedzającym zajęcia za pośrednictwem odpowiedniego modułu zadania. **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
 - data dla `nr tygodnia` jest ustalana na podstawie dokumentu `Kalendarz zajęć (parzyste/nieparzyste)`
-- zadania postawione w **wersji roboczej** nie będą traktowane jako skutecznie zgłoszone
+- zadania w **wersji roboczej** nie będą traktowane jako skutecznie zgłoszone
 
-### Regulamin zaliczania projektu (Strona)
+### 3.2. Regulamin zaliczania projektu (Strona)
 
 - TPUM\Project\RegulaminZaliczaniaLaboratorium.md
 
-### Przydział do zespołu (wybór grupy)
+### 3.3. Przydział do zespołu (wybór grupy)
 
 Każdy uczestnik kursu musi być członkiem 1 lub 2 osobowego zespołu. Korzystając z tego modułu można dokonać wyboru zespołu.
 
 **UWAGA:** Ta aktywność zostanie zamknięta przed trzecimi zajęciami.
 
-### Wybór grupy projektowej (wybór grupy)
+### 3.4. Wybór grupy projektowej (wybór grupy)
 
 Musimy dokonać podziału na grupy. Bardzo proszę o zapisywanie się z uwzględnieniem zespołów roboczych.
 
-### Projekt Etap 0 - Tworzenie repozytorium
+### 3.5. Projekt Etap 0 - Tworzenie repozytorium
 
-
-#### Projekt Etap 0 - Opis (Strona)
+#### 3.5.1. Projekt Etap 0 - Opis (Strona)
 
 Opis w [Projekt Etap 0: Tworzenie repozytorium - opis](https://ftims.edu.p.lodz.pl/mod/page/view.php?id=103725)
 
 - `TPUM\Project\GitHubCreateRepoTask.md`
 - `TPUM\Project\GitHubRCreateRepoEADMETempllate.md`
 
-#### Projekt Etap 0 - lista kontrolna (Plik)
+#### 3.5.2. Projekt Etap 0 - lista kontrolna (Plik)
 
 - utwórz issue
 - skopiuj zawartość pliku
@@ -168,44 +161,44 @@ Opis w [Projekt Etap 0: Tworzenie repozytorium - opis](https://ftims.edu.p.lodz.
 
 plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
-### Projekt Etap 1-interaktywna/reaktywne programowanie
+### 3.6. Projekt Etap 1-interaktywna/reaktywne programowanie
 
-#### Projekt Etap 1 - Opis (strona)
+#### 3.6.1. Projekt Etap 1 - Opis (strona)
 
 - `TPUM\Project\Etap1-InteraktywnaRreaktywneProgramowanie.md`
 
-#### Projekt-Etap 1 - Lista kontrolna (strona)
+#### 3.6.2. Projekt-Etap 1 - Lista kontrolna (strona)
 
 - `TPUM\Project\Etap1-CheckList.md`
 
-### Projekt-Etap 2 - interaktywna/reaktywna komunikacja
+### 3.7. Projekt-Etap 2 - interaktywna/reaktywna komunikacja
 
-#### Projekt Etap 2 - Opis (strona)
+#### 3.7.1. Projekt Etap 2 - Opis (strona)
 
 - `TPUM\Project\Etap2-InteraktywnaRreaktywnaKomunikacja.md`
 
-#### Projekt-Etap 2 - Lista kontrolna (strona)
+#### 3.7.2. Projekt-Etap 2 - Lista kontrolna (strona)
 
 - `TPUM\Project\Etap2-CheckList.md`
 
-### Projekt-Etap 3-aplikacja mobilna (rozproszona)
+### 3.8. Projekt-Etap 3-aplikacja mobilna (rozproszona)
 
-#### Projekt-Etap 3 - Opis (strona)
+#### 3.8.1. Projekt-Etap 3 - Opis (strona)
 
-#### Projekt-Etap 3 - Lista kontrolna (strona)
+#### 3.8.2. Projekt-Etap 3 - Lista kontrolna (strona)
 
 - `TPUM\Project\Etap3-AplikacjaMobilnaListKontrolna.md`
 
-## Zarejestrowane zajęcia (yyyy)
+## 4. Zarejestrowane zajęcia (yyyy)
 
-### Streszczenie - zarejestrowane zajęcia
+### 4.1. Streszczenie - zarejestrowane zajęcia
 
 Ta sekcja zawiera zarejestrowane zajęcia yyyy Lato
 
 - zarejestrowane wykłady
 - aktywność - pliki z poprawnymi odpowiedziami na pytania
 
-#### Opis lekcji zdalnej (strona)
+#### 4.1.1. Opis lekcji zdalnej (strona)
 
 Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 
@@ -222,21 +215,22 @@ Poniżej szczegóły zarejestrowanej lekcji zdalnej.
 1. temat 2
    - temat
 
-### Aktywność - Q/A podsumowanie (folder)
+### 4.2. Aktywność - Q/A podsumowanie (folder)
 
 - `YY-MM-DD Seminarium <XX> <Main topic> Activity.xlsx`
 
-### Aktywność zasady (strona)
+### 4.3. Aktywność zasady (strona)
 
 Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Punkty te doliczane sa do oceny końcowej.
 
 - Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
 - **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
 
-## Materiały pomocnicze
+## 5. Materiały pomocnicze
 
-### Programowanie rozproszone
+### 5.1. Programowanie rozproszone
 
+- [Mariusz Post on ORCID - Connecting research and researchers](https://orcid.org/0000-0002-9669-0565)
 - [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
 - Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
 - Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
@@ -261,7 +255,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [Semantic-Data Processing Architecture](https://commsvr.gitbook.io/ooi/semantic-data-processing/semanticdata)
 - [Przykładowa implementacja repliki procesu - symulator boilerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
 
-### Testowanie
+### 5.2. Testowanie
 
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [How to test software, part I: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/?gclid=Cj0KCQiAkePyBRCEARIsAMy5ScunlfHQKu8LF1w4pG9d4P10ChGBpIv8YNgJklqj0rOYGb3p7-kNe8saAjZYEALw_wcB)
@@ -269,7 +263,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [Moq 4.13.1](https://www.nuget.org/packages/Moq/4.13.1)
 - [Azure DevOps/Azure Pipelines Ecosystems & integration  ASP.NET](https://docs.microsoft.com/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops)
 
-## Narzędzia
+## 6. Narzędzia
 
 - [Gist - jak zainicjować repozytorium GitHub - lista kontrolna](https://gist.github.com/mpostol/496fe3038dd88790b446fb24276da1b9)
 - [Address Space Model Designer (ASMD)](https://github.com/mpostol/ASMD#-address-space-model-designer-asmd)
