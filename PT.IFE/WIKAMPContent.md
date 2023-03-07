@@ -149,7 +149,7 @@ Table: List of available classes groups
 | 2023 14 | Laboratory class starting  **Tuesday at 14:00**. |
 | 2023 15 | Laboratory class starting **Tuesday at 15:45**.  |
 
-### Timetable (page) 
+### Timetable (page)
 
 | Week  | Topics                                                                                                                       |
 | :---: | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -164,7 +164,7 @@ Table: List of available classes groups
 [Etap1]:https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10882
 [Etap2]:https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10887
 
-**Comments:**: `Control of work progress` classes are carried out as an alternative to getting credit. During the classes, we answer the following questions:
+**Comments:**: `Control of work progress` classes are carried out as an alternative to getting credit.
 
 ## Activity
 
