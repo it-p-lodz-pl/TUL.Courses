@@ -1,5 +1,7 @@
 # Project Stage 2 Checklist
 
+```txt
+
 - [ ] **Starting point**
   - [ ] text is in C#
   - [ ] all UT are green
@@ -12,7 +14,7 @@
   - [ ] responsibility of this layer is to manage movement rectangle boundaries and balls interaction (collisions)
   - [ ] prove that the protection  of data integration is implemented
   - [ ] `Logic` uses only the abstract `Data` layer API
-- [ ] **Presentation Layer (mvvm)**
+- [ ] **Presentation Layer (MVVM)**
   - [ ] responsibility of this layer is to manage the graphical user interface (GUI)
   - [ ] user => GUI interoperability must be implemented using interactive programming only
   - [ ] GUI => the user interoperability must be implemented using reactive programming only (timer is not allowed)
@@ -20,4 +22,6 @@
 - [ ] Fulfill functional requirements of the task
 - [ ] **Testing**
   - [ ] Unit Test - layers are tested independently using dependency injection (additional framework is not required)
-  - [ ] Mock may be used for testing purpose (expected but not required)
+  - [ ] Mock may be used for testing purposes (expected but not required)
+
+```

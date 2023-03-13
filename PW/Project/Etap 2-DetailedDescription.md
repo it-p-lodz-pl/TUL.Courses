@@ -1,6 +1,8 @@
 # Projekt Etap 2 - szczegółowy opis
 
-## programowania asynchroniczne, sekcja krytyczna
+## Opis na stronie kursu
+
+- programowania asynchroniczne, sekcja krytyczna
 
 ## Cel
 

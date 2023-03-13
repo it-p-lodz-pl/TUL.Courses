@@ -1,6 +1,6 @@
 # Projekt Etap 1 - szczegółowy opis
 
-## Opis
+## Opis na stronie kursu
 
 programowania interaktywne/reaktywne, IoC (ang. inversion of control)
 

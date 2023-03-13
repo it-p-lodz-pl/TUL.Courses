@@ -1,6 +1,8 @@
 # Projekt Etap 3 - szczegółowy opis
 
-## programowanie współbieżne i czasu rzeczywistego
+## Opis na stronie kursu
+
+- programowanie współbieżne i czasu rzeczywistego
 
 ## Cel
 
