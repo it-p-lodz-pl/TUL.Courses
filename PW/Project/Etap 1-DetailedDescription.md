@@ -1,5 +1,9 @@
 # Projekt Etap 1 - szczegółowy opis
 
+## Opis
+
+programowania interaktywne/reaktywne, IoC (ang. inversion of control)
+
 ## Cel
 
 To trzy etapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na  prostokątnej płaszczyźnie ograniczonej ścianami bocznymi.

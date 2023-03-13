@@ -17,6 +17,7 @@
   - [ ] user => GUI interoperability must be implemented using interactive programming only
   - [ ] GUI => the user interoperability must be implemented using reactive programming only (timer is not allowed)
   - [ ] interoperability of the GUI and underlying layers must be synchronized
+- [ ] Fulfill functional requirements of the task
 - [ ] **Testing**
   - [ ] Unit Test - layers are tested independently using dependency injection (additional framework is not required)
   - [ ] Mock may be used for testing purpose (expected but not required)

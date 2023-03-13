@@ -1,6 +1,6 @@
 # Projekt Etap 3 - szczegółowy opis
 
-## programowanie równoległe i czasu rzeczywistego
+## programowanie współbieżne i czasu rzeczywistego
 
 ## Cel
 
