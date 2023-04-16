@@ -182,8 +182,8 @@ This section contains:
 ### Online
 
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
-- [csharp (C#) Teaching of Programming (TP)](https://github.com/mpostol/TP#csharp-c-teaching-of-programming-tp-)
-  - C# in Practice - set of C# examples targeting education purpose
+- [csharp (C#) Teaching of Programming (TP)](https://github.com/mpostol/TP#csharp-c-teaching-of-programming-tp-)- C# in Practice - set of C# examples targeting education purpose
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
 - [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt)
 - [Programming Technologies 2021; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbyWXRTAe9m-ABP9YWmpLvUk)
 - [Programming Technologies 2020; Recorded lecture](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)

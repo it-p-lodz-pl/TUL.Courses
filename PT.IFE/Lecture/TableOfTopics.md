@@ -16,8 +16,8 @@
 ## Lesson 4, 5: Data streams
 
 1. File and Stream Concepts
-1. Attributes
 1. Reflection
+1. Attributes
 1. Serialization
 
 ## Lesson 6, 7: Functional programming basics

@@ -141,8 +141,8 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
   - Bazy danych
 - [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt)
 - [MPostol na GitHub](https://github.com/mpostol)
-- [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
-  - C# in Practice - set of C# examples targeting education purpose
+- [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)- C# in Practice - set of C# examples targeting education purpose
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
 - [MPostol na Udemy profil](https://www.udemy.com/user/mariusz-postol/)
 - [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
 - [MPostol na ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
