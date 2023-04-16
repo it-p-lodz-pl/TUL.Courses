@@ -79,7 +79,7 @@ Zajęcia są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TE
 |  9, 10  |    5     | Normalizacja - standaryzacja                             |
 | 11, 12  |    6     | Przetwarzanie w chmurze                                  |
 | 13, 14  |    7     | Bezpieczeństwo                                           |
-|   15    |    8     | Test                                                     |
+|         |    8     | Test (zdalny dostęp)                                     |
 
 ### 2.2. Tematyka
 
@@ -230,7 +230,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ### 5.1. Programowanie rozproszone
 
-- [Mariusz Post on ORCID - Connecting research and researchers](https://orcid.org/0000-0002-9669-0565)
+- [Mariusz Postol on ORCID - Connecting research and researchers](https://orcid.org/0000-0002-9669-0565)
 - [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
 - Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
 - Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
@@ -246,8 +246,8 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
   - Dane Graficzne
   - Dane strumieniowe (XML, JSON)
   - Bazy danych
-- [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
-  - C# in Practice - set of C# examples targeting education purpose
+- [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP) - C# in Practice - set of C# examples targeting education purpose
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
 - [Mariusz Postol. OPC UA Information Model Deployment. 2016. Version 1.2][CAS.OPCUAIMD] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2586616.svg)](https://doi.org/10.5281/zenodo.2586616)
 - [The WebSocket Protocol; Request for Comments: 6455](https://tools.ietf.org/html/rfc6455)
 - [Web-sockets implementacja na GitGub w repozytorium `mpostol/NBlockchain`](https://github.com/mpostol/NBlockchain)
