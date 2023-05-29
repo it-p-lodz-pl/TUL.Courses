@@ -25,20 +25,50 @@
 1. Anonymous function and lambda expression
 1. Extension method
 
-## Lesson 8, 9: Structural Data
+## Lesson 8: Structural Data Part 1
 
-1. LINQ query and methods syntax
+1. LINQ query syntax
+   - TP.StructuralData.LINQQueryAndMethodsSyntax.LinqQuerySyntaxExamples
+   - LinqQuerySyntaxExamples.AnonymousType()
+
+## Lesson 9: Structural Data Part 2
+
+1. LINQ methods syntax
+   - TP.StructuralData.LINQQueryAndMethodsSyntax.LinqMethodSyntaxExamples
+   - LinqMethodSyntaxExamples.AnonymousType()
 1. LINQ to object
+   - TP.StructuralData.LINQ_to_object.Catalog
+   - DataSet
+   - Catalog.PersonDataTable.FilterPersonsByLastName_ForEach(string)
+   - Catalog.PersonDataTable.FilterPersonsByLastName_QuerySyntax(string)
+   - Catalog.PersonDataTable.FilterPersonsByLastName_MethodSyntax(string)
 
-## Lesson 10. 11: Structural Data
+## Lesson 10. Structural Data
+
+- Database
+  - Server Explorer
+- Structure data
+- Object relation Model
+- LINQ to SQL - introduction
+
+## Lesson 11: Structural Data Part 2
 
 1. LINQ to SQL
 
-## Lesson 12, 13 Graphical data
+## Lesson 12 Graphical data Part 1
 
 1. Delegates and events
+   - `INotifyPropertyChanged`
+   - `ICommand`, `ViewModelBase`
+1. MVVM (Model, View, ViewModel) layered design pattern
+   - `TP.GraphicalData.Model`
+   - `TP.GraphicalData.ViewModel`
+   - `TP.GraphicalData.View`
+1. Application bootstrapping
+
+## Lesson 13 Graphical data Part 2
+
 1. [xaml](https://docs.microsoft.com/dotnet/framework/xaml-services/)
-1. MVVM (Model, View, ViewModel) pattern
 
 ## Lesson 14 Review
 

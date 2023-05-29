@@ -64,7 +64,7 @@ Afterward, using the [Project Group Selection](https://ife.edu.p.lodz.pl/mod/cho
 |      9      | Structural data                                          |
 |     10      | Structural data                                          |
 |     11      | Structural data                                          |
-|     13      | Graphical data                                           |
+|     12      | Graphical data                                           |
 |     13      | Graphical data                                           |
 |     14      | Preparation for the test - repeating the material        |
 |     15      | Test                                                     |
@@ -156,9 +156,9 @@ Table: List of available classes groups
 |  01   | About the curse, Prerequisites, goal, scope, tools, passing the course (credits), WIKAMP                                     |
 | 02-03 | development environment, programming in pairs, Test-Driven Development, Unit Tests, Dependency Injection                     |
 |       | Introduction to tasks, requirements, checklist, questions, and answers (Q/A), Control of work progress                       |
-| 04-06 | [Projekt Task 0][TworzenieRepozytorium]; assessment of reported work, questions, and answers (Q/A), Control of work progress |
-| 07-10 | [Projekt Task 1][Etap1] assessment of reported work, questions, and answers (Q/A), Control of work progress                  |
-| 11-15 | [Projekt Task 2][Etap2] assessment of reported work, questions, and answers (Q/A), Control of work progress                  |
+| 04-06 | [Project Task 0][TworzenieRepozytorium]; assessment of reported work, questions, and answers (Q/A), Control of work progress |
+| 07-10 | [Project Task 1][Etap1] assessment of reported work, questions, and answers (Q/A), Control of work progress                  |
+| 11-15 | [Project Task 2][Etap2] assessment of reported work, questions, and answers (Q/A), Control of work progress                  |
 
 [TworzenieRepozytorium]:https://ife.edu.p.lodz.pl/mod/assign/view.php?id=20097
 [Etap1]:https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10882
