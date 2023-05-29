@@ -214,7 +214,7 @@ SUMA = n
 
 ```
 
-Po wpisaniu wszystkich punktów proszę zgłosić zadanie do sprawdzenia.
+Po wpisaniu wszystkich punktów proszę zgłosić zadanie do oceny.
 
 ### Rozliczenia czas zacząć - terminy obligatoryjne
 
