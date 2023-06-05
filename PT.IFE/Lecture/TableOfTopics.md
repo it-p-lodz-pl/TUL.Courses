@@ -75,16 +75,23 @@
 ## Lesson 13 Graphical data (Part 2)
 
 1. MVVM (Model, View, ViewModel) layered design pattern
-   - `TP.GraphicalData.View`
-   - [xaml](https://docs.microsoft.com/dotnet/framework/xaml-services/)
-   - View => ViewModel communication: events, ICommand, `Binding`, reflection
-   - ViewModel => View communication: events, `INotifyPropertyChanged`
-   - `TP.GraphicalData.ViewModel`
-   - `TP.GraphicalData.Model`
-1. Application bootstrapping
+   - View
+     - Example: `TP.GraphicalData.View`
+     - xaml details: [xaml](https://docs.microsoft.com/dotnet/framework/xaml-services/)
+     - Communication: View => ViewModel: DataContext, events, ICommand, `Binding`, reflection, RelayCommand
+     - Testing
+   - ViewModel
+     - Example: `TP.GraphicalData.ViewModel`
+     - Communication: ViewModel => View : events, `INotifyPropertyChanged`, `ViewModelBase`
+     - Testing: MVVMLightUnitTest, MainViewModel, independent testing
+   - Model
+     - `TP.GraphicalData.Model`,
+     - independent testing, DataLayerTestMethod
+2. Application bootstrapping
    - GraphicalData.View - project settings
    - App - application
    - MainWindow
+   - Application configuration
 
 ## Lesson 14 Review
 
