@@ -12,15 +12,16 @@
   - [Late enrolment](#late-enrolment)
   - [Late enrollment schedule change](#late-enrollment-schedule-change)
 - [Lab announcements](#lab-announcements)
-  - [# Task 0 Check list Create Repository](#-task-0-check-list-create-repository)
+  - [Task 0 Check list Create Repository](#task-0-check-list-create-repository)
   - [Task 1 Check list publication](#task-1-check-list-publication)
   - [Lab - Alternative Path](#lab---alternative-path)
   - [I have just published reviewed last seminar chat activity (Q/A)](#i-have-just-published-reviewed-last-seminar-chat-activity-qa)
-    - [NOTE](#note)
+    - [Note](#note)
     - [How to improve your correctness](#how-to-improve-your-correctness)
   - [Project Grading Process - Additional Explanation](#project-grading-process---additional-explanation)
   - [Lab Time Slot Reservation](#lab-time-slot-reservation)
 - [Final grades](#final-grades)
+  - [Test invitation](#test-invitation)
   - [Additional opportunity to earn points for activity](#additional-opportunity-to-earn-points-for-activity)
   - [I have just published the last seminar activity](#i-have-just-published-the-last-seminar-activity)
   - [Final grades published](#final-grades-published)
@@ -105,11 +106,11 @@ Contact me directly in any case questions or proposals you may have.
 
 ## Lab announcements
 
-### # Task 0 Check list Create Repository
+### Task 0 Check list Create Repository
 
 According to the curse rules all group members have to use the personal GitHub repository to share the source code. One repository per working group (a pair) is expected but **each course participant must complete this task**. The task evaluation doesn't contribute to the final course grade. Read carefully the description of the task [Create Repository](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=20097). The description contains a link to a video recorded already to provide a basic introduction. Submit the task as soon as possible.
 
-- **NOTE: It doesn't contribute to the final curse grade but failure to report the completion of the task up to the 6th week of classes is considered a resignation from completing the course**.
+- **!NOTE: It doesn't contribute to the final curse grade but failure to report the completion of the task up to the 6th week of classes is considered a resignation from completing the course**.
 
 ### Task 1 Check list publication
 
@@ -135,7 +136,7 @@ Contact me by email or on the Teams platform.
 
 Let me inform you that I have just published the last lecture outcomes. This time I have left more answers associated with one question, but your activity for this lecture shall not be considered to report activity points. Take it easy. The next ones will be more serious.
 
-#### NOTE
+#### Note
 
 1. The list contains just acceptable answers. Most of them are not suitable to pass the final test. The list reflects your activity but not the correctness of your answers.
 1. During your workout assessment, you will have to prove that something is true without any doubts using only terms defined by the programming language (usually any programming language).
@@ -166,6 +167,26 @@ Please book a time-slot for the classes using the appropriate module `Lab 04 Res
 Let me stress, your repository must have the `README.md` file prepared according to the template `GitHub README.md template file` published on WIKAMP. Place the README.md file in the main directory of the repository. A GUID is required for identification. This GUID can be generated using `VS\Tools\Create GUID`. Don't use example GUIDs embedded in the template.
 
 ## Final grades
+
+### Test invitation
+
+Referring to my previous verbal announcement I want to confirm the test schedule:
+
+- 20.06.2023 10:30 - room 106/CTI
+
+It will be a WIKAMP (modle) an online test using only computers available in the lab. A Modle test refers to an online assessment or examination conducted through the Modle learning management system (LMS). The test will be conducted only in English. In any case, you have only 3 attempts for the final test.
+
+Let me recall that there is an example code. Have a look at [mpostol/tp](https://github.com/mpostol/TP)
+
+I will review the most essential topics in the next seminar lesson. Join me and give me feedback in advance - I am a willing helper to explain once more the vital issues for you if possible. To work alone,  you may also check out not published yet the course
+
+- [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt). 
+
+There is also a helpful video book but only in Polish.
+
+- [C# language In practice. Video Course. External Data Processing](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
+
+Good luck and stay in touch.
 
 ### Additional opportunity to earn points for activity
 

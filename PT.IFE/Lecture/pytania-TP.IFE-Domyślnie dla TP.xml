@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz>
-<!-- question: 0  -->
+  <!-- question: 0  -->
   <question type="category">
     <category>
       <text>$course$/top/Domyślnie dla TP</text>
@@ -11,7 +11,7 @@
     <idnumber></idnumber>
   </question>
 
-<!-- question: 0  -->
+  <!-- question: 0  -->
   <question type="category">
     <category>
       <text>$course$/top/Domyślnie dla TP/Kolokwium</text>
@@ -22,7 +22,7 @@
     <idnumber></idnumber>
   </question>
 
-<!-- question: 0  -->
+  <!-- question: 0  -->
   <question type="category">
     <category>
       <text>$course$/top/Domyślnie dla TP/Kolokwium/Srednio trudne</text>
@@ -33,7 +33,7 @@
     <idnumber></idnumber>
   </question>
 
-<!-- question: 22000  -->
+  <!-- question: 22000  -->
   <question type="matching">
     <name>
       <text>Iinheritance</text>
@@ -121,7 +121,7 @@
     </subquestion>
   </question>
 
-<!-- question: 22004  -->
+  <!-- question: 22004  -->
   <question type="multichoice">
     <name>
       <text>LINQ –source variable</text>
@@ -200,7 +200,7 @@
     </answer>
   </question>
 
-<!-- question: 0  -->
+  <!-- question: 0  -->
   <question type="category">
     <category>
       <text>$course$/top/Domyślnie dla TP/Kolokwium/Trudne</text>
@@ -211,7 +211,7 @@
     <idnumber></idnumber>
   </question>
 
-<!-- question: 133333  -->
+  <!-- question: 133333  -->
   <question type="matching">
     <name>
       <text>Information versus date 2022S</text>
@@ -341,7 +341,7 @@
     </subquestion>
   </question>
 
-<!-- question: 22007  -->
+  <!-- question: 22007  -->
   <question type="multichoice">
     <name>
       <text>Events 2022</text>
@@ -398,7 +398,7 @@
     </answer>
   </question>
 
-<!-- question: 133335  -->
+  <!-- question: 133335  -->
   <question type="multichoice">
     <name>
       <text>Generic class 2022S</text>
@@ -461,7 +461,7 @@
     </answer>
   </question>
 
-<!-- question: 133336  -->
+  <!-- question: 133336  -->
   <question type="multichoice">
     <name>
       <text>LINQ to SQL 2022S</text>
@@ -528,7 +528,7 @@
     </answer>
   </question>
 
-<!-- question: 133334  -->
+  <!-- question: 133334  -->
   <question type="multichoice">
     <name>
       <text>Program architecture 2022S</text>
@@ -600,7 +600,7 @@ What concepts, language constructs, and technologies can be used to implement su
     </answer>
   </question>
 
-<!-- question: 133337  -->
+  <!-- question: 133337  -->
   <question type="multichoice">
     <name>
       <text>Using statement 2022S</text>
@@ -680,7 +680,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-<!-- question: 0  -->
+  <!-- question: 0  -->
   <question type="category">
     <category>
       <text>$course$/top/Domyślnie dla TP/Kolokwium/Łatwe</text>
@@ -691,7 +691,7 @@ class UsingIDisposable: IDisposable
     <idnumber></idnumber>
   </question>
 
-<!-- question: 22008  -->
+  <!-- question: 22008  -->
   <question type="shortanswer">
     <name>
       <text>Polymorphism</text>
@@ -715,7 +715,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-<!-- question: 22014  -->
+  <!-- question: 22014  -->
   <question type="truefalse">
     <name>
       <text>Delegate variable</text>
@@ -744,7 +744,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-<!-- question: 22013  -->
+  <!-- question: 22013  -->
   <question type="truefalse">
     <name>
       <text>Extension Method vs Inheritance.</text>
@@ -773,7 +773,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-<!-- question: 22010  -->
+  <!-- question: 22010  -->
   <question type="truefalse">
     <name>
       <text>Implementation of an abstract method</text>
@@ -802,7 +802,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-<!-- question: 22009  -->
+  <!-- question: 22009  -->
   <question type="truefalse">
     <name>
       <text>Lambda expression</text>
@@ -831,7 +831,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-<!-- question: 22012  -->
+  <!-- question: 22012  -->
   <question type="truefalse">
     <name>
       <text>LINQ extension</text>
@@ -860,7 +860,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-<!-- question: 22011  -->
+  <!-- question: 22011  -->
   <question type="truefalse">
     <name>
       <text>Partial classes and methods</text>

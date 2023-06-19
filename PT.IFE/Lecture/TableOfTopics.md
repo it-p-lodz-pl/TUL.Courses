@@ -95,4 +95,32 @@
 
 ## Lesson 14 Review
 
+- Information versus data
+- Object Oriented Programming (inheritance, polymorphism, abstraction)
+- Language selected constructs
+  - Anonymous type
+  - Delegate, Event
+  - Generics
+  - Extension method
+  - Partial types and methods
+- Streaming data
+  - File, Stream
+  - using statement and IDisposable
+  - Serialization
+- Structural data
+  - LINQ to SQL
+  - LINQ query and methods syntax
+  - Database connection
+- Program architecture
+  - Layered Design Pattern
+  - Inter layer communication
+    - delegates
+    - events
+    - Inversion of control
+    - Dependency injection
+    - Reactive programming
+  - Presentation layer
+    - mvvm
+    - the View layer; xaml
+
 ## Lesson 15 Test
