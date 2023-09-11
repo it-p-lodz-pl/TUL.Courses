@@ -258,12 +258,15 @@ Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani
 
 Przypominam również o możliwości współpracy w ramach projektu open source [Object-Oriented Internet](https://github.com/mpostol/OPC-UA-OOI) - jest tam kilka tematów nadających się na prace dyplomowe. Wszystkich zainteresowanych proszę o kontakt poprzez email lub Teams.
 
-Na podstawie naszych zajęć zamierzam opublikować kurs wideo. Zapraszam do obejrzenia wprowadzenia, aby dowiedzieć się więcej:
+Informuje również, że publikuję dydaktyczne kursy na Udemy. Zapraszam do wybrania sobie interesujących kursów z mojego profilu:
 
 [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
-
-Pragnę również poinformować, że pracując nad nowym kursem zatytułowanym "Information Computation" właśnie dodałem [nową lekcję na temat programowania obiektowego](https://github.com/mpostol/TP/discussions/263). Mam wrażenie, że dla niektórych to nadal brakująca i bardzo potrzebna wiedza. W pliku `README` jest dość szczegółowy opis przykładów.
 
 Jeszcze raz dziękuję za udział w przedmiocie.
 
 Powodzenia!
+
+- Mariusz Postół Ph. D.
+- Institute of Information Technology
+- Technical University of Lodz
+- Email: mariusz.postol@p.lodz.pl

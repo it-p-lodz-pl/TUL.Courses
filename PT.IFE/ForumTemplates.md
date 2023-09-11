@@ -251,27 +251,25 @@ Thank you very much for your engagement and participation. I believe the effort 
 
 Hello Students,
 
-We are approaching the end of the semester so it is time to finalize your grading process. Before the vacation, I updated the grades so I will appreciate checking your results as soon as possible.
+We are approaching the end of the semester so it is time to finalize your grading process. I have updated the grades so I would appreciate checking your results as soon as possible.
 
 Again, let me recall that there is an example code. Have a look at
 
 - [https://github.com/mpostol/TP](https://github.com/mpostol/TP)
 
-To be in touch please start watching the repository.
-
-Based on the classes I am going to publish a video course. Check out the introduction to get more:
+To be in touch please start watching the repository. Additionally, I have started publishing a video course. Check out the most interesting for you from my profile:
 
 [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
 
-Let me inform you that working on a new course titled "Information Computation" I have just added a [new lesson on Object-oriented programming](https://github.com/mpostol/TP/discussions/263).
+Let me inform you that after publishing the finalized version the preview ones are no longer available on my YouTube account. 
 
 Thank you very much for your engagement and participation. I believe that the effort will be rewarded and will make your real life easier.
 
-Contact me in any case you will have questions.
+Contact me in case you have questions.
 
 **Good luck**:
 
 - Mariusz Postół Ph. D.
 - Institute of Information Technology
 - Technical University of Lodz
-- Email: mariusz.postol@p.lodz.pl
+- Email: <mariusz.postol@p.lodz.pl>
