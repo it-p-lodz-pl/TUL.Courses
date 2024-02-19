@@ -41,10 +41,10 @@ Instytut Informatyki
 
 ### 1.7.2. PL
 
-| Forma | Godziny kontaktowe | Zdalne | Udział |
-| :---: | :----------------: | :----: | :----: |
-| Proj. |         30         |   X    |   40   |
-| Wykl. |         30         |   X    |   60   |
+|  Forma  | Godziny kontaktowe | Zdalne | Udział |
+| :-----: | :----------------: | :----: | :----: |
+| Projekt |         30         |   X    |   40   |
+| Wykład  |         30         |   X    |   60   |
 
 ## 1.8. Kierownik Przedmiotu (R) (Subject Supervisor)
 
@@ -53,32 +53,52 @@ Instytut Informatyki
 ## 1.9. Realizatorzy przedmiotu (R) (ang. Course Instructors)
 
 - Mariusz Postół
-- Dariusz Puchała
-- Kamil Stokfiszewski
 
 ## 1.10. Wymagania wstępne (ang. Preliminary Requirements)
 
 ### 1.10.1. PL
 
-- Algorytmy i struktury danych, Podstawy programowania
+- Podstawy programowania
+  - Podstawe konstrukcje języka C# (składnia i semantyka).
+  - Podstawy koncepcji programowania obiektowego
+  - Podstawy XML
+  - Podstawy konstrukcji języka XAML (składnia i semantyka).
+  - podstawy architektury tworzenia programu
+- Podstawy środowiska programistycznego MS Visual Studio
+  - utworzenie programu
+  - utworzenie projektów różnych rodzajów
+  - podstawy testów jednostkowych
+- Podstawy funkcjonalności systemu operacyjnego
+- Algorytmy i struktury danych
 
 ### 1.10.2. EN
 
-- Algorithms and Data Structures, Basics of Programming
+- Basics of Programming
+  - C# constructs (syntax and semantics) fundamentals
+  - Object-oriented Programming concept basics
+  - XML fundamentals
+  - XAML constructs (syntax and semantics) fundamentals
+  - program development architecture basics
+- MS Visual Studio development environment fundamentals
+  - create solution
+  - create project
+  - unit testing  fundamentals
+- Operating System functionality fundamentals
+- Algorithms and Data Structures
 
 ## 1.11. Efekty uczenia (ang. Learning Effects)
 
 ### 1.11.1. PL
 
-1. Student zna i rozumie strukturę platformy .NET.
-2. Student zna składnię i podstawowe koncepcje programistyczne związane z językiem C#.
-3. Student potrafi korzystać ze środowiska programistycznego Visual Studio i tworzyć aplikacje z wykorzystaniem języka C# i platformy .NET z zastosowaniem paradygmatów programowania obiektowego.
+1. Student zna i rozumie w praktyce składnię języka programowania C# oraz strukturę .NET Framework wraz z podstawami procesu tworzenia aplikacji z wykorzystaniem dedykowanego środowiska programistycznego, w tym m.in. testów jednostkowych.
+1. Student zna i rozumie w praktyce wybrane wzorce projektowania oprogramowania (m.in. architekturę warstwową programu i wstrzykiwanie zależności) oraz ich praktyczne implementacje w środowisku .NET Framework.
+1. Student zna i rozumie w praktyce zasady programowania związane ze zbiorami, dostępem do baz danych i tworzeniem graficznych interfejsów użytkownika.
 
 ### 1.11.2. EN
 
-1. Student knows and understands the structure of the .NET platform.
-2. Student knows syntax and basic programming concepts related to C# programming language.
-3. Student has practical skills in using the Visual Studio development environment and has a practical ability to create applications in C# and .NET platform using paradigms of object-oriented programming.
+1. The student knows and understands in practice the syntax of C# programming language and the structure of the .NET Framework together with the basics of the applications development process using a dedicated programming environment including but not limited to unit tests.
+1. The student knows and understands in practice selected software design patterns (including but not limited to the program layered architecture, and dependency injection) and their practical implementations in the .NET Framework.
+1. The student knows and understands in practice programming rules related to collections, database access, and developing graphical user interfaces.
 
 ## 1.12. Metody weryfikacji (ang. Verification Methods)
 
@@ -94,12 +114,11 @@ Lecture test (Outcome 1, 2). Oral presentation of created application, interview
 
 ### 1.13.1. PL
 
-Kolokwium wykładowe. Prezentacja stworzonych rozwiązań, dyskusja i raport końcowy. Ocena końcowa jest średnią z oceny wykładowej i z oceny z zajęć projektowych.
+Kolokwium. Prezentacja stworzonych rozwiązań, dyskusja i raport końcowy. Na ocenę końcową składa się średnia ocen z wykładów (waga 40%) i ocen z zajęć projektowych (waga 60%).
 
 ### 1.13.2. EN
 
-Lecture test. Presentation of created solutions, discussion and final report. The final grade is the average of the lecture grade
-and the grade from the project classes.
+Lecture test. Presentation of created solutions, discussion, and final report. The final grade is the average of the lecture grade (weight of 40%) and the grade from the project classes (weight of 60%).
 
 ## 1.14. Szczegółowe treści (ang. Subject Detailed Content)
 
@@ -107,35 +126,73 @@ and the grade from the project classes.
 
 #### 1.14.1.1. TREŚCI WYKŁADOWE
 
-1. Wprowadzenie do technologii Microsoft .NET Framework. Wizja i składniki platformy .NET. Zapoznanie ze składnią i podstawowymi konstrukcjami języka C# na przykładzie najprostszej aplikacji konsolowej. Zapoznanie ze środowiskiem programistycznym Visual Studio.
-2. Typy danych i deklarowanie zmiennych w języku C#. Konwersje typów. Restrykcje w nazewnictwie. Podstawowe konstrukcje programistyczne: operatory (porównania, arytmetyczne, logiczne, bitowe, przypisania, etc.), instrukcje warunkowe (if, else if, switch), pętle (while, do-while, for, break, continue). Zarządzanie pamięcią (Garbage Collector). 
-3. Klasy w języku C#. Typy mutable i immutable, domniemane i anonimowe. Metody, metody statyczne, konstruktor, destruktor. Cechy charakterystyczne klas języka C# (sealed, partial, abstract, virtual). Podstawowe elementy programowania obiektowego (polimorfizm, hermetyzacja, dziedziczenie klas). Właściwości (properties). Indeksery (indexers). 
-4. Delegaty i zdarzenia. Tworzenie i użycie delegatów. Metody anonimowe. 
-5. Tablice i kolekcje. Deklaracja i inicjalizacja tablic. Tablice wielowymiarowe. Sposoby indeksacji. Stosy, kolejki i słowniki. 
-6. Obsługa wyjątków w języku C#.
-7. Elementy programowania wielowątkowego. Synchronizacja wątków (lock, monitor).
-8. Wybrane biblioteki .NET (WinForms, WPF).
+- Informacja a dane
+- Programowanie obiektowe (dziedziczenie, polimorfizm, abstrakcja)
+- Język wybranych konstrukcji
+  - Typ anonimowy
+  - Delegat, wydarzenie
+  - Typy generyczne
+  - Metoda rozszerzająca
+  - Typy i metody częściowe
+- Przesyłanie strumieniowe danych
+  - Plik, strumień
+  - użycie instrukcji i IDisposable
+  - Serializacja
+- Dane strukturalne
+  - LINQ do SQL
+  - Składnia zapytań i metod LINQ
+  - Połączenie z bazą danych
+- Architektura programu
+  - Warstwowy wzór projektowy
+  - Komunikacja międzywarstwowa
+    - typ i zmienna delegacyjna
+    - wydarzenia
+    - Odwrócenie sterowania
+    - Dependency Injection
+    - Programowanie reaktywne
+  - Warstwa prezentacji
+    - MVVM
+    - warstwa widoku; xaml
 
 #### 1.14.1.2. ZAJĘCIA PROJEKTOWE
 
-W ramach zajęć projektowych studenci pracując w zespołach realizują zadania projektowe w zakresie dotyczącym treści przedmiotowych.
+W ramach zajęć projektowych studenci pracujący w dwuosobowych zespołach realizując zadania projektowe dotyczące treści zajęć.
 
 ### 1.14.2. EN
 
 #### 1.14.2.1. LECTURE CONTENTS
 
-1. Introduction to Microsoft .NET Framework technology. The vision and components of the .NET platform. Getting familiar with syntax and basic C# constructs on the example of the simplest console application. Getting familiar with the Visual Studio development environment.
-2. Data types and variables declarations in C#. Type conversions. Naming conventions and restrictions. Basic programming constructs: operators (comparison, arithmetic, logic, bit, assignment, etc.), conditional statements (if, else if, switch), loops (while, do-while, for, break, continue). Memory management (Garbage Collector). 
-3. Classes in C #. Mutable and immutable, implicit and anonymous types. Methods, static methods, constructor, destructor. Features of C # classes (sealed, partial, abstract, virtual). Basic elements of object-oriented programming (polymorphism, encapsulation, class inheritance, etc.). Properties. Indexers. 
-4. Delegates and events. Creating and using delegates. Anonymous methods. 
-5. Arrays and collections. Declaration and initialization of arrays. Multidimensional arrays. Methods of indexing arrays. Stacks, queues and dictionaries.
-6. Exception handling in C#.
-7. Elements of multithread programming. Thread synchronization (lock, monitor). 
-8. Selected .NET libraries (WinForms, WPF).
+- Information versus data
+- Object Oriented Programming (inheritance, polymorphism, abstraction)
+- Language selected constructs
+  - Anonymous type
+  - Delegate, Event
+  - Generics
+  - Extension method
+  - Partial types and methods
+- Streaming data
+  - File, Stream
+  - using statement and IDisposable
+  - Serialization
+- Structural data
+  - LINQ to SQL
+  - LINQ query and methods syntax
+  - Database connection
+- Program architecture
+  - Layered Design Pattern
+  - Inter-layer communication
+    - delegates
+    - events
+    - Inversion of control
+    - Dependency injection
+    - Reactive programming
+  - Presentation layer
+    - MVVM
+    - the View layer; xaml
 
 #### 1.14.2.2. PROJECT CLASSES
 
-As part of the project classes, students working in the teams carry out project tasks concerning the course contents.
+As part of the project classes, students working in two-person teams carry out project tasks concerning the course contents.
 
 ## 1.15. Literatura (ang. Literature)
 

@@ -48,8 +48,6 @@
 
 ## Course Summary
 
-``` md
-
 ### Self enrollment
 
 To enroll in this course use the key: `PT`. After enrolling, you must select a project group. Ask the course supervisor in case of any questions or problems you may have.
@@ -98,20 +96,21 @@ The course discusses solutions for practical scenarios regarding various aspects
   - Database connection
 - Program architecture
   - Layered Design Pattern
-  - Inter layer communication
+  - Inter-layer communication
     - delegates
     - events
     - Inversion of control
     - Dependency injection
     - Reactive programming
   - Presentation layer
-    - mvvm
+    - MVVM
     - the View layer; xaml
 
 ### Preliminary Requirements
 
 - Basics of Programming
   - C# constructs (syntax and semantics) fundamentals
+  - Object-oriented Programming concept basics
   - XML fundamentals
   - XAML constructs (syntax and semantics) fundamentals
   - program development architecture basics
@@ -121,5 +120,3 @@ The course discusses solutions for practical scenarios regarding various aspects
   - unit testing  fundamentals
 - Operating System functionality fundamentals
 - Algorithms and Data Structures
-
-```
