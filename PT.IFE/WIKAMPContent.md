@@ -5,16 +5,13 @@
 - [General (section)](#general-section)
   - [Forum (Resource)](#forum-resource)
   - [Assessment – grading scale (page)](#assessment--grading-scale-page)
-  - [Calendar odd/even weeks for the 22/23 Summer Semester (file)](#calendar-oddeven-weeks-for-the-2223-summer-semester-file)
+  - [Calendar odd/even weeks for the 23/24 Summer Semester (file)](#calendar-oddeven-weeks-for-the-2324-summer-semester-file)
 - [Seminar (Section)](#seminar-section)
   - [Seminar Timetable (Summary)](#seminar-timetable-summary)
   - [Table of topicsPage (Page)](#table-of-topicspage-page)
   - [Seminar activity Assignment (Task)](#seminar-activity-assignment-task)
   - [Seminar Activity Q/A (Files folder)](#seminar-activity-qa-files-folder)
   - [Activity scores reporting (page)](#activity-scores-reporting-page)
-  - [Programming technologies Seminar `XX`](#programming-technologies-seminar-xx)
-- [Agenda](#agenda)
-  - [`Title`](#title)
 - [Project (Section)](#project-section)
   - [Project deadlines and scores](#project-deadlines-and-scores)
   - [Project group selection (group selection)](#project-group-selection-group-selection)
@@ -30,11 +27,12 @@
 
 **General (General summary)**:
 
-The classes are conducted at the TUL premise. Please join the curse at WIKAMP using `PT` key but also the team:  
+The classes are conducted at the TUL premises. Please join the course at WIKAMP using the `PT` key. 
+Also the following team:
 
-- [23-Programming Technologies](https://teams.microsoft.com/l/team/19%3aFMPYJNeTBSVjhbJFkLDlZNjpmD2lR9sRlW6cKFCV3Iw1%40thread.tacv2/conversations?groupId=67683364-0df5-4344-8205-fae9214d1673&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
+- [24-Programming Technologies](https://teams.microsoft.com/l/team/19%3AMDlndHT3L4NctrH5Vs_tSZJD1AsRWBsJH09HQQ8w4sk1%40thread.tacv2/conversations?groupId=28bd5a1b-2a73-4984-808f-435aa94d2e9f&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
 
-was created on the TEAMS platform. Please join it using the key: `vg28q9a`.
+was created on the MS TEAMS platform. Please join it using the key: `h7ch2kw`.
 
 Afterward, using the [Project Group Selection](https://ife.edu.p.lodz.pl/mod/choicegroup/view.php?id=11193) module you must make an appropriate selection according to your schedule. Read the module description to get details.
 
@@ -44,7 +42,7 @@ Afterward, using the [Project Group Selection](https://ife.edu.p.lodz.pl/mod/cho
 
 - `PT.IFE\AssessmentRules.md`
 
-### Calendar odd/even weeks for the 22/23 Summer Semester (file)
+### Calendar odd/even weeks for the 23/24 Summer Semester (file)
 
 ## Seminar (Section)
 
@@ -103,21 +101,6 @@ Review the files above and report your result using [Seminar activity](https://i
 
 Entry for each lesson should be in the new comment.
 
-### Programming technologies Seminar `XX`
-
-| Information          | Detailed description |
-| :------------------- | :------------------: |
-| Title of the classes |     **`Title`**      |
-| Start at             |        14:45         |
-| Duration             |        1.5 h         |
-
-## Agenda
-
-### `Title`
-  
-- `Topic 1`
-- `Topic 2`
-
 ## Project (Section)
 
 ### Project deadlines and scores
@@ -134,7 +117,7 @@ Entry for each lesson should be in the new comment.
 **Notes**:
 
 - The task completion must be **reported up to 24:00 the day before**. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task. **Each team member has to report the readiness for evaluation separately**.
-- the date for the week number is determined on the basis of the official University timetable: [Calendar odd/even weeks](https://ife.edu.p.lodz.pl/pluginfile.php/78638/mod_resource/content/5/kalendarz%20LATO%2021_22.pdf)
+- the date for the week number is determined based on the official University timetable: [Calendar odd/even weeks for the 23/24 Summer Semester](https://ife.edu.p.lodz.pl/pluginfile.php/78638/mod_resource/content/9/Calendar%202024%20summer%20%28evenodd%20days%20pl%29.pdf)
 - **Late report decreases the max score on the week number basis. Each working group member reports separately that the task is ready for evaluation.**
 - tasks in the draft version will not be treated as effectively reported
 
@@ -142,12 +125,12 @@ Entry for each lesson should be in the new comment.
 
 All participants must be a member of one laboratory group. Use this module to select the group you prefer. Take care that we will work in pairs and all members of the working team must be in the same group. You can change your selection provided there are free seats in the destination group. The number of members is limited.
 
-Table: List of available classes groups
-|  Name   | Description                                      |
-| :-----: | ------------------------------------------------ |
-| 2023 12 | Project class starting **Tuesday at 12:15**.     |
-| 2023 14 | Laboratory class starting  **Tuesday at 14:00**. |
-| 2023 15 | Laboratory class starting **Tuesday at 15:45**.  |
+Table: List of available class groups
+|  Name   | Description                                   |
+| :-----: | --------------------------------------------- |
+| 2024 14 | Project class starting **Tuesday at 14:00**.  |
+| 2024 15 | Project class starting  **Tuesday at 15:45**. |
+| 2023 17 | Project class starting **Tuesday at 17:30**.  |
 
 ### Timetable (page)
 

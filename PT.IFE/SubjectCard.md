@@ -16,6 +16,8 @@
 
 ### 1.4.1. PL
 
+Technologie Programowania
+
 ### 1.4.2. EN
 
 Programming Technologies
@@ -32,25 +34,25 @@ Instytut Informatyki
 
 ### 1.7.1. EN
 
-| Forma | Godziny kontaktowe | Zdalne | Udział |
-| :---: | :----------------: | :----: | :----: |
-| Prj.  |         30         |   X    |   50   |
-| Wyk.  |         30         |   X    |   50   |
+|  Forma  | Godziny kontaktowe | Zdalne | Udział |
+| :-----: | :----------------: | :----: | :----: |
+| Project |         30         |   X    |   40   |
+| Lecture |         30         |   X    |   60   |
 
 ### 1.7.2. PL
 
 | Forma | Godziny kontaktowe | Zdalne | Udział |
 | :---: | :----------------: | :----: | :----: |
-| Proj. |         30         |   X    |   50   |
-| Wykl. |         30         |   X    |   50   |
+| Proj. |         30         |   X    |   40   |
+| Wykl. |         30         |   X    |   60   |
 
 ## 1.8. Kierownik Przedmiotu (R) (Subject Supervisor)
 
 - dr inż. Mariusz Postół
-- dr hab. inż. Dariusz Puchała
 
 ## 1.9. Realizatorzy przedmiotu (R) (ang. Course Instructors)
 
+- Mariusz Postół
 - Dariusz Puchała
 - Kamil Stokfiszewski
 
@@ -112,7 +114,7 @@ and the grade from the project classes.
 5. Tablice i kolekcje. Deklaracja i inicjalizacja tablic. Tablice wielowymiarowe. Sposoby indeksacji. Stosy, kolejki i słowniki. 
 6. Obsługa wyjątków w języku C#.
 7. Elementy programowania wielowątkowego. Synchronizacja wątków (lock, monitor).
-8. Wybrane biblioteki .NET (WinForms, WPF). 
+8. Wybrane biblioteki .NET (WinForms, WPF).
 
 #### 1.14.1.2. ZAJĘCIA PROJEKTOWE
 

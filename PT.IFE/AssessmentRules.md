@@ -1,7 +1,7 @@
 # Assessment – grading scale
 
 1. Total scores: <= 100
-   - Seminar: <= 60
+   - Lecture: <= 60
      - Test: <= 40
      - Activity: <= 20
    - Project: <=40 (4 + 18 + 18)
@@ -11,9 +11,9 @@
 1. To pass the test you have up to three attempts. In the case of several attempts, the total number of points gathered is equal to the arithmetic mean obtained on all attempts.
 1. In the case of passing the test (i.e. obtaining a minimum of 20 points) at any time, the total number of points is assumed to be 20, if the arithmetic mean is less than 20 points.
 1. You may try to improve the scores on the following attempts as described above.
-1. Detailed description related to the project assessment you may find in the `Project` section.
+1. QA detailed description related to the project assessment you may find in the `Project` section.
 1. The following elements contribute to the assessment of activity at the seminar are:
-   - Correct answer to the question asked during the seminar classes (1 point each). The questions asked during last year's classes you may find in the section titled: Recordings 2021 Summer
+   - Correct answer to the question asked during the seminar classes (1 point each). The questions asked during previous classes you may find in the section titled: [Archives](https://ife.edu.p.lodz.pl/course/view.php?id=224#section-3)
    - Improvement of the source code managed in the repository [mpostol/TP](https://github.com/mpostol/TP) according to the rules described in this repository (scores must be agreed in advance).
 
 ## Final Grade
@@ -24,7 +24,7 @@
 | Scores | TUL Grade |
 | :----: | :-------: |
 | 100-90 |    5.0    |
-| 89 -80 |    4.5    |
+| 89-80  |    4.5    |
 | 79-70  |    4.0    |
 | 69-60  |    3.5    |
 | 59-50  |    3.0    |

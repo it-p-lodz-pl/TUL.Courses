@@ -1,76 +1,125 @@
 # TP IFE
 
+## Table of Content
+
+- [TP IFE](#tp-ife)
+  - [Table of Content](#table-of-content)
+  - [Preface](#preface)
+    - [WIKAMP Content URL](#wikamp-content-url)
+  - [Course Administration](#course-administration)
+    - [Course Settings](#course-settings)
+      - [Course full name](#course-full-name)
+      - [Course short name](#course-short-name)
+      - [Course category](#course-category)
+      - [Course start date](#course-start-date)
+      - [Course ID number](#course-id-number)
+  - [Course Summary](#course-summary)
+
+
+## Preface
+
+### WIKAMP Content URL
+
+- [URL](https://ife.edu.p.lodz.pl/course/view.php?id=224)
+
 ## Course Administration
 
-### Preface
+### Course Settings
 
-#### Kod: 07 67 5030 17
+#### Course full name
 
-#### Course title: Programming Technologies
+- Programming Technologies
 
-#### Course objective
+#### Course short name
 
-1. Allow students to become familiar with the syntax of C# programming language and the structure of .NET Framework together with the basics of applications development process using a dedicated programming environment.
-2. Allow students to become familiar with known software design patterns and their practical implementations in .NET Framework.
-3. Allow students to acquire practical software development skills for .NET Framework while using the Visual Studio development environment.
+- PT
 
-#### [WIKAMP Content](https://ife.edu.p.lodz.pl/course/view.php?id=224)
+#### Course category
 
-### Edit Settings
+- III year
 
-### Course summary
+#### Course start date
 
-#### Self enrollment
+- 2024-02-26
 
-To enroll use the key: `PT`. After enrolling, you must select a laboratory group.
+#### Course ID number
 
-#### Subject
+- 07 67 4040 30
 
-Computer science in general, and especially programming activities, is a field of knowledge that deals with the automation of information processing. Programs can be recognized as a driving force of that automated behavior. To achieve information processing goals programs have to implement algorithms required by the application concerned. In other words, the programs describe how to process data, which represent information relevant to the application. Data management - apart from the implementation of the algorithms – is, therefore, a key issue for automation of the entire information processing and computer science in general.
+## Course Summary
 
-Let's review selected language constructs, patterns, and frameworks targeting data-intensive programming.
+``` md
 
-#### Goal
+### Self enrollment
 
-The aim of the course is to extend knowledge and skills related to object-oriented programming focusing on interoperability between the computing process and data visualization, archiving, and networking environment. Particular emphasis is placed on the identification of solutions that can serve as a certain pattern with the widest possible use over a long-term horizon. Providing a long-term horizon is extremely difficult for such a dynamically developing field. Here, the experience of the author comes to the rescue, who has been employing similar solutions for years using constantly changing programming tools.
+To enroll in this course use the key: `PT`. After enrolling, you must select a project group. Ask the course supervisor in case of any questions or problems you may have.
+
+### Subject
+
+Computer science in general, and especially the development of computer programs, is a field of knowledge that deals with the automation of information processing. Programs can be recognized as a driving force of that automated behavior. To accomplish information processing goals programs have to manage external data engaged to control the graphical user interface (graphical data), stored by database management systems (structure data) and file systems (streaming data).  Hence, external data management - apart from implementing the algorithms – is a key issue for automation of the entire information processing and computer science in general. The external data is recognized as a process information representation handled outside of the program execution realm.
+
+Let's review selected language constructs, design patterns, and frameworks targeting programming in practice discipline in the context of eternal data processing.
+
+### Goal
+
+The course aims are to extend knowledge and skills related to object-oriented programming focusing on interoperability between the computing process and data visualization, archiving, and networking environment. Particular emphasis is placed on the identification of solutions that can serve as a certain design pattern with the widest possible use over a long-term horizon.
 
 To ensure the practical context of the discussion and provide sound examples, all topics are illustrated using the C# language and the Visual Studio design environment. The source code used during the course is publicly available in a GitHub repository. I believe that the proposed principles, design patterns, and scenarios are generic and may be seamlessly ported to other environments. The language and tools mentioned above have been used only to embed the discussion in a particular environment and to ensure that the course is very practical.
 
-The course discusses solutions for practical scenarios regarding various aspects of process data management, i.e. those that are input or output for the business logic of the program. In general, three classes of data have been distinguished:
+The course discusses solutions for practical scenarios regarding various aspects of process data management, i.e. those that are input or output for the business logic of the program. In general, external data is recognized as the data we must pull to or push from outside of a boundary of the process hosting the computer program. In general, the external data may be grouped as follows:
 
-- streaming (i.e. files, network packets)
-- structural (i.e. databases)
-- graphical: (i.e. Graphical User Interface)
+- **streaming** - bitstreams managed using content of files, or network payload
+- **structural** - data fetched/pushed from/to external database management systems using queries
+- **graphical** - data rendered on Graphical User Interface (GUI)
 
-### Self enrollment settings
+### Learning Effects
 
-#### Custom welcome message
+1. The student knows and understands in practice the syntax of C# programming language and the structure of the .NET Framework together with the basics of the applications development process using a dedicated programming environment including but not limited to unit tests.
+1. The student knows and understands in practice selected software design patterns (including but not limited to the program layered architecture, and dependency injection) and their practical implementations in the .NET Framework.
+1. The student knows and understands in practice programming rules related to collections, database access, and developing graphical user interfaces.
 
-Welcome to the Programming Technologies course! We are excited to have you as part of our membership. After enrolling, you must select a laboratory group.
+### Subject Detailed Content
 
-### Task 1
+- Information versus data
+- Object Oriented Programming (inheritance, polymorphism, abstraction)
+- Language selected constructs
+  - Anonymous type
+  - Delegate, Event
+  - Generics
+  - Extension method
+  - Partial types and methods
+- Streaming data
+  - File, Stream
+  - using statement and IDisposable
+  - Serialization
+- Structural data
+  - LINQ to SQL
+  - LINQ query and methods syntax
+  - Database connection
+- Program architecture
+  - Layered Design Pattern
+  - Inter layer communication
+    - delegates
+    - events
+    - Inversion of control
+    - Dependency injection
+    - Reactive programming
+  - Presentation layer
+    - mvvm
+    - the View layer; xaml
 
-#### UMLDiagram
+### Preliminary Requirements
 
-#### CheckList
+- Basics of Programming
+  - C# constructs (syntax and semantics) fundamentals
+  - XML fundamentals
+  - XAML constructs (syntax and semantics) fundamentals
+  - program development architecture basics
+- MS Visual Studio development environment fundamentals
+  - create solution
+  - create project
+  - unit testing  fundamentals
+- Operating System functionality fundamentals
+- Algorithms and Data Structures
 
-- Title:  Task 1 Check list
-- Copy the content of the file to a new GitHub issue to get a list of tasks prefixed by checkboxes you can use to control the scope and progress of your work.
-
-### GitHub README.md template file
-
-Your repository must have the `README.md` file prepared according to this template. Place the README.md file in the main directory of the repository. A GUID is required for identification. This GUID can be generated using `VS \ Tools \ Create GUID`. Don't use example GUIDs embedded in the template.
-
-#### Reservation module
-
-- \<data\> Lab \04 Reservation
-
-Please book a time-slot for # 4 laboratory using this module to check the progress of your work and compatibility of design environments. In the comment field, please enter the URL of your GitHub repository, which will be used to carry out the tasks included in the course program. In the same field, you should also put the GUIDs previously placed in the README.md file of the repository. The GUID can be generated using `VS \ Tools \ Create GUID`.
-
-## WIKAMP enrolment invitation
-
-I would like to invite students of the **Programming Technology** course to self-enrollment on the WIKAMP platform. The key to enrolling is `PT`. Details to find the course is below.
-
-- Mariusz Postół Ph.D. Eng. <mariusz.postol@p.lodz.pl>
-- Category: III year
-- [Programming Technology](https://ife.edu.p.lodz.pl/course/view.php?id=224)
+```
