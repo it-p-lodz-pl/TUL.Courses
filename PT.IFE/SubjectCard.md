@@ -59,32 +59,34 @@ Instytut Informatyki
 ### 1.10.1. PL
 
 - Podstawy programowania
-  - Podstawe konstrukcje języka C# (składnia i semantyka).
+  - podstawy składni i semantyki nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OOP, takiego jak Java, C++, a nawet Python
+  - podstawowe umiejętności związane z tworzeniem oprogramowania z wykorzystaniem nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OO
   - Podstawy koncepcji programowania obiektowego
   - Podstawy XML
-  - Podstawy konstrukcji języka XAML (składnia i semantyka).
-  - podstawy architektury tworzenia programu
-- Podstawy środowiska programistycznego MS Visual Studio
+  - podstawy tworzenia architektury programu
+- Podstawy projektowego środowiska programistycznego
   - utworzenie programu
-  - utworzenie projektów różnych rodzajów
+  - utworzenie projektów
   - podstawy testów jednostkowych
-- Podstawy funkcjonalności systemu operacyjnego
+- Podstawy systemu operacyjnego
+- Podstawy relacyjnych baz danych
 - Algorytmy i struktury danych
 
 ### 1.10.2. EN
 
 - Basics of Programming
-  - C# constructs (syntax and semantics) fundamentals
+  - syntax and semantics fundamentals of a modern high-level strongly typed OOP-ready programming language like Java, C++, or even Python
+  - basics skills of software development using a modern high-level strongly typed OOP-ready programming language
   - Object-oriented Programming concept basics
   - XML fundamentals
-  - XAML constructs (syntax and semantics) fundamentals
   - program development architecture basics
-- MS Visual Studio development environment fundamentals
-  - create solution
-  - create project
-  - unit testing  fundamentals
-- Operating System functionality fundamentals
-- Algorithms and Data Structures
+- Development environment fundamentals
+  - create program
+  - create projects
+  - unit testing fundamentals
+- Operating System fundamentals
+- Relational database fundamentals
+- Algorithms and Data Structures Fundamentals
 
 ## 1.11. Efekty uczenia (ang. Learning Effects)
 
@@ -92,13 +94,13 @@ Instytut Informatyki
 
 1. Student zna i rozumie w praktyce składnię języka programowania C# oraz strukturę .NET Framework wraz z podstawami procesu tworzenia aplikacji z wykorzystaniem dedykowanego środowiska programistycznego, w tym m.in. testów jednostkowych.
 1. Student zna i rozumie w praktyce wybrane wzorce projektowania oprogramowania (m.in. architekturę warstwową programu i wstrzykiwanie zależności) oraz ich praktyczne implementacje w środowisku .NET Framework.
-1. Student zna i rozumie w praktyce zasady programowania związane ze zbiorami, dostępem do baz danych i tworzeniem graficznych interfejsów użytkownika.
+1. Student zna i rozumie w praktyce zasady programowania związane ze strumieniami bitów, dostępem do baz danych i tworzeniem graficznych interfejsów użytkownika.
 
 ### 1.11.2. EN
 
 1. The student knows and understands in practice the syntax of C# programming language and the structure of the .NET Framework together with the basics of the applications development process using a dedicated programming environment including but not limited to unit tests.
 1. The student knows and understands in practice selected software design patterns (including but not limited to the program layered architecture, and dependency injection) and their practical implementations in the .NET Framework.
-1. The student knows and understands in practice programming rules related to collections, database access, and developing graphical user interfaces.
+1. The student knows and understands in practice programming rules related to bitstreams, database access, and developing graphical user interfaces.
 
 ## 1.12. Metody weryfikacji (ang. Verification Methods)
 
@@ -206,6 +208,7 @@ As part of the project classes, students working in two-person teams carry out p
 1. J. Albahari, B. Albahari, C# 6.0 in a Nutshell, 2015.
 2. A. Esposito, M. Ciceri, Reactive Programming for .NET Developers, 2016
 3. J. Visser, S. Rigal, R. van der Leek, Building Maintainable software, 2016.
+4. R. Sethi, Software Engineering: Basic Principles and Best Practices. Cambridge: Cambridge University Press, 2022.
 
 ## 1.17. Bilans Godzin (ang. Hours balance)
 
