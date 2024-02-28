@@ -131,6 +131,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ### Inżynieria oprogramowania
 
+- [Postol, M. Programming in Practice Discipline](https://www.c-sharpcorner.com/article/programming-in-practice-discipline/), C# Corner, 2024
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
   - Dane proste
   - Dane złożone
