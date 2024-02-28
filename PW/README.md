@@ -27,12 +27,11 @@ Dalsze instrukcje związane z organizacja pracy będę przekazywał sukcesywnie 
 
 ## Powitanie
 
-Witam na kursie:
-Programowanie Współbieżne
-Proszę się zapoznać z warunkami zaliczenia przedmiotu.
+Witam na kursie: Programowanie Współbieżne. Proszę się zapoznać z warunkami zaliczenia przedmiotu i zapisac się do odpowiedniej grupy projektowej.
 
 - dr inż. Marcin Cegielski I72 <marcin.cegielski@p.lodz.pl>
 - dr inż. Mariusz Postół I72 <mariusz.postol@p.lodz.pl>
+- dr inż. Łukasz Wieczorek I72 <lukasz.wieczorek@p.lodz.pl>
 
 ### TEAMS zespół
 

@@ -14,7 +14,12 @@
       - [Course start date](#course-start-date)
       - [Course ID number](#course-id-number)
   - [Course Summary](#course-summary)
-
+    - [Self enrollment](#self-enrollment)
+    - [Subject](#subject)
+    - [Goal](#goal)
+    - [Learning Effects](#learning-effects)
+    - [Subject Detailed Content](#subject-detailed-content)
+    - [Preliminary Requirements](#preliminary-requirements)
 
 ## Preface
 
