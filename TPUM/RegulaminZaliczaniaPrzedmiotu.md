@@ -1,10 +1,10 @@
 # Regulamin zaliczania przedmiotu
 
-1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych terminach zajęć. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
+1. Zapisy na zajęcia są przyjmowane na dwóch pierwszych zajęciach. Przywrócenie terminu jest możliwe tylko w uzasadnionych pisemnie przypadkach i wymaga indywidualnego toku zaliczania przedmiotu.
 1. Zajęcia są zaliczane na podstawie wyników uzyskanych z następujących składników:
 
    - **Wykład** ( <= 60 punktów):
-     - Pisemne kolokwium na koniec semestru – maksymalnie 40 punktów
+     - Pisemne kolokwium w formie testu na WIKAMP'ie na koniec semestru – maksymalnie 40 punktów
      - Aktywności na wykładzie – maksymalnie 20 punktów
 
    - **Projekt** ( <= 40 punktów):
@@ -15,7 +15,7 @@
 1. W przypadku zaliczania kolokwium w kilku terminach, łączna liczba punktów jest równa średnie arytmetycznej uzyskanej na wszystkich terminach.
 1. W przypadku zaliczenia kolokwium (czyli uzyskania min 30 punktów łącznie z aktywnością) w którymkolwiek terminie, przyjmuje się, że składnik `Wykład` jest zaliczony.
 1. Student może poprawiać ocenę w kolejnych terminach na zasadach opisanych powyżej.
-1. Ocenianymi elementami aktywności na seminarium jest poprawna wypowiedź w ramach prowadzonej dyskusji.
+1. Ocenianymi elementami aktywności na seminarium jest poprawna wypowiedź w ramach prowadzonej dyskusji lub udział w rozwoju przykładów zgromadzonych w repozytorium GitHub [mpostol/TP](https://github.com/mpostol/TP).
 
 ## Projekt
 

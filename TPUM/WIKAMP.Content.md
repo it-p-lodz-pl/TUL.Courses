@@ -3,12 +3,13 @@
 ## Table of Contents <!-- omit in toc -->
 
 - [1. Ogólne](#1-ogólne)
-  - [1.1. Forum (moduł)](#11-forum-moduł)
-  - [1.2. Rozkład roku akademickiego (Link)](#12-rozkład-roku-akademickiego-link)
-  - [1.3. Kalendarz zajęć parzyste/nieparzyste (plik)](#13-kalendarz-zajęć-parzystenieparzyste-plik)
-  - [1.4. Karta Przedmiotu (link)](#14-karta-przedmiotu-link)
-  - [1.5. Karta Warunków Realizacji Przedmiotu](#15-karta-warunków-realizacji-przedmiotu)
-  - [1.6. Regulamin zaliczenia przedmiotu](#16-regulamin-zaliczenia-przedmiotu)
+  - [1.1. Opis sekcji](#11-opis-sekcji)
+  - [1.2. Forum (moduł)](#12-forum-moduł)
+  - [1.3. Rozkład roku akademickiego (Link)](#13-rozkład-roku-akademickiego-link)
+  - [1.4. Kalendarz zajęć parzyste/nieparzyste (plik)](#14-kalendarz-zajęć-parzystenieparzyste-plik)
+  - [1.5. Karta Przedmiotu (link)](#15-karta-przedmiotu-link)
+  - [1.6. Karta Warunków Realizacji Przedmiotu](#16-karta-warunków-realizacji-przedmiotu)
+  - [1.7. Regulamin zaliczenia przedmiotu](#17-regulamin-zaliczenia-przedmiotu)
 - [2. Wykład (sekcja)](#2-wykład-sekcja)
   - [2.1. Streszczenie](#21-streszczenie)
   - [2.2. Tematyka](#22-tematyka)
@@ -47,21 +48,25 @@
 
 Proszę przekazać wszystkim zainteresowanym, ze można się samodzielnie zapisać na przedmiot [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/view.php?id=1816) prowadzony na WIKAMP. Klucz do samodzielnego zapisu: `TPUM`.
 
-Zajęcia są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TEAMS utworzony został zespół: [23-Technologie Programowania Urządzeń Mobilnych](https://teams.microsoft.com/l/team/19%3a1YvYKdXxJ7VY0WMWl8YhMCiYt-btb9bX1mL_EMYRwmc1%40thread.tacv2/conversations?groupId=e740f90e-5ea5-459f-bdf7-95ae2454e3d3&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb). Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `k8gh9xk`. Sposób wykorzystania tego zespołu uzgodnimy na zajęciach.
+### 1.1. Opis sekcji
 
-### 1.1. Forum (moduł)
+Proszę przekazać wszystkim zainteresowanym, ze można się samodzielnie zapisać na przedmiot [Programowanie urządzeń mobilnych](https://ftims.edu.p.lodz.pl/course/view.php?id=1816) prowadzony na WIKAMP. Klucz do samodzielnego zapisu: `TPUM`.
 
-### 1.2. Rozkład roku akademickiego (Link)
+Zajęcia są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TEAMS utworzony został zespół: [24-Technologie Programowania Urządzeń Mobilnych](https://teams.microsoft.com/l/channel/19%3apCo_r4zTDeMez5aOXS4PUTl9BJhN8WnCSs-AE9bkSI81%40thread.tacv2/Og%25C3%25B3lny?groupId=85b27c5a-96a5-4370-a1ba-17d67946bd8c&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb). Proszę się również zarejestrować z wyprzedzeniem. Zakończenie rejestracji wymaga mojej akceptacji (przejścia przez poczekalnię) lub użycia klucza: `x2pbs9a`. Sposób wykorzystania tego zespołu uzgodnimy na zajęciach.
 
-### 1.3. Kalendarz zajęć parzyste/nieparzyste (plik)
+### 1.2. Forum (moduł)
 
-### 1.4. Karta Przedmiotu (link)
+### 1.3. Rozkład roku akademickiego (Link)
 
-### 1.5. Karta Warunków Realizacji Przedmiotu
+### 1.4. Kalendarz zajęć parzyste/nieparzyste (plik)
+
+### 1.5. Karta Przedmiotu (link)
+
+### 1.6. Karta Warunków Realizacji Przedmiotu
 
 - `TPUM\KartaWarunkówRealizacjiPrzedmiotu.md`
 
-### 1.6. Regulamin zaliczenia przedmiotu
+### 1.7. Regulamin zaliczenia przedmiotu
 
 - `TPUM\RegulaminZaliczaniaPrzedmiotu.md`
 
