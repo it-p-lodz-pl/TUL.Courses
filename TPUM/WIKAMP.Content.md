@@ -12,7 +12,7 @@
   - [1.7. Regulamin zaliczenia przedmiotu](#17-regulamin-zaliczenia-przedmiotu)
 - [2. Wykład (sekcja)](#2-wykład-sekcja)
   - [2.1. Streszczenie](#21-streszczenie)
-  - [2.2. Tematyka](#22-tematyka)
+  - [2.2. Tematyka ⚒️](#22-tematyka-️)
   - [2.3. Aktywność](#23-aktywność)
   - [2.4. Raporty aktywności (folder)](#24-raporty-aktywności-folder)
   - [2.5. Seminarium aktywność](#25-seminarium-aktywność)
@@ -40,7 +40,7 @@
   - [4.2. Aktywność - Q/A podsumowanie (folder)](#42-aktywność---qa-podsumowanie-folder)
   - [4.3. Aktywność zasady (strona)](#43-aktywność-zasady-strona)
 - [5. Materiały pomocnicze](#5-materiały-pomocnicze)
-  - [5.1. Programowanie rozproszone](#51-programowanie-rozproszone)
+  - [5.1. Inzynieria Programowania](#51-inzynieria-programowania)
   - [5.2. Testowanie](#52-testowanie)
 - [6. Narzędzia](#6-narzędzia)
 
@@ -77,18 +77,16 @@ Zajęcia są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TE
 | Zajęcia | Tydzień  | Tytuł                                                    |
 | :-----: | :------: | :------------------------------------------------------- |
 |  _____  | ________ | ________________________________________________________ |
-|  1, 2   |    1     | Wprowadzenie                                             |
-|  3, 4   |    2     | Systemy scentralizowane                                  |
-|  5, 6   |    3     | Systemów rozproszone                                     |
-|  7, 8   |    4     | Współdziałanie                                           |
-|  9, 10  |    5     | Normalizacja - standaryzacja                             |
-| 11, 12  |    6     | Przetwarzanie w chmurze                                  |
-| 13, 14  |    7     | Bezpieczeństwo                                           |
-|         |    8     | Test (zdalny dostęp)                                     |
+|  1, 2   |    3     | Wprowadzenie, programowanie sekwencyjne, współbieżne     |
+|  3, 4   |    4     | Programowanie rozproszone                                |
+|  5, 6   |    5     | Współdziałanie, Normalizacja-standaryzacja               |
+|  7, 8   |    6     | Bezpieczeństwo                                           |
+|  9, 10  |    7     | Przetwarzanie w chmurze                                  |
+| 11, 12  |    8     | Powtórzenie, Test (zdalny dostęp)                        |
 
-### 2.2. Tematyka
+### 2.2. Tematyka ⚒️
 
-`TPUM\WwykładProgram.md`
+`TPUM\WwykładProgram.md` (niedostepny dla studentów)
 
 ### 2.3. Aktywność
 
@@ -121,10 +119,10 @@ SUMA = n
 | Zadanie            |     Termin oddania (nr tygodnia)      | Ocena (punkty) |
 | ------------------ | :-----------------------------------: | :------------: |
 | __________________ | _____________________________________ |  ____________  |
-| Projekt-Etap 0     |             3 (16.03.23)              |   04, 03, 02   |
-| Projekt-Etap 1     |             4 (23.03.23)              |   12, 09, 06   |
-| Projekt-Etap 2     |             5 (30.03.23)              |   12, 09, 06   |
-| Projekt Etap 3     |             6 (13.04.23)              |   12, 09, 06   |
+| Projekt-Etap 0     |                   4                   |   04, 03, 02   |
+| Projekt-Etap 1     |                   5                   |   12, 09, 06   |
+| Projekt-Etap 2     |                   6                   |   12, 09, 06   |
+| Projekt Etap 3     |                   7                   |   12, 09, 06   |
 |                    |                                       | _____________  |
 | Razem projekt      |                                       |     <= 40      |
 
@@ -142,8 +140,6 @@ SUMA = n
 ### 3.3. Przydział do zespołu (wybór grupy)
 
 Każdy uczestnik kursu musi być członkiem 1 lub 2 osobowego zespołu. Korzystając z tego modułu można dokonać wyboru zespołu.
-
-**UWAGA:** Ta aktywność zostanie zamknięta przed trzecimi zajęciami.
 
 ### 3.4. Wybór grupy projektowej (wybór grupy)
 
@@ -233,16 +229,17 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ## 5. Materiały pomocnicze
 
-### 5.1. Programowanie rozproszone
+### 5.1. Inzynieria Programowania
 
+- [Postol, M. Programming in Practice Discipline](https://www.c-sharpcorner.com/article/programming-in-practice-discipline/), C# Corner, 2024
+- [Programming in Practice - Executive Summary; Udemy, 2021](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835)
+- [Programming in Practice - Information Computation; Udemy, 2023](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21)
 - [Mariusz Postol on ORCID - Connecting research and researchers](https://orcid.org/0000-0002-9669-0565)
 - [mpostol/TP/DistributedProgramming](https://github.com/mpostol/TP/tree/master/DistributedProgramming)
-- Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
-- Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
-  - Postół M. (2020) [Object-Oriented Internet Reactive Interoperability](https://www.researchgate.net/publication/341882427_Object-Oriented_Internet_Reactive_Interoperability), presentation, DOI: 10.13140/RG.2.2.33984.56323
-- Mariusz Postol, [Machine to Machine Semantic-Data Based Communication: Comprehensive Survey](https://www.researchgate.net/publication/341165347_Machine_to_Machine_Semantic-Data_Based_Communication_Comprehensive_Survey) chapter in book [Computer Game Innovations 2018](https://www.researchgate.net/publication/335524620_Computer_Game_Innovations_2018), Publisher: Lodz University of Technology Press; ISBN: 978-83-7283-999-2 (open access)
-- [OPC UA Makes Reactive Object Oriented Internet Possible][wordpress.ReactiveOOI] (open access)
-- [IoT versus SCADA/DCS Data Acquisition Patterns][wordpress.IoTVersus] (open access)
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
+- [MPostol na GitHub](https://github.com/mpostol)
+- [MPostol na Udemy](https://www.udemy.com/user/mariusz-postol/)
+- [MPostol na ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
   - Dane proste
   - Dane złożone
@@ -259,6 +256,12 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [Programowanie Reaktywne](https://github.com/mpostol/TP/tree/master/AdaptiveProgramming/ConcurrentProgramming)
 - [Semantic-Data Processing Architecture](https://commsvr.gitbook.io/ooi/semantic-data-processing/semanticdata)
 - [Przykładowa implementacja repliki procesu - symulator boilerów](https://github.com/mpostol/OPC-UA-OOI/tree/master/Networking/Simulator.Boiler)
+- Postol M. (2018) [Machine to Machine Semantic-Data Based Communication: Comprehensive Survey](https://www.researchgate.net/publication/341165347_Machine_to_Machine_Semantic-Data_Based_Communication_Comprehensive_Survey) chapter in book [Computer Game Innovations 2018](https://www.researchgate.net/publication/335524620_Computer_Game_Innovations_2018), Publisher: Lodz University of Technology Press; ISBN: 978-83-7283-999-2 (open access)
+- Mariusz Postół, Piotr Szymczak (2021) [Object-Oriented Internet Cloud Interoperability](https://www.researchgate.net/publication/346563454_Object-Oriented_Internet_Cloud_Interoperability); Is to be published in Lecture Notes in Computer Science series, on behalf of Springer.
+- Postół M. (2020) Object-Oriented Internet Reactive Interoperability. In: Krzhizhanovskaya V. et al. (eds) Computational Science – ICCS 2020. ICCS 2020. Lecture Notes in Computer Science, vol 12141. Springer, Cham; [DOI: https://doi.org/10.1007/978-3-030-50426-7_31 - open access](https://www.researchgate.net/publication/342286885_Object-Oriented_Internet_Reactive_Interoperability)
+- Postół M. (2020) [Object-Oriented Internet Reactive Interoperability](https://www.researchgate.net/publication/341882427_Object-Oriented_Internet_Reactive_Interoperability), presentation, DOI: 10.13140/RG.2.2.33984.56323
+- [OPC UA Makes Reactive Object Oriented Internet Possible][wordpress.ReactiveOOI] (open access)
+- [IoT versus SCADA/DCS Data Acquisition Patterns][wordpress.IoTVersus] (open access)
 
 ### 5.2. Testowanie
 

@@ -4,13 +4,13 @@
 
 | Tydzień | Temat                                                                                                                  | Uwagi |
 | :-----: | ---------------------------------------------------------------------------------------------------------------------- | ----- |
-|    1    | Cel, zakres, metodyka, narzędzia, zaliczenie, WIKAMP, zasoby                                                           |       |
+|    3    | Cel, zakres, metodyka, narzędzia, zaliczenie, WIKAMP, zasoby                                                           |       |
 |         | Środowisko projektowe, praca w parach, testy jednostkowe, TDD (ang. test driven development), wprowadzenie do projektu |       |
-|    2    | Projekt (Omówienie projektu, środowisko)                                                                               |       |
-|    3    | [Projekt Etap-0][TworzenieRepozytorium]; Kontrola postępu prac, pytania, zaliczenie                                    |       |
-|    4    | [Projekt Etap-1][Etap1] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
-|    5    | [Projekt Etap-2][Etap2] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
-|  06-07  | [Projekt Etap-3][Etap3] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
+|         | Projekt (Omówienie projektu, środowisko)                                                                               |       |
+|    4    | [Projekt Etap-0][TworzenieRepozytorium]; Kontrola postępu prac, pytania, zaliczenie                                    |       |
+|    5    | [Projekt Etap-1][Etap1] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
+|    6    | [Projekt Etap-2][Etap2] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
+|   7-8   | [Projekt Etap-3][Etap3] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
 
 [TworzenieRepozytorium]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73262
 [Etap1]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857
@@ -60,7 +60,7 @@
    - **Zgłoszenia należy dokonać za pośrednictwem modułu zadania na `WIKAMP`** po całkowitym zakończeniu prac. W tekście zwrotnym należy umieścić URL do repozytorium dla wybranego zadania i numer wersji nadanej `Release`.
    - **Każdy członek zespołu zgłasza osobno gotowość zadania do oceny**.
 
-1. Prowadzącego na podstawie kodu źródłowego, oddanej dokumentacji, weryfikacji zdobytej wiedzy i nabytych umiejętności ocenia zakresu i poprawność realizacji prac dla etapu.
+1. Prowadzącego na podstawie kodu źródłowego, oddanej dokumentacji, weryfikacji zdobytej wiedzy i nabytych umiejętności ocenia zakres i poprawność realizacji prac dla etapu.
 1. Jeżeli ta ocena jest negatywna, wówczas student zobowiązany jest do powtórnego zaliczenia w kolejnym terminie,a w konsekwencji traci punkty.
 1. W trakcie zaliczenia student jest informowany, za co zostały odebrane mu punkty.
 1. **Zaliczone zadania nie mogą być poprawiane**.
@@ -70,7 +70,7 @@
 1. Aby wykonanie zadania w zgłoszonym terminie było uznane należy:
    - Zgłosić zadanie do oceny nie później niż w dniu poprzedzającym zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
    - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez każdego członka zespołu.
-   - Brak zgłoszenia do oceny w terminie powoduje utratę **1 punktu** dla Etap 0 i **3 punktów** dla wszystkich pozostałych etapów.
+   - Brak zgłoszenia do oceny w terminie powoduje utratę punktów zgodnie z warunkami zaliczenia opublikowanymi w osobnym dokumencie.
 
 ## Dodatkowo
 
