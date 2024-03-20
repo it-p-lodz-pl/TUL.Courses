@@ -69,15 +69,28 @@ Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (imple
 
 ## Wytyczne do realizacji
 
+### Ogólne
+
 - Warstwy `Dane` i `Logika` proszę zrealizować w technologii .NET STandard
 - Warstwa `Dane` ma zwierać model obiektowy reprezentujący wybrany proces biznesowy, np. sklep
 - Warstwa `Logiki` powinna reprezentować wszystkie operacje realizowane w wybranym procesie
 - Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne
 - Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`. Proszę odprzęgnąć warstwy na potrzeby testowania używając DI lub MOCK
 - Przy realizacji warstwy **Danych** należy unikać korzystania z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
-- warstwowość programu najprościej uzyskać, implementując warstwy jako osobne projekty.
+- architekture warstwową programu najprościej uzyskać, implementując warstwy jako osobne projekty.
 
-- **UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania aplikacji rozproszonej, tzn. realizowanej na kilku komputerach połączonych poprzez sieć. Z wyprzedzeniem proszę pomyśleć, w którym miejscu będzie wstawiona komunikacja pomiędzy klientem i serwerem pamiętając, że klient/serwer komunikuje się ze sobą z wykorzystaniem technologii Web-sockets.
+### Oddanie zadania do oceny
+
+- `GitHub`: sklonować repozytorium do pustego katalogu
+- Lokalna kopia: sprawdzić, czy przykład da się kompilować
+- Lokalna kopia: sprawdzić, czy w lokalnej kopii są jakieś modyfikacje po kompilacji
+- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV]
+- WIKAMP: skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i tag
+- WIKAMP: zgłosić zadanie do oceny
+
+> **UWAGA**: po zdefiniowaniu `tag` można i trzeba kontynuować pracę nad kolejnymi etapami.
+>
+> **UWAGA**: rozwiązanie dalej będzie modyfikowane w celu uzyskania aplikacji rozproszonej, tzn. realizowanej na kilku komputerach połączonych poprzez sieć. Z wyprzedzeniem proszę pomyśleć, w którym miejscu będzie wstawiona komunikacja pomiędzy klientem i serwerem pamiętając, że klient/serwer komunikuje się ze sobą z wykorzystaniem technologii Web-sockets.
 
 ## Lista źródeł
 
@@ -86,3 +99,5 @@ Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practic
 ## Zaliczenie
 
  W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane. W celu poprawy obiektywności do zadania dołączyłem listę kontrolną, która musi być wypełniona.
+
+[SV]: https://semver.org/
