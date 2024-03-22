@@ -2,7 +2,7 @@
 
 ## Cel
 
-Celem zadania jest;
+Celem zadania jest:
 
 - praktyczne wykorzystanie standardów do projektowania modeli współdziałania programów wytworzonych niezależnie
 - wykorzystanie komunikacji interaktywnej
@@ -24,7 +24,7 @@ Dane przesyłać z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML 
 
 Poprawność programu należy sprawdzić z wykorzystaniem testów jednostkowych i testów integracyjnych.
 
-Opracować model danych z wykorzystaniem standardu OPC Unified Architecture i harmonizować używany model obiektowy z informacyjnym modelem wygenerowanym automatycznie przez wybrane narzędzie.
+Opracować model danych z wykorzystaniem standardu Web Service i harmonizować używany model obiektowy z informacyjnym modelem wygenerowanym automatycznie przez wybrane narzędzie.
 
 ### Wytyczne do realizacji
 
@@ -38,11 +38,10 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 - ważne jest, aby współdzielone dane były chronione sekcją krytyczną
 - pomocne w implementacji testów jednostkowych w miejsce testów integracyjnych jest wstrzykiwanie zależności i koncepcja MOCK
 
-
 ## Lista źródeł
 
 Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
 
 ## Zaliczenie
 
-W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane. W celu poprawy obiektywności do zadania dołączyłem listę kontrolną, która musi być wypełniona.
+W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakcie omawiania kodu programu, mogą byc poruszane zagadnienia z nim związane. W celu poprawy obiektywności do zadania dołączyłem listę kontrolną, która musi być zrealizowana.

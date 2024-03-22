@@ -14,9 +14,8 @@
   - [2.1. Streszczenie](#21-streszczenie)
   - [2.2. Tematyka ⚒️](#22-tematyka-️)
   - [2.3. Aktywność](#23-aktywność)
-  - [2.4. Raporty aktywności (folder)](#24-raporty-aktywności-folder)
-  - [2.5. Seminarium aktywność](#25-seminarium-aktywność)
-  - [2.6. Kolokwium (test)](#26-kolokwium-test)
+  - [2.4. Seminarium aktywność](#24-seminarium-aktywność)
+  - [2.5. Kolokwium (test)](#25-kolokwium-test)
 - [3. Projekt](#3-projekt)
   - [3.1. Podsumowanie](#31-podsumowanie)
   - [3.2. Regulamin zaliczania projektu (Strona)](#32-regulamin-zaliczania-projektu-strona)
@@ -77,28 +76,25 @@ Zajęcia są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TE
 | Zajęcia | Tydzień  | Tytuł                                                    |
 | :-----: | :------: | :------------------------------------------------------- |
 |  _____  | ________ | ________________________________________________________ |
-|  1, 2   |    3     | Wprowadzenie, programowanie sekwencyjne, współbieżne     |
-|  3, 4   |    4     | Programowanie rozproszone                                |
-|  5, 6   |    5     | Współdziałanie, Normalizacja-standaryzacja               |
-|  7, 8   |    6     | Bezpieczeństwo                                           |
-|  9, 10  |    7     | Przetwarzanie w chmurze                                  |
-| 11, 12  |    8     | Powtórzenie, Test (zdalny dostęp)                        |
+|    1    |    3     | Wprowadzenie, programowanie sekwencyjne, współbieżne     |
+|    2    |    4     | Programowanie rozproszone                                |
+|    3    |    5     | Współdziałanie, Normalizacja-standaryzacja               |
+|    4    |    6     | Bezpieczeństwo                                           |
+|    5    |    7     | Przetwarzanie w chmurze                                  |
+|    6    |    8     | Powtórzenie, Test (zdalny dostęp)                        |
 
 ### 2.2. Tematyka ⚒️
 
-`TPUM\WwykładProgram.md` (niedostepny dla studentów)
+`TPUM\Wykład\WIKAMP.WwykładProgram.md` (niedostepny dla studentów)
 
 ### 2.3. Aktywność
 
 Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za udział w dyskusji - poprawne udzielenie odpowiedzi na zgłoszony problem. Punkty te doliczane są do oceny końcowej.
 
-- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium obliczyć samodzielnie na podstawie opublikowanych raportów
-- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
-- **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
+- Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium obliczyć samodzielnie
+- Numery jednorazowe biletów zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
 
-### 2.4. Raporty aktywności (folder)
-
-### 2.5. Seminarium aktywność
+### 2.4. Seminarium aktywność
 
 Zdobyte punkt proszę  wpisywać w kolejne komentarze niezwłocznie, ale nie później niż do następnych zajęć.
 
@@ -110,7 +106,7 @@ SUMA = n
 
 ```
 
-### 2.6. Kolokwium (test)
+### 2.5. Kolokwium (test)
 
 ## 3. Projekt
 

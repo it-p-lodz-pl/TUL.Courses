@@ -12,7 +12,7 @@ Celem zadania jest praktyczne poznanie:
 
 ## Opis zadania
 
-Opracować dwa programy z wykorzystaniem technologi .NET, które będą pełniły rolę klienta i sewera - podzielić uprzednio utworzony w etapie 1 program na współdziałające części, tak abu utworzyć aplikację rozproszoną o architekturze klient/serwer. Innymi słowy należy wyróżnić dwa niezależne programy komunikujące sie przez sieć komputerową i pozwalające na automatyzację wybranego uprzednio procesu biznesowego.
+Opracować dwa programy z wykorzystaniem technologi .NET, które będą pełniły rolę klienta i sewera - podzielić uprzednio utworzony w etapie 1 program na współdziałające części, tak abu utworzyć aplikację rozproszoną o architekturze klient/serwer. Innymi słowy należy wyróżnić dwa niezależne programy komunikujące się przez sieć komputerową i pozwalające na automatyzację wybranego uprzednio procesu biznesowego.
 
 Każdy z wymienionych programów będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`. Wymienione warstwy `Dane` i `Logika` muszą być testowane z wykorzystaniem testów jednostkowych. Bardziej szczegółowo warstwy te opisano w rozdziale **Architektura** opisu do zadania `Projekt Etap 1 - interaktywna/reaktywne programowanie`.
 
