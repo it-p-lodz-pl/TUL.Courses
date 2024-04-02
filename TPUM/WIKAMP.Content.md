@@ -227,6 +227,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 ### 5.1. Inzynieria Programowania
 
+- [Postol, M. Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/), C# Corner, 2024
 - [Postol, M. Programming in Practice Discipline](https://www.c-sharpcorner.com/article/programming-in-practice-discipline/), C# Corner, 2024
 - [Programming in Practice - Executive Summary; Udemy, 2021](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835)
 - [Programming in Practice - Information Computation; Udemy, 2023](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21)

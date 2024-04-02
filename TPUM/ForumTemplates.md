@@ -23,6 +23,7 @@
   - [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
   - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
   - [Przypominam o terminie zgłoszenia](#przypominam-o-terminie-zgłoszenia)
+  - [Supplementary publications - new publication on serialization](#supplementary-publications---new-publication-on-serialization)
 - [Zakończenie](#zakończenie)
   - [Dodatkowa możliwość zdobycia punktów za aktywność](#dodatkowa-możliwość-zdobycia-punktów-za-aktywność)
   - [Podsumowanie punktów za aktywność](#podsumowanie-punktów-za-aktywność)
@@ -187,6 +188,18 @@ Waśnie opublikowałem [Projekt - zadanie etap 2 - interaktywna/reaktywna komuni
 ### Przypominam o terminie zgłoszenia
 
 Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1 - interaktywna/reaktywne programowanie](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=73857), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://ftims.edu.p.lodz.pl/mod/reservation/view.php?id=75159). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
+
+### Supplementary publications - new publication on serialization
+
+We recently discussed the serialization concept during the lecture lesson.  I am proud to announce that my publication titled [Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/) has just been published on C# Corner. I encourage you to read it. I also added it in the `References` section. Many more publications on this website may interest you for many reasons.
+
+I am also pleased to inform you that I managed to create a coupon for you that allows you free access to my video course published on Udemy and titled [Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?couponCode=18179585EE5B547DC6BF) - click this link to use the coupon. This coupon expires May 3, 2024, and limits the number of students. This video course is in English and covers topics such as Information Computation Fundamentals, Information Implementation Using Types, and Algorithm Implementation Design Patterns. I suggest you do not delay enrolling in the course - as far as I know, the completion date is not limited. For the next video course [Programming in Practice - Executive Summary; Udemy, 2021](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835) - registration does not require any coupon or the need to pay additional fees, but you do need to have an account there.
+
+Let me remind you that There is publicly available the book titled [Programming in Practice](https://mpostol.gitbook.io/pip), which contains descriptions of examples collected in the GitHub repository [mpostol/TP](https://github.com/mpostol/TP). It would certainly help you complete your project tasks.
+
+All mentioned publications are available for free, taking into account the mentioned expiration period and redemption limit. This period and redemption limit cannot be extended.
+
+See you during the classes next week. Let me remind you that tomorrow's schedule for Wednesday is replaced by the Friday schedule - we don't have a lecture.
 
 ## Zakończenie
 

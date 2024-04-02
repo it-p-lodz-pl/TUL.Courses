@@ -18,6 +18,7 @@
 - [Aktualizacja listy uczestników kursu](#aktualizacja-listy-uczestników-kursu)
 - [Projekt](#projekt)
   - [Projekt – cel, zakres, organizacja](#projekt--cel-zakres-organizacja)
+- [Projekt Etap 1 - omówienie](#projekt-etap-1---omówienie)
   - [Oddanie Projekt Etap 1](#oddanie-projekt-etap-1)
   - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
   - [Projekt Etap 2 Lista Kontrolna](#projekt-etap-2-lista-kontrolna)
@@ -143,6 +144,20 @@ Uporządkowałem zadania, które należy wykonać w trakcie zajęć projektowych
 
 Wszelkie opinie, pytania, wątpliwości i konstruktywne propozycje proszę zgłaszać wszelkimi dostępnymi środkami komunikacji.
 
+## Projekt Etap 1 - omówienie
+
+Zgodnie z obietnicą na najbliższych zajęciach projektowych zaplanowanych w dniach 25/27-03-2024 (tydzień 5) i 08/10-04-2022 będę omawiał wybrane zagadnienia związane z realizacją `Projekt Etap 1`. Zapraszam wszystkich zainteresowanych bez względu na przydział do grupy projektowej, o ile udział w zajęciach nie koliduje z innymi zajęciami. Planowana agenda zajęć jest następująca:
+
+- Uzupełnianie braków Projekt Etap 0
+- Projekt Etap 1 - wybrane zagadnienia, a w tym jak zaimplementować:
+  - model obiektowy
+  - architekturę warstwową
+  - abstrakcyjne API warstwy
+  - komunikacja pomiędzy warstwami
+  - Dependency Injection
+  - MVVM - w tym reaktywne i interaktywne współdziałanie z użytkownikiem
+Zagadnienie te zostaną om omówione na podstawie przykładów zgromadzonych w [Repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP)
+
 ### Oddanie Projekt Etap 1
 
 Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1](https://a.b.c), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://a.b.c). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
@@ -200,9 +215,22 @@ Zgodnie z obietnicą, aby wspierać podejście "zaliczenie bez spiny", cały cza
 
 Prace trwają i trwać będą, więc jeśli chcesz być na bieżąco, zachęcam do wciśnięcia klawisza `Watch`. Jeśli treści były dla ciebie przydatne, zachęcam do wciśnięcia klawisza `Starred`. Jeśli masz pomysł na zamiany w treści przykładów, to postępuj zgodnie z: (a)`Fork`, (b)dokonaj zmian, (c) zaproponuj zamiany przez pr albo dokonaj wpisu w dyskusji. Jednak wcześniej poproszę o kontakt w celu omówienia propozycji i sposobu jej wdrożenia. Propozycje muszą mieć dydaktyczny charakter.
 
-Przypominam, że jako studenci tego semestru macie prawo to korzystania z moich konsultacji - to nie będzie trwało wiecznie 😁 (21-06-2022 już wkrótce). 
+Przypominam, że jako studenci tego semestru macie prawo to korzystania z moich konsultacji - to nie będzie trwało wiecznie 😁 (21-06-2022 już wkrótce).
 
 W kontakcie.
+
+### Publikacje uzupełniające - nowa publikacja o serializacji
+
+Serializacja jest niezbędna, aby zaimplementować rejestrację położenia kul w pliku (Projekt Etap 3). Miło mi poinformować, że właśnie ukazała się moja publikacja zatytułowana [Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/) na C# Corner. Zachęcam do przeczytania. Dodałem ją również w sekcji `Materiały dodatkowe`. Na tym portalu jest znacznie więcej publikacji, które mogą być dla Was interesujące z wielu względów.
+
+Miło mi również poinformować, że udało mi się utworzyć dla Was kupon umożliwiający darmowy dostępu do mojego wideo kursu opublikowanego na Udemy i zatytułowanego [Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?couponCode=18179585EE5B547DC6BF) - kliknij w ten link, aby użyć kupon. Kupon ten wygasa 03-05-2024 i ogranicza liczbę kursantów. Ten wideo kurs jest w języku angielskim i obejmuje tematy jak: Information Computation Fundamentals, Information Implementation Using Types, Algorithm Implementation Design Pattern. Proponuję nie zwlekać z zapisem - termin ukończenia nie jest limitowany o ile wiem. Na Udemy jest również dostępny mój wideo kurs [Programming in Practice - Executive Summary; Udemy, 2021](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835) - zapis nie wymaga kuponu i potrzeby ponoszenia dodatkowych opłat, natomiast trzeba mieć tam konto.
+
+Przypominam, że w przestrzeni publicznej (dostęp darmowy) jest również dostępna książka [Programming in Practice
+](https://mpostol.gitbook.io/pip), która zawiera opisy przykładów zgromadzonych w [repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP), które z pewnością pomogą zrealizować zadania projektowe.
+
+Wszystkie wymienione materiały są dostępne za darmo dla naszych studentów z uwzględnieniem wspomnianego okresu wygaszania. Okres ten nie może być przedłużony.
+
+Pozdrawiam. W przypadku pytań i wątpliwości pozostaję w kontakcie.
 
 ## Koniec zajęć
 
@@ -252,7 +280,7 @@ Ci, którzy potrzebują uzupełnić braki, mają możliwość skorzystania z nag
 
 ### Koniec semestru
 
-Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach PW. Jeszcze pred wakacjami wystawiłem oceny cząstkowe, więc proszę sprawdzić czy zostały poprawnie uwzględnione w ocenie końcowej. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
+Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach PW. Jeszcze przed wakacjami wystawiłem oceny cząstkowe, więc proszę sprawdzić czy zostały poprawnie uwzględnione w ocenie końcowej. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
 
 Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP.
 

@@ -104,6 +104,21 @@ During the next laboratory, we will repeat the same agenda as for lesson 4, and 
 
 Contact me directly in any case questions or proposals you may have.
 
+## Seminar Announcements
+
+### Online References - New Publication on Serialization
+
+Serializacja jest niezbędna, aby zaimplementować rejestrację położenia kul w pliku (Projekt Etap 3). Miło mi poinformować, że właśnie ukazała się moja publikacja zatytułowana [Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/) na C# Corner. Zachęcam do przeczytania. Dodałem ją również w sekcji `Materiały dodatkowe`. Na tym portalu jest znacznie więcej publikacji, które mogą być dla Was interesujące z wielu względów.
+
+Miło mi również poinformować, że udało mi się utworzyć dla Was kupon umożliwiający darmowy dostępu do mojego wideo kursu opublikowanego na Udemy i zatytułowanego [Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?couponCode=18179585EE5B547DC6BF) - kliknij w ten link, aby użyć kupon. Kupon ten wygasa 03-05-2024 i ogranicza liczbę kursantów. Ten wideo kurs jest w języku angielskim i obejmuje tematy jak: Information Computation Fundamentals, Information Implementation Using Types, Algorithm Implementation Design Pattern. Proponuję nie zwlekać z zapisem - termin ukończenia nie jest limitowany o ile wiem. Na Udemy jest również dostępny mój wideo kurs [Programming in Practice - Executive Summary; Udemy, 2021](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835) - zapis nie wymaga kuponu i potrzeby ponoszenia dodatkowych opłat, natomiast trzeba mieć tam konto.
+
+Przypominam, że w przestrzeni publicznej (dostęp darmowy) jest również dostępna książka [Programming in Practice
+](https://mpostol.gitbook.io/pip), która zawiera opisy przykładów zgromadzonych w [repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP), które z pewnością pomogą zrealizować zadania projektowe.
+
+Wszystkie wymienione materiały są dostępne za darmo dla naszych studentów z uwzględnieniem wspomnianego okresu wygaszania. Okres ten nie może być przedłużony.
+
+Pozdrawiam. W przypadku pytań i wątpliwości pozostaję w kontakcie.
+
 ## Lab announcements
 
 ### Task 0 Check list Create Repository

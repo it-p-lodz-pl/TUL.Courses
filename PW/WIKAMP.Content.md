@@ -127,10 +127,11 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
 - **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
 
-## Materiały pomocnicze
+## Publikacje uzupełniające
 
 ### Inżynieria programowania
 
+- [Postol, M. Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/), C# Corner, 2024
 - [Postol, M. Programming in Practice Discipline](https://www.c-sharpcorner.com/article/programming-in-practice-discipline/), C# Corner, 2024
 - [Programming in Practice - Executive Summary; Udemy, 2021](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835)
 - [Programming in Practice - Information Computation; Udemy, 2023](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21)
@@ -149,6 +150,7 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [MPostol na ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
 - [MPostol na ORCID](https://orcid.org/0000-0002-9669-0565)
 - [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
+- [Semantic Versioning 2.0.0][SV]
 
 ### Testowanie
 
@@ -164,3 +166,5 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 - [XML => YAML](https://codebeautify.org/xml-to-yaml#)
 - [JSON => YAML,XML, CSV](https://jsonformatter.org/)
 - [json editor online/](https://jsoneditoronline.org/)
+
+[SV]: https://semver.org/

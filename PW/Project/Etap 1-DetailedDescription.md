@@ -77,6 +77,14 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 - Przy realizacji warstwy **Danych** należy unikać korzystania z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
 - architekturę warstwową (luźno powiązane warstwy) programu najprościej uzyskać, implementując warstwy jako osobne projekty.
 - do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności (DI)
+- `GitHub`: sklonować repozytorium do pustego katalogu
+- Lokalna kopia: sprawdzić, czy przykład da się kompilować
+- Lokalna kopia: sprawdzić, czy w lokalnej kopii są jakieś modyfikacje po kompilacji
+- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV]
+- WIKAMP: skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i tag
+- WIKAMP: zgłosić zadanie do oceny
+
+> UWAGA: po zdefiniowaniu tag mozna i trzeba kontynuować prace nad kolejnymi etapami.
 
 ## Zaliczenie
 
@@ -87,3 +95,6 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
 
 - [Elastic collisions; Wikipedia](https://en.wikipedia.org/wiki/Elastic_collision)
+- [Semantic Versioning 2.0.0][SV]
+
+[SV]: https://semver.org/

@@ -23,7 +23,9 @@ assignees: 'mpostol'
   - [ ] Section Lecture
     - [ ] Schedule
     - [ ] Attendees List
-    - [ ] Grading Rules
+    - [ ] Activity - task module
+    - [ ] Test
+      - [ ] Questions bank
   - [ ] Section Project
     - [ ] Schedule nad grading summary
     - [ ] Grading Rules

@@ -164,11 +164,13 @@ This section contains:
 
 ### Online
 
+- [Postol, M. Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/), , C# Corner, 2024
 - [Postol, M. Programming in Practice Discipline](https://www.c-sharpcorner.com/article/programming-in-practice-discipline/), C# Corner, 2024
 - [csharp (C#) GitHub repository](https://github.com/mpostol/TP?tab=readme-ov-file#programming-in-practice-)- C# in Practice - set of C# examples targeting education purpose
 - [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
 - [Programming in Practice](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt); Promotional Videos, Youtube
-- [Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21), Udemy course, 2023
+- [Postol, M. Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835), Udemy free video course, 2021
+- [Postol, M. Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21), Udemy video course, 2023
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
 - [MPostol na GitHub](https://github.com/mpostol)
 - [MPostol na Udemy profil](https://www.udemy.com/user/mariusz-postol/)
