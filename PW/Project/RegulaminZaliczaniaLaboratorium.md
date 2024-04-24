@@ -70,7 +70,7 @@
 1. Aby wykonanie zadania w zgłoszonym terminie było uznane należy:
    - Zgłosić zadanie do oceny nie później niż w dniu poprzedzającym zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
    - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez każdego członka zespołu.
-   - Brak zgłoszenia do oceny w terminie powoduje utratę **2 punktów** dla Etap 0 i **4 punktów** dla wszystkich pozostałych etapów.
+   - Brak zgłoszenia do oceny w terminie powoduje utratę **3 punktów** dla Projekt Etap 0 i **4 punktów** dla wszystkich pozostałych etapów.
 
 ## Dodatkowo
 

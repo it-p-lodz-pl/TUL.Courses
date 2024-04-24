@@ -27,6 +27,7 @@
     - [Komentarze](#komentarze)
 - [Repozytorium TP](#repozytorium-tp)
   - [Nowe wpisy w zakładce 'Discussions'](#nowe-wpisy-w-zakładce-discussions)
+  - [Publikacje uzupełniające - nowa publikacja o serializacji](#publikacje-uzupełniające---nowa-publikacja-o-serializacji)
 - [Koniec zajęć](#koniec-zajęć)
   - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
   - [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
@@ -160,7 +161,13 @@ Zagadnienie te zostaną om omówione na podstawie przykładów zgromadzonych w [
 
 ### Oddanie Projekt Etap 1
 
-Przypominam o terminie zgłoszenia [Projekt - zadanie etap 1](https://a.b.c), który upływa dziś o 14:00. Wszyscy, którzy zgłosili zadanie do oceny powinni zarezerwować sobie termin w tym module [29-04-20 16:00 - Projekt - zaliczanie etap 1](https://a.b.c). Na jedną grupę przewiduję 30 min, więc limit na zajęcia to 4 grupy. Tylko jedna osoba z grupy powinna się zgłaszać. Ci, którzy się nie zmieszczą będą mieli kolejne terminy. Termin zgłoszeń upływa 14:00 w dniu 29-04-20. Zajęcia odbywają się z wykorzystaniem Teams.
+Przypominam o terminie zgłoszenia zgodnie z tabelą na stronie przedmiotu [Projekt - zadanie etap 1](https://ftims.edu.p.lodz.pl/course/view.php?id=2332). Proszę pamiętać, aby nie zostawiać zadania w trybie roboczym tylko przesłać je do oceny - patrz `Regulamin zaliczania laboratorium`.
+
+Dziś dostałem ciekawe pytanie dotyczące uzycia technologi "mock" (`Mock is used for testing purposes (expected but not required`) - przypominam, że wykorzystanie tego podejścia do testowania nie jest wymagane. Przykładów w TP nie ma, ale przykłady użycia znajdziecie w innych moich repozytoriach, chocby tu:
+
+[SemanticData/UAModelDesignExport.UnitTest/ModelDesignExportUnitTest](https://github.com/mpostol/OPC-UA-OOI/blob/fb227e938ce167e74a905ba09fa597832618e843/SemanticData/UAModelDesignExport.UnitTest/ModelDesignExportUnitTest.cs#L22-L36)
+
+Przypominam, że uczymy się programować wspołbieznie, a niepełny "symulator bilardu' jest niedoskonałym przykładem, na którym jedynie ćwiczymy ten rodzaj programowania. Programowanie współbieżne nie obejmuje testowania, więc wybrane zagadnienia są jedynie wymaganym dodatkiem, podobnie jak architektura programu i inne.
 
 ### Informacja o publikacji Projekt - zadanie etap 2
 
@@ -174,7 +181,7 @@ Nie wiem czy wszyscy odnotowali, że opublikowałem listę kontrolną do kolejne
 
 #### Lista Kontrolna
 
-Opublikowałem listę kontrolną do etapu 3 projektu. Na razie opublikowałem ja na [Teams](https://teams.microsoft.com/l/message/19:PIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1@thread.tacv2/1653232588316?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&parentMessageId=1653232588316&teamName=22-Programowanie%20Wsp%C3%B3%C5%82bie%C5%BCne&channelName=General&createdTime=1653232588316) i zachęcam do dyskusji. Na Wikamp będzie opublikowana 26-05-2022, więc dyskusję kończymy 25-05-2022 o 24:00. Generalnie zmiany obejmują konieczność: 
+Opublikowałem listę kontrolną do etapu 3 projektu. Na razie opublikowałem ja na [Teams](https://teams.microsoft.com/l/message/19:PIyhePQOoNLc6_kNAcf4eZn12N5CfDMLVS6-p0Lt6nc1@thread.tacv2/1653232588316?tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb&groupId=cb8f6094-ed72-4acb-a286-6886488a7b01&parentMessageId=1653232588316&teamName=22-Programowanie%20Wsp%C3%B3%C5%82bie%C5%BCne&channelName=General&createdTime=1653232588316) i zachęcam do dyskusji. Na Wikamp będzie opublikowana 26-05-2022, więc dyskusję kończymy 25-05-2022 o 24:00. Generalnie zmiany obejmują konieczność:
 
 - uwzględnienia programowania czasu rzeczywistego
 - zapisu danych diagnostycznych do zewnętrznego repozytorium
@@ -297,4 +304,4 @@ Powodzenia!
 - Mariusz Postół Ph. D.
 - Institute of Information Technology
 - Technical University of Lodz
-- Email: mariusz.postol@p.lodz.pl
+- Email: <mariusz.postol@p.lodz.pl>
