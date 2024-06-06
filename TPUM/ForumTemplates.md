@@ -24,6 +24,9 @@
   - [Informacja o publikacji Projekt - zadanie etap 2](#informacja-o-publikacji-projekt---zadanie-etap-2)
   - [Przypominam o terminie zgłoszenia](#przypominam-o-terminie-zgłoszenia)
   - [Supplementary publications - new publication on serialization](#supplementary-publications---new-publication-on-serialization)
+  - [Modyfikacje dotyczące przedmiotu](#modyfikacje-dotyczące-przedmiotu)
+    - [Komunikat](#komunikat)
+    - [Odpowiedź](#odpowiedź)
 - [Zakończenie](#zakończenie)
   - [Dodatkowa możliwość zdobycia punktów za aktywność](#dodatkowa-możliwość-zdobycia-punktów-za-aktywność)
   - [Podsumowanie punktów za aktywność](#podsumowanie-punktów-za-aktywność)
@@ -201,6 +204,48 @@ All mentioned publications are available for free, taking into account the menti
 
 See you during the classes next week. Let me remind you that tomorrow's schedule for Wednesday is replaced by the Friday schedule - we don't have a lecture.
 
+### Modyfikacje dotyczące przedmiotu
+
+#### Komunikat
+
+Nieuchronnie zbliżamy się do końca semestru, więc nadchodzi idealny czas na chwilę zastanowienia w temacie co poprawić w zakresie projektu, ze szczególnym uwzględnieniem ulepszenia opublikowany materiałów na stronie przedmiotu usługi WIKAMP. Oczywiście dyskusja ta nie będzie miała wpływu na wymagania i warunki oceniania aktualnej edycji. Pytanie to kieruję do aktualnych uczestników kursu i prowadzących. Dyskusja musi się zakończyć do końca zajęć w tym semestrze. Proszę zatem o:
+
+1. przysyłanie propozycji zmian za pośrednictwem email mozliwie najszybciej
+1. wzięcie udziału w spotkaniu, które mam zamiar zorganizować z wykorzystaniem MS Teams i naszego zespołu tam zdefiniowanego
+
+Wszystkie propozycje zmian dotyczące projektu proszę wysyłać bezpośrednio do mnie (<mariusz.postol@p.lodz.pl>). Ja je nastepnie prześlę do kierownika przedmiotu po wstępnej obróbce. Jesli ktoś ma obawy przed konsekwencjami zgłoszenia propozycji może je wysłać anonimowo z dowolnego konta email. Oczywiście zaleca się korzystanie ze swojego email na PŁ. To ma być feedback (punkt wyjścia do wprowadzania udoskonaleń), a nie pułapka.
+
+Ja ze swojej strony zgłaszam nastepujace tematy:
+
+1. zakazac korzystania z framework'ów, aby zrealizować dependency injection i mock
+1. doprecyzować termin "self contained" (wszystko z wyjątkiem niezbędnych elementów) - inaczej jesli coś nie jest w, potrzeba umieszczenia na zewnątrz musi być udowodniona.
+1. harmonizować tekst regulaminu zaliczenia z aktualnymi wymogami (tabelką na stronie przedmiotu)
+
+Proponuję nastepujacy harmonogram w tym temacie:
+
+- propozycje zbieram do 26-05-2024 (niedziela)
+- wstępne propozycje zmian (dif) i termin spotkania: <= 29-05-2024
+- spotkanie proponuję zaplanować:
+  - termin (początek): 06-06-204 po 15:00 albo 07-06-2024 w godzinach 10:00-16-00;
+  - czas trwania: 1 godzina
+
+Wszelkie pytania, wątpliwości i propozycje mile widziane.
+
+Pozdrawiam,
+
+#### Odpowiedź
+
+Dzięki za wszelkie propozycje. Uaktualniona lista propozycji jest następująca:
+
+1. Program w Etap 0 powinien zawierać już warstwy PLD. Aktualnie nie ma ograniczeń. Warstwa P może być zrealizowana w technice command line. Kule tworzymy w warstwie D i muszą wyświetlić tekstowo swoje początkowe położenie na ekranie. Kule są nieruchome. Punktacja i termin bez zmian.
+2. Ograniczyć niezależne testowanie do warstwy L.
+3. Wprowadzić zakaz korzystania z frameworków, aby zrealizować dependency injection i mock
+4. doprecyzować termin "self contained" (wszystko z wyjątkiem niezbędnych elementów) - inaczej jeśli coś nie jest w, potrzeba umieszczenia na zewnątrz musi być udowodniona.
+5. harmonizować tekst regulaminu zaliczenia z aktualnymi wymogami (tabela na stronie przedmiotu)
+
+Szczegółowa lista zmian wraz z ostateczną propozycją spotkania z wykorzystaniem MS Team bez zmian <= 29-05-2024.
+Wstępnie proponowany termin spotkania 06-06-2024 (czwartek) godzina 17:00.
+
 ## Zakończenie
 
 ### Dodatkowa możliwość zdobycia punktów za aktywność
@@ -246,19 +291,28 @@ Ostateczny termin złożenia pracy dyplomowej w semestrze letnim – 16.09.2020 
 
 ### Oceny końcowe wystawione
 
-Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
+Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Nasza przygoda intelektualna dobiegła końca.  Wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
 
-Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP. W szczególności polecam zapisać linki do zarejestrowanych zajęć projektowych i wykładowych, ponieważ zostały one zapisane poza WIKAMP i powinny być nadal bezpośrednio dostępne w przyszłości.
+Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP.
 
-Przypominam również o możliwości współpracy w ramach projektu open source [Object-Oriented Internet](https://github.com/mpostol/OPC-UA-OOI) - jest tam kilka tematów nadających się na prace mgr. Wszystkich zainteresowanych proszę o kontakt poprzez email lub Teams.
+Ponieważ na podstawie tego kursu zamierzam opublikować kurs na udemy.com, możesz zapisać się do istniejących kursów. Aby śledzić moje działania wydawnicze dołącz do społeczności pod adresem:
 
-Ponieważ na podstawie tego kursu zamierzam opublikować kurs na udemy.com, możesz zapisać się do istniejącego bezpłatnego kursu, aby śledzić moje działania wydawnicze, dołączając do społeczności pod adresem:
-
-[https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
+- [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
 
 Jeszcze raz dziękuję za udział w przedmiocie.
 
+Oceny z WIKAMP przepisałem do centralnego dziennika, ale do 2024-05-31 czekam na ewentualne reklamacje. W przypadku braku reklamacji oceny zostana zatwierdzone bez prawa odwołania.
+
 Powodzenia i w zdrowotności
+
+> **Mariusz Postół Ph.D. Eng.**
+
+- Institute of Information Technology Lodz Technical University
+- al. Politechniki 8
+- 93-590 Łódź , Poland
+- Phone: +48 42 631 39  54
+- Email: <mariusz.postol@p.lodz.pl>
+- www: <orcid.org/0000-0002-9669-0565>
 
 ### Wakacje czas zacząć
 

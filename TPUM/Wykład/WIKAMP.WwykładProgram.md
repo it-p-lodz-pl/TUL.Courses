@@ -3,43 +3,67 @@
 ## Spis treści <!-- omit in toc -->
 
 - [1. Wprowadzenie](#1-wprowadzenie)
-  - [1.1. Wprowadzenie Plan](#11-wprowadzenie-plan)
-  - [1.2. Wprowadzenie Realizacja](#12-wprowadzenie-realizacja)
-  - [1.3. Architektura](#13-architektura)
-    - [1.3.1. Protokoły plan](#131-protokoły-plan)
-    - [1.3.2. Protokoły Realizacja](#132-protokoły-realizacja)
+  - [1.1. O kursie](#11-o-kursie)
+  - [1.2. Wymagania wstępne](#12-wymagania-wstępne)
+  - [1.3. Programowanie urządzeń mobilnych](#13-programowanieurządzeńmobilnych)
 - [2. Programowanie scentralizowane](#2-programowanie-scentralizowane)
-  - [2.1. Podstawy programowania](#21-podstawy-programowania)
-  - [2.2. Architektura warstwowa](#22-architektura-warstwowa)
-    - [2.2.1. Mapowanie odpowiedzialności](#221-mapowanie-odpowiedzialności)
-  - [2.3. Programowanie sekwencyjne - współbieżne](#23-programowanie-sekwencyjne---współbieżne)
-  - [2.4. Programowanie synchroniczne - asynchroniczne](#24-programowanie-synchroniczne---asynchroniczne)
-  - [2.5. Programowanie interaktywne - reaktywne](#25-programowanie-interaktywne---reaktywne)
+  - [2.1. Urządzenia mobile](#21-urządzeniamobile)
+  - [2.2. Wprowadzenie](#22-wprowadzenie)
+  - [2.3. Architektura warstwowa](#23-architektura-warstwowa)
+  - [2.4. Komunikacja warstw](#24-komunikacja-warstw)
+  - [2.5. Programowanie współbieżne](#25-programowanie-współbieżne)
 - [3. Programowanie rozproszone](#3-programowanie-rozproszone)
+  - [3.1. Podstawy](#31-podstawy)
+  - [3.2. Architektura](#32-architektura)
+  - [3.3. Komunikacja](#33-komunikacja)
+  - [3.4. Metody rozpraszania](#34-metody-rozpraszania)
+    - [3.4.1. Współdzielenie GUI](#341-współdzielenie-gui)
+    - [3.4.2. Współdzielenie logiki](#342-współdzielenie-logiki)
+    - [3.4.3. Współdzielenie repozytoriów](#343-współdzielenie-repozytoriów)
 - [4. Współdziałanie](#4-współdziałanie)
-  - [4.1. `<semantyka danych - interoperacyjność>`](#41-semantyka-danych---interoperacyjność)
-  - [4.2. Semantyka danych - interoperacyjność](#42-semantyka-danych---interoperacyjność)
-- [5. Normalizacja - standaryzacja](#5-normalizacja---standaryzacja)
+  - [4.1. Wprowadzenie](#41-wprowadzenie)
+  - [4.2. Implementacja](#42-implementacja)
+  - [4.3. Technologie](#43-technologie)
+- [5. Bezpieczeństwo](#5-bezpieczeństwo)
+  - [5.1. komunikacji](#51-komunikacji)
+  - [5.2. danych](#52-danych)
+  - [5.3. zasobów](#53-zasobów)
+  - [5.4. Bezpieczeństwo](#54-bezpieczeństwo)
+  - [5.5. Architektura realizacja](#55-architektura-realizacja)
 - [6. Przetwarzanie w chmurze](#6-przetwarzanie-w-chmurze)
-- [7. Bezpieczeństwo](#7-bezpieczeństwo)
-  - [7.1. komunikacji](#71-komunikacji)
-  - [7.2. danych](#72-danych)
-  - [7.3. zasobów](#73-zasobów)
-  - [7.4. Bezpieczeństwo](#74-bezpieczeństwo)
-  - [7.5. Architektura realizacja](#75-architektura-realizacja)
+  - [6.1. Podstawy](#61-podstawy)
+    - [6.1.1. Przeznaczenie systemów mobilnych](#611-przeznaczenie-systemów-mobilnych)
+    - [6.1.2. Architektura](#612-architektura)
+    - [6.1.3. Model własnościowy](#613-model-własnościowy)
+  - [6.2. Usługi](#62-usługi)
+    - [6.2.1. www](#621-www)
+    - [6.2.2. IoT](#622-iot)
+  - [6.3. Wybrane scenariusze aplikacji mobilnych](#63-wybrane-scenariusze-aplikacji-mobilnych)
+    - [6.3.1. Digital Twin](#631-digital-twin)
+    - [6.3.2. Internet of Things (IoT)](#632-internet-of-things-iot)
+    - [6.3.3. Diagnostyka programu](#633-diagnostyka-programu)
+    - [6.3.4. Implementacja współdziałania reaktywnego](#634-implementacja-współdziałania-reaktywnego)
 
 ## 1. Wprowadzenie
 
-1. O kursie
-1. Wymagania wstępne
-   - informacja a dane,
-   - algorytm a program,
-   - typ - co to znaczy
-   - programowanie obiektowe
-   - współużywalność danych
-   - oprogramowanie sekwencyjne, współbieżne, równoległe, rozproszone
-   - program warstwowy
-   - Użyteczne narzędzia: C#, Visual Studio, GitHub
+### 1.1. O kursie
+
+### 1.2. Wymagania wstępne
+
+<!--
+- informacja a dane,
+- algorytm a program,
+- typ - co to znaczy
+- programowanie obiektowe
+- współużywalność danych
+- oprogramowanie sekwencyjne, współbieżne, równoległe, rozproszone
+- program warstwowy
+- Użyteczne narzędzia: C#, Visual Studio, GitHub
+-->
+
+### 1.3. Programowanie urządzeń mobilnych
+
+<!--
 1. Wyjaśnienie tematu
 1. Mobilne dane, urządzenia, aplikacje, systemy
 1. IoT, M2M, Cyber Physical Systems, Industry 4.0
@@ -62,7 +86,7 @@
   - zmiana adresu
   - wyjście z zasięgu
 
-### 1.1. Wprowadzenie Plan
+### 1.4. Wprowadzenie Plan
 
 1. O kursie
 1. Wyjaśnienie tematu
@@ -84,7 +108,7 @@
    - Interaktywna - klient-serwer
    - Reaktywna Publisher-subscriber
 
-### 1.2. Wprowadzenie Realizacja
+### 1.5. Wprowadzenie Realizacja
 
 - co to jest informatyka
 - co to jest dana vs informacja
@@ -116,7 +140,7 @@
   - komunikacja maszyn
   - produkcja przez rożnych producentów
 
-### 1.3. Architektura
+### 1.6. Architektura
 
 - Aplikacja rozproszona - Model domenowy
 - Cyber Physical Systems - Model domenowy
@@ -127,14 +151,14 @@
 - Komunikacja in-band
 - Data Transfer Object
 
-#### 1.3.1. Protokoły plan
+#### 1.6.1. Protokoły plan
 
 - Internet, HTTP, TCP, UDP, IP
 - Web Services (WS*)
 - Web-socket
 - REST
 
-#### 1.3.2. Protokoły Realizacja
+#### 1.6.2. Protokoły Realizacja
 
 - Przełączanie obwodów vs przełączanie pakietów
 - warstwa programu jako zb ór typów
@@ -159,9 +183,21 @@
 - REST - co to jest, czy to jest standard - czy jest
 - WEBSOCKET podejście reaktywne, interaktywne, a asynchroniczne, sesja
 - kiedy ciąg bitów jest tekstem
+-->
 
 ## 2. Programowanie scentralizowane
 
+### 2.1. Urządzenia mobile
+
+### 2.2. Wprowadzenie
+
+### 2.3. Architektura warstwowa
+
+### 2.4. Komunikacja warstw
+
+### 2.5. Programowanie współbieżne
+
+<!--
 ### 2.1. Podstawy programowania
 
 - informacja a dane
@@ -201,19 +237,38 @@
 - praca synchroniczna i asynchroniczna
 - systemy dla użytkowania przez człowieka co to jest HMI
 
+-->
+
 ## 3. Programowanie rozproszone
 
-- Podstawy
-  - Po co nam systemy rozproszone?
-  - Co to są systemy rozproszone?
-- Komunikacja
-  - Wprowadzenie
-  - Internet
-  - Protokoły
-    - Stos protokołów (ISO/TCP)
-    - HTTP, TCP, UDP, IP
-    - REST
-    - WebSocket
+### 3.1. Podstawy
+
+<!--
+- Po co nam systemy rozproszone?
+- Co to są systemy rozproszone?
+-->
+
+### 3.2. Architektura
+
+### 3.3. Komunikacja
+
+### 3.4. Metody rozpraszania
+
+#### 3.4.1. Współdzielenie GUI
+
+#### 3.4.2. Współdzielenie logiki
+
+#### 3.4.3. Współdzielenie repozytoriów
+
+<!--
+
+- Wprowadzenie
+- Internet
+- Protokoły
+  - Stos protokołów (ISO/TCP)
+  - HTTP, TCP, UDP, IP
+  - REST
+  - WebSocket
 - Współdzielenie GUI
 - Współdzielenie repozytoriów
 - Podział programu na niezależne procesy
@@ -228,9 +283,17 @@ Programowanie rozproszone
 - Przetwarzanie danych procesowych
 - Komunikacja in-band
 - Data Transfer Object
+-->
 
 ## 4. Współdziałanie
 
+### 4.1. Wprowadzenie
+
+### 4.2. Implementacja
+
+### 4.3. Technologie
+
+<!--
 ### 4.1. `<semantyka danych - interoperacyjność>`
 
 - Integracja komponentów różnych producentów
@@ -264,33 +327,28 @@ Cyber Physical Systems
   - IoT
   - Cyber Physical Systems
 
-## 6. Przetwarzanie w chmurze
+-->
 
-- co to jest cloud computing
-  - prawo dysponowania
-  - utrzymywanie
-  - za co płacimy
-  - dostępność
-  - dopasowanie zasobów do naszych potrzeb
-  - abstrakcja
+## 5. Bezpieczeństwo
 
-## 7. Bezpieczeństwo
+### 5.1. komunikacji
 
-### 7.1. komunikacji
-
+<!--
 - end to end security
 - application identity
 - application instance identity
 - data identity
 - user identity
 - non repudiation
+-->
 
-### 7.2. danych
+### 5.2. danych
 
-### 7.3. zasobów
+### 5.3. zasobów
 
-### 7.4. Bezpieczeństwo
+### 5.4. Bezpieczeństwo
 
+<!--
 - Data Transfer Object/Graph
   - kontekst semantyczny
   - kontekst bezpieczeństwa
@@ -309,8 +367,11 @@ Cyber Physical Systems
   - bezpieczeństwo dokumentów
     - tożsamość danych
 
-### 7.5. Architektura realizacja
+-->
 
+### 5.5. Architektura realizacja
+
+<!--
 - machine centric communication
 - konteksty semantyczny
   - składnia - poprawność strumieni bitów
@@ -331,3 +392,31 @@ Cyber Physical Systems
   - model informacyjny
 - po jest standaryzacja modelu informacyjnego
 - stan dla publisher subscriber
+
+-->
+
+## 6. Przetwarzanie w chmurze
+
+### 6.1. Podstawy
+
+#### 6.1.1. Przeznaczenie systemów mobilnych
+
+#### 6.1.2. Architektura
+
+#### 6.1.3. Model własnościowy
+
+### 6.2. Usługi
+
+#### 6.2.1. www
+
+#### 6.2.2. IoT
+
+### 6.3. Wybrane scenariusze aplikacji mobilnych
+
+#### 6.3.1. Digital Twin
+
+#### 6.3.2. Internet of Things (IoT)
+
+#### 6.3.3. Diagnostyka programu
+
+#### 6.3.4. Implementacja współdziałania reaktywnego

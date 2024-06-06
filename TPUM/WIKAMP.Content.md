@@ -77,11 +77,11 @@ Zajęcia są prowadzone metodami tradycyjnymi (kontaktowo), ale na platformie TE
 | :-----: | :------: | :------------------------------------------------------- |
 |  _____  | ________ | ________________________________________________________ |
 |    1    |    3     | Wprowadzenie, programowanie sekwencyjne, współbieżne     |
-|    2    |    4     | Programowanie rozproszone                                |
-|    3    |    5     | Współdziałanie, Normalizacja-standaryzacja               |
-|    4    |    6     | Bezpieczeństwo                                           |
-|    5    |    7     | Przetwarzanie w chmurze                                  |
-|    6    |    8     | Powtórzenie, Test (zdalny dostęp)                        |
+|    2    |    4     | Programowanie scentralizowane                            |
+|    3    |    5     | Programowanie rozproszone                                |
+|    4    |    6     | Współdziałanie, Normalizacja-standaryzacja               |
+|    5    |    7     | Bezpieczeństwo                                           |
+|    6    |    8     | Przetwarzanie w chmurze, Test                            |
 
 ### 2.2. Tematyka ⚒️
 

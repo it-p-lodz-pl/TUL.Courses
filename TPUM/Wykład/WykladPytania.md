@@ -170,7 +170,7 @@ Dopasuj terminy do odpowiednich opisów. Nie wszystkie terminy mają opis i mog�
 
 ### Dane mobilne (tak/nie)
 
-Dane mobilne, to dane o charakterze zdarzenia, które pojawiają sie w nieprzedziwnych miejscach sieci komputerowej i nieprzewidzianych chwilach czasowych. Często kojarzone są z miejscem geograficznym i czasem wystąpienia przed przesłąniem ich do miejsca, gdzie mają yć dalej przetwarzane.
+Dane mobilne, to dane o charakterze zdarzenia, które pojawiają się w nieprzewidzianych miejscach sieci komputerowej i nieprzewidzianych chwilach czasowych. Często kojarzone są z miejscem geograficznym i czasem wystąpienia przed przesłaniem ich do miejsca, gdzie mają być dalej przetwarzane.
 
 ### Urządzenia mobilne (tak/nie)
 
