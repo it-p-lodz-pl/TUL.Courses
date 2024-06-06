@@ -1,8 +1,4 @@
-# Projekt Etap 1 - szczegółowy opis
-
-## Opis na stronie kursu
-
-programowania interaktywne/reaktywne, IoC (ang. inversion of control)
+# Projekt Etap 1 - architektura warstwowa, współdziałanie interaktywne/reaktywne
 
 ## Cel
 

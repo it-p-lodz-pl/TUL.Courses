@@ -1,27 +1,24 @@
 # Project Stage 2 Checklist
 
-```txt
-
 - [ ] **Starting point**
-  - [ ] text is in C#
+****  - [ ] program text is in C#
   - [ ] all UT are green
-  - [ ] the program behaves as expected (intermediate approval test)
+  - [ ] the program behaves as expected
 - [ ] **Data Layer**
-  - [ ] responsibility of this layer is to represent boundaries of the movement rectangle and balls
-  - [ ] balls representation are independent and self-contained (no timer required)
+  - [ ] responsibility of this layer is to represent balls
+  - [ ] balls representation are independent and self-contained (containing or having **only** everything that is needed within itself)
   - [ ] balls implementation uses concurrent programming
 - [ ] **Logic Layer**
-  - [ ] responsibility of this layer is to manage movement rectangle boundaries and balls interaction (collisions)
+  - [ ] responsibility of this layer is to manage the interaction of balls with rectangle boundaries and other balls (collisions)
   - [ ] prove that the protection  of data integration is implemented
   - [ ] `Logic` uses only the abstract `Data` layer API
-- [ ] **Presentation Layer (MVVM)**
+- [ ] **Presentation Layer**
+  - [ ] the presentation layer has to be implemented using the MVVM programming pattern
   - [ ] responsibility of this layer is to manage the graphical user interface (GUI)
   - [ ] user => GUI interoperability must be implemented using interactive programming only
   - [ ] GUI => the user interoperability must be implemented using reactive programming only (timer is not allowed)
   - [ ] interoperability of the GUI and underlying layers must be synchronized
 - [ ] Fulfill functional requirements of the task
 - [ ] **Testing**
-  - [ ] Unit Test - layers are tested independently using dependency injection (additional framework is not required)
-  - [ ] Mock may be used for testing purposes (expected but not required)
-
-```
+  - [ ] Unit Test - layers are tested independently using dependency injection (external package is not allowed)
+  - [ ] Mock (external package) must not be used for testing purposes

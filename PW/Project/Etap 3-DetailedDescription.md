@@ -2,7 +2,7 @@
 
 ## Opis na stronie kursu
 
-- programowanie współbieżne i czasu rzeczywistego
+- zapis danych diagnostycznych i programowanie czasu rzeczywistego
 
 ## Cel
 
@@ -20,7 +20,7 @@ Celem tego etapu jest praktyczne zastosowanie:
 
 ## Opis zadania
 
-W tym etapie należy wykorzystać uprzednio stworzoną aplikację, w której dodatkowo należ wbudować elementy programowania czasu rzeczywistego, a więc zaimplementować takie algorytmy, które będą wymagały wykorzystania czynnika czasu. Przykładowo może to być mechanizm logowania do pliku danych diagnostycznych o zachowaniu się kul. W takim przykładzie należy uwzględnić możliwość chwilowego braku odpowiedniej przepustowości kanałów zapisu do pliku. Dane diagnostyczne do zapisu powinny byc przygotowane z wykorzystaniem serializacji zgodnie ze składnią JSON, YAML, XML.
+W tym etapie należy wykorzystać uprzednio napisany program, w której dodatkowo należ wbudować elementy programowania czasu rzeczywistego, a więc zaimplementować takie algorytmy, które będą wymagały wykorzystania uzależnień czasowych. Przykładowo może to być uwzględnienie upływu czasu przy obliczeniach położenia. Należy również zaimplementować mechanizm zapisu danych diagnostycznych o zachowaniu się kul do pliku. W takim przykładzie należy uwzględnić możliwość chwilowego braku odpowiedniej przepustowości kanałów zapisu do pliku. Dane diagnostyczne do zapisu powinny byc przygotowane z wykorzystaniem serializacji do tekstu (kodowania ASCI).
 
 Program będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`. Bardziej szczegółowo warstwy opisano w rozdziale **Architektura** opisu do zadania `Projekt Etap 1`.
 

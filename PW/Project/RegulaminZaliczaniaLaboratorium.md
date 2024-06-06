@@ -1,28 +1,5 @@
 # Regulamin zaliczania laboratorium
 
-## Ramowy harmonogram zajęć (opis)
-
-| Tydzień | Temat                                                                                                                  | Uwagi |
-| ------- | ---------------------------------------------------------------------------------------------------------------------- | ----- |
-| 01      | Cel, zakres, metodyka, narzędzia, zaliczenie, WIKAMP, zasoby                                                           |       |
-| 02      | Środowisko projektowe, praca w parach, testy jednostkowe, TDD (ang. test driven development), wprowadzenie do projektu |       |
-| 03      | Projekt (Omówienie projektu, środowisko)                                                                               |       |
-| 04-06   | [Projekt Etap-0][TworzenieRepozytorium]; Kontrola postępu prac, pytania, zaliczenie                                    |       |
-| 07-09   | [Projekt Etap-1][Etap1] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
-| 10-12   | [Projekt Etap-2][Etap2] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
-| 13-15   | [Projekt Etap-3][Etap3] Kontrola postępu prac, pytania, zaliczanie                                                     |       |
-
-[TworzenieRepozytorium]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102935
-[Etap1]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102936
-[Etap2]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102937
-[Etap3]:https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=102938
-
-**Uwagi: Kontrola postępu prac projektowych**: zajęcia realizowane w alternatywie do zaliczania. W trakcie zajęć odpowiadamy na pytania:
-
-- Co zrobiłem do tej pory?
-- Co mam zrobić na następne zajęcia?
-- Z czym mam problem?
-
 ## Organizacja zajęć
 
 1. Zajęcia laboratoryjne są obowiązkowe i prowadzone w obecności Prowadzącego, który na bieżąco kontroluje postęp i samodzielność wykonywanych prac.
@@ -70,7 +47,7 @@
 1. Aby wykonanie zadania w zgłoszonym terminie było uznane należy:
    - Zgłosić zadanie do oceny nie później niż w dniu poprzedzającym zajęcia (do 24:00), na którym ma być dokonana ocena zrealizowanych prac.
    - Wykonanie zadania należny zgłosić indywidualnie i niezależnie przez każdego członka zespołu.
-   - Brak zgłoszenia do oceny w terminie powoduje utratę **3 punktów** dla Projekt Etap 0 i **4 punktów** dla wszystkich pozostałych etapów.
+   - Brak zgłoszenia do oceny w terminie powoduje utratę punktów zgodnie z warunkami zaliczenia opublikowanymi w osobnym dokumencie.
 
 ## Dodatkowo
 
