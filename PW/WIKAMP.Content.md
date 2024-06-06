@@ -21,7 +21,7 @@
   - [Streszczenie - zarejestrowane zajęcia](#streszczenie---zarejestrowane-zajęcia)
   - [Folder Aktywność - Q/A podsumowanie](#folder-aktywność---qa-podsumowanie)
   - [Aktywność zasady](#aktywność-zasady)
-- [Materiały pomocnicze](#materiały-pomocnicze)
+- [Publikacje uzupełniające](#publikacje-uzupełniające)
   - [Inżynieria programowania](#inżynieria-programowania)
   - [Testowanie](#testowanie)
   - [Narzędzia](#narzędzia)
@@ -101,11 +101,11 @@ plik `TPUM\Project\GitHubCreateRepoCheckList.md`
 
 - Opis w osobnym pliku
 
-### Projekt-Etap 2-interaktywna/reaktywna komunikacja
+### Projekt Etap 2: programowania asynchroniczne, sekcja krytyczna
 
 - Opis w osobnym pliku
 
-### Projekt-Etap 3-aplikacja mobilna (rozproszona)
+### Projekt Etap 3: zapis danych diagnostycznych i programowanie czasu rzeczywistego
 
 - Opis w osobnym pliku
 
