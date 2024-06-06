@@ -208,7 +208,7 @@
       <text>Dane mobilne</text>
     </name>
     <questiontext format="markdown">
-      <text>Dane mobilne, to dane o charakterze zdarzenia, które pojawiają sie w nieprzedziwnych miejscach sieci komputerowej i nieprzewidzianych chwilach czasowych. Często kojarzone są z miejscem geograficznym i czasem wystąpienia przed przesłąniem ich do miejsca, gdzie mają yć dalej przetwarzane.</text>
+      <text>Dane mobilne, to dane o charakterze zdarzenia, które pojawiają się w nieprzewidzianych miejscach sieci komputerowej i nieprzewidzianych chwilach czasowych. Często kojarzone są z miejscem geograficznym i czasem wystąpienia przed przesłaniem ich do miejsca, gdzie mają być dalej przetwarzane.</text>
     </questiontext>
     <generalfeedback format="moodle_auto_format">
       <text></text>
