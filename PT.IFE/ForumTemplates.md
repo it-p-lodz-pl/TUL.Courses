@@ -11,6 +11,10 @@
   - [Invitation](#invitation)
   - [Late enrolment](#late-enrolment)
   - [Late enrollment schedule change](#late-enrollment-schedule-change)
+- [Seminar Announcements](#seminar-announcements)
+  - [Online References - New Publication on Serialization](#online-references---new-publication-on-serialization)
+- [Lecture announcemnts](#lecture-announcemnts)
+  - [Programming in Practice Structural Data](#programming-in-practice-structural-data)
 - [Lab announcements](#lab-announcements)
   - [Task 0 Check list Create Repository](#task-0-check-list-create-repository)
   - [Task 1 Check list publication](#task-1-check-list-publication)
@@ -119,6 +123,19 @@ Wszystkie wymienione materiały są dostępne za darmo dla naszych studentów z 
 
 Pozdrawiam. W przypadku pytań i wątpliwości pozostaję w kontakcie.
 
+## Lecture announcemnts
+
+### Programming in Practice Structural Data
+
+Let me inform you that I have just published the section [Structural Data][structuraldata] in the ebook:
+
+- [Programming in Practice; GitBook eBook][pip] - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
+
+Remember to clear the Explorer cache before opening it. In this section, you can find all the information to accomplish requirements related to the data layer of Task 2.
+
+[structuraldata]: https://mpostol.gitbook.io/pip/external-data-management/structuraldata
+[pip]:            https://mpostol.gitbook.io/pip
+
 ## Lab announcements
 
 ### Task 0 Check list Create Repository
@@ -185,19 +202,23 @@ Let me stress, your repository must have the `README.md` file prepared according
 
 ### Test invitation
 
-Referring to my previous verbal announcement I want to confirm the test schedule:
+Referring to my previous announcement I want to confirm the test schedule:
 
-- 20.06.2023 10:30 - room 106/CTI
+- 19.06.2024 10:15-11:45 - room 435/B9
+- Attempts allowed: 3
+- To attempt this quiz you need to know the quiz password
+- Time limit: 20 mins
+- Because of room limitations, it is not excluded that it could be necessary to conduct this test in two consecutive groups at 10:15 (first) and about 10:35 (second).
 
-It will be a WIKAMP (modle) an online test using only computers available in the lab. A Modle test refers to an online assessment or examination conducted through the Modle learning management system (LMS). The test will be conducted only in English. In any case, you have only 3 attempts for the final test.
+It will be a WIKAMP (MODLE) an online test using only computers available in the lab. A Modle test refers to an online assessment or examination conducted through the Modle learning management system (LMS). The test will be conducted only in English. In any case, you have only 3 attempts for the final test.
 
 Let me recall that there is an example code. Have a look at [mpostol/tp](https://github.com/mpostol/TP)
 
-I will review the most essential topics in the next seminar lesson. Join me and give me feedback in advance - I am a willing helper to explain once more the vital issues for you if possible. To work alone,  you may also check out not published yet the course
+I will review the most essential topics in a seminar lesson according to the master schedule. Join me and give me feedback in advance - I am a willing helper to explain once more the vital issues for you if possible. To work alone,  you may also check out the ebook 
 
-- [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt). 
+- [Programming in Practice](https://mpostol.gitbook.io/pip)
 
-There is also a helpful video book but only in Polish.
+There is also a helpful video book but only in Polish
 
 - [C# language In practice. Video Course. External Data Processing](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
 
