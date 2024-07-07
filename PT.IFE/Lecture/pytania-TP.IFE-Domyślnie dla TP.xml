@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz>
-  <!-- question: 0  -->
+<!-- question: 0  -->
   <question type="category">
     <category>
-      <text>$course$/top/Domyślnie dla TP</text>
+      <text>$course$/top/PT All</text>
+    </category>
+    <info format="markdown">
+      <text>All questions related to the final PT test. </text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/PT All/Final Test</text>
+    </category>
+    <info format="markdown">
+      <text>Questions selected for the final test.</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/PT All/Final Test/Srednio trudne</text>
     </category>
     <info format="moodle_auto_format">
       <text></text>
@@ -11,32 +33,10 @@
     <idnumber></idnumber>
   </question>
 
-  <!-- question: 0  -->
-  <question type="category">
-    <category>
-      <text>$course$/top/Domyślnie dla TP/Kolokwium</text>
-    </category>
-    <info format="moodle_auto_format">
-      <text></text>
-    </info>
-    <idnumber></idnumber>
-  </question>
-
-  <!-- question: 0  -->
-  <question type="category">
-    <category>
-      <text>$course$/top/Domyślnie dla TP/Kolokwium/Srednio trudne</text>
-    </category>
-    <info format="moodle_auto_format">
-      <text></text>
-    </info>
-    <idnumber></idnumber>
-  </question>
-
-  <!-- question: 22000  -->
+<!-- question: 257682  -->
   <question type="matching">
     <name>
-      <text>Iinheritance</text>
+      <text>Inheritance</text>
     </name>
     <questiontext format="markdown">
       <text>In object-oriented programming, the [Term 1] is a mechanism that allows a new classes creation based on existing ones. A new class is called the [Term 2] class, a subclass or a child class, and the class on the basis of which we create the [Term 2] class, we call the [Term 3] class or a superclass. As a result of [Term 1], the [Term 2] class receives ([Term 1]) all fields and methods of the [Term 3] class.</text>
@@ -62,7 +62,7 @@
     <subquestion format="markdown">
       <text>Term 1</text>
       <answer>
-        <text>Iinheritance</text>
+        <text>inheritance</text>
       </answer>
     </subquestion>
     <subquestion format="markdown">
@@ -121,7 +121,7 @@
     </subquestion>
   </question>
 
-  <!-- question: 22004  -->
+<!-- question: 257671  -->
   <question type="multichoice">
     <name>
       <text>LINQ –source variable</text>
@@ -153,7 +153,7 @@
     <answer fraction="33.33333" format="markdown">
       <text>It must implement IQueryable or IEnumerable.</text>
       <feedback format="markdown">
-        <text>Yes, it must implement IEnumerable. IQuerable is derived from IEnumerable, so in all cases the source object implements IEnumerable.</text>
+        <text>Yes, it must implement IEnumerable. IQueryable is derived from IEnumerable, so in all cases the source object implements IEnumerable.</text>
       </feedback>
     </answer>
     <answer fraction="-20" format="markdown">
@@ -183,7 +183,7 @@
     <answer fraction="33.33333" format="markdown">
       <text>To be able to represent external data, I must implement IQueryable</text>
       <feedback format="markdown">
-        <text>Yes, it must implement IQuerable so that you may be able to implement an access mechanism to an external source.</text>
+        <text>Yes, it must implement IQueryable so that you may be able to implement an access mechanism to an external source.</text>
       </feedback>
     </answer>
     <answer fraction="-20" format="markdown">
@@ -200,10 +200,10 @@
     </answer>
   </question>
 
-  <!-- question: 0  -->
+<!-- question: 0  -->
   <question type="category">
     <category>
-      <text>$course$/top/Domyślnie dla TP/Kolokwium/Trudne</text>
+      <text>$course$/top/PT All/Final Test/Trudne</text>
     </category>
     <info format="moodle_auto_format">
       <text></text>
@@ -211,16 +211,140 @@
     <idnumber></idnumber>
   </question>
 
-  <!-- question: 133333  -->
+<!-- question: 22001  -->
   <question type="matching">
     <name>
-      <text>Information versus date 2022S</text>
+      <text>Informacja a dane</text>
     </name>
     <questiontext format="markdown">
-      <text>Computer science is a discipline dealing with the automation of the [Term 1] processing. To describe the [Term 1] processing, a [Term 2] is necessary, which specifies the sequence of operations to be performed in order to process the [Term 1] input set into the [Term 1] result set. The problem is that [Term 17] are abstract - it's a kind of knowledge about what and how to process. Consequently, they can not be directly used by machines built around known physical laws. To materialize it, a [Term 4] is used to represent [Term 17]. [Term 4] allows for the formal description of [Term 17] in the form of a text. The basis for materialization is the alphabet, which is a set of alphanumeric characters represented in the modern processing machine environment as a finite sequence of bits. After compilation of the program text, a result can be executed using the selected runtime environment, which means creating [Term 5]. [Term 5] is a set of threads, each of which is responsible for implementing the sequence of instructions described in the program, and [Term3], which are created during the thread's execution. The condition for creating [Term 5] is to give it [Term 6], which is inherited after the session if the program is running by the user within an existing session or configured if the program (service) is run by the operating system or on behalf of another user. [Term 6] associated with the [Term 5] is used to authorize operations whose [Term 5] execution can be requested from the environment, for example, an operating system. The lack of possibility to perform such an operation will be the occurrence of an exception, which must be handled, otherwise, the thread action will be interrupted, which in turn may cause the [Term 5] termination.</text>
+      <text>Computer science is a discipline dealing with the automation of the [Term 1] processing. To describe the [Term 1] processing, a [Term 2] is necessary, which specifies the sequence of operations to be performed in order to process the [Term 1] input set into the [Term 1] result set. The problem is that [Term 1] and [Term 2] are abstract - it's a kind of knowledge about what and how to process. Consequently, they can not be directly used by machines built around known physical laws. To materialize it, a [Term 4] is used to represent [Term 1] and [Term 2]. [Term 4] allows for the formal description of [Term 1] and [Term 2] in the form of a text. The basis for materialization is the alphabet, which is a set of alphanumeric characters represented in the modern processing machine environment as a finite sequence of bits. After compilation of the program text a result can be started using the selected runtime environment, which means creating [Term 5]. [Term 5] is a set of threads, each of which is responsible for the implementation of the sequence of instructions described in the program and [Term3], which are created during the execution of the thread. The condition for creating [Term 5] is to give it [Term 6], which is inherited after the session if the program is run by the user within an existing session or configured if the program (service) is run by the operating system or on behalf of another user. [Term 6] associated with the [Term 5] is used to authorize operations whose [Term 5] execution can be requested from the environment, for example, an operating system. The lack of possibility to perform such an operation will be the occurrence of an exception, which must be handled, otherwise, the thread action will be interrupted, which in turn may cause the [Term 5] termination.</text>
     </questiontext>
     <generalfeedback format="html">
       <text></text>
+    </generalfeedback>
+    <defaultgrade>10.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>false</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is partially correct.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is incorrect.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="markdown">
+      <text>Term 1</text>
+      <answer>
+        <text>information</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>Term 2</text>
+      <answer>
+        <text>algorytm</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>Term 3</text>
+      <answer>
+        <text>data</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>Term 4</text>
+      <answer>
+        <text>programming language</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>Term 5</text>
+      <answer>
+        <text>process</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text>Term  6</text>
+      <answer>
+        <text>identity</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>document</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>file</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>knowledge</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>privileges/permissions</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>digital signature</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>script</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>task</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>oczekiwane działanie</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>nazwa</text>
+      </answer>
+    </subquestion>
+    <subquestion format="markdown">
+      <text></text>
+      <answer>
+        <text>tekst</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 257684  -->
+  <question type="matching">
+    <name>
+      <text>Information versus date</text>
+    </name>
+    <questiontext format="markdown">
+      <text>Computer science is a discipline dealing with the automation of the [Term 1] processing. To describe the [Term 1] processing, a [Term 2] is necessary, which specifies the sequence of operations to be performed to process the [Term 1] input set into the [Term 1] result set. The problem is that [Term 17] is abstract - it's a kind of knowledge about what and how to process. Consequently, they can not be directly used by machines built around known physical laws. To materialize it, a [Term 4] is used to represent [Term 17]. [Term 4] allows for the formal description of [Term 17] in the form of a text. The basis for materialization is the alphabet, which is a set of alphanumeric characters represented in the modern processing machine environment as a finite sequence of bits. After compilation of the program text, a result can be executed using the selected runtime environment, which means creating [Term 5]. [Term 5] is a set of threads, each of which is responsible for implementing the sequence of instructions described in the program, and [Term 3], which are created during the thread's execution. The condition for creating [Term 5] is to give it [Term 6], which is inherited after the session if the program is running by the user within an existing session or configured if the program (service) is run by the operating system or on behalf of another user. [Term 6] associated with the [Term 5] is used to authorize operations whose [Term 5] execution can be requested from the environment, for example, an operating system. The lack of possibility to perform such an operation will be the occurrence of an exception, which must be handled, otherwise, the thread action will be interrupted, which in turn may cause the [Term 5] termination.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Answers in polish.</text>
     </generalfeedback>
     <defaultgrade>10.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -318,19 +442,19 @@
     <subquestion format="markdown">
       <text></text>
       <answer>
-        <text>oczekiwane działanie</text>
+        <text>expected activity</text>
       </answer>
     </subquestion>
     <subquestion format="markdown">
       <text></text>
       <answer>
-        <text>nazwa</text>
+        <text>name</text>
       </answer>
     </subquestion>
     <subquestion format="markdown">
       <text></text>
       <answer>
-        <text>tekst</text>
+        <text>text</text>
       </answer>
     </subquestion>
     <subquestion format="markdown">
@@ -341,10 +465,82 @@
     </subquestion>
   </question>
 
-  <!-- question: 22007  -->
+<!-- question: 22002  -->
   <question type="multichoice">
     <name>
-      <text>Events 2022</text>
+      <text>Architektura aplikacji</text>
+    </name>
+    <questiontext format="markdown">
+      <text>In order to facilitate teamwork and testing, usually, the application architecture is divided by possibly independent layers with dedicated functions depending on the chosen model. During the classes, we referred to the models:
+
+- Presentation, logic, data
+- View, model view and model (MVVM)
+
+What concepts, language constructs, and technologies can be used to implement such an approach:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>10.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is partially correct.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is incorrect.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="markdown">
+      <text>Abstraction (Interface, abstract class) that allows you to hide irrelevant implementation details in front of layer users and allows you to work simultaneously on the basis of a common contract.</text>
+      <feedback format="markdown">
+        <text>This is a good answer, in fact, abstraction facilitates the use of layered architecture.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>LINQ (Language Integrated Query) technology that allows you to standardize access to data from the layer interface.</text>
+      <feedback format="markdown">
+        <text>This is an incorrect answer - LINQ allows you to create expressions that are intended to select a subset of entities from a data source.</text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>No specialized concepts, constructions, and technologies are necessary to apply the selected layered architecture in practice.</text>
+      <feedback format="markdown">
+        <text>This is also the correct answer, but in practice, you have to signal the existence of layers, eg partial classes, namespaces, folders, etc.</text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>Separate compilation units that allow you to create independently developed and tested components.</text>
+      <feedback format="markdown">
+        <text>This is, of course, the right answer, separate compilation is the basic tool for implementing layers and ensuring the independence of the layer from its user.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>The reflection that allows access to the program's metadata (layer) and the use of a layer without direct access to the definition of functionality offered by its API (application program interface).</text>
+      <feedback format="markdown">
+        <text>While the reflection may be useful in some specific cases to implement layers, this is not the underlying technology for this concept. Therefore, this answer cannot be considered correct.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>The polymorphism that allows the user layer to implement the selected functionality in several different ways.</text>
+      <feedback format="markdown">
+        <text>This is wrong answer. Polymorphism, as noted in the answer, affects the implementation of functionality, but not what is offered in terms of functionality.</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 257685  -->
+  <question type="multichoice">
+    <name>
+      <text>Events</text>
     </name>
     <questiontext format="markdown">
       <text><![CDATA[An event is a dedicated kind of variable (value holder) of delegate type that we use to signal the occurrence of selected conditions. Which of the following statements are true considering the definition where it is defined as a publisher.
@@ -398,10 +594,10 @@
     </answer>
   </question>
 
-  <!-- question: 133335  -->
+<!-- question: 257672  -->
   <question type="multichoice">
     <name>
-      <text>Generic class 2022S</text>
+      <text>Generic class</text>
     </name>
     <questiontext format="markdown">
       <text><![CDATA[The generic type allows parameterization of the types that are used in it, eg. argument types, types of returned values, etc. Parameterization introduces, however, the problem that the definition is undefined, i.e. only on its basis cannot be inferred about the semantic code correctness - you cannot always check type compatibility. Select which of the statements are true:
@@ -450,7 +646,7 @@
     <answer fraction="-33.33333" format="markdown">
       <text>For a generic class to become a concrete class, for example, you can create a derived class (inheriting from it) and specify a type parameter.</text>
       <feedback format="markdown">
-        <text>Wrong, during the inheritance a new type is created, so it can not be said that Inheritance is a method of defining a parameter. Although it is true that inheriting from the generic class, we must define its type parameter, which may be a specific type or its own type parameter, if the derived class is also generic.</text>
+        <text>Wrong, during the inheritance, a new type is created, so it cannot be said that Inheritance is a method of defining a parameter. Although it is true that inheriting from the generic class, we must define its type parameter, which may be a specific type, or its type parameter if the derived class is also generic.</text>
       </feedback>
     </answer>
     <answer fraction="50" format="markdown">
@@ -461,13 +657,76 @@
     </answer>
   </question>
 
-  <!-- question: 133336  -->
+<!-- question: 22003  -->
   <question type="multichoice">
     <name>
-      <text>LINQ to SQL 2022S</text>
+      <text>Klasa generyczna</text>
     </name>
     <questiontext format="markdown">
-      <text>LINQ (Language Integrated Query) is an expandable (adaptable to individual needs, e.g. enabling access to own data sources) technology. To expand the usage capability the  IEnumerable and IQuerable interfaces have to be implemented. One such extension is LINQ to SQL. Choose the correct statement in the context of this technology.</text>
+      <text><![CDATA[The generic type allows parameterization of the types that are used in it, eg argument types, types of returned values, etc. Parameterization introduces, however, the problem that the definition is undefined, i.e. only on its basis cannot be inferred about the semantic code correctness - you cannot always check type compatibility. Select which of the statements are true:
+
+> ** Note **: Incorrect responses are punished with negative points.]]></text>
+    </questiontext>
+    <generalfeedback format="markdown">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>10.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is partially correct.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is incorrect.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="markdown">
+      <text>Always usage of a class must contain enough information to specify a parameter so that strict type checking is possible at the design time.</text>
+      <feedback format="markdown">
+        <text>Well, the class at the time of creating the object or inheritance must be concrete by specifying a selected type or a derived class parameter, and therefore full control of the types compatibility is possible at the design time by the compiler.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>By introducing restrictions on the class parameter type, you can eliminate the problem of the lack of specification.</text>
+      <feedback format="markdown">
+        <text>It is the wrong answer, constraints on the type of parameter are not related to type compliance control, but only define additional features of the parameter that can be used in the implementation of the class.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>If it is not possible to check the compatibility of generic types at the design time, this control is carried out at the program execution stage.</text>
+      <feedback format="markdown">
+        <text>It is the wrong answer. To create a generic class object, you must define its type parameters, so it is always possible to check the compatibility of the generic types at the design time. During the program execution, type control is performed only when the selected value is cast on and is performed in the same way as for non-energy types.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>For a generic class to become a concrete class, for example, you can create a derived class (inheriting from it) and specify a type parameter.</text>
+      <feedback format="markdown">
+        <text>Wrong, during the inheritance a new type is created, so it can not be said that Inheritance is a method of defining a parameter. Although it is true that inheriting from the generic class, we must define its type parameter, which may be a specific type or its own type parameter, if the derived class is also generic.</text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="markdown">
+      <text>The introduction of restrictions on the generic class parameter type limits this class user the scope of its applicability but instead gives the author of the class the possibility of using certain features resulting from the restrictions.</text>
+      <feedback format="markdown">
+        <text>Well, all restrictions on the generic parameter type are intended to indicate additional features, and thus to reduce the acceptable set of types that can be used as a parameter, which, of course, allows you to take advantage of the features resulting from the limitation.</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 22005  -->
+  <question type="multichoice">
+    <name>
+      <text>LINQ to SQL</text>
+    </name>
+    <questiontext format="markdown">
+      <text>LINQ (Language Integrated Query) is an expandable (adaptable to individual needs, e.g. providing access to own data sources) technology. To expand the capability the  IEnumerable and IQuerable interfaces have been implemented. One such extension is LINQ to SQL. Choose the correct statement in the context of this technology.</text>
     </questiontext>
     <generalfeedback format="html">
       <text></text>
@@ -493,13 +752,80 @@
     <answer fraction="-25" format="markdown">
       <text>The extension was implemented by adding new methods to extend the IEnumerable interface.</text>
       <feedback format="markdown">
-        <text>No, this is impossible because the only way to extend the LINQ technology is to implement the IQuerable interface.</text>
+        <text>This is not possible because the only way to extend the LINQ technology is to implement the IQuerable interface.</text>
       </feedback>
     </answer>
     <answer fraction="-25" format="markdown">
       <text>The extension was implemented by adding new methods for extending the IQueryable interface.</text>
       <feedback format="markdown">
-        <text>No, this is impossible because the only way to extend the LINQ technology is to implement the IQuerable interface.</text>
+        <text>This is not possible because the only way to extend the LINQ technology is to implement the IQuerable interface.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="markdown">
+      <text>The extension is achieved by implementing the IEnumerable interface.</text>
+      <feedback format="markdown">
+        <text>This is not possible because this interface has no members allowing access to external data sources.</text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="markdown">
+      <text>The extension is achieved by implementing the IQueryable interface.</text>
+      <feedback format="markdown">
+        <text>This is the correct answer because the only possibility of extending LINQ technology is a custom implementation of the IQuerable interface.</text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="markdown">
+      <text>The extension is achieved by adding new classes implementing the IQueryable interface.</text>
+      <feedback format="markdown">
+        <text>This is the correct answer because the only possibility to extend the LINQ technology is a custom implementation of the IQuerable interface.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="markdown">
+      <text>The extension was implemented by adding new classes in the System.Data.Linq namespace.</text>
+      <feedback format="markdown">
+        <text>This is not true, because the only possibility to extend the LINQ technology is a custom implementation of the IQuerable interface, and placing classes in the selected namespace is not equivalent to this condition. But it is true that this namespace contains classes responsible for the proper implementation of the IQuerable interface for LINQ to SQL.</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 257673  -->
+  <question type="multichoice">
+    <name>
+      <text>LINQ to SQL</text>
+    </name>
+    <questiontext format="markdown">
+      <text>LINQ (Language Integrated Query) is an expandable (adaptable to individual needs, e.g. enabling access to own data sources) technology. To expand the capability the IEnumerable and IQueryable interfaces have to be implemented. One such extension is LINQ to SQL. Choose the correct statement in the context of this technology.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>10.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is partially correct.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is incorrect.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="-25" format="markdown">
+      <text>The extension was implemented by adding new methods to extend the IEnumerable interface.</text>
+      <feedback format="markdown">
+        <text>No, this is impossible because the only way to extend the LINQ technology is to implement the IQueryable interface.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="markdown">
+      <text>The extension was implemented by adding new methods for extending the IQueryable interface.</text>
+      <feedback format="markdown">
+        <text>No, this is impossible because the only way to extend the LINQ technology is to implement the IQueryable interface.</text>
       </feedback>
     </answer>
     <answer fraction="-25" format="markdown">
@@ -511,33 +837,33 @@
     <answer fraction="50" format="markdown">
       <text>The extension is achieved by implementing the IQueryable interface.</text>
       <feedback format="markdown">
-        <text>It is a correct answer.  The only possibility of extending LINQ technology is a custom implementation of the IQuerable interface.</text>
+        <text>It is a correct answer.  The only possibility of extending LINQ technology is a custom implementation of the IQueryable interface.</text>
       </feedback>
     </answer>
     <answer fraction="50" format="markdown">
       <text>The extension is achieved by adding new classes implementing the IQueryable interface.</text>
       <feedback format="markdown">
-        <text>This is the correct answer because the only possibility to extend the LINQ technology is a custom implementation of the IQuerable interface.</text>
+        <text>This is the correct answer because the only possibility to extend the LINQ technology is a custom implementation of the IQueryable interface.</text>
       </feedback>
     </answer>
     <answer fraction="-25" format="markdown">
       <text>The extension has to be implemented by adding new classes to the System.Data.Linq namespace.</text>
       <feedback format="markdown">
-        <text>This is not true, because the only possibility to extend the LINQ usage is a custom implementation of the IQuerable interface, and placing classes in the selected namespace is not equivalent to this condition. But it is true that this namespace contains classes responsible for the proper implementation of the IQuerable interface for LINQ to SQL.</text>
+        <text>This is not true, because the only possibility to extend the LINQ usage is a custom implementation of the IQueryable interface, and placing classes in the selected namespace is not equivalent to this condition. However, this namespace contains classes responsible for the proper implementation of the IQueryable interface for LINQ to SQL.</text>
       </feedback>
     </answer>
   </question>
 
-  <!-- question: 133334  -->
+<!-- question: 257674  -->
   <question type="multichoice">
     <name>
       <text>Program architecture 2022S</text>
     </name>
     <questiontext format="markdown">
-      <text>In order to allow reusability, and facilitate teamwork and testing, usually, the program architecture is based on a layered pattern that implements a selected set of functions depending on the chosen model. During the classes, we referred to the following layered models:
+      <text>To allow reusability and facilitate teamwork and testing, usually, the program architecture is based on a layered pattern that implements a selected set of functions depending on the chosen model. During the classes, we referred to the following layered models:
 
 - Presentation, logic, data
-- View, Model View, and Model (MVVM)
+- Model, View, and View Model (MVVM)
 
 What concepts, language constructs, and technologies can be used to implement such an approach:</text>
     </questiontext>
@@ -600,13 +926,93 @@ What concepts, language constructs, and technologies can be used to implement su
     </answer>
   </question>
 
-  <!-- question: 133337  -->
+<!-- question: 22006  -->
   <question type="multichoice">
     <name>
-      <text>Using statement 2022S</text>
+      <text>Use of the using statement</text>
     </name>
     <questiontext format="markdown">
-      <text><![CDATA[In the .NET environment, the lifecycle of instantiated objects is automated, i.e. it does not usually require a developer to handle directly the object end of life stage. However, there are exceptions to this rule and sometimes appropriate action is needed. Choose correct sentences. 
+      <text><![CDATA[In the .NET environment, the lifecycle of the created objects is automated, i.e. it does not usually require a programmer to handle directly the object end of life stage. However, there are exceptions to this rule and sometimes appropriate action is needed. Choose correct sentences. 
+
+> Note: incorrect answers have a penalty factor.]]></text>
+    </questiontext>
+    <generalfeedback format="markdown">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>10.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is partially correct.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is incorrect.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="-33.33333" format="markdown">
+      <text>The object is immediately deleted and resources associated with it are released, if no program variable has references to it.</text>
+      <feedback format="markdown">
+        <text>This is not the correct answer, because the object is automatically deleted by the Garbage Collector in this case, which is realized with a delay that is practically independent of us.</text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>The object end of life is immediately handled and the resources released if it:
+
+- implements the `IDisposable` interface, 
+- is created by the `using` statement
+- and the block of the instruction has ended.</text>
+      <feedback format="markdown">
+        <text>Of course, this is a good answer. `using` calls `Dispose` after the last statement in its block.</text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>The object end of life is immediately handled and the resources released if it:
+
+- implements the interface `IDisposable`
+- and the method `Dispose` is called in our code</text>
+      <feedback format="markdown">
+        <text>Of course, this is a good answer. It is not necessary and sometimes impossible to use the `using` statement, in which case you have to call the `Dispose` method manually.</text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="markdown">
+      <text>The object does not have to be manually deleted using the `IDisposable.Dispose` method or by using the `using` statement if we release external resources via other methods of this object, eg `Stream.Close`.</text>
+      <feedback format="markdown">
+        <text>Of course, this is a good answer. It is essential to release external resources so that the object doesn't block them, and the release of memory can be implemented on general principles.</text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="markdown">
+      <text>If one object wraps (creates) another object inheriting from the `IDisposable` class, it must implement the `IDisposable` interface, as in the example below:
+
+```
+class UsingIDisposable: IDisposable
+{
+   private Stream m_Stream;
+   //
+   // ...
+   //
+}
+```</text>
+      <feedback format="markdown">
+        <text>If the object referred by m_Stream is disposed in the object creating it, the `IDisposable` implementation is not needed. This is a wrong answer, although there are cases when this approach is correct.</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 257675  -->
+  <question type="multichoice">
+    <name>
+      <text>Using statement</text>
+    </name>
+    <questiontext format="markdown">
+      <text><![CDATA[In the .NET environment, the lifecycle of instantiated objects is automated, i.e. it does not usually require a developer to handle directly the object end of life stage. However, there are exceptions to this rule, and sometimes appropriate action is needed. Choose correct sentences.
 
 > Note: incorrect answers have a penalty factor.]]></text>
     </questiontext>
@@ -642,7 +1048,7 @@ What concepts, language constructs, and technologies can be used to implement su
 
 - implements the `IDisposable` interface,  and
 - is created by the `using` statement, and
-- and the block of the instruction has ended.</text>
+- the block of the instruction has ended.</text>
       <feedback format="markdown">
         <text>Of course, this is a correct answer. `using` calls `Dispose` method just after the last statement in its block or as a result of an exception.</text>
       </feedback>
@@ -675,15 +1081,15 @@ class UsingIDisposable: IDisposable
 }
 ```</text>
       <feedback format="markdown">
-        <text>This is an incorrect answer, although there are cases when this approach is correct. Again, if the object referred by m_Stream is disposed of in the object creating it, the `IDisposable` implementation is not needed.</text>
+        <text>This is an incorrect answer, although there are cases when this approach is correct. Again, if the object referred to by `m_Stream` is disposed of in the object creating it, the `IDisposable` implementation is not needed.</text>
       </feedback>
     </answer>
   </question>
 
-  <!-- question: 0  -->
+<!-- question: 0  -->
   <question type="category">
     <category>
-      <text>$course$/top/Domyślnie dla TP/Kolokwium/Łatwe</text>
+      <text>$course$/top/PT All/Final Test/Łatwe</text>
     </category>
     <info format="moodle_auto_format">
       <text></text>
@@ -691,7 +1097,7 @@ class UsingIDisposable: IDisposable
     <idnumber></idnumber>
   </question>
 
-  <!-- question: 22008  -->
+<!-- question: 257676  -->
   <question type="shortanswer">
     <name>
       <text>Polymorphism</text>
@@ -708,14 +1114,14 @@ class UsingIDisposable: IDisposable
     <idnumber></idnumber>
     <usecase>0</usecase>
     <answer fraction="100" format="moodle_auto_format">
-      <text>Polymor*</text>
+      <text>polymor*</text>
       <feedback format="markdown">
         <text>This is a polymorphism that allows you to implement the same method in a variety of ways and override the abstract definition.</text>
       </feedback>
     </answer>
   </question>
 
-  <!-- question: 22014  -->
+<!-- question: 257678  -->
   <question type="truefalse">
     <name>
       <text>Delegate variable</text>
@@ -723,7 +1129,7 @@ class UsingIDisposable: IDisposable
     <questiontext format="markdown">
       <text>The delegate variable stores the reference to an expression, which is to be used to calculate its value.</text>
     </questiontext>
-    <generalfeedback format="html">
+    <generalfeedback format="markdown">
       <text></text>
     </generalfeedback>
     <defaultgrade>4.0000000</defaultgrade>
@@ -733,21 +1139,21 @@ class UsingIDisposable: IDisposable
     <answer fraction="0" format="moodle_auto_format">
       <text>true</text>
       <feedback format="markdown">
-        <text>Yes, this sentence is incorrect. Its value is the reference to the methods collection, not the expression.</text>
+        <text>Unfortunately, this sentence is incorrect. Its value is the set of method references, not the expression.</text>
       </feedback>
     </answer>
     <answer fraction="100" format="moodle_auto_format">
       <text>false</text>
       <feedback format="markdown">
-        <text>Unfortunately, this sentence is incorrect. Its value is the reference to the methods collection, not the expression.</text>
+        <text>Yes, this sentence is incorrect. Its value is the set of method references, not the expression.</text>
       </feedback>
     </answer>
   </question>
 
-  <!-- question: 22013  -->
+<!-- question: 257686  -->
   <question type="truefalse">
     <name>
-      <text>Extension Method vs Inheritance.</text>
+      <text>Extension Method vs Inheritance</text>
     </name>
     <questiontext format="markdown">
       <text>Extension methods are especially useful in situations when you need to implement abstract methods in a type that we do not have access to, for example, the type is defined in the .NET library.</text>
@@ -773,7 +1179,7 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-  <!-- question: 22010  -->
+<!-- question: 257679  -->
   <question type="truefalse">
     <name>
       <text>Implementation of an abstract method</text>
@@ -791,18 +1197,18 @@ class UsingIDisposable: IDisposable
     <answer fraction="100" format="moodle_auto_format">
       <text>true</text>
       <feedback format="markdown">
-        <text>That's a good answer.  To implement an abstract property or method the block must be defined. This can only be done by overring in the derived class.</text>
+        <text>That's a good answer. To implement an abstract property or method the block must be defined. This can only be done by overriding in a derived class.</text>
       </feedback>
     </answer>
     <answer fraction="0" format="moodle_auto_format">
       <text>false</text>
       <feedback format="markdown">
-        <text>Unfortunately, this sentence is correct. To implement an abstract property or method the block must be defined. This can only be done by overring in the derived class.</text>
+        <text>Unfortunately, this sentence is correct. To implement an abstract property or method the block must be defined. This can only be done by overriding in the derived class.</text>
       </feedback>
     </answer>
   </question>
 
-  <!-- question: 22009  -->
+<!-- question: 257683  -->
   <question type="truefalse">
     <name>
       <text>Lambda expression</text>
@@ -831,13 +1237,13 @@ class UsingIDisposable: IDisposable
     </answer>
   </question>
 
-  <!-- question: 22012  -->
+<!-- question: 257680  -->
   <question type="truefalse">
     <name>
       <text>LINQ extension</text>
     </name>
     <questiontext format="markdown">
-      <text>`LINQ` is an expandable (adaptable to individual needs, e.g. providing access to own data sources) technology, in which the methods for extending `IEnumerable` and `IQuerable` interfaces have been defined. To expand it you have to define your additional extension methods to expand these interfaces.</text>
+      <text>`LINQ` is an expandable (adaptable to individual needs, e.g. providing access to own data sources) technology, in which the methods for extending `IEnumerable` and `IQueryable` interfaces have been defined. To expand it you have to define your additional extension methods to expand these interfaces.</text>
     </questiontext>
     <generalfeedback format="markdown">
       <text></text>
@@ -849,24 +1255,24 @@ class UsingIDisposable: IDisposable
     <answer fraction="0" format="moodle_auto_format">
       <text>true</text>
       <feedback format="markdown">
-        <text>Yes, this sentence is incorrect, because the only possibility of extending this technology is a custom implementation of the IQuerable interface.</text>
+        <text>Yes, this sentence is incorrect, because the only possibility of extending this technology is a custom implementation of the `IQueryable` interface.</text>
       </feedback>
     </answer>
     <answer fraction="100" format="moodle_auto_format">
       <text>false</text>
       <feedback format="markdown">
-        <text>Unfortunately, this sentence is incorrect, because the only possibility of extending this technology is a custom implementation of the IQuerable interface.</text>
+        <text>Unfortunately, this sentence is incorrect, because the only possibility of extending this technology is a custom implementation of the `IQueryable` interface.</text>
       </feedback>
     </answer>
   </question>
 
-  <!-- question: 22011  -->
+<!-- question: 257681  -->
   <question type="truefalse">
     <name>
       <text>Partial classes and methods</text>
     </name>
     <questiontext format="markdown">
-      <text>Similar to the abstract class, in the partial class, all partial methods (only the header defined for them) must be implemented so that the class can be used to create objects.</text>
+      <text>Similar to the abstract class, in the partial class, all partial methods (only the header defined for them) must be implemented so that the class can be used to instantiate objects.</text>
     </questiontext>
     <generalfeedback format="html">
       <text></text>
@@ -878,13 +1284,13 @@ class UsingIDisposable: IDisposable
     <answer fraction="0" format="moodle_auto_format">
       <text>true</text>
       <feedback format="markdown">
-        <text>Unfortunately, this sentence is incorrect. The partial methods for which block of statements are not defined are removed from the code, so they do not have to be implemented.</text>
+        <text>Unfortunately, this sentence is incorrect. The invocation of partial methods for which blocks of statements are not defined is removed from the code, so they do not have to be implemented.</text>
       </feedback>
     </answer>
     <answer fraction="100" format="moodle_auto_format">
       <text>false</text>
       <feedback format="markdown">
-        <text>Yes, this sentence is incorrect. The partial methods for which a block of statements is not defined are removed from the code, so they do not have to be implemented.</text>
+        <text>Yes, this sentence is incorrect. The invocation of partial methods for which blocks of statements are not defined is removed from the code, so they do not have to be implemented.</text>
       </feedback>
     </answer>
   </question>

@@ -11,6 +11,8 @@
   - [Invitation](#invitation)
   - [Late enrolment](#late-enrolment)
   - [Late enrollment schedule change](#late-enrollment-schedule-change)
+- [Seminar Announcements](#seminar-announcements)
+  - [Online References - New Publication on Serialization](#online-references---new-publication-on-serialization)
 - [Lab announcements](#lab-announcements)
   - [Task 0 Check list Create Repository](#task-0-check-list-create-repository)
   - [Task 1 Check list publication](#task-1-check-list-publication)
@@ -21,7 +23,9 @@
   - [Project Grading Process - Additional Explanation](#project-grading-process---additional-explanation)
   - [Lab Time Slot Reservation](#lab-time-slot-reservation)
 - [Final grades](#final-grades)
+  - [Seminar activity submit the task](#seminar-activity-submit-the-task)
   - [Test invitation](#test-invitation)
+    - [Retake the test](#retake-the-test)
   - [Additional opportunity to earn points for activity](#additional-opportunity-to-earn-points-for-activity)
   - [I have just published the last seminar activity](#i-have-just-published-the-last-seminar-activity)
   - [Final grades published](#final-grades-published)
@@ -183,6 +187,20 @@ Let me stress, your repository must have the `README.md` file prepared according
 
 ## Final grades
 
+### Seminar activity submit the task
+
+**Submit the activity scores**:
+
+Please sum your activity tickets (scores collected during the seminar or as a result of the TP repository modification), and provide the total in the online text window using the following template:
+
+```txt
+
+Total= <scores>
+
+```
+
+and submit the task
+
 ### Test invitation
 
 Referring to my previous verbal announcement I want to confirm the test schedule:
@@ -195,13 +213,19 @@ Let me recall that there is an example code. Have a look at [mpostol/tp](https:/
 
 I will review the most essential topics in the next seminar lesson. Join me and give me feedback in advance - I am a willing helper to explain once more the vital issues for you if possible. To work alone,  you may also check out not published yet the course
 
-- [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt). 
+- [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt).
 
 There is also a helpful video book but only in Polish.
 
 - [C# language In practice. Video Course. External Data Processing](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
 
 Good luck and stay in touch.
+
+#### Retake the test
+
+Remember that you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the _24-Programming Technologies_ Teams group. Information on how to enroll can be found on the WIkam landing page. If you are going to make the next test attempt let me know by email and send your preferences regarding the date and time for when the test will be opened next time. I am waiting for your proposal up to the end of this week, i.e. up to **23-06-2028**. My proposal is **03-07-2028 at 10:15**.
+
+Stay in touch.
 
 ### Additional opportunity to earn points for activity
 
@@ -260,13 +284,19 @@ Thank you very much for your engagement and participation. I believe the effort 
 - Mariusz Postół Ph. D.
 - Institute of Information Technology
 - Technical University of Lodz
-- Email: mariusz.postol@p.lodz.pl
+- Email: <mariusz.postol@p.lodz.pl>
 
 ### The end of the semester is approaching
 
 Hello Students,
 
-We are approaching the end of the semester so it is time to finalize your grading process. I have updated the grades so I would appreciate checking your results as soon as possible.
+We are approaching the end of the semester so it is time to finalize your grading process. I have updated the grades so I would appreciate checking your results. Let me stress that the Summer assessment period will continue from **09.09.2024– to 18.09.2024**, after that, your final grades will be transferred to "Webdzikanat". I am not sure if there is an English name for this logbook. The "Webdzikanat" is the official repository of your grades. I transfer all grades after the assessment period according to the [Academic year calendar](https://p.lodz.pl/en/students/academic-year-calendar). The same link you have on the WIKAMP landing page for the course. If there are any complaints about your grade inform me about it ASAP. If you want to retake the test to improve your grade send me your proposal in advance before the beginning of the assessment period.
+
+If you need your grade to be transferred to "Webdziekanat" earlier before the assessment period is finished further modification of your grade will be not practical or impossible. Therefore, to trigger the transfer I need more explanations on "why/deadline" and a declaration as follows
+
+```txt
+I am satisfied with my grade on the WIKAMP platform. I have no complaints about my grade and will not have any in the future. I will not request to improve my grade in the future. I want my grade to be transferred to the webdziekanat system and I will not have any complaints about it.
+```
 
 Again, let me recall that there is an example code. Have a look at
 
@@ -275,8 +305,6 @@ Again, let me recall that there is an example code. Have a look at
 To be in touch please start watching the repository. Additionally, I have started publishing a video course. Check out the most interesting for you from my profile:
 
 [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
-
-Let me inform you that after publishing the finalized version the preview ones are no longer available on my YouTube account. 
 
 Thank you very much for your engagement and participation. I believe that the effort will be rewarded and will make your real life easier.
 

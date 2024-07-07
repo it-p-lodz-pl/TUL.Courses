@@ -9,9 +9,7 @@
 - [Seminar (Section)](#seminar-section)
   - [Seminar Timetable (Summary)](#seminar-timetable-summary)
   - [Table of topicsPage (Page)](#table-of-topicspage-page)
-  - [Seminar activity Assignment (Task)](#seminar-activity-assignment-task)
-  - [Seminar Activity Q/A (Files folder)](#seminar-activity-qa-files-folder)
-  - [Activity scores reporting (page)](#activity-scores-reporting-page)
+  - [Seminar activity (Task)](#seminar-activity-task)
 - [Project (Section)](#project-section)
   - [Project deadlines and scores](#project-deadlines-and-scores)
   - [Project group selection (group selection)](#project-group-selection-group-selection)
@@ -20,6 +18,7 @@
 - [`Recordings 2021 Summer` (section)](#recordings-2021-summer-section)
 - [References (section)](#references-section)
   - [Online](#online)
+- [How to reach me](#how-to-reach-me)
   - [Books examples](#books-examples)
 - [Internal (section)](#internal-section)
 
@@ -27,7 +26,7 @@
 
 **General (General summary)**:
 
-The classes are conducted at the TUL premises. Please join the course at WIKAMP using the `PT` key. 
+The classes are conducted at the TUL premises. Please join the course at WIKAMP using the `PT` key.
 Also the following team:
 
 - [24-Programming Technologies](https://teams.microsoft.com/l/team/19%3AMDlndHT3L4NctrH5Vs_tSZJD1AsRWBsJH09HQQ8w4sk1%40thread.tacv2/conversations?groupId=28bd5a1b-2a73-4984-808f-435aa94d2e9f&tenantId=67ea5955-9b5c-4693-a8f9-960f2a3b49bb)
@@ -73,11 +72,23 @@ Afterward, using the [Project Group Selection](https://ife.edu.p.lodz.pl/mod/cho
 
 - `PT.IFE\Lecture\TableOfTopics.md`
 
-### Seminar activity Assignment (Task)
+### Seminar activity (Task)
 
-**Submit the activity scores**:
+Report your activity points using [Seminar activity](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10883) - each ticket = 1 pts. Report your scores using comments of the mentioned module. Your achievement must be reported ASAP.
 
-Please sum your activity tickets (scores collected during the seminar), and provide the total in the online text window using the following template:
+Use the syntax `Lesson XX Scores= YY Tickets = {tttt, }`, where
+
+- `XX`   lesson number,
+- `YY`   number of points you reported for this lesson.
+- `tttt` ticket number
+
+Entry for each lesson should be in the new comment.
+
+In case you got activity points as a result of the TP repository modification report your activity points using the following syntax `Pull Request ppp Scores= YY` , where
+
+- `ppp` is the Pull Request number
+
+After opening the module please sum your activity points (scores collected during the seminar), and provide the total in the online text window using the following template:
 
 ```txt
 
@@ -86,20 +97,6 @@ Total= <scores>
 ```
 
 and submit the task.
-
-### Seminar Activity Q/A (Files folder)
-
-- Seminar activity files containing questions and accepted answers
-- `\date\ Lesson xx \<title\>.xlsx`
-
-### Activity scores reporting (page)
-
-Review the files above and report your result using [Seminar activity](https://ife.edu.p.lodz.pl/mod/assign/view.php?id=10883) - each answer I have not removed = 1 pts. Report your scores using comments of the mentioned module. Your achievement must be reported ASAP. Use the syntax `Lesson XX Scores= YY`, where
-
-- `XX` lesson number,
-- `YY` number of points you are going to report for this lesson (your answers in the appropriate file).
-
-Entry for each lesson should be in the new comment.
 
 ## Project (Section)
 
@@ -164,21 +161,53 @@ This section contains:
 
 ### Online
 
-- [Postol, M. Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/), , C# Corner, 2024
-- [Postol, M. Programming in Practice Discipline](https://www.c-sharpcorner.com/article/programming-in-practice-discipline/), C# Corner, 2024
+- Postol Mariusz; [Programming in Practice - Graphical User Interface (GUI)][GUIMasterArticle]; C# Corner; May 30, 2024
+- Postol Mariusz; [Programming in Practice - GUI - MVVM Program Design Pattern][MVVMSecondArticle]; C# Corner; Jul 03, 2024
+- Postol Mariusz; [Programming in Practice - GUI - XAML - Description of the User Interface][GUIXAML]; C# Corner; waiting for acceptance
+- Postol Mariusz; [Programming in Practice - LINQ Expression](https://www.c-sharpcorner.com/article/programming-in-practice-linq-expression/) C# Corner, May 06, 2024
+- Postol Mariusz; [Information Computation Mastery: Serialization](https://www.c-sharpcorner.com/article/information-computation-mastery-serialization/) C# Corner,  Apr 01, 2024
+- Postol Mariusz; [Information Computation Mastery: Challenges, Concepts, Implementation](https://www.c-sharpcorner.com/article/information-computation-mastery-challenges-concepts-implementation/), C# Corner, Mar 28, 2024
+- Postol Mariusz; [PiP - External Streaming Data - Useful Concepts - Part 1](https://www.c-sharpcorner.com/article/pip-external-streaming-data-useful-concepts-part-1/) C# Corner, Mar 27, 2024
+- Postol Mariusz; [Programming in Practice Discipline](https://www.c-sharpcorner.com/article/programming-in-practice-discipline/) C# Corner,  Feb 27, 2024.
+- Postol Mariusz; [External Streaming Data - Bitstream Format](https://www.c-sharpcorner.com/article/external-streaming-data-bitstream-format/)  C# Corner, Feb 14, 2024.
+- Postol Mariusz; [Cybersecurity of External Streaming Data - Confidentiality][confidentiality] C# Corner, Feb 14, 2024.
+- Postol Mariusz; [Cybersecurity of External Streaming Data - Integrity][CI] C# Corner, Feb 14, 2024.
+- Postol Mariusz; [Cybersecurity of External Streaming Data - Non-repudiation)](https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-non-repudiation/); C# Corner, Feb 14, 2024
+- Postol Mariusz; [External Data Management (ExDM))][ExDM]; C# Corner,  Jan 09, 2024
+- Postol Mariusz; [External Data - Attributes - Profiling Data Access][Attributes]; C# Corner,  Jan 06, 2024
+- Postol Mariusz; [External Data - File and Stream Concepts][FileStream]; C# Corner, Jan 03, 2024
 - [csharp (C#) GitHub repository](https://github.com/mpostol/TP?tab=readme-ov-file#programming-in-practice-)- C# in Practice - set of C# examples targeting education purpose
 - [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
 - [Programming in Practice](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt); Promotional Videos, Youtube
-- [Postol, M. Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835), Udemy free video course, 2021
+- [Postol, M. Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835), Udemy, 2021
 - [Postol, M. Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21), Udemy video course, 2023
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
-- [MPostol na GitHub](https://github.com/mpostol)
-- [MPostol na Udemy profil](https://www.udemy.com/user/mariusz-postol/)
-- [MPostol na ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
 - [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
 - [What is .NET? [1 of 8]](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
 - [C# documentation](https://docs.microsoft.com/dotnet/csharp/)
 - [Welcome to .NET](https://docs.microsoft.com/dotnet/welcome)
+
+## How to reach me
+
+- [Postół M, profile on GitHub](https://github.com/mpostol)
+- [Postół M,  Udemy Instructor](https://www.udemy.com/user/mariusz-postol/)
+- [Postół M, profile on LinkedIn](https://pl.linkedin.com/in/mpostol)
+- [Postół M, profile on ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
+- [Postół M, profile on youtube](https://www.youtube.com/@mariuszpostol)
+- [Postół M, profile on nuget](https://www.nuget.org/profiles/mpostol)
+- [Postół M, profile on ORCID](https://orcid.org/0000-0002-9669-0565)
+- [Postół M, profile on facebook](https://www.facebook.com/mariusz.postol/)
+- [Postół M, profile on wordpress](http://mpostol.wordpress.com/)
+- [Postół M, profile on c-sharpcorner](https://www.c-sharpcorner.com/members/mariusz-postol)
+
+[CI]:                  https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-integrity/
+[confidentiality]:     https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-confidentiality/
+[ExDM]:                https://www.c-sharpcorner.com/blogs/external-data-management-exdm
+[FileStream]:          https://www.c-sharpcorner.com/article/external-data-file-and-stream-concepts
+[Attributes]:          https://www.c-sharpcorner.com/article/external-data-attributes-profiling-data-access/
+[GUIMasterArticle]:    https://www.c-sharpcorner.com/article/programming-in-practice-graphical-user-interface-gui/
+[MVVMSecondArticle]:   https://www.c-sharpcorner.com/article/programming-in-practice-gui-mvvm-program-design-pattern/
+[GUIXAML]:             https://www.c-sharpcorner.com/article/programming-in-practice-gui-xaml-description-of-the-user-interface/
 
 ### Books examples
 
