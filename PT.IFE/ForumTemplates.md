@@ -25,10 +25,10 @@
 - [Final grades](#final-grades)
   - [Seminar activity submit the task](#seminar-activity-submit-the-task)
   - [Test invitation](#test-invitation)
-    - [Retake the test](#retake-the-test)
+    - [Possibility of retaking the test](#possibility-of-retaking-the-test)
   - [Additional opportunity to earn points for activity](#additional-opportunity-to-earn-points-for-activity)
   - [I have just published the last seminar activity](#i-have-just-published-the-last-seminar-activity)
-  - [Final grades published](#final-grades-published)
+  - [Final grades published on WIKAMP](#final-grades-published-on-wikamp)
   - [The end of the semester is approaching](#the-end-of-the-semester-is-approaching)
 
 ## Seminar invitation
@@ -221,9 +221,9 @@ There is also a helpful video book but only in Polish.
 
 Good luck and stay in touch.
 
-#### Retake the test
+#### Possibility of retaking the test
 
-Remember that you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the _24-Programming Technologies_ Teams group. Information on how to enroll can be found on the WIkam landing page. If you are going to make the next test attempt let me know by email and send your preferences regarding the date and time for when the test will be opened next time. I am waiting for your proposal up to the end of this week, i.e. up to **23-06-2028**. My proposal is **03-07-2028 at 10:15**.
+Remember that according to the [Assessment – grading scale](https://ife.edu.p.lodz.pl/mod/page/view.php?id=11195), you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the _24-Programming Technologies_ Teams group. Information on how to enroll can be found on the WIkam landing page. If you are going to make the next test attempt let me know by email and send your preferences regarding the date and time for when the test will be opened next time. I am waiting for your proposal up to the end of this week, i.e. up to **06-09-2028**. My proposal is **17-09-2028 at 10:15**. It will be the last attempt this year. The proposal applies to students who have not resigned from the possibility of improving grades and asked me to transfer their current grades. A final decision will be sent on Monday 09-09-2024.
 
 Stay in touch.
 
@@ -251,15 +251,17 @@ It was the last opportunity to gather activity points during the seminar. Provid
 
 and submit the task as soon as possible but no later than Sunday, 03 July 2022.
 
-### Final grades published
+### Final grades published on WIKAMP
 
 Hi All,
 
-We are approaching the end of the semester so it is time to finalize your grading process. I have just updated the grades so I will appreciate checking your results as soon as possible.
+We are approaching the end of the semester, so it is time to finalize your grading process. I have just updated the grades, so I would appreciate checking your results as soon as possible.
 
-If you want to improve your test scores the last possibility to solve the test will be tomorrow this year (the last day of the assessment period before the vacation break), i.e. on 06-07-2022 at 16:45. Let me recall that the final grade for the test is calculated as the average of all attempts scores, so it is possible to decrease and increase the final result.  Anyway, you are welcome to participate once more.
+Remember that according to the [Assessment – grading scale](https://ife.edu.p.lodz.pl/mod/page/view.php?id=11195), you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the _24-Programming Technologies_ Teams group. Information on how to enroll can be found on the WIkamp landing page. The attempt is optional. Hence, if you want to make the next test attempt you must let me know by email and send your preferences regarding the date and time for when the test will be opened next time. I am waiting for your proposal up to the end of this week, i.e. up to **06-09-2028**. My proposal is **17-09-2028 at 10:15**. It will be the last attempt this academic year. The proposal applies to students who have not resigned from the possibility of improving grades and asked me to transfer their current grades. A final decision will be sent on Monday **09-09-2024**.
 
-After the test, I will generate the final report and any modification of the grades will be almost impossible.
+Let me recall that the final grade for the test is calculated as the average of all attempt scores, so it is possible to decrease and increase the final result.  Anyway, you are welcome to participate once more.
+
+After the test, I will generate the final report, and any modification of the grades will be almost impossible.
 
 Again, let me recall that there is the seminar example code. Have a look at
 
@@ -267,17 +269,13 @@ Again, let me recall that there is the seminar example code. Have a look at
 
 To be in touch please start watching the repository.
 
-The lecture recordings are available here:
-
-- [youtube.com](https://youtube.com/playlist?list=PLC7zPvgw-YbwOD3GaSPl6kzKhDRmmrA-9)
-
-Because based on this course I am going to publish a course on udemy.com you can subscribe to an existing free course to follow any of my publishing activities by joining the community at:
+Based on this course I am going to publish a course on udemy.com you can subscribe to an existing free course to follow any of my publishing activities by joining the community at:
 
 [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
 
-Contact me in any case you will have questions.
+Contact me if you have questions.
 
-Thank you very much for your engagement and participation. I believe the effort will be rewarded and will make your real life easier.
+Thank you very much for your engagement and participation. I believe the effort will be rewarded and will make your professional life easier.
 
 **Good luck**:
 
