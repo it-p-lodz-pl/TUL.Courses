@@ -1,7 +1,7 @@
 # Project Stage 2 Checklist
 
 - [ ] **Starting point**
-****  - [ ] program text is in C#
+  - [ ] program text is in C#
   - [ ] all UT are green
   - [ ] the program behaves as expected
 - [ ] **Data Layer**

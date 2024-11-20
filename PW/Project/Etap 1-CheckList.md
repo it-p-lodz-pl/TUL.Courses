@@ -20,7 +20,7 @@
   - [ ] `Presentation` uses only the abstract `Logic` layer API
   - [ ] MVVM and XAML are applied to implement GUI
   - [ ] reactive and interactive user interaction for user (operator) communication
-  - [ ] reactive and interactive programming is used for the communication of layers
+  - [ ] the graphical user interface (GUI) must be scaled appropriately
 - [ ] Fulfill functional requirements of the task
 - [ ] **Testing**
   - [ ] Unit Test - layers are tested independently using abstract API and Dependency injection (external package is not allowed)

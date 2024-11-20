@@ -12,4 +12,5 @@
 - [ ] The program has layered architecture and contains at least `presentation`, `logic`, and `data` layers
 - [ ] layers are clearly stated using language terms only
 - [ ] responsibility of the `data` layer is to represent balls
-- [ ] responsibility of the `presentation` layer is to manage the user interface and expose initial ball positions
+- [ ] responsibility of the `presentation` layer is to manage a graphical user interface (GUI) and expose initial ball positions
+- [ ] reactive and interactive programming is used for the communication of layers
