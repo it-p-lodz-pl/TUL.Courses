@@ -1,6 +1,8 @@
 # Project Stage 1 Checklist
 
-- [ ] **Starting point**
+``` txt
+- [ ] **to get started**
+  - [ ] Create a tag according to the [semantic versioning](https://semver.org/) compliant with the following syntax 1.a.n where: a: approach number [1..3], n: any number you like
   - [ ] program text is in C#
   - [ ] build succeeded
   - [ ] all UTs are green
@@ -25,3 +27,4 @@
 - [ ] **Testing**
   - [ ] Unit Test - layers are tested independently using abstract API and Dependency injection (external package is not allowed)
   - [ ] Mock (external package) must not be used for testing purposes
+```
