@@ -1,6 +1,11 @@
-# Project Stage 3 Checklist
+# Projekt Etap 3 Lista kontrolna - programowanie współbieżne i czasu rzeczywistego
+
+Opracowanie programu w tym etapie powinno być zrealizowane z wykorzystaniem poniższej listy kontrolnej. Skopiuj ten text do nowego _issue_ w repozytorium i użyj tej listy zadań do sprawdzenia kompletności wykonania zadania. Przed oddanie do oceny utwórz kolejne _issue_ z "pustą" listą dla prowadzącego do wykorzystania w trakcie oceny. Szczegółowy opis zadania znajduje się w osobnym dokumencie.
 
 ``` txt
+
+# Project Stage 3 Checklist
+
 - [ ] **to get started**
   - [ ] program text is in C#
   - [ ] Create a tag according to the [semantic versioning](https://semver.org/) compliant with the following syntax 3.a.n where: a: approach number [1..3], n: any number you like
@@ -27,4 +32,5 @@
   - [ ] the program behaves as expected (intermediate approval test)
   - [ ] Unit Test - layers are tested independently using dependency injection (additional framework is not allowed)
   - [ ] Mock (external package) must not be used for testing purposes
-  ```
+  
+```

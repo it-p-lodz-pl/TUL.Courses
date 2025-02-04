@@ -1,6 +1,10 @@
-# Project Stage 2 Checklist
+# Projekt Etap 2 Lista kontrolna - programowania asynchroniczne, sekcja krytyczna
+
+Opracowanie programu w tym etapie powinno być zrealizowane z wykorzystaniem poniższej listy kontrolnej. Skopiuj ten text do nowego _issue_ w repozytorium i użyj tej listy zadań do sprawdzenia kompletności wykonania zadania. Przed oddanie do oceny utwórz kolejne _issue_ z "pustą" listą dla prowadzącego do wykorzystania w trakcie oceny. Szczegółowy opis zadania znajduje się w osobnym dokumencie.
 
 ``` txt
+# Project Stage 2 Checklist
+
 - [ ] **to get started**
   - [ ] Create a tag according to the [semantic versioning](https://semver.org/) compliant with the following syntax 2.a.n where: a: approach number [1..3], n: any number you like
   - [ ] program text is in C#
