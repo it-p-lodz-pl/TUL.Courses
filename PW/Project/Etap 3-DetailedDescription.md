@@ -43,4 +43,4 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 
 ## Lista źródeł
 
-Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
+Do zrealizowania zadania można wykorzystać przykładowy kodu na [Programming in Practice - set of examples targeting education purposes.](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.

@@ -21,7 +21,7 @@
   - [Streszczenie - zarejestrowane zajęcia](#streszczenie---zarejestrowane-zajęcia)
   - [Folder Aktywność - Q/A podsumowanie](#folder-aktywność---qa-podsumowanie)
   - [Aktywność zasady](#aktywność-zasady)
-- [Materiały pomocnicze](#materiały-pomocnicze)
+- [Publikacje uzupełniające](#publikacje-uzupełniające)
   - [Inżynieria programowania](#inżynieria-programowania)
   - [Testowanie](#testowanie)
   - [Narzędzia](#narzędzia)

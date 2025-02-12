@@ -2,9 +2,7 @@
 
 ## Cel
 
-To trzy etapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na  prostokątnej płaszczyźnie ograniczonej ścianami bocznymi.
-
-Celem tego etapu jest praktyczne zastosowanie:
+To cztero-etapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na  prostokątnej płaszczyźnie ograniczonej ścianami bocznymi. Celem tego etapu jest praktyczne zastosowanie:
 
 - wybranego środowiska projektowego, tzn. GitHub, VisualStudio, język C#
 - reaktywnego i interaktywnego współdziałania użytkownik/komputer
@@ -13,7 +11,6 @@ Celem tego etapu jest praktyczne zastosowanie:
 - programowania asynchronicznego (reaktywnego i interaktywnego)
 - testowania jednostkowego i integracyjnego
 - techniki wstrzykiwania zależności (ang. Dependency Injection)
-- techniki MOCK (opcja)
 
 ## Opis zadania
 
@@ -56,7 +53,7 @@ Warstwa ta musi być zaimplementowana zgodnie ze wzorcem `Model-View-ViewModel` 
 - `ViewModel`: implementuje zachowanie się interfejsu użytkownika tak, aby wyświetlać aktualne dane i realizować polecenia użytkownika w zależności od stanu GUI. Warstwa odpowiedzialna za powiązanie kontrolek z API oferowanym przez warstwę `Model`
 - `Model`: odpowiedzialna za przechowywanie danych wyłącznie na potrzeby interfejsu użytkownika (GUI) i realizację operacji na danych z wykorzystaniem funkcjonalności oferowanej przez warstwę opisaną w **Warstwa `Logika`**,
 
-Dane i kontrolki muszą być powiązane ze sobą za pomocą mechanizmu wiązania danych `DataBinding` (programowanie interaktywne). Oznacza to również, że nie można tworzyć kodu w warstwie widoku (tzw. code-behind) w plikach `*.xaml.cs`, poza kodem automatycznie generowanym przez środowisko projektowe. Do powiadamiania warstwy `View` o zmianach zachodzących w warstwie poniżej (programowanie reaktywne), należy wykorzystać implementację interfejsów `INotifyPropertyChanged` oraz `INotifyCollectionChanged` lub ich pochodnych.
+Dane i kontrolki muszą być powiązane ze sobą za pomocą mechanizmu wiązania danych `DataBinding`. Oznacza to również, że nie można tworzyć kodu w warstwie widoku (tzw. code-behind) w plikach `*.xaml.cs`, poza kodem automatycznie generowanym przez środowisko projektowe. Do powiadamiania warstwy `View` o zmianach zachodzących w warstwie poniżej (programowanie reaktywne), należy wykorzystać implementację interfejsów `INotifyPropertyChanged` oraz `INotifyCollectionChanged` lub ich pochodnych.
 
 Do obsługi poleceń użytkownika należy wykorzystać mechanizm poleceń (implementacja interfejsu `ICommand`). Dotyczy to w szczególności obsługi przycisków, ale także menu i innych interaktywnych elementów interfejsu. Polecenia muszą zostać zaimplementowane (obsłużone) w warstwie `ViewModel`.
 
@@ -69,8 +66,8 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 - Warstwa `Logika` powinna reprezentować wszystkie operacje realizowane w wybranym procesie.
 - Proszę pamiętać, że `Dane` + `Logika` to sekcja krytyczna i rozwiązanie musi być odporne na zdarzenia jednoczesne.
 - Proszę dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`.
-- Warstwy powinny być luźno powiązane na potrzeby testowania używając DI lub MOCK.
-- Przy realizacji warstwy **Danych** należy unikać korzystania z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
+- Warstwy powinny być luźno powiązane na potrzeby testowania używając DI.
+- Przy realizacji warstwy **Danych** nie korzystać z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
 - architekturę warstwową (luźno powiązane warstwy) programu najprościej uzyskać, implementując warstwy jako osobne projekty.
 - do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności (DI)
 - `GitHub`: sklonować repozytorium do pustego katalogu
@@ -88,9 +85,13 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 
 ## Lista źródeł
 
-Do zrealizowania zadania można wykorzystać przykładowy kodu na [C# in Practice - set of C# examples targeting education purpose](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
+Do zrealizowania zadania można wykorzystać przykładowy kodu na [Programming in Practice - set of examples targeting education purposes](https://github.com/mpostol/TP). Literatura uzupełniająca podana jest na stronie kursu.
 
+- [Programming in Practice - Information Computation; Udemy, 2023](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21)
+- [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
 - [Elastic collisions; Wikipedia](https://en.wikipedia.org/wiki/Elastic_collision)
 - [Semantic Versioning 2.0.0][SV]
+- [Architektura warstwowa (przykład w TP Concurrent Programming)][AW]
 
 [SV]: https://semver.org/
+[AW]: https://github.com/mpostol/TP/tree/master/ConcurrentProgramming/ReactiveInteractiveUserInterface
