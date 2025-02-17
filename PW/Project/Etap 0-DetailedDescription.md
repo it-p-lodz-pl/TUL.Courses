@@ -1,7 +1,8 @@
-# Projekt Etap 0 - repozytorium GitHub i przykładowy program warstwowy<!-- omit in toc -->
+# Projekt Etap 0 - szczegółowy opis <!-- omit in toc -->
 
 ## Spis treści <!-- omit in toc -->
 
+- [Opis na stronie kursu](#opis-na-stronie-kursu)
 - [Cel](#cel)
 - [Opis zadania](#opis-zadania)
 - [Wytyczne do realizacji](#wytyczne-do-realizacji)
@@ -14,6 +15,10 @@
 - [Lista źródeł](#lista-źródeł)
   - [Tworzenie repozytorium](#tworzenie-repozytorium)
   - [Architektura warstwowa](#architektura-warstwowa)
+
+## Opis na stronie kursu
+
+repozytorium GitHub i przykładowy program warstwowy
 
 ## Cel
 
@@ -89,6 +94,8 @@ Z uwagi na konieczność pracy z wykorzystaniem lokalnej kopii, może się zdarz
 1. **Lokalna kopia**: sprawdzić, czy w lokalnej kopii są jakieś modyfikacje (wszystkie wygenerowane pliki muszą byc ignorowane)
 
 > nie zaleca się aby do sprawdzenia poprawności stosować inne rozwiązania nawet jeśli są zgodne z aktualnymi trendami.
+>
+> UWAGA: po zdefiniowaniu tag mozna i trzeba kontynuować prace nad kolejnymi etapami.
 
 ## Zaliczenie
 

@@ -1,4 +1,4 @@
-# Etap 0 Tworzenie repozytorium lista kontrolna
+# Projekt Etap 0 lista kontrolna
 
 Tworzenie repozytorium powinno być zrealizowane z wykorzystaniem poniższej listy kontrolnej. Skopiuj ten text do nowego **issue** w repozytorium i użyj tej listy zadań do sprawdzenia kompletności wykonania zadania. Przed oddanie do oceny utwórz kolejne `issue` z pustą lista dla prowadzącego do wykorzystania w trakcie oceny. Szczegółowy opis zadania znajduje się w osobnym dokumencie.
 
