@@ -5,7 +5,6 @@
 - [Opis na stronie kursu](#opis-na-stronie-kursu)
 - [Cel](#cel)
 - [Opis zadania](#opis-zadania)
-  - [Wymagania ogólne](#wymagania-ogólne)
 - [Wytyczne do realizacji](#wytyczne-do-realizacji)
   - [Wymagania zadania](#wymagania-zadania)
   - [Procedura sprawdzenia zawartości repozytorium](#procedura-sprawdzenia-zawartości-repozytorium)
@@ -23,7 +22,7 @@
 
 ## Cel
 
-To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowanie zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi. Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
+To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi (kolokwialnie "stół bilardowy"). Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
 
 Celem tego etapu jest zrozumienie i praktyczne zastosowanie:
 
@@ -35,10 +34,6 @@ Celem tego etapu jest zrozumienie i praktyczne zastosowanie:
 - techniki wstrzykiwania zależności (ang. Dependency Injection)
 
 ## Opis zadania
-
-### Wymagania ogólne
-
-To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi (kolokwialnie "stół bilardowy").
 
 W tym etapie należy zmodyfikować utworzony w etapie 1 program tak, aby uwzględnić, że:
 
@@ -100,9 +95,8 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 - nie wszyscy członkowie grupy roboczej zgłosili zadanie do oceny
 - zadanie jest w trybie roboczym - nie zostało skutecznie zgłoszone przez wszystkich członków grupy roboczej
 - proponowane rozwiązanie nie jest zgodne z listą kontrolną lub szczegółowym opisem, przykładowo
-  - wartosci otrzymywane przez warstwę `Model` nie są skalowane do aktualnego rozmiaru ekranu komputera
+  - wartosci współrzędnych nie są skalowane do aktualnego rozmiaru ekranu komputera
   - kule wychodzą poza obręb ograniczenia płaszczyzny
-  - kule nie poruszają się płynnie po akranie
 
 ## Lista źródeł
 

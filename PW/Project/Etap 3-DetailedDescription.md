@@ -2,27 +2,37 @@
 
 ## Spis treści <!-- omit in toc -->
 
+- [Opis na stronie kursu](#opis-na-stronie-kursu)
+- [Cel](#cel)
+- [Opis zadania](#opis-zadania)
+- [Wytyczne do realizacji](#wytyczne-do-realizacji)
+  - [Wymagania zadania](#wymagania-zadania)
+  - [Procedura sprawdzenia zawartości repozytorium](#procedura-sprawdzenia-zawartości-repozytorium)
+  - [Zgłoszenie do oceny](#zgłoszenie-do-oceny)
+- [Zaliczenie](#zaliczenie)
+  - [Warunki ogólne](#warunki-ogólne)
+  - [Typowe błędy](#typowe-błędy)
+- [Lista źródeł](#lista-źródeł)
+  - [Architektura warstwowa](#architektura-warstwowa)
+  - [Zobacz też](#zobacz-też)
+
 ## Opis na stronie kursu
 
 - zapis danych diagnostycznych i programowanie czasu rzeczywistego
 
 ## Cel
 
-To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowanie zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi. Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
+To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi (kolokwialnie "stół bilardowy"). Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
 
 Celem tego etapu jest zrozumienie i praktyczne zastosowanie:
 
-- implementacji koncepcji programowania czasu rzeczywistego
-- rejestracji danych diagnostycznych
+- **implementacji koncepcji programowania czasu rzeczywistego**
+- **rejestracji danych diagnostycznych**
 - potwierdzenia wykorzystania programowania współbieżnego
 - testowania jednostkowego i integracyjnego
 - techniki wstrzykiwania zależności (ang. Dependency Injection)
 
 ## Opis zadania
-
-### Wymagania ogólne
-
-To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi (kolokwialnie "stół bilardowy").
 
 W tym etapie należy wykorzystać uprzednio napisany program, w którym dodatkowo należy:
 
@@ -34,7 +44,7 @@ Program będzie implementował warstwy: `Dane`, `Logika` i `Prezentacja`. Bardzi
 
 Wymienione wyżej warstwy `Dane` i `Logika` muszą być testowane niezależnie z wykorzystaniem testów jednostkowych. Aby to było możliwe API warstwy `Dane` i `Logika` musi być zrealizowany jako wyraźnie wydzielone definicje abstrakcyjne.
 
-### Wytyczne do realizacji
+## Wytyczne do realizacji
 
 Dodatkowe informacje ułatwiające wykonanie zadania:
 
@@ -58,13 +68,11 @@ Z uwagi na konieczność pracy z wykorzystaniem lokalnej kopii, może się zdarz
 
 ### Zgłoszenie do oceny
 
-- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV]
+- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV] (użyj następującej składni 3.a.n, gdzie: 3: numer etapu (3 dla tego etapu), a: numer podejścia [1..3], n: dowolna liczba)
 - `WIKAMP`: skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i tag
 - `WIKAMP`: zgłosić zadanie do oceny
 
-> nie zaleca się aby do sprawdzenia poprawności stosować inne rozwiązania nawet jeśli są zgodne z aktualnymi trendami.
->
-> UWAGA: po zdefiniowaniu `tag` mozna i trzeba kontynuować prace nad kolejnym etapem.
+> nie zaleca się stosowanie do sprawdzenia poprawności innych niż zalecane rozwiązań nawet jeśli są zgodne z aktualnymi trendami.
 
 ## Zaliczenie
 
@@ -80,7 +88,7 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 - nie wszyscy członkowie grupy roboczej zgłosili zadanie do oceny
 - zadanie jest w trybie roboczym - nie zostało skutecznie zgłoszone przez wszystkich członków grupy roboczej
 - proponowane rozwiązanie nie jest zgodne z listą kontrolną lub szczegółowym opisem, przykładowo
-  - wartosci otrzymywane przez warstwę `Model` nie są skalowane do aktualnego rozmiaru ekranu komputera
+  - wartosci współrzędnych nie są skalowane do aktualnego rozmiaru ekranu komputera
   - kule wychodzą poza obręb ograniczenia płaszczyzny
   - kule nie poruszają się płynnie po akranie
   - czytanie z pustego bufora
