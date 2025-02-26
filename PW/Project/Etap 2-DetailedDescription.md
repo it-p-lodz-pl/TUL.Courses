@@ -18,7 +18,7 @@
 
 ## Opis na stronie kursu
 
-- programowanie współbieżne, sekcja krytyczna
+- programowanie współbieżne, sekcja krytyczna, wyścig
 
 ## Cel
 
@@ -57,7 +57,7 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 - warstwa `Logika` powinna reprezentować wszystkie operacje realizowane w procesie implementacji zderzeń i informować warstwę `Model` o aktualnym położeniu kul
 - warstwa `Dane` odpowiada za cechy kul (waga i średnica) i ruch kul
 - nie ma wymagania, aby cechy kul były różne, a jesli są to musi to być wizualizowane na ekranie
-- proszę pamiętać, że `Dane` + `Logika` mogą zawierać sekcje krytyczne, a w konsekwencji rozwiązanie musi być odporne na zdarzenia współbieżne
+- proszę pamiętać, że `Dane` + `Logika` mogą zawierać sekcje krytyczne i rożne rodzaje wyścigu, a w konsekwencji rozwiązanie musi być odporne na zdarzenia współbieżne
 - do wykrywania zderzeń proszę rozważyć możliwość wykorzystania drzewa binarnego
 - pomocne będzie odprzęgnięcie warstw na potrzeby testowania używając abstrakcyjnego API oraz DI
 - do realizacji podstawowych funkcji programu nie trzeba stosować wstrzykiwania zależności (DI)
@@ -73,7 +73,7 @@ Z uwagi na konieczność pracy z wykorzystaniem lokalnej kopii, może się zdarz
 
 ### Zgłoszenie do oceny
 
-- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV]
+- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV] (użyj następującej składni 2.a.n, gdzie: 2: numer etapu (2 dla tego etapu), a: numer podejścia [1..3], n: dowolna liczba)
 - `WIKAMP`: skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i tag
 - `WIKAMP`: zgłosić zadanie do oceny
 
@@ -95,7 +95,7 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 - nie wszyscy członkowie grupy roboczej zgłosili zadanie do oceny
 - zadanie jest w trybie roboczym - nie zostało skutecznie zgłoszone przez wszystkich członków grupy roboczej
 - proponowane rozwiązanie nie jest zgodne z listą kontrolną lub szczegółowym opisem, przykładowo
-  - wartosci współrzędnych nie są skalowane do aktualnego rozmiaru ekranu komputera
+  - wartosci otrzymywane przez warstwę `Model` nie są skalowane do aktualnego rozmiaru ekranu komputera
   - kule wychodzą poza obręb ograniczenia płaszczyzny
 
 ## Lista źródeł

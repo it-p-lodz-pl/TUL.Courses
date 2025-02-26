@@ -45,7 +45,7 @@ Dokument identyfikacyjny musi zawierać nazwę uzytkownika używaną na GitHub i
 
 To cztero-etapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na  prostokątnej płaszczyźnie ograniczonej ścianami bocznymi.
 
-Etap musi być oddany do oceny za posrednictwem odpowiedniego modułu WIKAMP. Przed oddanie do oceny nalezy utworzyć kolejne `issue` z pustą lista dla Prowadzącego do wykorzystania w trakcie oceny. Repozytorium powinno zawierać program, który nastepnie będzie modyfikowany w następnych etapach w celu osiagniecia celów dydaktycznych przedmiotu. Program musi mieć architekturę warstwową zgodnie z lista kontrolną.
+Etap musi być oddany do oceny za pośrednictwem odpowiedniego modułu WIKAMP. Przed oddanie do oceny nalezy utworzyć kolejne `issue` z pustą lista dla Prowadzącego do wykorzystania w trakcie oceny. Repozytorium powinno zawierać program, który nastepnie będzie modyfikowany w następnych etapach w celu osiagniecia celów dydaktycznych przedmiotu. Program musi mieć architekturę warstwową zgodnie z lista kontrolną.
 
 Podsumowując, procedura jest następująca:
 
@@ -79,7 +79,7 @@ Dodatkowe informacje ułatwiające dodanie do repozytorium danych identyfikacyjn
 4. W celu poprawy przenośności rozwiązania, zaleca się aby warstwy `Model`, `ViewModel`, `Dane` i `Logika` były zrealizowana w technologii `.NET Standard` (lub ekwiwalentnej).
 5. Warstwę `View` powinna być zrealizowana w technologii `WPF`.
 6. Warstwa `Logika` powinna reprezentować wszystkie operacje realizowane w wybranym procesie.
-7. Aby podnieść jakoś proponowanego rozwiązania, zaleca się aby dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`.
+7. Aby podnieść jakoś proponowanego rozwiązania, zaleca się, aby dodać testy jednostkowe dla ważniejszych operacji warstwy `Dane`, `Logika`.
 8. Warstwy powinny być luźno powiązane na potrzeby testowania używając wzorca programowania Dependency Injection (DI).
 9. Przy realizacji warstwy **Danych** nie nalezy korzystać z zewnętrznych repozytoriów danych, jak pliki, bazy danych, itp. Jednak w każdym przypadku trzeba zapewnić, że pozytywny wynik realizacji testów jednostkowych nie będzie stawiał dodatkowych wymagań dla środowiska wykonawczego.
 10. architekturę warstwową (luźno powiązane warstwy) programu najprościej uzyskać implementując warstwy jako osobne projekty.
@@ -95,7 +95,7 @@ Z uwagi na konieczność pracy z wykorzystaniem lokalnej kopii, może się zdarz
 
 > nie zaleca się aby do sprawdzenia poprawności stosować inne rozwiązania nawet jeśli są zgodne z aktualnymi trendami.
 >
-> UWAGA: po zdefiniowaniu tag mozna i trzeba kontynuować prace nad kolejnymi etapami.
+> UWAGA: po zdefiniowaniu `tag` można i trzeba kontynuować prace nad kolejnym etapem.
 
 ## Zaliczenie
 
@@ -107,11 +107,11 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 
 - dane identyfikacyjne są nierzetelne, nieprawdziwe lub niekompletne
 - prace nie są rozłożone równomiernie
-- repozytorium jest niekompletne i po utworzeniu lokalnej kopii na komputerze Prowadzącego nie mozna kompilować program lub testy nie dają pozytywnego wyniku
+- repozytorium jest niekompletne i po utworzeniu lokalnej kopii na komputerze Prowadzącego nie można kompilować programu lub testy nie dają pozytywnego wyniku
 - zamiast testów jednostkowych są zastosowane testy integracyjne (np. testowanie kilku warstw w jednym teście)
 - nie wszyscy członkowie grupy roboczej zgłosili zadanie do oceny
 - zadanie jest w trybie roboczym - nie zostało skutecznie zgłoszone przez wszystkich członków grupy roboczej
-- proponowane rozwiązanie nie jest zgodne z listą kontrolną
+- proponowane rozwiązanie nie jest zgodne z listą kontrolną  lub szczegółowym opisem
 
 ## Lista źródeł
 
@@ -127,11 +127,11 @@ Aby prawidłowo utworzyć `tag` (za pośrednictwem tworzenia `Release`) w repozy
 
 ### Architektura warstwowa
 
-W celu poprawnej realizacji wymagania utworzenia programu o architekturze warstwowej można wziąć udział w następującym kursie:
+W celu ułatwienia poprawnej realizacji wymagania utworzenia programu o architekturze warstwowej można wziąć udział w następującym kursie:
 
 - [Programming in Practice - Information Computation; Udemy, 2023](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21)
 
-Darmowy dostęp do kursu wymaga odpowiedniego kuponu. Można go uzyskać zwracając się bezpośrednio do Prowadzącego. Natomiast, na początek wystarczy przykład programu umieszczony w [repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP) zawierającego przykłady edukacyjne zgodnie z poniższym rysunkiem. Należy podkreślić, że warunkiem jest pełne zrozumienie tej architektury.
+Darmowy dostęp do kursu wymaga odpowiedniego kuponu. Można go uzyskać zwracając się bezpośrednio do Prowadzącego. Natomiast, na początek wystarczy przykład programu umieszczony w repozytorium [GitHub mpostol/TP][TP] (zawierającego przykłady edukacyjne) zgodnie z poniższym rysunkiem. Należy podkreślić, że warunkiem jest pełne zrozumienie tej architektury.
 
 ![ReferenceApplicationArchitecture][LA]
 
@@ -140,3 +140,4 @@ Darmowy dostęp do kursu wymaga odpowiedniego kuponu. Można go uzyskać zwracaj
 [SV]: https://semver.org/
 [LA]: https://ftims.edu.p.lodz.pl/pluginfile.php/278449/mod_resource/content/1/ReferenceApplication.png
 [E0T]: https://ftims.edu.p.lodz.pl/pluginfile.php/184472/mod_resource/content/4/Etap%200%20EADME%20Templlate.md
+[TP]: https://github.com/mpostol/TP

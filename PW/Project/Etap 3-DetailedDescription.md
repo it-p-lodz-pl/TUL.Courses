@@ -72,7 +72,7 @@ Z uwagi na konieczność pracy z wykorzystaniem lokalnej kopii, może się zdarz
 - `WIKAMP`: skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i tag
 - `WIKAMP`: zgłosić zadanie do oceny
 
-> nie zaleca się stosowanie do sprawdzenia poprawności innych niż zalecane rozwiązań nawet jeśli są zgodne z aktualnymi trendami.
+> nie zaleca się aby do sprawdzenia poprawności stosować inne rozwiązania nawet jeśli są zgodne z aktualnymi trendami.
 
 ## Zaliczenie
 

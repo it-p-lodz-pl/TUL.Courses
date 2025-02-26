@@ -27,7 +27,7 @@
 
 ## Cel
 
-To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi. Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
+To wieloetapowe zadanie polega na opracowaniu programu komputerowego o architekturze wielowarstwowej i funkcjonalności pozwalającej na obserwowaniu zachowania się kul na prostokątnej płaszczyźnie ograniczonej ścianami bocznymi (kolokwialnie "stół bilardowy"). Ten etap służy również do zaimplementowania tych wymagań, które w poprzednich etapach zostały przyjęte warunkowo.
 
 Celem tego etapu jest zrozumienie i praktyczne zastosowanie:
 
@@ -68,6 +68,7 @@ W tym etapie nie ma ograniczeń co do funkcjonalności tej warstwy, a w szczegó
 
 - Implementując usługi w tej warstwie, należy dostarczyć funkcjonalność umożliwiającą przetwarzanie danych na potrzeby wybranego procesu biznesowego.
 - API warstwy `Logika` powinno zawierać operacje interaktywne (np. twórz kule) i reaktywne (okresowe wysłanie położenia kul).
+- Nazwa tej warstwy może się różnić, na przykład często nazywana jest `Logika Biznesowa`. Znane są również inne nazwy.
 
 #### Warstwa `Prezentacja` - graficzny interfejs użytkownika (GUI)
 
@@ -79,11 +80,11 @@ W tym etapie nie ma ograniczeń co do funkcjonalności tej warstwy, a w szczegó
 
 Warstwa ta musi być zaimplementowana zgodnie ze wzorcem `Model-View-ViewModel` (`MVVM`). Oznacza to, że należy w niej wydzielić następujące warstwy wewnętrzne:
 
-- `View`: zawiera zestaw kontrolek bezpośrednio zapewniający interakcję pomiędzy użytkownikiem i programem. Warstwę zaprojektować z wykorzystaniem języka XAML (`*.xaml`).
+- `View`: zawiera zestaw kontrolek bezpośrednio zapewniających interakcję pomiędzy użytkownikiem i programem. Warstwę zaprojektować z wykorzystaniem języka XAML (`*.xaml`).
 - `ViewModel`: implementuje zachowanie się interfejsu użytkownika tak, aby wyświetlać aktualne dane i realizować polecenia użytkownika w zależności od stanu GUI. Warstwa odpowiedzialna za powiązanie kontrolek z API oferowanym przez warstwę `Model`
 - `Model`: odpowiedzialna za przechowywanie danych wyłącznie na potrzeby interfejsu użytkownika (GUI) i realizację operacji na danych z wykorzystaniem funkcjonalności oferowanej przez warstwę opisaną w **Warstwa `Logika`**,
 
-Dane i kontrolki muszą być powiązane ze sobą za pomocą mechanizmu wiązania danych `DataBinding`. Oznacza to również, że nie można tworzyć kodu w warstwie widoku (tzw. code-behind) w plikach `*.xaml.cs`, poza kodem automatycznie generowanym przez środowisko projektowe. 
+Dane i kontrolki muszą być powiązane ze sobą za pomocą mechanizmu wiązania danych `DataBinding`. Oznacza to również, że nie można tworzyć kodu w warstwie widoku (tzw. code-behind) w plikach `*.xaml.cs`, poza kodem automatycznie generowanym przez środowisko projektowe.
 
 Do powiadamiania warstwy `View` o zmianach zachodzących w warstwie poniżej (programowanie reaktywne), należy wykorzystać implementację interfejsów `INotifyPropertyChanged` oraz `INotifyCollectionChanged` lub ich pochodnych.
 
@@ -95,19 +96,19 @@ Dodatkowe informacje ułatwiające wykonanie zadania:
 
 ### Wymagania zadania
 
-- przy ograniczenie ruchu kul do wnętrza przestrzeni mozna zrealizowac poprzez ograniczenie wartości współrzędnych
+- implementację ograniczenie ruchu kul tylko do wnętrza przestrzeni można zrealizowac poprzez ograniczenie wartości współrzędnych
 - przy ograniczeniu ruchu kul trzeba uwzględnić ich średnicę
 - w przypadku wykorzystania wektora, proszę pamiętać, że wektor ma długość i kierunek, więc powinien byc reprezentowany przez typ złożony
 - przy okazji warto się zastanowić jak jest różnica pomiędzy typami złożonymi i strukturalnymi i to nie tylko w kontekście tego języka programowania
-- zwracam uwagę, że w zadaniu nie ma potrzeby uzgodnienia różnych gęstości materii uzytej do budowy kul
+- zwracam uwagę, że w zadaniu nie ma potrzeby uzgodnienia różnych gęstości materii użytej do budowy kul
 - jeśli uwzględniacie różną gęstość kul, to musi to być zobrazowane w wyglądzie kul
-- w następnych etapach jest wymagane, aby ruch kul był płynny, więc trzeba ograniczyć prędkość poruszania się lub częstość odswiezania - tu warto zastanowić się czemu i jaka jest inzynierska miara płynności
+- w następnych etapach jest wymagane, aby ruch kul był płynny, więc trzeba ograniczyć prędkość poruszania się lub częstość odświeżania - tu warto zastanowić się czemu i jaka jest inzynierska miara płynności
 - tu warto pokreślić, że nie ma wymagania stosowania grafiki 3D; inaczej nie warto utrudniać sobie pracy stawianiem dodatkowych wymagań, ale nie jest to zabronione
 - przypominam wymaganie: "API warstwy `Dane` i `Logika` muszą być zrealizowane jako wyraźnie wydzielone definicje abstrakcyjne" - tu warto się zastanowić, co jest powodem takiego wymagania
 - ten etap nie wymaga programowania współbieżnego, ale warto się zastanowić jakie programowanie jest wymagane i co trzeba będzie w przyszłości zmienić, aby programowanie wspołbiezne było wykorzystane i po co ten rodzaj programowania
 - choć nie ma wymagań dotyczących odpowiedzialności warstwy `Dane` w tym etapie, lokując tu dane i funkcjonalność związana z ruchem kul ułatwimy wykonanie następnych etapów.
-- należy podkreślić, że warstwa `Model` jest odpowiedzialna za skalowanie wartości otrzymywanych z warstwy poniżej.
-- należy podkreślić, że nie należy stosować zewnetrznych metod kontroli jakości programu, a w szczególności `Mock` (external package)-tu warto zadać sobie pytanie: jaki jest powód tego zalecenia (a wręcz wymagania)
+- warstwa `Model` jest odpowiedzialna za skalowanie wartości otrzymywanych z warstwy poniżej.
+- nie należy stosować zewnetrznych metod kontroli jakości programu, a w szczególności `Mock` (external package)-tu warto zadać sobie pytanie: jaki jest powód tego zalecenia (a wręcz wymagania)
 
 ### Procedura sprawdzenia zawartości repozytorium
 
@@ -120,13 +121,13 @@ Z uwagi na konieczność pracy z wykorzystaniem lokalnej kopii, może się zdarz
 
 ### Zgłoszenie do oceny
 
-- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV]
+- `GitHub`: utworzyć release, w którym tag zostanie nadany zgodnie z [Semantic Versioning 2.0.0][SV] (użyj następującej składni 1.a.n, gdzie: 1: numer etapu (1 dla tego etapu), a: numer podejścia [1..3], n: dowolna liczba)
 - `WIKAMP`: skopiować do tekstu `Komentarz zwrotny` web URL (zielony klawisz) i tag
 - `WIKAMP`: zgłosić zadanie do oceny
 
 > nie zaleca się aby do sprawdzenia poprawności stosować inne rozwiązania nawet jeśli są zgodne z aktualnymi trendami.
 >
-> UWAGA: po zdefiniowaniu `tag` mozna i trzeba kontynuować prace nad kolejnym etapem.
+> UWAGA: po zdefiniowaniu `tag` można i trzeba kontynuować prace nad kolejnym etapem.
 
 ## Zaliczenie
 
@@ -151,6 +152,9 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 Do zrealizowania zadania można wykorzystać przykładowy kod znajdujący się w publicznym repozytorium [Programming in Practice - set of examples targeting education purposes][TP].
 
 Literatura uzupełniająca jest podana na stronie kursu.
+Aby prawidłowo utworzyć `tag` (za pośrednictwem tworzenia `Release`) w repozytorium proszę skorzystać z dokumentu specyfikacji
+
+- [Semantic Versioning 2.0.0][SV]
 
 ### Architektura warstwowa
 
