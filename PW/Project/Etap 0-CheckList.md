@@ -21,7 +21,6 @@ Tworzenie repozytorium powinno być zrealizowane z wykorzystaniem poniższej lis
   - [ ] layers are clearly stated using **programming language terms only**
   - [ ] responsibility of the `data` layer is to represent balls
   - [ ] responsibility of the `presentation` layer is to manage a graphical user interface (GUI) and expose initial ball positions
-  - [ ] reactive and interactive user interface is used for the GUI
 - [ ] **Automatic testing**
   - [ ] the main functionality of the program must be unit-tested
 ```
