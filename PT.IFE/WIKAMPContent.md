@@ -113,10 +113,16 @@ and submit the task.
 
 **Notes**:
 
-- The task completion must be **reported up to 24:00 the day before**. To report completion you must create a release in the GitHub repository and press the submit button of the appropriate task. **Each team member has to report the readiness for evaluation separately**.
-- the date for the week number is determined based on the official University timetable: [Calendar odd/even weeks for the 23/24 Summer Semester](https://ife.edu.p.lodz.pl/pluginfile.php/78638/mod_resource/content/9/Calendar%202024%20summer%20%28evenodd%20days%20pl%29.pdf)
-- **Late report decreases the max score on the week number basis. Each working group member reports separately that the task is ready for evaluation.**
-- tasks in the draft version will not be treated as effectively reported
+- Task completion must be **reported by 24:00 on the day before** the deadline. To report completion:
+  - Create a release in the corresponding GitHub repository.
+  - Press the submit button for the appropriate task.
+  - **Each team member has to report the readiness for evaluation separately**.
+
+> **Important**: Make sure your submission is not left as a draft, as draft submissions do not count as submitted. Tasks in the draft version will not be treated as effectively reported!
+
+- **Late reporting reduces the maximum score for the task, with deductions applied for each week of delay for the team as a whole. Each member of the working group must report separately that the task is ready for evaluation**
+- the date for the week number is determined based on the official University timetable
+- If the task was reported on time but you didn't manage to pass, **as a result of your fault**, the max score for the task would still be decreased accordingly (see the table above).
 
 ### Project group selection (group selection)
 
