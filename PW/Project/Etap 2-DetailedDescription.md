@@ -97,10 +97,11 @@ W celu potwierdzenia osiągnięcia celu i zrealizowania zakresu zadania, w trakc
 - proponowane rozwiązanie nie jest zgodne z listą kontrolną lub szczegółowym opisem, przykładowo
   - wartosci otrzymywane przez warstwę `Model` nie są skalowane do aktualnego rozmiaru ekranu komputera
   - kule wychodzą poza obręb ograniczenia płaszczyzny
+  - kule nie poruszają się płynnie po akranie
 
 ## Lista źródeł
 
-Do zrealizowania zadania można wykorzystać przykładowy kod znajdujący się w publicznym repozytorium [Programming in Practice - set of examples targeting education purposes][TP].
+Do zrealizowania zadania można wykorzystać przykładowy kod znajdujący się w publicznym repozytorium [Programming in Practice][TP].
 
 Literatura uzupełniająca jest podana na stronie kursu.
 

@@ -15,7 +15,7 @@ Opracowanie programu w tym etapie powinno być zrealizowane z wykorzystaniem pon
 - [ ] **Data Layer**
   - [ ] responsibility of this layer is to represent balls
   - [ ] the layer is clearly stated **using language terms only**
-  - [ ] the layer doesn't depend on external data, for example, a database, or file.
+  - [ ] the layer doesn't depend on external data, for example, a database or file.
   - [ ] the API is clearly stated
   - [ ] the API is abstract
 - [ ] **Logic Layer**
