@@ -22,4 +22,4 @@ Tworzenie repozytorium powinno być zrealizowane z wykorzystaniem poniższej lis
 
 ```
 
->UWAGA: Pliku `README.md` nie wolno modyfikować do końca semestru.
+>UWAGA: bez uzgodnienia z prowadzącym, pliku `README.md` nie wolno modyfikować do końca semestru.
