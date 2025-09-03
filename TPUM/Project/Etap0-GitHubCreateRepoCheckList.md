@@ -8,7 +8,7 @@ Tworzenie repozytorium powinno być zrealizowane z wykorzystaniem poniższej lis
 
 - [ ] **to start grading**
   - [ ] create a tag according to the [semantic versioning specification](https://semver.org/) compliant with the following syntax 0.a.n where: 0: task number (0 for this stage), a: approach number [1..3], n: any number you like.
-  - [ ] the task's completion has been submitted on the WIKAMP for grading purposes. The feedback must contain the tag identifier. (needs grading)
+  - [ ] The task's completion has been submitted to WIKAMP for grading purposes, as it requires grading. The feedback must include the URL of the repository and the personal GUID identifier, just as this was added to the README.md file.
   - [ ] the ability to clone the repository to the teacher's computer
   - [ ] there is README.md formatted as expected
   - [ ] `README.md` contains required information
@@ -19,5 +19,7 @@ Tworzenie repozytorium powinno być zrealizowane z wykorzystaniem poniższej lis
 - [ ] **program**
 - [ ] **Automatic testing**
   - [ ] the main functionality of the program must be unit-tested
+
 ```
 
+>UWAGA: Pliku `README.md` nie wolno modyfikować do końca semestru.

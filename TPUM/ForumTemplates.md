@@ -30,6 +30,8 @@
   - [Rozliczenia czas zacząć - terminy obligatoryjne](#rozliczenia-czas-zacząć---terminy-obligatoryjne)
   - [Oceny końcowe wystawione](#oceny-końcowe-wystawione)
   - [Wakacje czas zacząć](#wakacje-czas-zacząć)
+    - [Post](#post)
+    - [Komentarz](#komentarz)
   - [Koniec semestru](#koniec-semestru)
 
 ## Organizacja
@@ -250,29 +252,27 @@ Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Wys
 
 Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP. W szczególności polecam zapisać linki do zarejestrowanych zajęć projektowych i wykładowych, ponieważ zostały one zapisane poza WIKAMP i powinny być nadal bezpośrednio dostępne w przyszłości.
 
-Przypominam również o możliwości współpracy w ramach projektu open source [Object-Oriented Internet](https://github.com/mpostol/OPC-UA-OOI) - jest tam kilka tematów nadających się na prace mgr. Wszystkich zainteresowanych proszę o kontakt poprzez email lub Teams.
-
 Ponieważ na podstawie tego kursu zamierzam opublikować kurs na udemy.com, możesz zapisać się do istniejącego bezpłatnego kursu, aby śledzić moje działania wydawnicze, dołączając do społeczności pod adresem:
 
 [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
 
-Jeszcze raz dziękuję za udział w przedmiocie.
+Jeszcze raz dziękuję za udział w przedmiocie. Mam nadbiję, że wiedza i zdobyte doświadczenie przydadzą się w życiu zawodowym.
 
-Powodzenia i w zdrowotności
+Powodzenia.
 
 ### Wakacje czas zacząć
 
-Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
+#### Post
 
-Wczoraj była ostatnia szansa zaliczenia kolokwium w trybie przewidzianym regulaminem przedmiotu. W ten oto sposób weszliśmy w okres wakacyjny. W okresie wakacji jestem do Waszej dyspozycji, więc można próbować umówić się na konsultacje zdalne. Zachęcam i jeśli tylko będę dostępny poprzez Internet propozycję zaakceptuję. Używajcie asystenta planowania w kalendarzu Teams.
+Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Wystawiłem oceny na WIKAMP, więc proszę sprawdzić i ewentualnie zgłaszać reklamacje niezwłocznie za pośrednictwem e-mail, nie czekając na oficjalne terminy obligatoryjne.
 
-Przypominam również o możliwości współpracy w ramach projektu open source [Object-Oriented Internet](https://github.com/mpostol/OPC-UA-OOI) - jest tam kilka tematów nadających się na prace mgr. Wszystkich zainteresowanych proszę o kontakt poprzez email lub Teams.
+W ten oto sposób weszliśmy w okres wakacyjny. W okresie wakacji jestem do Waszej dyspozycji, więc można próbować umówić się na konsultacje zdalne. Zachęcam i jeśli tylko będę dostępny poprzez Internet propozycję zaakceptuję. Używajcie asystenta planowania w kalendarzu Teams.
 
 Ponieważ na podstawie tego kursu zamierzam opublikować kurs na udemy.com, możesz zapisać się do istniejącego bezpłatnego kursu, aby śledzić moje działania wydawnicze, dołączając do społeczności pod adresem:
 
 [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
 
-Ci, którzy potrzebują uzupełnić braki, mają możliwość skorzystania z nagranych zajęć wykładowych. Dla tych, którzy czują niedosyt, zachęcam do przeczytania moich artykułów. Poniżej lista literatury dodatkowej, którą również dopisałem na stronie przedmiotu. Na stronie WIKAMP linki do artykułów są słabo uwypuklone - trzeba najechać myszką.
+Ci, którzy potrzebują uzupełnić braki, mają możliwość skorzystania z nagranych wcześniej zajęć wykładowych. Dla tych, którzy czują niedosyt, zachęcam do przeczytania moich artykułów. Poniżej lista literatury dodatkowej, którą również dopisałem na stronie przedmiotu. Na stronie WIKAMP linki do artykułów są słabo uwypuklone - trzeba najechać myszką.
 
 - Postół M., Szymczak P. (2021) Object-Oriented Internet Cloud Interoperability. In: Paszynski M., Kranzlmüller D., Krzhizhanovskaya V.V., Dongarra J.J., Sloot P.M. (eds) Computational Science – ICCS 2021. ICCS 2021. Lecture Notes in Computer Science, vol 12745. Springer, Cham. <https://doi.org/10.1007/978-3-030-77970-2_43>
   - Available on [ResearchGate](https://www.researchgate.net/publication/352289895_Object-Oriented_Internet_Cloud_Interoperability)
@@ -287,16 +287,33 @@ Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani
 
 Życzę Wam i sobie zdrowych, pogodnych i bezpiecznych wakacji - trochę normalności w dobie nienormalności.
 
+Jeszcze raz dziękuję za udział w przedmiocie.
+
+Powodzenia!
+
+- Mariusz Postół Ph. D.
+- Institute of Information Technology
+- Technical University of Lodz
+- Email: <mariusz.postol@p.lodz.pl>
+
 [wordpress.ReactiveOOI]:https://mpostol.wordpress.com/2019/01/14/opc-ua-makes-reactive-object-oriented-internet-possible/
 [wordpress.IoTVersus]: https://mpostol.wordpress.com/2017/09/19/iot-versus-scadadcs/
 
+#### Komentarz
+
+W poscie informacja o ocenach dotyczy WIKAMP, a nie WEBDZIEKANAT, ponieważ jeszcze istnieje możliwość zmiany oceny – wiele osób ma możliwość kolejnego podejścia do testu. Do WEBDZIKANAT przepiszę oceny na żądanie (jeśli istnieje taka potrzeba) po odpowiedniej deklaracji albo po zakończeniu okresu oceniania. Proszę przysyłać żądania przepisania e-mailem z podaniem powodu i poniższą adnotacją:
+
+``` txt
+Jestem zadowolony z mojej oceny na platformie WIKAMP. Nie mam żadnych zastrzeżeń do mojej oceny i nie spodziewam się, że będę miał jakiekolwiek w przyszłości. Nie będę prosił o poprawę mojej oceny w przyszłości. Chcę, aby moja ocena została przeniesiona do systemu webdziekanat i nie będę miał żadnych zastrzeżeń.
+```
+
+Pozdrawiam,
+
 ### Koniec semestru
 
-Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Jeszcze przed wakacjami wystawiłem oceny, więc proszę sprawdzić. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
+Wydaje mi się, że to już wszystko co mogę dla Was zrobić w ramach TPUM. Jeszcze przed wakacjami wystawiłem oceny na WIKAMP, a teraz je przepisałem do WEBDZIEKANAT. Proszę o zgłaszanie reklamacji niezwłocznie, nie czekając na oficjalne terminy obligatoryjne.
 
 Ponieważ za jakiś czas zostaniecie wypisani z przedmiotu, więc zainteresowani mogą zapamiętać sobie wybrane linki z WIKAMP.
-
-Przypominam również o możliwości współpracy w ramach projektu open source [Object-Oriented Internet](https://github.com/mpostol/OPC-UA-OOI) - jest tam kilka tematów nadających się na prace mgr. Wszystkich zainteresowanych proszę o kontakt poprzez email lub Teams.
 
 Informuję, że publikuję dydaktyczne kursy na Udemy. Zapraszam do wybrania sobie interesujących kursów z mojego profilu:
 
@@ -309,5 +326,4 @@ Powodzenia!
 - Mariusz Postół Ph. D.
 - Institute of Information Technology
 - Technical University of Lodz
-- Email: mariusz.postol@p.lodz.pl
-  
+- Email: <mariusz.postol@p.lodz.pl>
