@@ -25,11 +25,13 @@
 - [Final grades](#final-grades)
   - [Seminar activity submit the task](#seminar-activity-submit-the-task)
   - [Test invitation](#test-invitation)
-  - [Possibility of retaking the test](#possibility-of-retaking-the-test)
   - [Additional opportunity to earn points for activity](#additional-opportunity-to-earn-points-for-activity)
   - [I have just published the last seminar activity](#i-have-just-published-the-last-seminar-activity)
-  - [Final grades published on WIKAMP](#final-grades-published-on-wikamp)
+  - [Final grades published on WIKAMP - test retake proposal](#final-grades-published-on-wikamp---test-retake-proposal)
+    - [Post](#post)
+    - [Comment](#comment)
   - [The end of the semester is approaching](#the-end-of-the-semester-is-approaching)
+  - [Transferring in advance grades on WEBDZIEKANAT](#transferring-in-advance-grades-on-webdziekanat)
   - [Final grades published on `WEBDZIEKANAT`](#final-grades-published-on-webdziekanat)
 
 ## Seminar invitation
@@ -95,7 +97,7 @@ It is possible to enroll in the course as an Erasmus student, but it is late enr
 1. Please join the current team on Teams: 22-Programming. Instruction is at the top of the course working space.
 1. You must accomplish the task 0 – read carefully assessment rules. Again, because of your late enrollment I can consider your proposal to change the schedule for you, but I must get your proposal ASAP.
 
-In case of problem or questions, you may have I can organize a consultancy meeting 😊 on Teams.
+In case of problem or questions, you may have I can organize a consultancy meeting on Teams.
 
 Good luck and keep me informed.
 
@@ -117,8 +119,7 @@ Serializacja jest niezbędna, aby zaimplementować rejestrację położenia kul 
 
 Miło mi również poinformować, że udało mi się utworzyć dla Was kupon umożliwiający darmowy dostępu do mojego wideo kursu opublikowanego na Udemy i zatytułowanego [Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?couponCode=18179585EE5B547DC6BF) - kliknij w ten link, aby użyć kupon. Kupon ten wygasa 03-05-2024 i ogranicza liczbę kursantów. Ten wideo kurs jest w języku angielskim i obejmuje tematy jak: Information Computation Fundamentals, Information Implementation Using Types, Algorithm Implementation Design Pattern. Proponuję nie zwlekać z zapisem - termin ukończenia nie jest limitowany o ile wiem. Na Udemy jest również dostępny mój wideo kurs [Programming in Practice - Executive Summary; Udemy, 2021](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835) - zapis nie wymaga kuponu i potrzeby ponoszenia dodatkowych opłat, natomiast trzeba mieć tam konto.
 
-Przypominam, że w przestrzeni publicznej (dostęp darmowy) jest również dostępna książka [Programming in Practice
-](https://mpostol.gitbook.io/pip), która zawiera opisy przykładów zgromadzonych w [repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP), które z pewnością pomogą zrealizować zadania projektowe.
+Przypominam, że w przestrzeni publicznej (dostęp darmowy) jest również dostępna książka [Programming in Practice](https://mpostol.gitbook.io/pip), która zawiera opisy przykładów zgromadzonych w [repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP), które z pewnością pomogą zrealizować zadania projektowe.
 
 Wszystkie wymienione materiały są dostępne za darmo dla naszych studentów z uwzględnieniem wspomnianego okresu wygaszania. Okres ten nie może być przedłużony.
 
@@ -200,33 +201,32 @@ Total= <scores>
 
 ```
 
-and submit the task
+and submit the task. Task must be submitted even you have not gartered any point.
 
 ### Test invitation
 
-Referring to my previous verbal announcement I want to confirm the test schedule:
+Referring to my previous verbal announcement, I want to confirm the test schedule:
 
-- 20.06.2023 10:30 - room 106/CTI
+- 17.06.2023 15:00 - room B19(CTI)/108 - attempt 1 (In advance, let me know by email in case any conflict occurs.)
+- Attempts allowed: 3 (Attempts 2 and 3 may be conducted remotely if needed.)
+- To attempt this quiz, you need to know the quiz password (It will be provided just before beginning the test.)
+- Time limit: 20 mins
+- Because of room limitations, it is not excluded that it could be necessary to conduct this test in a few consecutive groups.
+- According to the assessment rules, to pass the seminar, you must collect 30 points (50% of the maximum score for the seminar).
 
-It will be a WIKAMP (modle) an online test using only computers available in the lab. A Modle test refers to an online assessment or examination conducted through the Modle learning management system (LMS). The test will be conducted only in English. In any case, you have only 3 attempts for the final test.
+It will be a WIKAMP (Moodle), an online test using only the computers available in the lab. A Moodle test refers to an online assessment or examination conducted through the Moodle learning management system (LMS). The test will be conducted only in English. In any case, you have only 3 attempts for the final test.
 
 Let me recall that there is an example code. Have a look at [mpostol/tp](https://github.com/mpostol/TP)
 
-I will review the most essential topics in the next seminar lesson. Join me and give me feedback in advance - I am a willing helper to explain once more the vital issues for you if possible. To work alone,  you may also check out not published yet the course
+I will review the most important topics during the next seminar lesson. Join me and provide feedback in advance—I am happy to explain the key issues to you again, if possible.
 
-- [Programming in Practice - Information Computation (not published);2023](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt).
+Let me recall that in the references, there is a helpful book.
 
-There is also a helpful video book but only in Polish.
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online under the open access rules.
 
-- [C# language In practice. Video Course. External Data Processing](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w)
+**Possibility of retaking the test**: Remember that according to the [Assessment – grading scale](https://ife.edu.p.lodz.pl/mod/page/view.php?id=11195), you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the Teams group. Information on how to enroll in the group can be found on the WIKAMP landing page. If you are going to make the next test attempt, let me know by email and send your preferences regarding the date and time for when the test will be opened next time. I am waiting for your proposal up to the end of this month, i.e., up to **30-06-2025**. The proposal applies to students who will not resign from the possibility of improving grades and will apply to transfer their current grades to the official repository.
 
 Good luck and stay in touch.
-
-### Possibility of retaking the test
-
-Remember that according to the [Assessment – grading scale](https://ife.edu.p.lodz.pl/mod/page/view.php?id=11195), you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the _24-Programming Technologies_ Teams group. Information on how to enroll can be found on the WIkam landing page. If you are going to make the next test attempt let me know by email and send your preferences regarding the date and time for when the test will be opened next time. I am waiting for your proposal up to the end of this week, i.e. up to **06-09-2028**. My proposal is **17-09-2028 at 10:15**. It will be the last attempt this year. The proposal applies to students who have not resigned from the possibility of improving grades and asked me to transfer their current grades. A final decision will be sent on Monday 09-09-2024.
-
-Stay in touch.
 
 ### Additional opportunity to earn points for activity
 
@@ -252,25 +252,25 @@ It was the last opportunity to gather activity points during the seminar. Provid
 
 and submit the task as soon as possible but no later than Sunday, 03 July 2022.
 
-### Final grades published on WIKAMP
+### Final grades published on WIKAMP - test retake proposal
+
+#### Post
 
 Hi All,
 
 We are approaching the end of the semester, so it is time to finalize your grading process. I have just updated the grades, so I would appreciate checking your results as soon as possible.
 
-Remember that according to the [Assessment – grading scale](https://ife.edu.p.lodz.pl/mod/page/view.php?id=11195), you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the _24-Programming Technologies_ Teams group. Information on how to enroll can be found on the WIkamp landing page. The attempt is optional. Hence, if you want to make the next test attempt you must let me know by email and send your preferences regarding the date and time for when the test will be opened next time. I am waiting for your proposal up to the end of this week, i.e. up to **06-09-2028**. My proposal is **17-09-2028 at 10:15**. It will be the last attempt this academic year. The proposal applies to students who have not resigned from the possibility of improving grades and asked me to transfer their current grades. A final decision will be sent on Monday **09-09-2024**.
+Remember that according to the [Assessment – grading scale](https://ife.edu.p.lodz.pl/mod/page/view.php?id=11195), you have three test attempts, which don't depend on your current scores. The next attempts will be conducted remotely. You must be a member of the Teams group. Information on how to enroll can be found on the WIKAMP landing page. The attempt is optional. Hence, if you want to make the next test attempt, you must check your preference at [doodle](https://doodle.com/group-poll/participate/aQgzEpMd). Again, you may retake the test up to the limit of three attempts. The final grade will be the average of all attempts. Consider it in advance. Check all dates you will be available and ready to retake the test if needed. Let me know by email about all cut-off dates. The test must not have conflicts with the regular University plan. Hence, it must be conducted according to the academic year calendar (summer exam session:  25.06.2025 – 07.07.2025; or 08.09.2025 – 15.09.2025). Now let's consider the first period. Let me recall again that the final grade for the test is calculated as the average of all attempt scores, so it is possible to decrease and increase the final result.  Anyway, you are welcome to participate once more.
 
-Let me recall that the final grade for the test is calculated as the average of all attempt scores, so it is possible to decrease and increase the final result.  Anyway, you are welcome to participate once more.
+I am waiting for your proposal up to the end of this week, i.e., up to **22-06-2025**.
 
-After the test, I will generate the final report, and any modification of the grades will be almost impossible.
-
-Again, let me recall that there is the seminar example code. Have a look at
+Let me recall that there is the seminar example code. Have a look at
 
 - [https://github.com/mpostol/TP](https://github.com/mpostol/TP)
 
-To be in touch please start watching the repository.
+To be in touch, please start watching the repository.
 
-Based on this course I am going to publish a course on udemy.com you can subscribe to an existing free course to follow any of my publishing activities by joining the community at:
+Based on this course, I am going to publish a course on Udemy.com. You can subscribe to an existing free course to follow any of my publishing activities by joining the community at:
 
 [https://www.udemy.com/user/mariusz-postol](https://www.udemy.com/user/mariusz-postol/)
 
@@ -284,6 +284,12 @@ Thank you very much for your engagement and participation. I believe the effort 
 - Institute of Information Technology
 - Technical University of Lodz
 - Email: <mariusz.postol@p.lodz.pl>
+
+#### Comment
+
+Thank you for voting on Doodle. Based on the results, there is no doubt that the next session will take place on Wednesday, June 25, 2025, at 12:00 PM. Attendance is not mandatory. The test will be conducted remotely. To retake the test, please join me on Teams and log in to your WIKAMP account.
+
+You may retake the test up to the limit of three attempts. The final grade will be the average of all attempts. Consider it in advance. Let me know by email about all cut-off dates. The test must not have conflicts with the regular University plan. Hence, it must be conducted according to the academic year calendar (Summer exam session (**25.06.2025 – 07.07.2025**; or 08.09.2025 – 15.09.2025). Now let's consider the first period.
 
 ### The end of the semester is approaching
 
@@ -312,6 +318,19 @@ Thank you very much for your engagement and participation. I believe that the ef
 Contact me in case you have questions.
 
 **Good luck**:
+
+- Mariusz Postół Ph. D.
+- Institute of Information Technology
+- Technical University of Lodz
+- Email: <mariusz.postol@p.lodz.pl>
+
+### Transferring in advance grades on WEBDZIEKANAT
+
+If you need your grade to be transferred to "Webdziekanat" earlier, before the assessment period is finished, further modification of your grade will not be practical or impossible. Therefore, to trigger the transfer, I need more explanations on "why/deadline" and a declaration as follows
+
+```txt
+I am satisfied with my grade on the WIKAMP platform. I have no complaints about my grade and will not have any in the future. I will not request to improve my grade in the future. I want my grade to be transferred to the webdziekanat system, and I will not have any complaints about it.
+```
 
 - Mariusz Postół Ph. D.
 - Institute of Information Technology

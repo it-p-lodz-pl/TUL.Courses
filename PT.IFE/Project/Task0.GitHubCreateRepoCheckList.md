@@ -1,6 +1,8 @@
-# Project `Task 0` Check list
+# Task 0: Create Repository Check List
 
-The repository creation process may be managed using a set of tasks as follows.  Copy the following text to a new issue to get started.
+Creating a repository should be done using the checklist below. Copy this text to a new **issue** in the repository and use this task list to check the completeness of the task. Before submitting for grading, create another `issue` with an empty list for the instructor to use during grading. A detailed description of the task is in a separate document.
+
+>NOTE: The `README.md` file must not be modified until the end of the semester.
 
 ``` TXT
 
@@ -8,7 +10,7 @@ The repository creation process may be managed using a set of tasks as follows. 
 
 - [ ] **to start grading**
   - [ ] create a tag according to the [semantic versioning specification](https://semver.org/) compliant with the following syntax 0.a.n where: 0: task number (0 for this stage), a: approach number [1..3], n: any number you like.
-  - [ ] the task's completion has been submitted on the WIKAMP for grading purposes. The feedback must contain the tag identifier. (needs grading)
+  - [ ] The task's completion has been submitted to WIKAMP for grading purposes, as it requires grading. The feedback must include the URL of the repository and the personal GUID identifier, just as this was added to the README.md file.
   - [ ] the ability to clone the repository to the teacher's computer
   - [ ] there is README.md formatted as expected
   - [ ] `README.md` contains required information
@@ -18,7 +20,8 @@ The repository creation process may be managed using a set of tasks as follows. 
   - [ ] all UTs are green
 - [ ] **program**
  - [ ] the program has layered architecture and contains at least `logic`, and `data` layers
-- [ ] layers are clearly stated using **programming language terms only**
+ - [ ] layers are clearly stated using **programming language terms only**
 - [ ] **Automatic testing**
   - [ ] the main functionality of the program must be unit-tested
+
 ```
