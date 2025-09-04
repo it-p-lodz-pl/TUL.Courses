@@ -1,17 +1,17 @@
-# Task 0: `Create Repository Description`
+# Task 0: `Create Repository`
 
 According to the course rules, all group members have to use the personal GitHub repository to share the source code.  Each course participant must complete this task. Before submitting for evaluation you should:
 
 - create a GitHub repository together with your teammate. One repository per development team is expected
 - copy the contents of the file `Task 0: GitHub README.md template` to the file `README.md` of the repository
-- complete the file by entering your personal identification (full name or initials) data and generate GUIDs
-- the repository should contain a sample program that can be compiled
-- unit tests - that can be executed and passed - should be included in the program
+- fill up the file by entering your personal identification (full name or initials) data, and previously generated GUIDs
+- the repository must contain a sample program used as a starting point for further development. It must be possible to compile the program
+- the repository must contain unit tests that can be executed and passed - should be included in the solution
 - copy the repository URL (green button) and your GUID into the text of the `Online text` while adding the submission of the task
 
 ## NOTE: Failure to complete the task is considered a resignation from completing the course
 
-The repository creation process may be managed using a set of tasks you can find in the attached file `GitHubCreateRepoCheckList.md`.  Copy the text to a new issue to get started.
+The repository creation process may be managed using a set of tasks you can find in the `Task 0: Create repository check list`.  Copy the text to a new issue to get started.
 
 I did create a video with instructions on how to create a GitHub repository for the project - check it out in case you are not familiar with GitHub.
 

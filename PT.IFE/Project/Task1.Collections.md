@@ -2,12 +2,12 @@
 
 ## Goal
 
-- Implement selected business process, namely: library, shop, warehouse, etc. using layered application - only logic and data is required.  
-- Define the data layer using the .NET collection in an example application to:
-  - create a catalog, e.g. product catalog, list of clients
-  - register events, e.g. a list of invoices
-  - maintain the state description, e.g. library status, inventory status
-- Define the logic layer to implement all relevant operation
+- Implement selected business process, namely: library, shop, warehouse, etc., using layered application - only logic and data are required.  
+- Define the data layer using the .NET collections in an example application to:
+  - create a catalog, e.g., product catalog, list of clients
+  - register events, e.g,. a list of invoices
+  - maintain the state description, e.g., library status, inventory status
+- Define the logic layer to implement all relevant operations
 - Define API for the library (public declarations)
 - Use the unit test to prove the correctness of the proposed solution
 
@@ -15,13 +15,13 @@
 
 ### `Data` layer
 
-The data layer should be implemented in a library project. This layer must contain all the classes representing the data relevant to the selected process. The class's name should be meaningful, i.e. represent the contained data. Use references to model the data relationship.
+The data layer should be implemented in a library project. This layer must contain all the classes representing the data relevant to the selected process. The names of types should be meaningful, i.e., represent the contained data. Use references to model the data relationship (data structure).
 
 The following information should be represented:
 
-- Users: a collection of all actors relevant to the implemented business process (e.g.: readers, customers, suppliers, etc)
-- Catalog: a dictionary of the goods descriptions (e.g.: books, goods)
-- Process state: description of the current process state (e.g: the current content of the shop, library, etc.)
+- Users: a collection of all actors relevant to the implemented business process (e.g., readers, customers, suppliers, etc.)
+- Catalog: a dictionary of the goods descriptions (e.g., books, goods)
+- Process state: description of the current process state (e.g, the current content of the shop, library, etc.)
 - Events:  description of all events contributing to the process of state change in time.
 
 ### `Logic` layer
