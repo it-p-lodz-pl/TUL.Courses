@@ -21,10 +21,6 @@
   - [Streszczenie - zarejestrowane zajęcia](#streszczenie---zarejestrowane-zajęcia)
   - [Folder Aktywność - Q/A podsumowanie](#folder-aktywność---qa-podsumowanie)
   - [Aktywność zasady](#aktywność-zasady)
-- [Publikacje uzupełniające](#publikacje-uzupełniające)
-  - [Inżynieria programowania](#inżynieria-programowania)
-  - [Testowanie](#testowanie)
-  - [Narzędzia](#narzędzia)
 
 ## Programowanie współbieżne
 
@@ -126,5 +122,3 @@ Przypominam, że za aktywność na seminarium można dostać dodatkowe punkty za
 
 - Ilość poprawnych odpowiedzi zdobytych w trakcie seminarium proszę wpisywać w komentarze modułu [Seminarium aktywność](https://ftims.edu.p.lodz.pl/mod/assign/view.php?id=90932) nie później niż do następnych zajęć.
 - **Odpowiedzi udzielone na pierwszych zajęciach nie są zaliczane do aktywności.**
-
-
