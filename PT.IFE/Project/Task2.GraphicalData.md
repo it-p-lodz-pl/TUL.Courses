@@ -1,72 +1,75 @@
 
-# Task 2 – Graphical and structural Data
+# Task 2 – Graphical and Structural Data
 
-## Aims
+## Goals
 
-The goal of the task is to learn how to create applications for Windows operating system with the aid of `WPF` technology, `XAML` language and according to the `MVVM` software architectural pattern. After finishing the task student will be able to:
+There are the following goals for this task: learn how to
 
-- Create applications for Windows operating system in `WPF` technology,
-- Define the user interface with use of `XAML` language,
-- Use the `MVVM` software architecture,
-- Implement multi-layer applications.
+1. create an reactive and interactive user interface using graphical data
+2. create an application using a layered design pattern (layered architecture)
+3. implement bidirectional communication based on unidirectional dependencies between layers
+4. interact with external structured data stored in databases using Language Integrated Query (LINQ) in a programming language
+5. preselect business process data by the database management system
 
 ## Description of the task
 
-As a part of the task the student should create the computer program with multi-layer architecture designed to edit data using a graphical user interface (GUI). The task should be implemented using the data layer implemented previously in task 1.
+Students are required to develop a computer program using a multi-layer design pattern. The program should feature a Graphical User Interface (GUI), an object model interconnected with a relational database. The object model created earlier must be reused. Specifically, the following requirements must be met.
 
-The unit tests should be developed for each part of the project.
-
-The following layers should be clearly identified (they are described in detail in the `Architecture` section):
-
-- **Data layer**: access to the data repository
-- **Services**: data processing services
-- **Presentation**: graphical user interface (GUI)
+- create applications for Windows operating system in `WPF` technology
+- implement multi-layer applications containing presentation, logic, and data layers as follows
+  - **Data**: responsible for access to the external data repository
+  - **Logic**: responsible for implementation of the primary business logic algorithm
+  - **Presentation**: responsible for the implementation of the graphical user interface (GUI)
+- to implement the presentation layer, the `MVVM` design pattern must be used. The `Architecture` section provides implementation details
+- he connection between the in-process object model and the relational database must be implemented using LINQ technology
+- the unit tests should be developed for each part of the project independently
 
 ## Architecture
 
 ### Data layer
 
-- As the process data repository the SQL database should be used and the types responsible for interaction with this database should be defined using LINQ to SQL.
-- Where necessary, the functionality offered by these types should be extended.
-- This layer should also provide the public API and hide the details of the implementation, e.g. the need to create a `DataContext`
+- the business process data is preserved in an SQL database
+- the temporal business data is gathered in-process object model
+- it needs an interconnection between the database and the in-process object model using the LINQ to SQL technology
+- query syntax and method syntax must be simultaneously used to implement this interconnection
+- only this layer is directly interconnected to the database
+- consider an implementation of the in-process object mode based on the attached UML class diagram
 
-### Services layer
+### Logic layer
 
-- Classes responsible for processing of the data stored in the database must be implemented as a separate layer
-- During the implementation of services it is necessary to provide functionality that allows to create, read, update and delete the entities (in short `CRUD`) from the database
-- This layer must be implemented as a separate project
+- this layer is a set of types accountable for the implementation of an algorithm dedicated to processing business data
+- during the implementation of services (algorithm) it is necessary to provide functionality that allows to indirectly create, read, update and delete the entities (in short `CRUD`) from the database
+- it is suggested that this layer be implemented as a separate project
 
 ### Presentation layer
 
-One should create a new `Visual C # > WPF Application`, i.e. an application for Windows using `WPF` technology that allows you to view and edit data. Create the main application window and define its basic behavior, such as initialization and shutdown. Design the appropriate GUI using `XAML` language. Use the created data service to manipulate data.
+To utilize the graphical data, a `Visual C#  WPF Application` must be created, i.e., an application for Windows that is based on the Windows Presentation Foundation (WPF) technology. A key work in this statement is presentation. Create the main application window and define its basic behavior, such as initialization and shutdown. Design the appropriate GUI using `XAML` language. Use the logic layer to manipulate business process data.
 
-This layer must be implemented in accordance with the `Model-View-ViewModel` (`MVVM`) software pattern. This means that the following layers should be separated in it:
+The presentation layer must be implemented in accordance with the Model-View-ViewModel (MVVM) design pattern. MVVM is a layered design pattern, which means the presentation layer is composed of the following sub-layers
 
-- `View`: a set of controls that directly provide interaction between a user and a program designed using `XAML` (`* .xaml`).
-- `ViewModel`: classes responsible for the proper behavior of the user interface which should be designed to display current data and execute user commands depending on the state of the interface. The layer responsible for linking the controls to the API offered by the `Model` layer.
-- `Model`: classes responsible for the storage of data required by the user interface (GUI) and needed for realization of data operations with use of the functionality offered by the layer described in the previous section Service layer.
+- `View`: contains a set of controls that directly provide interaction between a user and a program, designed using the `XAML` Domain Specific Language (DSL). This sub-layer should be implemented in a dedicated project, which is the only one allowed to reference the WPF framework, because this framework is not portable; its scope of use must be limited
+- `ViewModel`: Contains types responsible for the proper behavior of the user interface, which should be designed to display current data and execute user commands based on the state of the interface. This layer must not depend directly on the `WPF` framework. It acts as a bridge between the `View` and the underlying `Model` layer
+- `Model`: types responsible for storing data required by the graphical user interface (GUI) and for performing data operations through the interface provided by the logic layer
 
-The data and controls must be bind together using the data binding mechanism. It also means that you should not create a C# code in the view layer (so called code-behind) in `*.xaml.cs` files, except for the code automatically generated by the `Visual Studio`. In order to notify the `View` layer about changes in the lower layer, the implementation of `INotifyPropertyChanged` and `INotifyCollectionChanged` interfaces or their derivatives should be used.
+The data and controls should be bound using a data binding mechanism. This also means that you should avoid writing C# code in the `View` layer (i.e., code-behind in *.xaml.cs files), except for code automatically generated by the development environment. To notify the View layer about changes in the underlying layers, use events and custom delegates.
 
-In order to handle user commands the command mechanism (implementation of the `ICommand` interface) should be used. This applies in particular to the operation of buttons, but also to menus and other interface elements. The commands should be implemented as independent classes in the `ViewModel` layer.
+To handle user commands, the command mechanism (i.e., implementation of the `ICommand` interface) should be used. This applies particularly to buttons, but also to menus and other UI elements. Commands should be implemented as independent classes within the `ViewModel` layer.
 
-The GUI should be designed in a way allowing to display a list of the main elements with the basic information. The detailed information should be presented for the selected element.
+The GUI should be designed to display a list of main elements with basic information, while showing independently detailed information for the selected element. This design pattern is known as the Master-Detail View Pattern.
 
-This means the need of implementation of the *Master-Detail* pattern. In the *Master* view, one should display data in the form of a table, without providing detailed information about the elements, which should be included only in the *Detail* view. The DataTemplate pattern elements should be used to display the data of individual elements.
+The GUI should be designed to display a list of main elements with basic information. Detailed information should be shown for the selected element. This requires implementing the Master-Detail pattern. In the Master view, data should be presented in a tabular format without detailed information, which should be reserved for the Detail view. To display individual element data, the DataTemplate pattern should be used.
 
-The interface besides displaying the data must allow for its editing at any level. For example when editing employees/' data, the program should enable adding and removing employees, as well as editing the data of a specific employee. The program must allow for the storage of new or modified data in the database. In the user interface, it should be possible to perform data storage operations with a separate button or using the menu.
+The interface should not only display business process data but also allow editing at every level. For example, when managing employee data, the application should support adding and removing employees, as well as editing individual employee details. It must also enable saving new or modified data to the database. In the user interface, data-saving operations should be accessible via a dedicated button or through the menu. In short, the interface must be both reactive and interactive.
 
 ## Guidelines for implementation
 
-The implementation of the task should take into account the recommendations defined by the programmers of Microsoft (Patterns & Practices), as well as good software development practices. More information on this subject can be found in the Supplementary materials section. In particular it should:
+Implementing the presented requirements requires the application of good software development practices. More information on this topic can be found in the "See also" section.
 
-- Keep transparency of code implementation and segregation, e.g. by using the `Models`, `Views`, and ViewModel namespaces.
-
-*Database* operations, as potentially time-consuming, should not be executed in a way that would block a GUI which could cause a lack of interaction with the user. Hence, it is recommended to use asynchronous command execution, for example by using the `Task` class (i.e. *Task-based Asynchronous Pattern* for read and write operations in the database. The following example shows how this problem can be solved.
+Database operations, as potentially time-consuming, should not be executed in a way that would block a GUI, which could cause a lack of application responsiveness. Hence, it is recommended to use asynchronous command execution, for example, by using the `Task` class (i.e., *Task-based Asynchronous Pattern* for read and write operations in the database. The following example shows how this problem can be solved.
 
 // Operation outside the user interface
 
-```C#
+``` C#
 void LongOperation() {
   // ...
 }
@@ -79,17 +82,21 @@ void Execute() {
   LongOperation();
 
   // correct
-  Task.Run(() => {
-    LongOperation();
-  });
+  Task.Run(() => {LongOperation();}
+ );
 }
 ```
 
-There exist a lot of libraries that support the use of the MVVM pattern. Considering the use of one of them, please take into account that the main goal of the task is to understand what this mechanism is used for and how it works. This rule applies regardless of the proposed solution. It is clear that when implementing the chosen solutions by yourself it is guaranteed that the answer to the above questions is much easier.
+Many libraries support the implementation of the MVVM pattern. When considering using one of them, keep in mind that the main goal of this task is to understand what the MVVM mechanism is used for and how it works. This principle applies regardless of the chosen solution. Implementing the solution yourself, rather than relying on an existing library, makes it much easier to answer relevant questions and explain this design pattern.
 
-It is often required during the implementation of GUI to show the user an additional window in order to signal an error or a situation that requires his/her decision. There are many ways to solve this problem. In this task, it is recommended to perform this type of operation in the `ViewModel` layer. Unfortunately, this makes it difficult to test this layer, because in a unit test a graphical control may appear, which is contradictory to the principle that tests must be carried out without interaction with the user. To solve this problem, simply use the dependency injection pattern and replace this functionality with another one that does not use graphical controls.
+In this task, it is not required, but while GUI implementation, it is often necessary to display an additional window (commonly referred to as a pop-up) to notify the user of an error or a situation requiring a decision. It is recommended to use the dependency injection pattern for this purpose. Importantly, only the view layer is permitted to use the WPF framework. In other words, **the ViewModel layer must not directly display any user controls**.
 
 ## See Also
+
+### Main references
+
+- [GitHub mpostol/TP](https://github.com/mpostol/TP)- C# in Practice - set of C# examples targeting education purpose
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
 
 ### Introduction
 

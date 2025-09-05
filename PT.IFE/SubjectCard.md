@@ -49,10 +49,12 @@ Instytut Informatyki
 ## 1.8. Kierownik Przedmiotu (R) (Subject Supervisor)
 
 - dr inż. Mariusz Postół
+- dr hab. inż. Dariusz Puchała
 
 ## 1.9. Realizatorzy przedmiotu (R) (ang. Course Instructors)
 
 - Mariusz Postół
+- Wiktor Wandachowicz
 
 ## 1.10. Wymagania wstępne (ang. Preliminary Requirements)
 
@@ -60,7 +62,7 @@ Instytut Informatyki
 
 - Podstawy programowania
   - podstawy składni i semantyki nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OOP, takiego jak Java, C++, a nawet Python
-  - podstawowe umiejętności związane z tworzeniem oprogramowania z wykorzystaniem nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OO
+  - podstawowe umiejętności związane z tworzeniem oprogramowania z wykorzystaniem nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OOP, 
   - Podstawy koncepcji programowania obiektowego
   - Podstawy XML
   - podstawy tworzenia architektury programu
@@ -216,8 +218,8 @@ As part of the project classes, students working in two-person teams carry out p
 | --------------------- | ------------------ | :--------------: |
 | Wykład                | Lecture            |        30        |
 | Projekt               | Project            |        30        |
-| Praca własna studenta | Student's own work |        24        |
-| Razem/Total           |                    |        84        |
+| Praca własna studenta | Student's own work |       120        |
+| Razem/Total           |                    |       180        |
 
 ## 1.18. Uwagi własne publikowane (Published comments)
 
