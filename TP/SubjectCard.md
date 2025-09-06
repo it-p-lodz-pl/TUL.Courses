@@ -32,13 +32,6 @@ Instytut Informatyki
 
 ## 1.7. Formy zajęć i liczba godzin w semestrze (R) (ang. Classes Forms & Hours Amount)
 
-### 1.7.1. EN
-
-|  Forma  | Godziny kontaktowe | Zdalne | Udział |
-| :-----: | :----------------: | :----: | :----: |
-| Project |         30         |   X    |   40   |
-| Lecture |         30         |   X    |   60   |
-
 ### 1.7.2. PL
 
 |  Forma  | Godziny kontaktowe | Kształcenie na odległość | Udział wagowy form zajęć (%) |
@@ -53,10 +46,9 @@ Instytut Informatyki
 
 ## 1.9. Realizatorzy przedmiotu (R) (ang. Course Instructors)
 
-| Imię    | Nazwisko     | Id    |
-| ------- | ------------ | ----- |
-| Mariusz | Postół       | 8791  |
-| Wiktor  | Wandachowicz | 10288 |
+| Imię    | Nazwisko | Id   |
+| ------- | -------- | ---- |
+| Mariusz | Postół   | 8791 |
 
 ## 1.10. Wymagania wstępne (ang. Preliminary Requirements)
 
@@ -218,10 +210,10 @@ As part of the project classes, students working in two-person teams carry out p
 
 | Description (PL)      | Description (EN)   | Balance of Hours |
 | --------------------- | ------------------ | :--------------: |
-| Wykład                | Lecture            |        30        |
+| Wykład                | Lecture            |        15        |
 | Projekt               | Project            |        30        |
-| Praca własna studenta | Student's own work |        60        |
-| Razem/Total           |                    |       120        |
+| Praca własna studenta | Student's own work |        45        |
+| Razem/Total           |                    |        90        |
 
 ## 1.18. Uwagi własne publikowane (Published comments)
 

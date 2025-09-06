@@ -28,6 +28,7 @@
 
 ## Lesson 6, 7: Functional programming basics
 
+1. Delegate, Event
 1. Anonymous function and lambda expression
 1. Extension method
 
@@ -54,7 +55,7 @@
 - Database
   - Server Explorer
 - Structure data
-- Object relation Model
+- Object-Relation Model
 - LINQ to SQL - introduction
 
 ## Lesson 11: Structural Data - LINQ to SQL (Part 2)
@@ -113,14 +114,14 @@
   - Database connection
 - Program architecture
   - Layered Design Pattern
-  - Inter layer communication
+  - Interlayer communication
     - delegates
     - events
     - Inversion of control
     - Dependency injection
     - Reactive programming
   - Presentation layer
-    - mvvm
-    - the View layer; xaml
+    - MVVM
+    - the View layer; XAML
 
 ## Lesson 15 Test
