@@ -28,6 +28,7 @@
 
 ## Lesson 6, 7: Functional programming basics
 
+1. Delegate, Event
 1. Anonymous function and lambda expression
 1. Extension method
 
@@ -113,14 +114,14 @@
   - Database connection
 - Program architecture
   - Layered Design Pattern
-  - Inter layer communication
+  - Interlayer communication
     - delegates
     - events
     - Inversion of control
     - Dependency injection
     - Reactive programming
   - Presentation layer
-    - mvvm
+    - MVVM
     - the View layer; xaml
 
 ## Lesson 15 Test
