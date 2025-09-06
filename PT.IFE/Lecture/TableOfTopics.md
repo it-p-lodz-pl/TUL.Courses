@@ -55,7 +55,7 @@
 - Database
   - Server Explorer
 - Structure data
-- Object relation Model
+- Object-Relation Model
 - LINQ to SQL - introduction
 
 ## Lesson 11: Structural Data - LINQ to SQL (Part 2)
@@ -122,6 +122,6 @@
     - Reactive programming
   - Presentation layer
     - MVVM
-    - the View layer; xaml
+    - the View layer; XAML
 
 ## Lesson 15 Test
