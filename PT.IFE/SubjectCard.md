@@ -41,10 +41,10 @@ Instytut Informatyki
 
 ### 1.7.2. PL
 
-|  Forma  | Godziny kontaktowe | Zdalne | Udział |
-| :-----: | :----------------: | :----: | :----: |
-| Projekt |         30         |   X    |   40   |
-| Wykład  |         30         |   X    |   60   |
+|  Forma  | Godziny kontaktowe | Kształcenie na odległość | Udział wagowy form zajęć (%) |
+| :-----: | :----------------: | :----------------------: | :--------------------------: |
+| Projekt |         30         |                          |              40              |
+| Wykład  |         30         |                          |              60              |
 
 ## 1.8. Kierownik Przedmiotu (R) (Subject Supervisor)
 
@@ -53,8 +53,10 @@ Instytut Informatyki
 
 ## 1.9. Realizatorzy przedmiotu (R) (ang. Course Instructors)
 
-- Mariusz Postół
-- Wiktor Wandachowicz
+| Imię    | Nazwisko     | Id    |
+| ------- | ------------ | ----- |
+| Mariusz | Postół       | 8791  |
+| Wiktor  | Wandachowicz | 10288 |
 
 ## 1.10. Wymagania wstępne (ang. Preliminary Requirements)
 
@@ -62,7 +64,7 @@ Instytut Informatyki
 
 - Podstawy programowania
   - podstawy składni i semantyki nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OOP, takiego jak Java, C++, a nawet Python
-  - podstawowe umiejętności związane z tworzeniem oprogramowania z wykorzystaniem nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OOP, 
+  - podstawowe umiejętności związane z tworzeniem oprogramowania z wykorzystaniem nowoczesnego, wysokopoziomowego, silnie typowanego języka programowania, gotowego na OOP,
   - Podstawy koncepcji programowania obiektowego
   - Podstawy XML
   - podstawy tworzenia architektury programu
@@ -218,8 +220,8 @@ As part of the project classes, students working in two-person teams carry out p
 | --------------------- | ------------------ | :--------------: |
 | Wykład                | Lecture            |        30        |
 | Projekt               | Project            |        30        |
-| Praca własna studenta | Student's own work |       120        |
-| Razem/Total           |                    |       180        |
+| Praca własna studenta | Student's own work |        60        |
+| Razem/Total           |                    |       120        |
 
 ## 1.18. Uwagi własne publikowane (Published comments)
 
