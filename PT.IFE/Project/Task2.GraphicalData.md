@@ -5,7 +5,7 @@
 
 There are the following goals for this task: learn how to
 
-1. create an reactive and interactive user interface using graphical data
+1. create a reactive and interactive user interface using graphical data
 2. create an application using a layered design pattern (layered architecture)
 3. implement bidirectional communication based on unidirectional dependencies between layers
 4. interact with external structured data stored in databases using Language Integrated Query (LINQ) in a programming language
@@ -16,12 +16,12 @@ There are the following goals for this task: learn how to
 Students are required to develop a computer program using a multi-layer design pattern. The program should feature a Graphical User Interface (GUI), an object model interconnected with a relational database. The object model created earlier must be reused. Specifically, the following requirements must be met.
 
 - create applications for Windows operating system in `WPF` technology
-- implement multi-layer applications containing presentation, logic, and data layers as follows
+- implement multi-layer applications containing presentation, logic, and data layers as follows:
   - **Data**: responsible for access to the external data repository
   - **Logic**: responsible for implementation of the primary business logic algorithm
   - **Presentation**: responsible for the implementation of the graphical user interface (GUI)
 - to implement the presentation layer, the `MVVM` design pattern must be used. The `Architecture` section provides implementation details
-- he connection between the in-process object model and the relational database must be implemented using LINQ technology
+- the connection between the in-process object model and the relational database must be implemented using LINQ technology
 - the unit tests should be developed for each part of the project independently
 
 ## Architecture
@@ -33,23 +33,26 @@ Students are required to develop a computer program using a multi-layer design p
 - it needs an interconnection between the database and the in-process object model using the LINQ to SQL technology
 - query syntax and method syntax must be simultaneously used to implement this interconnection
 - only this layer is directly interconnected to the database
-- consider an implementation of the in-process object mode based on the attached UML class diagram
+- consider an implementation of the in-process object model based on the attached UML class diagram
+- it is suggested that this layer be implemented as a separate project in the solution - this way, unit tests can be implemented only for this layer, separating the concerns
 
 ### Logic layer
 
-- this layer is a set of types accountable for the implementation of an algorithm dedicated to processing business data
+- this layer is a set of types responsible for the implementation of an algorithm dedicated to processing business data
 - during the implementation of services (algorithm) it is necessary to provide functionality that allows to indirectly create, read, update and delete the entities (in short `CRUD`) from the database
-- it is suggested that this layer be implemented as a separate project
+- it is suggested that this layer be implemented as a separate project in the solution - this way, unit tests can be implemented only for this layer, separating the concerns
 
 ### Presentation layer
 
 To utilize the graphical data, a `Visual C#  WPF Application` must be created, i.e., an application for Windows that is based on the Windows Presentation Foundation (WPF) technology. A key work in this statement is presentation. Create the main application window and define its basic behavior, such as initialization and shutdown. Design the appropriate GUI using `XAML` language. Use the logic layer to manipulate business process data.
 
-The presentation layer must be implemented in accordance with the Model-View-ViewModel (MVVM) design pattern. MVVM is a layered design pattern, which means the presentation layer is composed of the following sub-layers
+The presentation layer must be implemented in accordance with the Model-View-ViewModel (MVVM) design pattern. MVVM is a layered design pattern, which means the presentation layer is composed of the following sub-layers:
 
 - `View`: contains a set of controls that directly provide interaction between a user and a program, designed using the `XAML` Domain Specific Language (DSL). This sub-layer should be implemented in a dedicated project, which is the only one allowed to reference the WPF framework, because this framework is not portable; its scope of use must be limited
 - `ViewModel`: Contains types responsible for the proper behavior of the user interface, which should be designed to display current data and execute user commands based on the state of the interface. This layer must not depend directly on the `WPF` framework. It acts as a bridge between the `View` and the underlying `Model` layer
 - `Model`: types responsible for storing data required by the graphical user interface (GUI) and for performing data operations through the interface provided by the logic layer
+
+It is suggested that this layer be implemented as three separate projects, with the Model sub-layer having a dependency only on the Logic layer project. This way, unit tests can be implemented, separating the concerns.
 
 The data and controls should be bound using a data binding mechanism. This also means that you should avoid writing C# code in the `View` layer (i.e., code-behind in *.xaml.cs files), except for code automatically generated by the development environment. To notify the View layer about changes in the underlying layers, use events and custom delegates.
 
@@ -60,6 +63,7 @@ The GUI should be designed to display a list of main elements with basic informa
 The GUI should be designed to display a list of main elements with basic information. Detailed information should be shown for the selected element. This requires implementing the Master-Detail pattern. In the Master view, data should be presented in a tabular format without detailed information, which should be reserved for the Detail view. To display individual element data, the DataTemplate pattern should be used.
 
 The interface should not only display business process data but also allow editing at every level. For example, when managing employee data, the application should support adding and removing employees, as well as editing individual employee details. It must also enable saving new or modified data to the database. In the user interface, data-saving operations should be accessible via a dedicated button or through the menu. In short, the interface must be both reactive and interactive.
+
 
 ## Guidelines for implementation
 
