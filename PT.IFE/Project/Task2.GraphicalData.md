@@ -64,7 +64,6 @@ The GUI should be designed to display a list of main elements with basic informa
 
 The interface should not only display business process data but also allow editing at every level. For example, when managing employee data, the application should support adding and removing employees, as well as editing individual employee details. It must also enable saving new or modified data to the database. In the user interface, data-saving operations should be accessible via a dedicated button or through the menu. In short, the interface must be both reactive and interactive.
 
-
 ## Guidelines for implementation
 
 Implementing the presented requirements requires the application of good software development practices. More information on this topic can be found in the "See also" section.
