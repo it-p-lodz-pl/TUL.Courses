@@ -1,4 +1,3 @@
-
 # Task 2 – Graphical and Structural Data
 
 ## Goals
@@ -15,8 +14,8 @@ There are the following goals for this task: learn how to
 
 Students are required to develop a computer program using a multi-layer design pattern. The program should feature a Graphical User Interface (GUI), an object model interconnected with a relational database. The object model created earlier must be reused. Specifically, the following requirements must be met.
 
-- create applications for Windows operating system in `WPF` technology
-- implement multi-layer applications containing presentation, logic, and data layers as follows:
+- create applications for the Windows operating system in `WPF` technology
+- Implement multi-layer applications containing presentation, logic, and data layers as follows:
   - **Data**: responsible for access to the external data repository
   - **Logic**: responsible for implementation of the primary business logic algorithm
   - **Presentation**: responsible for the implementation of the graphical user interface (GUI)
@@ -39,7 +38,7 @@ Students are required to develop a computer program using a multi-layer design p
 ### Logic layer
 
 - this layer is a set of types responsible for the implementation of an algorithm dedicated to processing business data
-- during the implementation of services (algorithm) it is necessary to provide functionality that allows to indirectly create, read, update and delete the entities (in short `CRUD`) from the database
+- during the implementation of services (algorithm) it is necessary to provide functionality that allows indirectly create, read, update, and delete the entities (in short `CRUD`) from the database
 - it is suggested that this layer be implemented as a separate project in the solution - this way, unit tests can be implemented only for this layer, separating the concerns
 
 ### Presentation layer
@@ -99,7 +98,7 @@ In this task, it is not required, but while GUI implementation, it is often nece
 ### Main references
 
 - [GitHub mpostol/TP](https://github.com/mpostol/TP)- C# in Practice - set of C# examples targeting education purpose
-- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online under the open access rules.
 
 ### Introduction
 
