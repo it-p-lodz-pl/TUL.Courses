@@ -19,7 +19,7 @@
 - [References (section)](#references-section)
   - [Online](#online)
 - [How to reach me](#how-to-reach-me)
-  - [Books examples](#books-examples)
+  - [Book examples](#book-examples)
 - [Internal (section)](#internal-section)
 
 ## General (section)
@@ -168,6 +168,11 @@ This section contains:
 
 ### Online
 
+- Postół, Mariusz; [Toward Functional Programming](https://doi.org/10.22541/au.175915460.00864426/v1) Authorea. September 29, 2025; Wiley; DOI: 10.22541/au.175915460.00864426/v1; Preprint - Submitted to Software: Practice and Experience
+- Postół, Mariusz; [Information, Knowledge, Algorithm versus Data and Program](http://dx.doi.org/10.22541/au.175647887.76173269/v1); 2025; Wiley; DOI: 10.22541/au.175647887.76173269/v1; Preprint - Submitted to Software: Practice and Experience
+- Postół, Mariusz; [Monitor Concept Deployment](http://dx.doi.org/10.22541/au.175455728.80471091/v1); 2025; Wiley; DOI: 10.22541/au.175455728.80471091/v1; Preprint - Submitted to Software: Practice and Experience
+- Postół, Mariusz; [Programming in Practice - Graphical User Interface; Udemy Video Course;  2025][udemyGUI]
+- Postół Mariusz; [List of Publications Related to Programming in Practice - External Data Management](https://www.researchgate.net/publication/388581231_List_of_Publications_Related_to_Programming_in_Practice_-_External_Data_Management), February 2025, Research Gate; DOI: 10.13140/RG.2.2.15812.33922
 - Postol Mariusz; [Programming in Practice - Graphical User Interface (GUI)][GUIMasterArticle]; C# Corner; May 30, 2024
 - Postol Mariusz; [Programming in Practice - GUI - MVVM Program Design Pattern][MVVMSecondArticle]; C# Corner; Jul 03, 2024
 - Postol Mariusz; [Programming in Practice - GUI - XAML - Description of the User Interface][GUIXAML]; C# Corner; waiting for acceptance
@@ -190,7 +195,7 @@ This section contains:
 - [Postol, M. Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21), Udemy video course, 2023
 - [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
 - [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
-- [What is .NET? [1 of 8]](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
+- [What is .NET? \(1 of 8\)](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
 - [C# documentation](https://docs.microsoft.com/dotnet/csharp/)
 - [Welcome to .NET](https://docs.microsoft.com/dotnet/welcome)
 
@@ -207,6 +212,7 @@ This section contains:
 - [Postół M, profile on wordpress](http://mpostol.wordpress.com/)
 - [Postół M, profile on c-sharpcorner](https://www.c-sharpcorner.com/members/mariusz-postol)
 
+[udemyGUI]:            https://www.udemy.com/course/graphical-data/?referralCode=D5A8424AF850FC91DEED
 [CI]:                  https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-integrity/
 [confidentiality]:     https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-confidentiality/
 [ExDM]:                https://www.c-sharpcorner.com/blogs/external-data-management-exdm
@@ -216,7 +222,7 @@ This section contains:
 [MVVMSecondArticle]:   https://www.c-sharpcorner.com/article/programming-in-practice-gui-mvvm-program-design-pattern/
 [GUIXAML]:             https://www.c-sharpcorner.com/article/programming-in-practice-gui-xaml-description-of-the-user-interface/
 
-### Books examples
+### Book examples
 
 - Ch. Nagel, Professional C# 6 and .NET Core 1.0, 2016.
 - M. Michaelis, E. Lippert, Essential C# 6.0, 2015.
