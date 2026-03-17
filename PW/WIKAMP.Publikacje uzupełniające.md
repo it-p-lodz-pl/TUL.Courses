@@ -2,6 +2,7 @@
 
 ## Inżynieria programowania
 
+- Postół, Mariusz; [Programming in Practice - Streaming Data; Video Course;  2026](https://www.udemy.com/course/pip-streaming-data/?referralCode=2FA98432EDF44274DA71)
 - Postol, Mariusz; [Monitor Concept Deployment](http://dx.doi.org/10.22541/au.175455728.80471091/v1); 2025; Wiley; DOI: 10.22541/au.175455728.80471091/v1; Preprint - Submitted to Software: Practice and Experience
 - Postol Mariusz; [List of Publications Related to Programming in Practice - External Data Management](https://www.researchgate.net/publication/388581231_List_of_Publications_Related_to_Programming_in_Practice_-_External_Data_Management); 2025; DOI: 10.13140/RG.2.2.15812.33922
 - Postol Mariusz; [Programming in Practice - GUI - MVVM Program Design Pattern](https://www.c-sharpcorner.com/article/programming-in-practice-gui-mvvm-program-design-pattern/); C# Corner; Jul 03, 2024

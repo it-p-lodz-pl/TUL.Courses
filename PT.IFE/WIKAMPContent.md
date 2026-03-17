@@ -168,6 +168,7 @@ This section contains:
 
 ### Online
 
+- Postół, Mariusz; [Programming in Practice - Streaming Data; Video Course;  2026][udemyBitStreams]
 - Postół, Mariusz; [Toward Functional Programming](https://doi.org/10.22541/au.175915460.00864426/v1) Authorea. September 29, 2025; Wiley; DOI: 10.22541/au.175915460.00864426/v1; Preprint - Submitted to Software: Practice and Experience
 - Postół, Mariusz; [Information, Knowledge, Algorithm versus Data and Program](http://dx.doi.org/10.22541/au.175647887.76173269/v1); 2025; Wiley; DOI: 10.22541/au.175647887.76173269/v1; Preprint - Submitted to Software: Practice and Experience
 - Postół, Mariusz; [Monitor Concept Deployment](http://dx.doi.org/10.22541/au.175455728.80471091/v1); 2025; Wiley; DOI: 10.22541/au.175455728.80471091/v1; Preprint - Submitted to Software: Practice and Experience
@@ -189,11 +190,11 @@ This section contains:
 - Postol Mariusz; [External Data - Attributes - Profiling Data Access][Attributes]; C# Corner,  Jan 06, 2024
 - Postol Mariusz; [External Data - File and Stream Concepts][FileStream]; C# Corner, Jan 03, 2024
 - [csharp (C#) GitHub repository](https://github.com/mpostol/TP?tab=readme-ov-file#programming-in-practice-)- C# in Practice - set of C# examples targeting education purpose
-- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online upon the open access rules.
+- [Programming in Practice; GitBook eBook](https://mpostol.gitbook.io/pip/) - The content of this eBook is auto-generated using the Markdown files collected in this repository. It is distributed online under the open access rules.
 - [Programming in Practice](https://youtube.com/playlist?list=PLC7zPvgw-Ybwya54i262_RfG5tEp2FSIt); Promotional Videos, Youtube
 - [Postol, M. Programming in Practice - Executive Summary](https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835), Udemy, 2021
 - [Postol, M. Programming in Practice - Information Computation](https://www.udemy.com/course/information-computation/?referralCode=9003E3EF42419C6E6B21), Udemy video course, 2023
-- [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in polish.
+- [Język C# w praktyce. Kurs video. Przetwarzanie danych zewnętrznych](https://videopoint.pl/kurs/jezyk-c-w-praktyce-kurs-video-przetwarzanie-danych-zewnetrznych-mariusz-postol,vjcprv.htm#format/w) in Polish.
 - [C# programming guide](https://docs.microsoft.com/dotnet/csharp/programming-guide/)
 - [What is .NET? \(1 of 8\)](https://channel9.msdn.com/Series/NET-Core-101/What-is-NET)
 - [C# documentation](https://docs.microsoft.com/dotnet/csharp/)
@@ -212,6 +213,7 @@ This section contains:
 - [Postół M, profile on wordpress](http://mpostol.wordpress.com/)
 - [Postół M, profile on c-sharpcorner](https://www.c-sharpcorner.com/members/mariusz-postol)
 
+[udemyBitStreams]:     https://www.udemy.com/course/pip-streaming-data/?referralCode=2FA98432EDF44274DA71
 [udemyGUI]:            https://www.udemy.com/course/graphical-data/?referralCode=D5A8424AF850FC91DEED
 [CI]:                  https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-integrity/
 [confidentiality]:     https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-confidentiality/
