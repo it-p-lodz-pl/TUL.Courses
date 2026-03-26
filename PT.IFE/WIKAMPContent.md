@@ -121,20 +121,13 @@ and submit the task.
 > **Important**: Make sure your submission is not left as a draft, as draft submissions do not count as submitted. Tasks in the draft version will not be treated as effectively reported! The page must show “Submitted for grading” once complete.
 
 - **Late reporting reduces the maximum score for the task, with deductions applied for each week of delay for the team as a whole. Each member of the working group must report separately that the task is ready for evaluation**
-- the date for the week number is determined based on the official University timetable
+- The date for the week number is determined based on the official University timetable
 - If the task was reported on time but you didn't manage to pass, **as a result of your fault**, the max score for the task would still be decreased accordingly (see the table above).
+- The project workload should be distributed equally among the team members. The number of commits to the repository will be considered as a measure. Commit only major changes and don't change the account while working on the code.
 
 ### Project group selection (group selection)
 
 All participants must be a member of one laboratory group. Use this module to select the group you prefer. Take care that we will work in pairs and all members of the working team must be in the same group. You can change your selection provided there are free seats in the destination group. The number of members is limited.
-
-Table: List of available class groups
-
-|  Name   | Description                                   |
-| :-----: | --------------------------------------------- |
-| 2024 14 | Project class starting **Tuesday at 14:00**.  |
-| 2024 15 | Project class starting  **Tuesday at 15:45**. |
-| 2023 17 | Project class starting **Tuesday at 17:30**.  |
 
 ### Timetable (page)
 
