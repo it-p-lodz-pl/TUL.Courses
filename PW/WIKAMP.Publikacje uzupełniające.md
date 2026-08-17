@@ -2,7 +2,10 @@
 
 ## Inżynieria programowania
 
-- Postół, Mariusz; [Programming in Practice - Streaming Data; Video Course;  2026](https://www.udemy.com/course/pip-streaming-data/?referralCode=2FA98432EDF44274DA71)
+- Postół, Mariusz; [Programming in Practice - External Data Management - Toward Functional Programming; Video Course; 2026](https://www.udemy.com/course/functional-programming/?referralCode=C115CFC61EC4C66C2739)
+- Postół, Mariusz; [Functional Programming Fundamentals](https://doi.org/10.13140/RG.2.2.20882.62404) Research Gate. July 2026; DOI: 10.13140/RG.2.2.20882.62404; Preprint (Preprints may not have been peer reviewed yet.)
+- Postół, Mariusz; [Programming in Practice - External Data Management - Structural Data; Video Course;  2026](https://www.udemy.com/course/structural-data/?referralCode=62723DA72C4748A817DF)
+- Postół, Mariusz; [Programming in Practice - External Data Management - Streaming Data; Video Course;  2026](https://www.udemy.com/course/pip-streaming-data/?referralCode=2FA98432EDF44274DA71)
 - Postol, Mariusz; [Monitor Concept Deployment](http://dx.doi.org/10.22541/au.175455728.80471091/v1); 2025; Wiley; DOI: 10.22541/au.175455728.80471091/v1; Preprint - Submitted to Software: Practice and Experience
 - Postol Mariusz; [List of Publications Related to Programming in Practice - External Data Management](https://www.researchgate.net/publication/388581231_List_of_Publications_Related_to_Programming_in_Practice_-_External_Data_Management); 2025; DOI: 10.13140/RG.2.2.15812.33922
 - Postol Mariusz; [Programming in Practice - GUI - MVVM Program Design Pattern](https://www.c-sharpcorner.com/article/programming-in-practice-gui-mvvm-program-design-pattern/); C# Corner; Jul 03, 2024
@@ -27,6 +30,19 @@
 - [MPostol na ORCID](https://orcid.org/0000-0002-9669-0565)
 - [ConcurrentProgramming w repozytorium GitHub mpostol/TP](https://github.com/mpostol/TP/tree/master/ConcurrentProgramming)
 - [Semantic Versioning 2.0.0][SV]
+
+## Jak się ze mną kontaktować
+
+- [Postół M, profile on GitHub](https://github.com/mpostol)
+- [Postół M, Udemy Instructor](https://www.udemy.com/user/mariusz-postol/)
+- [Postół M, profile on LinkedIn](https://pl.linkedin.com/in/mpostol)
+- [Postół M, profile on ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
+- [Postół M, profile on youtube](https://www.youtube.com/@mariuszpostol)
+- [Postół M, profile on nuget](https://www.nuget.org/profiles/mpostol)
+- [Postół M, profile on ORCID](https://orcid.org/0000-0002-9669-0565)
+- [Postół M, profile on facebook](https://www.facebook.com/mariusz.postol/)
+- [Postół M, profile on wordpress](http://mpostol.wordpress.com/)
+- [Postół M, profile on c-sharpcorner](https://www.c-sharpcorner.com/members/mariusz-postol)
 
 ## Testowanie
 

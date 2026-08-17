@@ -326,11 +326,17 @@ Contact me in case you have questions.
 
 ### Transferring in advance grades on WEBDZIEKANAT
 
-If you need your grade to be transferred to "Webdziekanat" earlier, before the assessment period is finished, further modification of your grade will not be practical or impossible. Therefore, to trigger the transfer, I need more explanations on "why/deadline" and a declaration as follows
+Here, WEBDZIEKANAT is recognized as the official record of your final grades in accordance with University rules.
+
+If you need your grade to be transferred to "Webdziekanat" earlier, before the assessment period is finished (The academic year begins on 1 October 2025 and ends on 30 September 2026), further modification of your grade will not be possible, even if you have further attempts for the test that can have an impact on your final scores. Therefore, to trigger the transfer, I need more explanations on "why/deadline" and a declaration sent to me by email as follows, or equivalent
 
 ```txt
-I am satisfied with my grade on the WIKAMP platform. I have no complaints about my grade and will not have any in the future. I will not request to improve my grade in the future. I want my grade to be transferred to the webdziekanat system, and I will not have any complaints about it.
+I am satisfied with my grade on the WIKAMP platform. I have no complaints about my grade and will not have any in the future. I will not request to improve my grade in the future. I want my grade to be transferred to the webdziekanat system, and I have no complaints about it.
 ```
+
+I am going to transfer in advance the declared grades on Fri, 10.07.2026. Send me your declaration in advance. In case of late declaration or lack of declaration, the final grades will be transferred after the end of the examination period (15.09.2026).
+
+I am going to transfer in advance the declared grades on Fri, 7/10/2026. Send me your declaration in advance. In case of late declaration or lack of declaration, the final grades will be transferred after the end of the examination period (15.09.2026).
 
 - Mariusz Postół Ph. D.
 - Institute of Information Technology

@@ -161,7 +161,10 @@ This section contains:
 
 ### Online
 
-- Postół, Mariusz; [Programming in Practice - Streaming Data; Video Course;  2026][udemyBitStreams]
+- Postół, Mariusz; [Programming in Practice - External Data Management - Toward Functional Programming; Video Course; 2026][udemyFP]
+- Postół, Mariusz; [Functional Programming Fundamentals](https://doi.org/10.13140/RG.2.2.20882.62404) Research Gate. July 2026; DOI: 10.13140/RG.2.2.20882.62404; Preprint (Preprints may not have been peer reviewed yet.)
+- Postół, Mariusz; [Programming in Practice - External Data Management - Structural Data; Video Course;  2026][udemyStructures]
+- Postół, Mariusz; [Programming in Practice - External Data Management - Streaming Data; Video Course;  2026][udemyBitStreams]
 - Postół, Mariusz; [Toward Functional Programming](https://doi.org/10.22541/au.175915460.00864426/v1) Authorea. September 29, 2025; Wiley; DOI: 10.22541/au.175915460.00864426/v1; Preprint - Submitted to Software: Practice and Experience
 - Postół, Mariusz; [Information, Knowledge, Algorithm versus Data and Program](http://dx.doi.org/10.22541/au.175647887.76173269/v1); 2025; Wiley; DOI: 10.22541/au.175647887.76173269/v1; Preprint - Submitted to Software: Practice and Experience
 - Postół, Mariusz; [Monitor Concept Deployment](http://dx.doi.org/10.22541/au.175455728.80471091/v1); 2025; Wiley; DOI: 10.22541/au.175455728.80471091/v1; Preprint - Submitted to Software: Practice and Experience
@@ -196,7 +199,7 @@ This section contains:
 ## How to reach me
 
 - [Postół M, profile on GitHub](https://github.com/mpostol)
-- [Postół M,  Udemy Instructor](https://www.udemy.com/user/mariusz-postol/)
+- [Postół M, Udemy Instructor](https://www.udemy.com/user/mariusz-postol/)
 - [Postół M, profile on LinkedIn](https://pl.linkedin.com/in/mpostol)
 - [Postół M, profile on ResearchGate](https://www.researchgate.net/profile/Mariusz-Postol)
 - [Postół M, profile on youtube](https://www.youtube.com/@mariuszpostol)
@@ -206,6 +209,8 @@ This section contains:
 - [Postół M, profile on wordpress](http://mpostol.wordpress.com/)
 - [Postół M, profile on c-sharpcorner](https://www.c-sharpcorner.com/members/mariusz-postol)
 
+[udemyFP]:             https://www.udemy.com/course/functional-programming/?referralCode=C115CFC61EC4C66C2739
+[udemyStructures]:     https://www.udemy.com/course/structural-data/?referralCode=62723DA72C4748A817DF
 [udemyBitStreams]:     https://www.udemy.com/course/pip-streaming-data/?referralCode=2FA98432EDF44274DA71
 [udemyGUI]:            https://www.udemy.com/course/graphical-data/?referralCode=D5A8424AF850FC91DEED
 [CI]:                  https://www.c-sharpcorner.com/article/cybersecurity-of-external-streaming-data-integrity/
